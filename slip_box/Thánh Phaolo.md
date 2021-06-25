@@ -1,0 +1,7 @@
+# 066-Thanh-Phaolo
+
+Date: Dec 25, 2020 10:38 AM
+
+**Thánh Phaolo** (Phaolô thành Tarsus) còn gọi là Saolo, sứ đồ Phaolo - là một sứ đồ dân ngoại. Thời trước khi gia nhập Kito giáo, ông bách hại những người theo đạo. Nhưng nhờ biến cố gặp được Chúa trên đường đến thành Damascus, ông chấp nhận đức tin Kito giáo và tin Đức Jesus là con Thiên Chúa.
+
+Thánh Phaolo cùng các sứ đồ **Phêrô**, **Gioan**, và **Giacôbê** được xem là 4 cột trụ quan trọng cho sự phát triển giáo hội tiên khởi.

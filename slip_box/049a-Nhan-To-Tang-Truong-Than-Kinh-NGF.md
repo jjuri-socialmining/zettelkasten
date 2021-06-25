@@ -1,0 +1,5 @@
+# 049a-Nhan-To-Tang-Truong-Than-Kinh-NGF
+
+Date: Nov 08, 2020 10:02 PM
+
+Nhân tố tăng trưởng thần kinh NGF là một [[049-Nhan-To-Tang-Truong]] có tác dụng kích thích  tế bào thần kinh phát triển và phân chia.

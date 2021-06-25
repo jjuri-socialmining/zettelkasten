@@ -1,0 +1,5 @@
+# 053b3-Hagia-Sophia-thanh-nha-tho-Hoi-giao
+
+Date: Dec 24, 2020 10:52 PM
+
+Năm 1453, đế quốc Ottoman chiếm thành phố Constantinople, [[053b-Hagia-Sophia]] từ nhà thờ [[Công Giáo Roma]] thành một nhà thờ hồi giáo, sau đó được xây thêm 4 tháp theo kiến trúc của đạo Hồi.

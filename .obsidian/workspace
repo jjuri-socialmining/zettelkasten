@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "7ff886095cd5c367",
+    "type": "split",
+    "children": [
+      {
+        "id": "80db4b4792f3a8a6",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ref_box/202106250458 Lịch sử thăng trầm 4000 năm của người Do Thái (P.1).md",
+            "mode": "preview"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "cb6c8a28eafa0c52",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c131ddde08f82f76",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0461dbe18d4350f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40777a3621aed8d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "97de6c3299c39d39",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Israel",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 343
+  },
+  "right": {
+    "id": "29dc78ec2e2a2b07",
+    "type": "split",
+    "children": [
+      {
+        "id": "4047876d223f4484",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "203e34ed45a3a625",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "53b126abc9a1c348",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb4c50390e19c56c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e9e418564b9730cd",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "af837c3a5fcdc8c7",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cb6c8a28eafa0c52",
+  "lastOpenFiles": [
+    "ref_box/202106250458 Lịch sử thăng trầm 4000 năm của người Do Thái (P.1).md",
+    "slip_box/Người Hebrew.md",
+    "slip_box/Người Do Thái.md",
+    "ref_box/created Lịch sử thăng trầm 4000 năm của người Do Thái (P.1).md",
+    "ref_box/@Lịch sử thăng trầm 4000 năm của người Do Thái (P.1).md",
+    "096g-Holocaust.md.md",
+    "slip_box/096g-Holocaust.md",
+    "slip_box/098-Adolf-Hitler.md",
+    "1934.md",
+    "slip_box/098-Dang-Quoc-Xa.md"
+  ]
+}

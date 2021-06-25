@@ -1,0 +1,12 @@
+# 098b1-Swastika-Nazi
+
+Date: Jun 20, 2021 2:28 PM
+Description: Biểu tượng Swastika của Đức Quốc Xã
+
+Trong một nghiên cứu của nhà khảo cổ học Heinrich Schliemann (*1) vào thế kỷ XIX, ông đã tìm thấy [[098b-Bieu-Tuong-Swastika]] trên tàn tích thành T’roa cùng với việc phân tích các tài liệu tiếng [[097b-Sanskrit]], ông kết luận Swastika là biểu tượng đặc trưng của người Ấn-Âu, cũng chính là [[097-Nguoi-Aryan]]. 
+
+Cùng với thuyết [[097a-Chung-toc-thuong-dang]], Đức Quốc Xã đã chọn biểu tượng Swastika trên lá cờ của mình.
+
+---
+
+*1: [[ 2021 06 20 22 46 swastika_01]]
