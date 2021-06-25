@@ -4,7 +4,7 @@ Phương pháp Zettelkasten là một hệ thống quản lý tri thức (Knowle
 
 Ba phần chính của một hệ thống Zettelkasten
 
-[[002-The-Zettelkasten]] hay còn gọi là Slipbox
+[[The Zettelkasten]] hay còn gọi là Slipbox
 
 Hệ thống quản lý tri thức [[Reference Manager]] 
 

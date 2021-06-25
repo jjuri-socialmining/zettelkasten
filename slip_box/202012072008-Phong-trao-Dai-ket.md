@@ -1,5 +1,3 @@
-# 057-Phong-trao-Dai-ket
-
 Date: Dec 07, 2020 10:08 PM
 Description: Phong trào Đại kết: Nỗ lực hàn gắn, thống nhất Giáo hội Công Giáo
 

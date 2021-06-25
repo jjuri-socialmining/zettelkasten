@@ -4,25 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "80db4b4792f3a8a6",
+        "id": "2899db09517e8e4c",
         "type": "leaf",
         "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ref_box/202106250458 Lịch sử thăng trầm 4000 năm của người Do Thái (P.1).md",
-            "mode": "preview"
+            "file": "slip_box/056c-Phong-trao-Tin-Lanh.md",
+            "mode": "source"
           },
           "pinned": true
-        }
+        },
+        "group": "c2a7348b423db08c"
       },
       {
-        "id": "cb6c8a28eafa0c52",
+        "id": "f28b118d77ed75f3",
         "type": "leaf",
+        "pinned": true,
         "state": {
-          "type": "graph",
-          "state": {}
-        }
+          "type": "juggl_view",
+          "state": {},
+          "pinned": true
+        },
+        "group": "c2a7348b423db08c"
       }
     ],
     "direction": "vertical"
@@ -49,13 +53,21 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Israel",
+                "query": "file:Công Giáo Roma",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "5b88e37406c68b0c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
             }
           }
         ]
@@ -78,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "slip_box/056c-Phong-trao-Tin-Lanh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +121,7 @@
             "id": "e9e418564b9730cd",
             "type": "leaf",
             "state": {
-              "type": "juggl_nodes",
+              "type": "empty",
               "state": {}
             }
           },
@@ -116,28 +129,44 @@
             "id": "af837c3a5fcdc8c7",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "abafb834e12e365c",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7e15a09871561a0",
+            "type": "leaf",
+            "state": {
               "type": "juggl_style",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "cb6c8a28eafa0c52",
+  "active": "2899db09517e8e4c",
   "lastOpenFiles": [
-    "ref_box/202106250458 Lịch sử thăng trầm 4000 năm của người Do Thái (P.1).md",
-    "slip_box/Người Hebrew.md",
-    "slip_box/Người Do Thái.md",
-    "ref_box/created Lịch sử thăng trầm 4000 năm của người Do Thái (P.1).md",
-    "ref_box/@Lịch sử thăng trầm 4000 năm của người Do Thái (P.1).md",
-    "096g-Holocaust.md.md",
-    "slip_box/096g-Holocaust.md",
-    "slip_box/098-Adolf-Hitler.md",
-    "1934.md",
-    "slip_box/098-Dang-Quoc-Xa.md"
+    "slip_box/056c-Phong-trao-Tin-Lanh.md",
+    "slip_box/Công Giáo Roma.md",
+    "slip_box/Lịch sử Công Giáo.md",
+    "slip_box/098-Dang-Quoc-Xa.md",
+    "slip_box/067-Nguy-thu-kinh-thanh.md",
+    "slip_box/071b-Friedrich-Nietzsche.md",
+    "slip_box/071b1a-Ubermensch-1.md",
+    "slip_box/078-Thuyet-Ngo-Dao.md",
+    "slip_box/073-Dinh-nghia-su-chet.md",
+    "slip_box/071b1-Ubermensch.md"
   ]
 }

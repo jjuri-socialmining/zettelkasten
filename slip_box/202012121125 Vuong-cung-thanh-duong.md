@@ -1,5 +1,3 @@
-# 063-Vuong-cung-thanh-duong
-
 Date: Dec 12, 2020 11:25 AM
 Description: Vương cung thánh đường
 

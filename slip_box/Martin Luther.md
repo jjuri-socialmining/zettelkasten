@@ -1,5 +1,3 @@
-# 056b-Martin-Luther
-
 Date: Dec 25, 2020 10:03 AM
 
 **Martin-Luther** (10/11/1483 – 18/2/1546) là một tu sĩ dòng Augustino, nhà thần học người Đức. Ông là người khởi xướng cuộc [[Cải Cách Kháng Nghị]] 

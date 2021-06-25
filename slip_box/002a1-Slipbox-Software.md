@@ -7,4 +7,4 @@ Slipbox Software là một phần mềm lưu trữ các ghi chú kỹ thuật s�
 Ngoài ra, các phần mềm này còn có thể trực quan hóa các liên kết bằng chức năng [[004a-Backlink-Graph-View]] 
 
 Xem thêm:
-[[002a-Slipbox]]
+[[Slipbox]]

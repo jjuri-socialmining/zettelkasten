@@ -6,4 +6,4 @@ Giấc ngủ tốt cho việc học, ngay cả giấc ngủ ngắn cũng mang l�
 
 Xem thêm:
 
-[[012 te bao than kinh]]
+[[Tế bào thần kinh]]
