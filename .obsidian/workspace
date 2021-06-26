@@ -4,29 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2899db09517e8e4c",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "slip_box/056c-Phong-trao-Tin-Lanh.md",
-            "mode": "source"
+        "id": "157c3c2c783de03c",
+        "type": "split",
+        "children": [
+          {
+            "id": "97e91532787a010b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ref_box/harariSapiensBriefHistory2015.md",
+                "mode": "source"
+              }
+            },
+            "group": "d50d3017337d85b8"
           },
-          "pinned": true
-        },
-        "group": "c2a7348b423db08c"
-      },
-      {
-        "id": "f28b118d77ed75f3",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "juggl_view",
-          "state": {},
-          "pinned": true
-        },
-        "group": "c2a7348b423db08c"
+          {
+            "id": "ea034548f936fdeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ref_box/harariSapiensBriefHistory2015.md",
+                "mode": "source"
+              }
+            },
+            "group": "d50d3017337d85b8"
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -53,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:Công Giáo Roma",
+                "query": "Refer",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "slip_box/056c-Phong-trao-Tin-Lanh.md",
+                "file": "ref_box/harariSapiensBriefHistory2015.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,24 +155,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "2899db09517e8e4c",
+  "active": "97e91532787a010b",
   "lastOpenFiles": [
-    "slip_box/056c-Phong-trao-Tin-Lanh.md",
-    "slip_box/Công Giáo Roma.md",
-    "slip_box/Lịch sử Công Giáo.md",
-    "slip_box/098-Dang-Quoc-Xa.md",
-    "slip_box/067-Nguy-thu-kinh-thanh.md",
-    "slip_box/071b-Friedrich-Nietzsche.md",
-    "slip_box/071b1a-Ubermensch-1.md",
-    "slip_box/078-Thuyet-Ngo-Dao.md",
-    "slip_box/073-Dinh-nghia-su-chet.md",
-    "slip_box/071b1-Ubermensch.md"
+    "ref_box/harariSapiensBriefHistory2015.md",
+    "write_topic.md",
+    "ref_box/ncqtLichSuThang2015a.md",
+    "ref_box/@ncqtLichSuThang2015c.md",
+    "ref_box/@ncqtLichSuThang2015aLịch sử thăng Tra^m̀ 4000 năm của ngươì Do Thái (P.1).md",
+    "ref_box/ncqtLichSuThang2015aLịch sử thăng Tra^m̀ 4000 năm của ngươì Do Thái (P.1).md",
+    "write_topic/201018 Nghiên cứu phương pháp Zettelkasten.md",
+    "write_topic/20201016 Nghiên cứu các phương pháp Học hi.md",
+    "ref_box/ncqtLichSuThang2015a-Lịch sử thăng Tra^m̀ 4000 năm của ngươì Do Thái (P.1).md",
+    "ref_box/harariSapiensBriefHistory2015Sapiens_ A brief history of humankind.md"
   ]
 }

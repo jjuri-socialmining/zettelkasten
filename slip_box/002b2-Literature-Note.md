@@ -11,4 +11,4 @@ Dưới đây là một ví dụ của literature note
 
 Kahneman, Daniel, and Amos Tversky. “On the Psychology of Prediction.” Psychological Review (1973)
 
-Những ghi chú này có thể thực hiện bởi một ứng dụng | 3a Reference Manager Software. Tuy nhiên, ta cũng có thể tạo ra một thư mục có cấu trúc và lưu lại ghi chú với đầy đủ thông tin tài liệu tham khảo giống một | 3a Reference Manager Software . Xem chi tiết | 3b Front matter of book
+Những ghi chú này có thể thực hiện bởi một ứng dụng [[003a-Reference-Manager-Software]]. Tuy nhiên, ta cũng có thể tạo ra một thư mục có cấu trúc và lưu lại ghi chú với đầy đủ thông tin tài liệu tham khảo giống một | 3a Reference Manager Software . Xem chi tiết | 3b Front matter of book
