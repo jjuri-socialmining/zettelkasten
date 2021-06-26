@@ -1,4 +1,4 @@
-# 003c1 In-text citation
+# In-text citation
 
 Date: Oct 21, 2020 10:19 PM
 

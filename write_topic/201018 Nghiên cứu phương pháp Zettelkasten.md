@@ -14,7 +14,7 @@ Cách thức thực hiện
 
 Khi ý tưởng đến bất chợt, bạn tạo một ghi chú [[002b1-Fleeting-Note]] để lưu trữ lại ý tưởng.
 
-Khi bạn đang đọc một quyển sách, văn bản mà bạn có thời gian gian hoàn chỉnh nội dụng câu chữ bạn hoàn có thể tạo ra một [[002b2-Literature-Note ]]. Những [[002b1-Fleeting-Note]] cũng sẽ được bỏ đi sau khi nội dụng nó được hoàn thiện trong một [[002b3-Permanent-Note]] 
+Khi bạn đang đọc một quyển sách, văn bản mà bạn có thời gian gian hoàn chỉnh nội dụng câu chữ bạn hoàn có thể tạo ra một [[Literature-Note (P-202010212209) ]]. Những [[002b1-Fleeting-Note]] cũng sẽ được bỏ đi sau khi nội dụng nó được hoàn thiện trong một [[002b3-Permanent-Note]] 
 
 Tài liệu tham khảo:
 

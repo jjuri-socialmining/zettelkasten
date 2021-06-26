@@ -1,4 +1,4 @@
-# 003 Reference Manager
+# Reference Manager
 
 Date: Oct 21, 2020 10:16 PM
 

@@ -1,5 +1,0 @@
-# Ngô Đình Diệm
-
-Date: Dec 12, 2020 2:44 PM
-
-Ngô Đình Diệm là một chính trị gia VIệt Nam Cộng Hòa. Ông từng làm quan dưới triều vua Bảo Đại, rồi trở thành tổng thống đầu tiên của VNCH ([[De Nhat Cong Hoa]]) sau khi phế truất vua Bảo Đại.

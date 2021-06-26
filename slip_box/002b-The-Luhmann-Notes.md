@@ -3,5 +3,5 @@
 Date: Oct 22, 2020 12:06 AM
 
 [[002b1-Fleeting-Note]]
-[[002b2-Literature-Note]]
+[[Literature-Note (P-202010212209)]]
 [[002b3-Permanent-Note]]
