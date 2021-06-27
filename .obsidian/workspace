@@ -1,79 +1,98 @@
 {
   "main": {
-    "id": "7ff886095cd5c367",
+    "id": "cede0b627ebae1e2",
     "type": "split",
     "children": [
       {
-        "id": "97e91532787a010b",
+        "id": "80929465f0b4344e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ref_box/harari_sapiens_20181.md",
+            "file": "slip_box/Loài người không đơn độc (P-202106262242).md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "7cf43f943f2e257b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "+Home.md",
             "mode": "source"
           }
-        },
-        "group": "6ede8a0546db1bb1"
+        }
       },
       {
-        "id": "13d29bacea4c13bb",
+        "id": "3f8239e327b401b2",
         "type": "leaf",
         "state": {
-          "type": "localgraph",
+          "type": "markdown",
           "state": {
-            "file": "ref_box/harari_sapiens_20181.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1,
-              "close": false
-            }
+            "file": "Umami/What is a note.md",
+            "mode": "preview"
           }
-        },
-        "group": "6ede8a0546db1bb1"
+        }
       },
       {
-        "id": "7a4194bf11c05904",
+        "id": "64e74aa513cf8f38",
         "type": "leaf",
-        "pinned": true,
         "state": {
-          "type": "empty",
-          "state": {},
-          "pinned": true
+          "type": "markdown",
+          "state": {
+            "file": "Umami/Double down and keep collecting..md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "46eee19be6769e7f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Umami/Recognize there is a problem and seek solutions..md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "3659158849bc89ad",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Umami/Double down and keep collecting..md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "703763732ad20208",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Umami/The forest entrance.md",
+            "mode": "preview"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c131ddde08f82f76",
+    "id": "440b3841429709ed",
     "type": "split",
     "children": [
       {
-        "id": "f0461dbe18d4350f",
+        "id": "b208c03cadd231ee",
         "type": "tabs",
         "children": [
           {
-            "id": "40777a3621aed8d1",
+            "id": "dddbab8b18fd423a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -81,22 +100,22 @@
             }
           },
           {
-            "id": "97de6c3299c39d39",
+            "id": "77966b04a7f238ed",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "citation",
-                "matchingCase": true,
+                "query": "collector's fallacy",
+                "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "5b88e37406c68b0c",
+            "id": "50a064198c878664",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -107,92 +126,148 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343
+    "width": 353
   },
   "right": {
-    "id": "29dc78ec2e2a2b07",
+    "id": "7a43a6c530e72e44",
     "type": "split",
     "children": [
       {
-        "id": "4047876d223f4484",
+        "id": "ea89fdbc5439f479",
         "type": "tabs",
+        "dimension": 52.248803827751196,
         "children": [
           {
-            "id": "203e34ed45a3a625",
+            "id": "4f6e4ddebde66a86",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4fd5ddab0d74cf4f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "slip_box/Loài người không đơn độc (P-202106262242).md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.8278755448168775,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "90d026528dc7103b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "slip_box/Loài người không đơn độc (P-202106262242).md"
+              }
+            }
+          },
+          {
+            "id": "4d878808ad6c16f4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5f242e3107553949",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9e3239cdffda851f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d6920bc6f753c8cb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "55512af75108e012",
+        "type": "tabs",
+        "dimension": 47.751196172248804,
+        "children": [
+          {
+            "id": "d535bd36dbc98e0b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ref_box/harari_sapiens_20181.md",
-                "collapseAll": false,
+                "file": "slip_box/Loài người không đơn độc (P-202106262242).md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "53b126abc9a1c348",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "eb4c50390e19c56c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e9e418564b9730cd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "8b48b611d29ae141",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {}
-            }
-          },
-          {
-            "id": "551a15d689521a64",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 294,
     "collapsed": true
   },
-  "active": "97e91532787a010b",
+  "active": "80929465f0b4344e",
   "lastOpenFiles": [
-    "ref_box/harari_sapiens_20181.md",
-    "ref_box/ncqtLichSuThang2015a.md",
-    "ref_box/@ncqtLichSuThang2015a.md",
-    "ref_box/@Lịch sử thăng trầm 4000 năm của người Do Thái (P.2).md",
-    "ref_box/@Jun 21, 2021 11 19 PM.md",
-    "ref_box/@harariSapiensBriefHistory2015.md",
-    "ref_box/created Sapiens lược sử loài người.md",
-    "ref_box/a Sapiens lược sử loài người.md",
     "slip_box/Loài người không đơn độc (P-202106262242).md",
-    "ref_box/harari_sapiens_2018.md"
+    "ref_box/harari_sapiens_20181.md",
+    "Umami/Note-takers.md",
+    "Umami/The forest entrance.md",
+    "Umami/Double down and keep collecting..md",
+    "_Start Here.md",
+    "Umami/Recognize there is a problem and seek solutions..md",
+    "+Home.md",
+    "Sources/1940 ≡ƒöû Don't Quit (poem).md",
+    "Umami/What is a note.md"
   ]
 }

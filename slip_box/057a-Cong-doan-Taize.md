@@ -3,7 +3,7 @@
 Date: Dec 07, 2020 12:12 AM
 Description: Cộng-đoàn-Taizé
 
-**Cộng đoàn Taizé** là một tu hội đại kết tại làng Taizé, Saône-et-Loire, Burgundy, nước Pháp. Cộng đoàn này bao gồm những tu sĩ theo [[Công Giáo Roma]] và [[056c1-Tin-Lanh]] . 
+**Cộng đoàn Taizé** là một tu hội đại kết tại làng Taizé, Saône-et-Loire, Burgundy, nước Pháp. Cộng đoàn này bao gồm những tu sĩ theo [[Công Giáo Roma (P-202012251057)]] và [[Tin Lành (P-202012251013)]] . 
 
 **Cộng đoàn Taizé** được thành lập vào năm 1940 bởi thầy [[057a1-Roger-Schutz]]  - một người Tin Lành
 
