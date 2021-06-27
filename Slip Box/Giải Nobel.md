@@ -2,7 +2,7 @@
 
 Date: Jun 16, 2021 11:19 PM
 
-Giải Nobel là một tập hợp nhiều giải thưởng trên nhiều lĩnh vực được trao thường niên từ năm 1901. Tên giải thưởng được lấy theo tên người đã sáng lập giải thưởng ([[Alfred Nobel]]) cũng là người đã dành toàn bộ tài sản của mình cho quỹ.
+Giải Nobel là một tập hợp nhiều giải thưởng trên nhiều lĩnh vực được trao thường niên từ năm 1901. Tên giải thưởng được lấy theo tên người đã sáng lập giải thưởng ([[Alfred Nobel P-210616-2322]]) cũng là người đã dành toàn bộ tài sản của mình cho quỹ.
 
 Các lĩnh vực được trao giải Nobel: vật lý, hoá học, y học, văn học, kinh tế và hòa bình. Lĩnh vực khoa học kinh tế được Ngân hàng Thụy Điển thêm vào năm 1968.
 

@@ -3,7 +3,7 @@
 Date: Oct 21, 2020 10:09 PM
 Description: Ghi chú văn học
 
-**Literature note** (ghi chú văn bản) là ghi chú tóm tắt nội dung của văn bản cùng với trích dẫn và nguồn ([[Citation (P-202010212213)]] ). Bạn phải dùng chính ngôn ngữ và cách hiểu của mình để viết lại tóm tắt.
+**Literature note** (ghi chú văn bản) là ghi chú tóm tắt nội dung của văn bản cùng với trích dẫn và nguồn ([[Citation P-201021-2213]] ). Bạn phải dùng chính ngôn ngữ và cách hiểu của mình để viết lại tóm tắt.
 
 Dưới đây là một ví dụ của literature note
 

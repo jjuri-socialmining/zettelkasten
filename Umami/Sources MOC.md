@@ -8,9 +8,9 @@ One simple level of processing.
 ««— | #source | —»»
 
 Special sources
-#source/book📚
-#source/movie🎬
-#source/paper📑
+#source/book
+#source/movie
+#source/paper
 (citekey)
 
 | [[Books I've Read MOC]] | [[Books Purgatory List]] | `#book100` |

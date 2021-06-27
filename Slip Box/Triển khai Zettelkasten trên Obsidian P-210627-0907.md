@@ -1,6 +1,9 @@
-# Triển khai Zettelkasten bằng Obsidian
+# Triển khai Zettelkasten trên Obsidian P-210627-0907
 
-Created: 210627-0907
+- metadata
+	- created: June 27, 2021 09:07 PM
+	- tags:
+	- previous note: [[Slipbox Software P-201021-2201]], [[The Zettelkasten P-201021-1230]]
 
 ## Template
 ### File name

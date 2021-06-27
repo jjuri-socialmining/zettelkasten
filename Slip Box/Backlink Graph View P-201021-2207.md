@@ -1,0 +1,12 @@
+# Backlink Graph View
+
+- metadata
+	- created: Oct 21, 2020 10:07 PM
+	- tags:
+	- previous note: [[Backlink P-201021-2203]]
+
+## Notes
+
+Backlink Graph View mô phỏng các liên kết như một hệ thống các liên kết thần kinh giữa các ghi chú. Chức năng này có thể có trong định dạng dữ liệu là markdown.
+
+## Questions & thoughts:

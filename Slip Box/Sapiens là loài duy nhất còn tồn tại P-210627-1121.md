@@ -7,6 +7,6 @@
 	- previous note:
 
 ## Note
-Sapiens là loài duy nhất trong chi Homo còn tồn tại. Các loài khác trong chi này đều đã tuyệt chủng: [[Homo Neanderthal]], [[Homo habilis]], [[Homo erectus (P-210626-2224)|Homo Erectus]]. Vậy loài người cũng có những họ hàng gần giống như việc lừa có họ hàng ngựa.
+Sapiens là loài duy nhất trong chi Homo còn tồn tại. Các loài khác trong chi này đều đã tuyệt chủng: [[Homo Neanderthal P-210627-2248]], [[Homo habilis]], [[Homo erectus (P-210626-2224)|Homo Erectus]]. Vậy loài người cũng có những họ hàng gần giống như việc lừa có họ hàng ngựa.
 
 ## Questions & thoughts: 

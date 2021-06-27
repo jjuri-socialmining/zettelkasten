@@ -14,4 +14,4 @@ Bạn có thể chia các annotation và highlight thành nhiều file thông qu
 
 ---
 
-Tham khảo [[202106261020 Zotero best practices - Knowledge management]]
+Tham khảo [[Zotero best practices - Knowledge management]]

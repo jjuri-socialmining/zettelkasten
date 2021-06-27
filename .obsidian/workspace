@@ -73,7 +73,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 1,
+              "scale": 1.0000000000000013,
               "close": false
             }
           },
@@ -82,14 +82,16 @@
         "group": "3e3136d87ae5eaff"
       },
       {
-        "id": "04ec8606fc28abdf",
+        "id": "4c49d808ff050353",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slip Box/Dòng Mến Thánh Giá Huế.md",
+            "file": "Reference Box/Yuval N. Harari, Sapiens lược sử loài người.md",
             "mode": "source"
-          }
+          },
+          "pinned": true
         }
       },
       {
@@ -127,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TODO",
+                "query": "Sapiens",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -177,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Slip Box/Dòng Mến Thánh Giá Huế.md",
+                "file": "Slip Box/Loài người không đơn độc P-210626-2242.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -200,7 +202,7 @@
                   "repelStrength": 10,
                   "linkStrength": 0.641176470588235,
                   "linkDistance": 188,
-                  "scale": 0.3004255785674041,
+                  "scale": 0.15284508382819223,
                   "close": true
                 }
               }
@@ -212,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slip Box/Dòng Mến Thánh Giá Huế.md"
+                "file": "Slip Box/Loài người không đơn độc P-210626-2242.md"
               }
             }
           },
@@ -262,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slip Box/Dòng Mến Thánh Giá Huế.md",
+                "file": "Slip Box/Loài người không đơn độc P-210626-2242.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -277,20 +279,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294,
-    "collapsed": true
+    "width": 294
   },
-  "active": "04ec8606fc28abdf",
+  "active": "99274d47702b1bb8",
   "lastOpenFiles": [
-    "Slip Box/Dòng Mến Thánh Giá Huế.md",
-    "Slip Box/Dòng La San.md",
-    "Slip Box/Đa-dạng-hóa-thu-nhập.md",
-    "Slip Box/202106251113 Khoa Học Đời Sống.md",
-    "Homo Neanderthal.md",
     "Slip Box/Loài người không đơn độc P-210626-2242.md",
     "Reference Box/Yuval N. Harari, Sapiens lược sử loài người.md",
-    "Slip Box/Triển khai Zettelkasten trên Obsidian P-210627-0907.md",
-    "Slip Box/Homo Sapiens (P-210626-2211).md",
-    "Slip Box/Loài người không đơn độc (P-210626-2242).md"
+    "Daily/202106251058 note 04.md",
+    "Daily/202106251053 note 03.md",
+    "Slip Box/Homo Sapiens P-210626-2211.md",
+    "Reference Box/harariSapiensBriefHistory2015.md",
+    "Slip Box/202106251113 Khoa Học Đời Sống.md",
+    "Slip Box/202012121129-Tieu-vuong-cung-thanh-duong.md",
+    "Slip Box/Tìm hiểu lịch sử.md",
+    "Slip Box/Cách nhập trích dẫn, tệp pdf vào Zotero P-210626-1022.md"
   ]
 }

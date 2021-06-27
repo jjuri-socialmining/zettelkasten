@@ -1,6 +1,6 @@
 source: https://martinezponciano.es/2021/04/05/from-references-to-fleeting-notes-zotero-and-zotero-plug-ins/
 
-Các nhập trích dẫn, tệp pdf vào [[202010212217 Zotero]]
+Các nhập trích dẫn, tệp pdf vào [[Zotero P-201021-2217]]
 -   Nếu từ sách giấy thì có thế scan barcode để import vào zotero
 -   Nếu lướt web thì có thể dùng Zotero Connector plug-in
 -   Nếu PDF có metadata thì chỉ cần kéo thả hoặc add attached file vào Zotero app
