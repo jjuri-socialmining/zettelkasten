@@ -1,1 +1,0 @@
-[[202010212217 Zotero]] được nhắc nhiều trong việc quản lý tài liệu tham trong phương pháp [[The Zettelkasten]]  của [[001-Niklas-Luhmann]]. Zotero được chính trang https://takesmartnotes.com/ khuyên dùng cho phương pháp này.

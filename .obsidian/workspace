@@ -4,80 +4,102 @@
     "type": "split",
     "children": [
       {
-        "id": "80929465f0b4344e",
+        "id": "3c4539f23e40faa0",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "slip_box/Loài người không đơn độc (P-202106262242).md",
-            "mode": "preview"
-          }
+            "file": "Slip Box/Homo Sapiens P-210626-2211.md",
+            "mode": "source"
+          },
+          "pinned": true
         }
       },
       {
-        "id": "7cf43f943f2e257b",
+        "id": "7992853c73f28241",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Slip Box/Triển khai Zettelkasten trên Obsidian P-210627-0907.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "d5a26334b3921a1a",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Slip Box/Loài người không đơn độc P-210626-2242.md",
+            "mode": "preview"
+          },
+          "pinned": true
+        },
+        "group": "3e3136d87ae5eaff"
+      },
+      {
+        "id": "99274d47702b1bb8",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Slip Box/Loài người không đơn độc P-210626-2242.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          },
+          "pinned": true
+        },
+        "group": "3e3136d87ae5eaff"
+      },
+      {
+        "id": "04ec8606fc28abdf",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
+            "file": "Slip Box/Dòng Mến Thánh Giá Huế.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "3f8239e327b401b2",
+        "id": "dea838837ce42134",
         "type": "leaf",
+        "pinned": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Umami/What is a note.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "64e74aa513cf8f38",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Umami/Double down and keep collecting..md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "46eee19be6769e7f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Umami/Recognize there is a problem and seek solutions..md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "3659158849bc89ad",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Umami/Double down and keep collecting..md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "703763732ad20208",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Umami/The forest entrance.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {},
+          "pinned": true
         }
       }
     ],
@@ -105,7 +127,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "collector's fallacy",
+                "query": "tag:#TODO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -122,7 +144,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,31 +177,31 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "slip_box/Loài người không đơn độc (P-202106262242).md",
+                "file": "Slip Box/Dòng Mến Thánh Giá Huế.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 3,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
                   "showTags": false,
-                  "showAttachments": true,
+                  "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [],
-                  "collapse-display": true,
+                  "collapse-display": false,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
+                  "collapse-forces": false,
+                  "centerStrength": 0.417647058823529,
                   "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.8278755448168775,
-                  "close": false
+                  "linkStrength": 0.641176470588235,
+                  "linkDistance": 188,
+                  "scale": 0.3004255785674041,
+                  "close": true
                 }
               }
             }
@@ -189,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "slip_box/Loài người không đơn độc (P-202106262242).md"
+                "file": "Slip Box/Dòng Mến Thánh Giá Huế.md"
               }
             }
           },
@@ -239,14 +262,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "slip_box/Loài người không đơn độc (P-202106262242).md",
+                "file": "Slip Box/Dòng Mến Thánh Giá Huế.md",
                 "collapseAll": true,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -257,17 +280,17 @@
     "width": 294,
     "collapsed": true
   },
-  "active": "80929465f0b4344e",
+  "active": "04ec8606fc28abdf",
   "lastOpenFiles": [
-    "slip_box/Loài người không đơn độc (P-202106262242).md",
-    "ref_box/harari_sapiens_20181.md",
-    "Umami/Note-takers.md",
-    "Umami/The forest entrance.md",
-    "Umami/Double down and keep collecting..md",
-    "_Start Here.md",
-    "Umami/Recognize there is a problem and seek solutions..md",
-    "+Home.md",
-    "Sources/1940 ≡ƒöû Don't Quit (poem).md",
-    "Umami/What is a note.md"
+    "Slip Box/Dòng Mến Thánh Giá Huế.md",
+    "Slip Box/Dòng La San.md",
+    "Slip Box/Đa-dạng-hóa-thu-nhập.md",
+    "Slip Box/202106251113 Khoa Học Đời Sống.md",
+    "Homo Neanderthal.md",
+    "Slip Box/Loài người không đơn độc P-210626-2242.md",
+    "Reference Box/Yuval N. Harari, Sapiens lược sử loài người.md",
+    "Slip Box/Triển khai Zettelkasten trên Obsidian P-210627-0907.md",
+    "Slip Box/Homo Sapiens (P-210626-2211).md",
+    "Slip Box/Loài người không đơn độc (P-210626-2242).md"
   ]
 }
