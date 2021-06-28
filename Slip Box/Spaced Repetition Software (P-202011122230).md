@@ -2,7 +2,7 @@
 
 Date: Nov 13, 2020 10:30 PM
 
-Spaced-Repetition-Software là ứng dụng, phầm mềm tích hợp phương pháp lặp lại cách quãng ([[Spaced Repetition (P-202011210022)]] ). 
+Spaced-Repetition-Software là ứng dụng, phầm mềm tích hợp phương pháp lặp lại cách quãng ([[Spaced Repetition P-201121-0022]] ). 
 
 Những phần mềm áp dụng kỹ thuật học lặp lại ngắt quãng bao gồm 
 

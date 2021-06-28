@@ -1,4 +1,4 @@
-# 082b5-King, Warrior, Magician, Lover
+# King, Warrior, Magician, Lover
 
 Date: Jan 17, 2021 10:07 PM
 

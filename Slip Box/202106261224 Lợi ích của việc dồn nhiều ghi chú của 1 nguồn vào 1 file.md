@@ -1,1 +1,0 @@
-Việc xuất các literature note của cùng 1 nguồn ra nhiều file để dùng trích dẫn đích danh trong Obsidian có thể làm "ô nhiễm" hệ thống note và graph view.

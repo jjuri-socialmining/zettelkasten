@@ -60,7 +60,7 @@ Practice "radical idea emergence". Don't save that much. With the stuff you do s
 **Prompts**: *Why am I reading it? If it's mostly for enjoyment, maybe I shouldn't process it (other than to mark something here or there). How much time do I want to spend on this book? Do I want to skim it or devour it?*
 
 Assuming it's a book I've identified as high-value—and it's a book I actually want to process (instead of just enjoy), then do the following:
-- Create a new note using [[Template for Book 📚]].
+- Create a new note using [[Template for Book]].
 - From the web, copy and paste the table of contents. It's a pre-made, pre-vetted map. Use it as a lattice for quotes and notes.
 
 

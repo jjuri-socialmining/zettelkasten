@@ -1,4 +1,4 @@
-# 046a-FOMO
+# Hội chứng FOMO
 
 Date: Nov 21, 2020 9:43 PM
 Description: Hội chứng FOMO Fear Of Missing Out

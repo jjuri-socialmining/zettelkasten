@@ -4,10 +4,9 @@
 # Birthdays Example
 
 ## January
-0103 [[FirstName LastName]]
-0106 [[FirstName LastName]]
+
 _0120 Aquarius_
-0121 [[FirstName LastName]]
+
 ## February
 
 _0219 Pisces_
@@ -26,11 +25,11 @@ _0521 Gemini_
 
 _0621 Cancer_
 ## July
-
+0707 [[Trần Thị Ngọc Diệp|chị Diệp]]
 _0723 Leo_
 
 ## August
-
+0804 [[Trần Anh Dũng|Me]]
 _0823 Virgo_
 
 ## September

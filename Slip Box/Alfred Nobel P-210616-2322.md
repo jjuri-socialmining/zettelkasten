@@ -6,7 +6,7 @@
 	- previous note:
 
 ## Notes
-Alfred Bernhard Nobel là một nhà hoá học và là một triệu phú người Thụy Điển. Ông dùng toàn bộ tài sản của mình để sáng lập [[Giải Nobel]].
+Alfred Bernhard Nobel là một nhà hoá học và là một triệu phú người Thụy Điển. Ông dùng toàn bộ tài sản của mình để sáng lập [[Giải Nobel P-210616-2319]].
 
 Gia sản của ông phần lớn nhờ công việc nghiên cứu và sản xuất thuốc nổ. Ông có nhiều bằng sáng chế thuốc nổ Nitroglycerin, Dynamite,...
 

@@ -1,0 +1,1 @@
+Việc xuất các [[Literature Note P-201021-2209]] của cùng 1 nguồn ra nhiều file để dùng trích dẫn đích danh trong [[Obsidian P-210628-2327]] có thể làm "ô nhiễm" hệ thống note và graph view.
