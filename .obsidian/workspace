@@ -17,6 +17,17 @@
         }
       },
       {
+        "id": "2b3511502f0ac57a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Bins/zArchive/Folgezettel Example/100b.1 And Long-term Rigidity.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "7992853c73f28241",
         "type": "leaf",
         "pinned": true,
@@ -73,7 +84,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 1.0000000000000013,
+              "scale": 0.7132754626224432,
               "close": false
             }
           },
@@ -129,7 +140,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Sapiens",
+                "query": "#source/article",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -146,8 +157,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Slip Box/Loài người không đơn độc P-210626-2242.md",
+                "file": "Bins/zArchive/Folgezettel Example/100b.1 And Long-term Rigidity.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -214,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slip Box/Loài người không đơn độc P-210626-2242.md"
+                "file": "Bins/zArchive/Folgezettel Example/100b.1 And Long-term Rigidity.md"
               }
             }
           },
@@ -264,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slip Box/Loài người không đơn độc P-210626-2242.md",
+                "file": "Bins/zArchive/Folgezettel Example/100b.1 And Long-term Rigidity.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -279,19 +289,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294
+    "width": 294,
+    "collapsed": true
   },
-  "active": "99274d47702b1bb8",
+  "active": "2b3511502f0ac57a",
   "lastOpenFiles": [
-    "Slip Box/Loài người không đơn độc P-210626-2242.md",
-    "Reference Box/Yuval N. Harari, Sapiens lược sử loài người.md",
-    "Daily/202106251058 note 04.md",
-    "Daily/202106251053 note 03.md",
+    "Bins/zArchive/Folgezettel Example/100b.1 And Long-term Rigidity.md",
+    "Bins/zArchive/Folgezettel Example/100a.2 Adds Upfront Friction.md",
+    "Bins/zArchive/Folgezettel Example/100a.1b Adds certain things....md",
+    "Bins/zArchive/Folgezettel Example/100a.1a But Also How It.md",
+    "Bins/zArchive/Folgezettel Example/100a.1 Showing How Folgezettel Works.md",
+    "Bins/People/Ptolemy.md",
+    "Bins/People/Douglas R. Hofstadter.md",
+    "Bins/Images/Flow/Flow Map.png",
     "Slip Box/Homo Sapiens P-210626-2211.md",
-    "Reference Box/harariSapiensBriefHistory2015.md",
-    "Slip Box/202106251113 Khoa Học Đời Sống.md",
-    "Slip Box/202012121129-Tieu-vuong-cung-thanh-duong.md",
-    "Slip Box/Tìm hiểu lịch sử.md",
-    "Slip Box/Cách nhập trích dẫn, tệp pdf vào Zotero P-210626-1022.md"
+    "write_topic.md"
   ]
 }

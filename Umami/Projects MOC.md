@@ -1,6 +1,6 @@
 [[+Home]]
 tags: #MOC #project 
-related: [[Ideas MOC]], [[Template for Project ✂️]]
+related: [[created title]], [[Template for Project ✂️]]
 
 # Projects MOC
 There are excellent ways to manage projects and tasks with linked frameworks. However, the LYT opinion is that most projects need *less* maintenance work, not more. Don't micro-manage yourself. Keep it spartan. Give yourself a broad direction and let your own ingenuity surprise you.

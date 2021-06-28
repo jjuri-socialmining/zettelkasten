@@ -1,5 +1,5 @@
 - metadata:
-	- tags: #source/article🗞 
+	- tags: #source/article
 	- dates: 2020-06-13
 	- people: [[Bob Bain]]
 

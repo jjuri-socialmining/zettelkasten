@@ -1,6 +1,6 @@
 [[MOCs Overview]]
 - metadata:
-	- tags: #source/article🗞 
+	- tags: #source/article
 	- dates: 2020-06-25
 	- people: [[Kyle Pace]]
 	- url: [article](https://forum.obsidian.md/t/a-case-for-mocs/2418)

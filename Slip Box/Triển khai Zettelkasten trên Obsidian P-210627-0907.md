@@ -3,7 +3,7 @@
 - metadata
 	- created: June 27, 2021 09:07 PM
 	- tags:
-	- previous note: [[Slipbox Software P-201021-2201]], [[The Zettelkasten P-201021-1230]]
+	- previous note: [[Slipbox Software P-201021-2201]], [[Zettelkasten P-201021-1230]]
 
 ## Template
 ### File name
@@ -40,3 +40,5 @@ L: Literature Note
 `![[name_of_file#header]]`
 ### Block Quote `![[^]]`
 `![[name_of_file^block_quote]]`
+### Ref log inside file
+`[^]`
