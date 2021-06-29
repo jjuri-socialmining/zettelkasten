@@ -1,4 +1,4 @@
-# Chủ Nghĩa Hiện Sinh P-20201225-2215
+# Chủ Nghĩa Hiện Sinh
 
 - metadata
 	- created: Dec 25, 2020 10:15 PM

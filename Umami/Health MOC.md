@@ -20,7 +20,6 @@ This is for areas of physical health, wellness, training, and exercise.
 
 ### Physical Training
 - [[Physical Training MOC]] - Anything exercise-related, but no workouts 
-	- [[Exercises MOC]], [[201903282254]]
 - [[Workouts MOC]] - Details kinds of workouts (not specific ones)
 - [[Injury Tracker MOC]] - Tracking injuries and ailments over time
 - Body Quirks Tracker

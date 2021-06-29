@@ -1,8 +1,8 @@
 %% - metadata:
 	- tags: #MOC %%
 # Philosophy MOC
-- [[Ancient Greece MOC]]
 - [[Collective Intelligence MOC]]
+- [[Existentialism MOC]]
 
 ### Top Philosophers
 - [[Jean Paul Sartre P-2011072314|Jean Paul Sartre]]

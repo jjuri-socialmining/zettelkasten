@@ -1,4 +1,6 @@
 # Lịch sử Công Giáo MOC
+%% - metadata:
+	- tags: #MOC %%
 
 - [[Công Giáo Roma (P-201225-1057)]]
 - [[Thập Tự Chinh P-201202-0015]]

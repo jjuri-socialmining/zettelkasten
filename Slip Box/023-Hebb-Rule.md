@@ -8,4 +8,4 @@ Lưu ý, các tín hiệu điện truyền đi không theo dòng chảy mà là 
 
 Xem thêm
 
-[[Tế bào thần kinh]]
+[[Tế bào thần kinh P-201123-0928]]

@@ -1,10 +1,13 @@
 # History MOC
-Tìm hiểu lịch sử các thứ :))
+%% 
+###### Metadata
+tags: #MOC 
+%% 
 
 ## Notes
 - [[Lịch Sử Việt Nam]]
 - [[Lịch sử Công Giáo MOC]]
-- [[Lịch Sử Người Do Thái]]
+- [[Lịch Sử Do Thái MOC]]
 
 ## Questions & thoughts:
 

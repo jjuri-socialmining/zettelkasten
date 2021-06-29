@@ -13,7 +13,7 @@ The [[Mindsets MOC]] can galvanize my attention; the [[Concepts MOC]] can flavor
 
 ### Philosophy 🤔 & Psychology 🧠; Spirituality 🙏 & Religion ㊪
 [[Philosophy MOC]] | [[Stoicism MOC]] | [[Confucianism MOC]] |
-[[Religion MOC]] |
+[[Religion MOC]] | [[Psychology MOC]]
 
 ### Social Sciences 👥
 Politics | Society | Law | Relationships | 

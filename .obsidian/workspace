@@ -4,14 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "f7d15a098135639e",
+        "id": "613f41d3812b613b",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slip Box/Index Note không thực sự hữu ích khi sử sụng phần mềm P-210628-2337.md",
+            "file": "Umami/Habits MOC.md",
+            "mode": "preview"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "bbeff89032cc46a3",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "4c2c981bf2be2f9f",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Umami/FlowCreation MOC.md",
             "mode": "source"
-          }
+          },
+          "pinned": true
         }
       }
     ],
@@ -39,8 +62,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Obsidian",
-                "matchingCase": false,
+                "query": "hormon",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": true,
@@ -60,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455
+    "width": 344
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -88,30 +111,29 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Slip Box/Index Note không thực sự hữu ích khi sử sụng phần mềm P-210628-2337.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
-                  "localJumps": 3,
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
                   "showTags": false,
-                  "showAttachments": false,
+                  "showAttachments": true,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
+                  "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": false,
+                  "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.417647058823529,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
-                  "linkStrength": 0.641176470588235,
-                  "linkDistance": 188,
-                  "scale": 0.21428619353628015,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.4211915232059912,
                   "close": true
                 }
               }
@@ -122,32 +144,6 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Slip Box/Index Note không thực sự hữu ích khi sử sụng phần mềm P-210628-2337.md"
-              }
-            }
-          },
-          {
-            "id": "4d878808ad6c16f4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "5f242e3107553949",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9e3239cdffda851f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
               "state": {}
             }
           },
@@ -173,9 +169,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slip Box/Index Note không thực sự hữu ích khi sử sụng phần mềm P-210628-2337.md",
                 "collapseAll": true,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -188,20 +183,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294,
-    "collapsed": true
+    "width": 294
   },
-  "active": "f7d15a098135639e",
+  "active": "bbeff89032cc46a3",
   "lastOpenFiles": [
-    "Index Note không thực sự hữu ích khi sử sụng phần mềm P-210628-2337.md",
-    "Umami/created title.md",
-    "library/Zotero best practices - Knowledge management.md",
-    "Untitled.md",
-    "Bins/zArchive/Folgezettel Example/100a.1 Showing How Folgezettel Works.md",
-    "Bins/zArchive/Folgezettel Example/100a.1a But Also How It.md",
-    "Bins/zArchive/Folgezettel Example/100a.1b Adds certain things....md",
-    "Bins/zArchive/Folgezettel Example/100a.2 Adds Upfront Friction.md",
-    "Bins/zArchive/Folgezettel Example/100b.1 And Long-term Rigidity.md",
-    "Bins/Private/Financial/Finances MOC.md"
+    "Slip Box/Chủ Nghĩa Hiện Sinh P-201225-2215.md",
+    "Slip Box/077-Lac-thuyet-Montanus.md",
+    "Slip Box/078-Thuyet-Ngo-Dao.md",
+    "Slip Box/079-Marcus-Aurelius.md",
+    "Slip Box/080-Thanh-Justino.md",
+    "Slip Box/080a-Thanh-Justin-Tu-dao.md",
+    "Slip Box/081-Blaise-Pascal.md",
+    "Slip Box/hormon_oxytocin.md",
+    "Slip Box/Endorphin.md",
+    "Slip Box/Dopamine.md"
   ]
 }

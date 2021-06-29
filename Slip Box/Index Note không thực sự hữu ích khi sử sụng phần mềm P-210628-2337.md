@@ -6,7 +6,7 @@
 	- previous note:
 
 ## Notes
-Trong ví dụ về việc sử dụng số Index cho mỗi ghi chú [[Index Note]], tác giả của LYT Kit nhận định rằng số index này khá cứng nhắc, và bạn phải cân nhắc việc đánh số này, có thể sẽ có lần bạn chọn số hợp lý, nhưng phần lớn sẽ là không. Vì thế, việc sử dụng LYT Framework, hay MOC sẽ tối ưu Zettelkasten thay vì dùng Index Note.
+Trong ví dụ về việc sử dụng số Index cho mỗi ghi chú [[Index Note P-210629-2135]], tác giả của LYT Kit nhận định rằng số index này khá cứng nhắc, và bạn phải cân nhắc việc đánh số này, có thể sẽ có lần bạn chọn số hợp lý, nhưng phần lớn sẽ là không. Vì thế, việc sử dụng LYT Framework, hay MOC sẽ tối ưu Zettelkasten thay vì dùng Index Note.
 
 ## Questions & thoughts:
 
