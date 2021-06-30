@@ -1,4 +1,4 @@
-[[MOC MOC]]
+[[MOC]]
 %% - metadata:
 	- tags: #MOC #on/PKM %%
 # Evergreen notes

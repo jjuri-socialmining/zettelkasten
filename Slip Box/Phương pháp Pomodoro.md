@@ -1,4 +1,4 @@
-# 011-Pomodoro
+# Phương pháp Pomodoro
 
 Date: Oct 22, 2020 12:06 AM
 Description: Phương pháp đồng hồ Pomodoro

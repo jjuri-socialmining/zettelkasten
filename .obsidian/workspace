@@ -4,37 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "613f41d3812b613b",
+        "id": "8033fe780dfb8797",
         "type": "leaf",
         "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Umami/Habits MOC.md",
+            "file": "Slip Box/Nietzche là một triết gia hiện sinh P-210630-2141.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "784a5f2ad5d70fad",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Slip Box/Sartre phổ biến chủ nghĩa hiện sinh P-210630-2214.md",
             "mode": "preview"
           },
           "pinned": true
         }
       },
       {
-        "id": "bbeff89032cc46a3",
+        "id": "fcc8baf700e8fd9d",
         "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
-        "id": "4c2c981bf2be2f9f",
-        "type": "leaf",
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Umami/FlowCreation MOC.md",
+            "file": "Slip Box/Principle-to-be-in-the-world-but-not-of-it.md",
             "mode": "source"
-          },
-          "pinned": true
+          }
         }
       }
     ],
@@ -62,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hormon",
+                "query": "2021 06 21 21 33",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -83,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344
+    "width": 292
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -111,6 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Slip Box/Principle-to-be-in-the-world-but-not-of-it.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -144,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Slip Box/Principle-to-be-in-the-world-but-not-of-it.md"
+              }
             }
           },
           {
@@ -155,8 +161,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "55512af75108e012",
@@ -169,6 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Slip Box/Principle-to-be-in-the-world-but-not-of-it.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,17 +191,17 @@
     "direction": "horizontal",
     "width": 294
   },
-  "active": "bbeff89032cc46a3",
+  "active": "fcc8baf700e8fd9d",
   "lastOpenFiles": [
-    "Slip Box/Chủ Nghĩa Hiện Sinh P-201225-2215.md",
-    "Slip Box/077-Lac-thuyet-Montanus.md",
-    "Slip Box/078-Thuyet-Ngo-Dao.md",
-    "Slip Box/079-Marcus-Aurelius.md",
-    "Slip Box/080-Thanh-Justino.md",
-    "Slip Box/080a-Thanh-Justin-Tu-dao.md",
-    "Slip Box/081-Blaise-Pascal.md",
-    "Slip Box/hormon_oxytocin.md",
-    "Slip Box/Endorphin.md",
-    "Slip Box/Dopamine.md"
+    "Slip Box/052-Principle-to-be-in-the-world-but-not-of-it.md",
+    "Reference Box/0-Ga 15,18-25.md",
+    "Reference Box/0-Goethe nói về đam mê.md",
+    "Reference Box/@Jun 21, 2021 10 32 PM note_06.md",
+    "Reference Box/@Jun 21, 2021 10 17 PM note_05.md",
+    "Reference Box/@Jun 21, 2021 10 03 PM note_04.md",
+    "Reference Box/@2020 09 05 0 00 5n-3.md",
+    "Slip Box/Index Note không thực sự hữu ích khi sử sụng phần mềm P-210628-2337.md",
+    "Slip Box/Index Note P-210629-2135.md",
+    "Slip Box/Nietzche là một triết gia hiện sinh P-210630-2141.md"
   ]
 }

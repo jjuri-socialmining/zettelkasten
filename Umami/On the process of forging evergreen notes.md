@@ -51,7 +51,7 @@ Before you click that link though, let's finish the big picture.
 	- This note, [[On the process of forging evergreen notes]], leads back to [[LYT Kit]]...
 	- ...which leads back to [[PKM MOC]], which is one of my ≈10 main MOCs, and it leads back to...
 	- ...you guessed it!
-	- It leads back to the [[+Home]] note!
+	- It leads back to the [[000 Home]] note!
 	- That means that very simply, I've created a star map where I can make hyperspace jumps between different levels of "Idea Emergence" in just a few clicks.
 	- Pretty awesome in my opinion.
 

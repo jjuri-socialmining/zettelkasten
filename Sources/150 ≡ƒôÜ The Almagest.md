@@ -1,5 +1,5 @@
 - metadata:
-	- tags: #source/book📚 %% #bb/science #state/develop %%
+	- tags: #source/book %% #bb/science #state/develop %%
 	- dates: 150 CE
 	- people: [[Ptolemy]]
 

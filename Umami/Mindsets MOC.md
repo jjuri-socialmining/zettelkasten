@@ -1,4 +1,4 @@
-[[+Home]]
+[[000 Home]]
 %% tags: #MOC %% 
 # Mindsets MOC
 *I want to...*

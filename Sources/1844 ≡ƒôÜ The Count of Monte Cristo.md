@@ -1,5 +1,5 @@
 - metadata:
-	- tags: #source/book📚
+	- tags: #source/book
 	- dates: 1844 (published); 2014 (read)
 	- people: [[Alexandre Dumas]]
 %%	- url: [wiki](https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo) %%

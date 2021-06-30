@@ -32,3 +32,6 @@
 
 **19th Century AD**
 - 1844 - 1900 - [[Friedrich Nietzsche P-201022-0549]]
+
+**20th Century AD**
+- 1913 - 1960 - [[Albert Camus P-210630-2134]]

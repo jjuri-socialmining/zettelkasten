@@ -1,5 +1,5 @@
 - metadata:
-	- tags: #source/book📚 #on/habit #on/PD
+	- tags: #source/book #on/habit #on/PD
 	- dates: 2018; 2019 (perused)
 	- people: James Clear
 

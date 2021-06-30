@@ -1,4 +1,4 @@
-[[+Home]]
+[[000 Home]]
 
 This folder is called "Umami" because of its mysteriousness. Apparently umami is one of the five basic tastes. There are: Sweetness, Sourness, Saltiness, Bitterness, and that oddball Umami.
 

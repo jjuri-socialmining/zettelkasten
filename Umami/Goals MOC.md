@@ -1,4 +1,4 @@
-[[+Home]]
+[[000 Home]]
 %% 
 ###### Metadata
 tags: #MOC 

@@ -1,5 +1,5 @@
 - metadata
-	- tags: #source/book📚
+	- tags: #source/book
 	- dates: 2012 (published); 2014-04 (read)
 	- people: [[Brené Brown]]
 

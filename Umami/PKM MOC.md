@@ -1,4 +1,4 @@
-[[+Home]]
+[[000 Home]]
 %% - metadata
 	- tags: #on/PKM #MOC %%
 # PKM MOC

@@ -1,4 +1,4 @@
-[[+Home]]
+[[000 Home]]
 %% - metadata:
 	- tags: #MOC #concept #my/fave %% 
 # Concepts MOC

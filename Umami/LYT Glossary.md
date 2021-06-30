@@ -4,7 +4,7 @@
 # LYT Glossary
 - **[[LYT Kit|LYT]]** - An acronym for "Linking Your Thinking".
 ### LYT Terms
-- **[[+Home|Home note]]** - Your Home note is your north star, navigating you to your MOCs. It keeps the entire system organized.
+- **[[000 Home|Home note]]** - Your Home note is your north star, navigating you to your MOCs. It keeps the entire system organized.
 - **[[MOCs Overview|MOC (Map of Content)]]**, pronounced (EM-OH-SEE) - A note that mainly has links to other notes, thus "mapping" the contents of multiple notes in your digital library. 
 	- MOCs help you gather, develop, and navigate your ideas.
 - **[[Evergreen notes]]** - Evergreen notes are centered on a single idea and written mostly in your own words. They naturally accrue more links over time.

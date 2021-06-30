@@ -1,4 +1,4 @@
-[[+Home]]
+[[000 Home]]
 %% - metadata:
 	- tags: #MOC %% 
 # Writings MOC

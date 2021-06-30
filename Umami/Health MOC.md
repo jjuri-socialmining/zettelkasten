@@ -1,4 +1,4 @@
-[[+Home]]
+[[000 Home]]
 %% 
 ###### Metadata
 tags: #MOC 
@@ -19,7 +19,7 @@ This is for areas of physical health, wellness, training, and exercise.
 * [[Nutrition MOC]] »» [[Vitamins MOC]]
 
 ### Physical Training
-- [[Physical Training MOC]] - Anything exercise-related, but no workouts 
+- [[004 Physical Training MOC]] - Anything exercise-related, but no workouts 
 - [[Workouts MOC]] - Details kinds of workouts (not specific ones)
 - [[Injury Tracker MOC]] - Tracking injuries and ailments over time
 - Body Quirks Tracker

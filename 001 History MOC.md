@@ -5,7 +5,7 @@ tags: #MOC
 %% 
 
 ## Notes
-- [[Lịch Sử Việt Nam]]
+- [[Lịch Sử Việt Nam MOC]]
 - [[Lịch sử Công Giáo MOC]]
 - [[Lịch Sử Do Thái MOC]]
 

@@ -1,4 +1,4 @@
-[[+Home]]
+[[000 Home]]
 tags: #MOC #project 
 related: [[created title]], [[Template for Project ✂️]]
 

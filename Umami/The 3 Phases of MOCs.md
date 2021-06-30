@@ -1,7 +1,7 @@
 [[LYT Kit]]
 %% - metadata:
 	- tags: #on/PKM  
-	- related: [[MOC MOC]] %% 
+	- related: [[MOC]] %% 
 # The 3 Phases of MOCs
 ### Outline
 - [[The 3 Phases of MOCs]]

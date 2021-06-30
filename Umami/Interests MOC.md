@@ -1,4 +1,4 @@
-[[+Home]]
+[[000 Home]]
 %% - metadata:
 	- tags: #MOC %% 
 # Interests MOC
@@ -6,20 +6,20 @@ Navigate your "library" with a classification system modified for PKM. #MOC
 
 ---
 ### Knowledge Management
-The [[PKM MOC]] shows the best practices of knowledge management. I use the [[LYT Kit]] to show the power of linked thinking and to empower others to develop their thinking. The [[MOC MOC]] is my personal note to wrap my head around the wondrous beauty that MOCs offer.
+The [[PKM MOC]] shows the best practices of knowledge management. I use the [[LYT Kit]] to show the power of linked thinking and to empower others to develop their thinking. The [[MOC]] is my personal note to wrap my head around the wondrous beauty that MOCs offer.
 
 ### Personal Management
 The [[Mindsets MOC]] can galvanize my attention; the [[Concepts MOC]] can flavor it; and the [[Habits MOC]] speaks about how to direct it. Others: [[Posture MOC]] and [[Hormesis MOC]] and [[Breathing Exercises MOC]].
 
 ### Philosophy 🤔 & Psychology 🧠; Spirituality 🙏 & Religion ㊪
-[[Philosophy MOC]] | [[Stoicism MOC]] | [[Confucianism MOC]] |
-[[Religion MOC]] | [[Psychology MOC]]
+[[002 Philosophy MOC]] | [[Stoicism MOC]] | [[Confucianism MOC]] |
+[[Religion MOC]] | [[006 Psychology MOC]]
 
 ### Social Sciences 👥
 Politics | Society | Law | Relationships | 
 
 ### Communications & Rhetoric; Language & Linguistics 🗣
-[[Rhetoric MOC]] | [[Language MOC]] | [[Words MOC]] | [[Figure MOC]]
+[[Rhetoric MOC]] | [[003 Language MOC]] | [[Words MOC]] | [[Figure MOC]]
 [[Commonplace MOC]] |
 
 
@@ -43,11 +43,11 @@ Film & TV | [[Movies MOC]] | Sports | [[Football MOC]] | Music
 `#source/movie🎬` | `#source/tv🎬` | `#source/music🎵`
 
 ### Literature
-[[Literature MOC]]
+[[005 Literature MOC]]
 
 ### History & Biography & Geography
 - The [[Art & Science Storytelling MOC]] look at some great storytellers of history. 
-- Others: [[Ancient Greece MOC]], [[History MOC]], [[Places MOC]]
+- Others: [[Ancient Greece MOC]], [[001 History MOC]], [[Places MOC]]
 
 ---
 ## Commentary
@@ -58,7 +58,7 @@ I wouldn't go overboard with numbering things. We’re just using a basic pre-ma
 
 #### The structure of this classification system
 - The Self
-	- 000 [[+Home|Knowledge Management]]
+	- 000 [[000 Home|Knowledge Management]]
 	- 100 Personal Management
 	- 200 Philosophy & Psychology; Spirituality & Religion
 - Others
@@ -86,14 +86,14 @@ For those that want to maintain an alphabetical "Map of Maps" list, here's an in
 - [[Cooking MOC]]
 - [[Cosmology MOC]]
 - [[Football MOC]]
-- [[History MOC]]
+- [[001 History MOC]]
 - [[Home Building MOC]]
-- [[Language MOC]]
+- [[003 Language MOC]]
 	- [[Chinese Language MOC]]
 	- [[English Language MOC]]
 	- [[French Language MOC]]
 	- [[Latin Language MOC]]
-- [[Literature MOC]]
+- [[005 Literature MOC]]
 - [[Rhetoric MOC]]
 - [[Stoicism MOC]]
 - [[Spaces/LYT Kit/Philosophy MOC]]

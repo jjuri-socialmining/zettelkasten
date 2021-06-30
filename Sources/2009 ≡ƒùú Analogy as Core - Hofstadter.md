@@ -1,5 +1,5 @@
 - metadata:
-	- tags: #source/speech🗣
+	- tags: #source/speech
 	- dates: 2020-06-06 (watched)
 	- people: [[Douglas R. Hofstadter]]
 	- url: [Youtube](https://www.youtube.com/watch?v=n8m7lFQ3njk)

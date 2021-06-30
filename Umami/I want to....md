@@ -1,6 +1,6 @@
-[[+Home]]
+[[000 Home]]
 # I want to... 
-- I want to get my bearings. Click [[+Home]].
+- I want to get my bearings. Click [[000 Home]].
 - I want to journal in a new daily note.
 	- Click on "Open today's note". Tag it with #my/journal
 - I want to process new #source material, adding my own commentary.
