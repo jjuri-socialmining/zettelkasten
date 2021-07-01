@@ -8,5 +8,5 @@
 ## Notes
 
 ## Questions & thoughts:
-- Albert Camus góp phần mở khai sinh [[Absurdism - Chủ nghĩa hư vô]], nhằm phản bác lại  [[Nihilism - Chủ nghĩa Hư vô]]
+- Albert Camus góp phần mở khai sinh [[Absurdism - Chủ nghĩa phi lý]], nhằm phản bác lại  [[Nihilism - Chủ nghĩa Hư vô]]
 

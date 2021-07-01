@@ -12,7 +12,7 @@ The [[PKM MOC]] shows the best practices of knowledge management. I use the [[LY
 The [[Mindsets MOC]] can galvanize my attention; the [[Concepts MOC]] can flavor it; and the [[Habits MOC]] speaks about how to direct it. Others: [[Posture MOC]] and [[Hormesis MOC]] and [[Breathing Exercises MOC]].
 
 ### Philosophy 🤔 & Psychology 🧠; Spirituality 🙏 & Religion ㊪
-[[002 Philosophy MOC]] | [[Stoicism MOC]] | [[Confucianism MOC]] |
+[[002 Philosophy MOC]] | [[Stoicism - Chủ nghĩa khắc kỷ]] | [[Confucianism MOC]] |
 [[Religion MOC]] | [[006 Psychology MOC]]
 
 ### Social Sciences 👥
@@ -95,7 +95,7 @@ For those that want to maintain an alphabetical "Map of Maps" list, here's an in
 	- [[Latin Language MOC]]
 - [[005 Literature MOC]]
 - [[Rhetoric MOC]]
-- [[Stoicism MOC]]
+- [[Stoicism - Chủ nghĩa khắc kỷ]]
 - [[Spaces/LYT Kit/Philosophy MOC]]
 - [[Vocals MOC]]
 - [[Words MOC]]

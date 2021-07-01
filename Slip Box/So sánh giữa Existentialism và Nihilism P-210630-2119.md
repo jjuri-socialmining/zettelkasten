@@ -11,6 +11,6 @@ Sự tương đồng của [[Nihilism - Chủ nghĩa Hư vô]] và [[Chủ Nghĩ
 Tuy nhiên, trong khi chủ nghĩa hiện sinh đưa ra cách giải quyết là phải xây dựng một ý nghĩa riêng tùy vào mỗi người thì chủ nghĩa hư vô lại xem việc tìm kiếm ý nghĩa trong thế giới ấy cũng là điều vô nghĩa. [^1]
 
 ## Questions & thoughts:
-- So sánh với chủ nghĩ phi lý [[Absurdism - Chủ nghĩa hư vô]] của [[Albert Camus P-210630-2134]]
+- So sánh với chủ nghĩ phi lý [[Absurdism - Chủ nghĩa phi lý]] của [[Albert Camus P-210630-2134]]
 
 [^1]:[[ichi.pro, Chủ nghĩa hiện sinh vs Chủ nghĩa hư vô#Quote 6]]

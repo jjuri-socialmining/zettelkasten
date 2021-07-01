@@ -1,19 +1,9 @@
 # Stoicism MOC
 
-Date: Jan 01, 2021 11:42 AM
-Description: Khắc Kỷ
+### Định nghĩa
+- [[Stoicism - Chủ nghĩa khắc kỷ]]
+- Người sáng lập [[Zeno thành Citium P-210629-2144]] 
 
-# Stoicism MOC
+### Các phương pháp thực hành
 
-- metadata
-	- UID (delete): P-210629-2143
-	- created: June 29, 2021 9:43 PM
-	- tags:
-	- previous note:
-
-## Notes
->**Chủ nghĩa khắc kỷ** (hay chủ nghĩa stoic/stoa, tiếng Hy Lạp: Στωικισμός, tiếng Latinh: _Stoicismus_) là một trường phái triết học Hy Lạp cổ đại do [[Zeno thành Citium P-210629-2144]] sáng lập ra tại Athens vào đầu thế kỷ thứ 3 Trước Công Nguyên. Chủ nghĩa khắc kỷ là một nhánh triết học về đạo đức con người, thứ được tạo ra bằng logic và cách mà con người nhìn nhận bản chất thế giới. (Wiki)
-
-
-## Questions & thoughts:
-
+### Các tài liệu tham khảo

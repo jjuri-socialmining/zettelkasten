@@ -10,7 +10,7 @@ Nó mang khuynh hướng bẩm sinh ảnh hưởng lên hành vi con người
 Có bốn Nguyên mẫu cơ bản:
 
 - Mặt nạ [[082b2-Persona]]
-- Bóng tối [[082b1-Shadow]]
+- Bóng tối [[Shadow]]
 - Tính nữ/Tính nam [[082b3-Anima Animus]]
 - Đại Ngã: The Self
 

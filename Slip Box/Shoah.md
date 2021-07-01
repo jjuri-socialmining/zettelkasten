@@ -1,4 +1,4 @@
-# 096g1-Shoah
+# Shoah
 
 Date: Jun 19, 2021 8:58 PM
 Description: Tên gọi khác của Holocaust

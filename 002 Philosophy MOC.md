@@ -3,6 +3,9 @@
 # Philosophy MOC
 - [[Collective Intelligence MOC]]
 - [[Existentialism MOC]]
+- [[Nihilism - Chủ nghĩa Hư vô]]
+- [[Absurdism - Chủ nghĩa phi lý]]
+- [[Stoicism MOC]]
 
 ### Top Philosophers
 - [[Jean Paul Sartre P-2011072314|Jean Paul Sartre]]
