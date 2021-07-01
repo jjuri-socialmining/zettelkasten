@@ -4,39 +4,101 @@
     "type": "split",
     "children": [
       {
-        "id": "8033fe780dfb8797",
+        "id": "3c4539f23e40faa0",
         "type": "leaf",
         "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slip Box/Nietzche là một triết gia hiện sinh P-210630-2141.md",
+            "file": "Slip Box/Homo Sapiens P-210626-2211.md",
             "mode": "source"
           },
           "pinned": true
         }
       },
       {
-        "id": "784a5f2ad5d70fad",
+        "id": "7992853c73f28241",
         "type": "leaf",
         "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slip Box/Sartre phổ biến chủ nghĩa hiện sinh P-210630-2214.md",
+            "file": "Slip Box/Triển khai Zettelkasten trên Obsidian P-210627-0907.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "d5a26334b3921a1a",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Slip Box/Loài người không đơn độc P-210626-2242.md",
             "mode": "preview"
           },
           "pinned": true
+        },
+        "group": "3e3136d87ae5eaff"
+      },
+      {
+        "id": "99274d47702b1bb8",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Slip Box/Loài người không đơn độc P-210626-2242.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 0.7132754626224432,
+              "close": false
+            }
+          },
+          "pinned": true
+        },
+        "group": "3e3136d87ae5eaff"
+      },
+      {
+        "id": "4c49d808ff050353",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "empty",
+          "state": {},
+          "pinned": true
         }
       },
       {
-        "id": "fcc8baf700e8fd9d",
+        "id": "79543e2e0a7998f8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slip Box/Principle-to-be-in-the-world-but-not-of-it.md",
-            "mode": "source"
+            "file": "Slip Box/Hub note  P-210701-1222.md",
+            "mode": "preview"
           }
         }
       }
@@ -65,8 +127,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2021 06 21 21 33",
-                "matchingCase": true,
+                "query": "Index",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": true,
@@ -86,7 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292
+    "width": 353
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -114,30 +176,30 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Slip Box/Principle-to-be-in-the-world-but-not-of-it.md",
+                "file": "Slip Box/Hub note  P-210701-1222.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 3,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
                   "showTags": false,
-                  "showAttachments": true,
+                  "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [],
-                  "collapse-display": true,
+                  "collapse-display": false,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
+                  "collapse-forces": false,
+                  "centerStrength": 0.417647058823529,
                   "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.4211915232059912,
+                  "linkStrength": 0.641176470588235,
+                  "linkDistance": 188,
+                  "scale": 0.15284508382819223,
                   "close": true
                 }
               }
@@ -149,8 +211,32 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slip Box/Principle-to-be-in-the-world-but-not-of-it.md"
+                "file": "Slip Box/Hub note  P-210701-1222.md"
               }
+            }
+          },
+          {
+            "id": "4d878808ad6c16f4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5f242e3107553949",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9e3239cdffda851f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -161,7 +247,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "55512af75108e012",
@@ -174,14 +261,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slip Box/Principle-to-be-in-the-world-but-not-of-it.md",
+                "file": "Slip Box/Hub note  P-210701-1222.md",
                 "collapseAll": true,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -191,17 +278,17 @@
     "direction": "horizontal",
     "width": 294
   },
-  "active": "fcc8baf700e8fd9d",
+  "active": "79543e2e0a7998f8",
   "lastOpenFiles": [
-    "Slip Box/052-Principle-to-be-in-the-world-but-not-of-it.md",
-    "Reference Box/0-Ga 15,18-25.md",
-    "Reference Box/0-Goethe nói về đam mê.md",
-    "Reference Box/@Jun 21, 2021 10 32 PM note_06.md",
-    "Reference Box/@Jun 21, 2021 10 17 PM note_05.md",
-    "Reference Box/@Jun 21, 2021 10 03 PM note_04.md",
-    "Reference Box/@2020 09 05 0 00 5n-3.md",
-    "Slip Box/Index Note không thực sự hữu ích khi sử sụng phần mềm P-210628-2337.md",
-    "Slip Box/Index Note P-210629-2135.md",
-    "Slip Box/Nietzche là một triết gia hiện sinh P-210630-2141.md"
+    "Hub note  P-210701-1222.md",
+    "Umami/What are higher-order notes.md",
+    "Umami/What is a note.md",
+    "Slip Box/MOC là cách triển khai của Structure Note P-210630-2105.md",
+    "MOC - Map Of Content P-210701-1248.md",
+    "Umami/Evergreen notes.md",
+    "Umami/Evergreen notes maximize reusability.md",
+    "Umami/Evergreen note-making creates optionality in life.md",
+    "MOC.md",
+    "Slip Box/Index Note P-210629-2135.md"
   ]
 }
