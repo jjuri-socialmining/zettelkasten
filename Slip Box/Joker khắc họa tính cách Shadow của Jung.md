@@ -1,4 +1,4 @@
-# 082b1a-Joker-Va-Shadow-cua-Jung
+# Joker khắc họa tính cách Shadow của Jung
 
 Date: May 03, 2021 10:05 PM
 

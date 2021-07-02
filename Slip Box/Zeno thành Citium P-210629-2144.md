@@ -6,6 +6,7 @@
 	- previous note:
 
 ## Notes
+Zeno thành Citium (334-262 TCN) là nhà triết học Hy Lạp, người đã sáng lập ra [[Stoicism - Chủ nghĩa khắc kỷ]]
 
 ## Questions & thoughts:
 

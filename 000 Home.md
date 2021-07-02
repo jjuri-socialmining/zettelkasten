@@ -36,4 +36,4 @@ Search Strings
 - `#pp OR #bb` - For building blocks of achieved, added, thought
 
 ---
-[[Pale Blue Dot 4K Banner.png]]
+![[Pale Blue Dot 4K Banner.png]]

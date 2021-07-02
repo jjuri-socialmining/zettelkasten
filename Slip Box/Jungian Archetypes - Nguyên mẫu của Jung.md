@@ -1,4 +1,4 @@
-# 082b-Jungian-Archetypes
+# Jungian Archetypes - Nguyên mẫu của Jung
 
 Date: Jun 05, 2021 9:52 AM
 Description: Các nguyên mẫu theo học thuyết của Jung
@@ -9,9 +9,9 @@ Nó mang khuynh hướng bẩm sinh ảnh hưởng lên hành vi con người
 
 Có bốn Nguyên mẫu cơ bản:
 
-- Mặt nạ [[082b2-Persona]]
+- Mặt nạ [[Persona]]
 - Bóng tối [[Shadow]]
-- Tính nữ/Tính nam [[082b3-Anima Animus]]
+- Tính nữ/Tính nam [[Anima Animus]]
 - Đại Ngã: The Self
 
 Ngoài ra còn nhiều nguyên mẫu khác

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "da31a636f4a9c93b",
+        "id": "335d808353c42b42",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Umami/Interests MOC.md",
+            "file": "Slip Box/Vô thức tập thể P-210616-2249.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "running",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -88,14 +88,14 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Umami/Interests MOC.md",
+                "file": "Slip Box/Vô thức tập thể P-210616-2249.md",
                 "options": {
                   "collapse-filter": false,
-                  "search": "tag:#MOC",
+                  "search": "",
                   "localJumps": 3,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
+                  "localInterlinks": true,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
@@ -111,7 +111,7 @@
                   "repelStrength": 10,
                   "linkStrength": 0.641176470588235,
                   "linkDistance": 188,
-                  "scale": 0.15284508382819223,
+                  "scale": 0.21428619353628028,
                   "close": true
                 }
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Umami/Interests MOC.md"
+                "file": "Slip Box/Vô thức tập thể P-210616-2249.md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Umami/Interests MOC.md",
+                "file": "Slip Box/Vô thức tập thể P-210616-2249.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -188,20 +188,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 578,
-    "collapsed": true
+    "width": 431
   },
-  "active": "da31a636f4a9c93b",
+  "active": "335d808353c42b42",
   "lastOpenFiles": [
-    "Umami/Interests MOC.md",
-    "Umami/Health MOC.md",
-    "Slip Box/042b-Anabaptist.md",
+    "Slip Box/Vô thức tập thể P-210616-2249.md",
     "Untitled.md",
-    "Slip Box/Zet ID không thực sự hữu ích khi sử sụng phần mềm P-210628-2337.md",
-    "Slip Box/Zettelkasten P-201021-1230.md",
-    "Slip Box/Yuval N. Harari P-210627-2258.md",
-    "Slip Box/Thí nghiệm Kathleen Vohs.md",
-    "Slip Box/Theotokos.md",
-    "Slip Box/Solomon-Asch-Experiment.md"
+    "Sources/tarothuyenbi.info, Carl Jung và Tarot.md",
+    "Slip Box/Bài test MBTI - Myers Briggs.md",
+    "Slip Box/Anima Animus.md",
+    "006 Psychology MOC.md",
+    "Umami/LYT Kit.md",
+    "Slip Box/082b5a-Robert-Moore.md",
+    "Slip Box/082b4-The-Self.md",
+    "Slip Box/082b3-Anima Animus.md"
   ]
 }

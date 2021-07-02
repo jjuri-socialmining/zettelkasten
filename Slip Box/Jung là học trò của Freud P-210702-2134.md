@@ -1,0 +1,11 @@
+# Jung là học trò của Freud
+
+- metadata
+	- created: July 2, 2021 9:34 PM
+	- tags:
+	- previous note:
+
+## Notes
+[[Carl Jung P-210117-2207]] là học trò, là người bạn thân thiết của [[Sigmund Freud]]. Tuy nhiên, quan điểm học thuyết của hai nhà tâm lý có những điểm khác nhau đặc về vô thức.
+## Questions & thoughts:
+

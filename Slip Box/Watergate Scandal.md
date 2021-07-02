@@ -1,4 +1,4 @@
-# 035-Watergate-Scandal
+# Watergate-Scandal
 
 Date: Oct 25, 2020 8:19 PM
 Description: Vụ bê bối Watergate, tổng thống Nixon và chiến tranh VN
