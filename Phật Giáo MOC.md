@@ -12,7 +12,7 @@
 - [[Phật giáo Mật Tông]]
 
 ## Giáo lý
-Giáo lý được tập trung trong [[Tam Tạng]] bao gồm:
+Giáo lý được tập trung trong [[Tam Tạng kinh thư]] bao gồm:
 - [[Kinh tạng]]
 - [[Luật tạng]]
 - [[Luận tạng]]

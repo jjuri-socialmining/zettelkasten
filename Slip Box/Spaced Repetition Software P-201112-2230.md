@@ -34,7 +34,7 @@ Quizlet
 
 Skritter
 
-[[SuperMemo (P-202011210036)]] 
+[[SuperMemo P-201121-0036]] 
 
 Synap and WaniKani
 

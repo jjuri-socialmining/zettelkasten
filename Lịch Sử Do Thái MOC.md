@@ -17,7 +17,7 @@
 	- Người dẫn dắt phong trào là [[Theodor Herzl P-210618-2352]]
 
 ### Các sự kiện bài Do Thái
-- Tội ác diệt chủng người Do thái [[Holocaust P-210619-2059]], người đứng đầu thảm sát [[Adolf Hitler (P-202106192108)]]
+- Tội ác diệt chủng người Do thái [[Holocaust P-210619-2059]], người đứng đầu thảm sát [[Adolf Hitler P-210619-2108]]
 - Các trại tập trung lớn
 	- Trại tập trung [[Auschwitz]] ở Ba Lan
 	- Trại hủy diệt [[Treblinka]] ở Ba Lan

@@ -10,4 +10,4 @@ Trong **ngụy thư Mattheu**, thánh Giuse có từ chối “Tôi là một ng
 
 Tham khảo:
 
-[[0-Ref-Giuse-dinh-hon-Maria]]
+[[legiomariaevn.com, Tìm hiểu các ngụy thư]]

@@ -6,7 +6,7 @@
 	- previous note: [[Chủ Nghĩa Hiện Sinh P-201225-2215]]
 
 ## Notes
-[[Jean Paul Sartre P-2011072314]] là người phổ biến thuật ngữ chủ nghĩa hiện sinh. [^1]
+[[Jean Paul Sartre P-201107-2314]] là người phổ biến thuật ngữ chủ nghĩa hiện sinh. [^1]
 
 ## Questions & thoughts:
 [^1]:[[ichi.pro, Chủ nghĩa hiện sinh vs Chủ nghĩa hư vô#Quote 1]]

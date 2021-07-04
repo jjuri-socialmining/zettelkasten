@@ -8,5 +8,5 @@
 ### Các Nhà tư tưởng chính
 - Søren Kierkegaard
 - Fyodor Dostoevsky
-- [[Jean Paul Sartre P-2011072314|Jean Paul Sartre]]
+- [[Jean Paul Sartre P-201107-2314|Jean Paul Sartre]]
 - [[Friedrich Nietzsche P-201022-0549]] 

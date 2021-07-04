@@ -9,5 +9,5 @@ Khi bị vạ tuyệt thông, người bị phạt vạ sẽ không còn đượ
 
 Có hai loại:
 
-- [[060a-Va-tuyet-thong-tien-ket]]
+- [[Vạ tuyệt thông tiền kết]]
 - [[060b-Va-tuyet-thong-hau-ket]]

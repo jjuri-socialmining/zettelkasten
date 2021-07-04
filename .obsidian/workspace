@@ -4,23 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "58fb601ebb50d648",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "graph",
-          "state": {},
-          "pinned": true
-        }
-      },
-      {
-        "id": "cb7ec9e5bc4ec024",
+        "id": "db2247c96d1c7654",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sources/Sample of Generate Liturature note.md",
-            "mode": "source"
+            "file": "Bins/People/Nassim Taleb.md",
+            "mode": "preview"
           }
         }
       }
@@ -49,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zett",
+                "query": "hitler",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -66,8 +56,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sources/Sample of Generate Liturature note.md",
+                "file": "Bins/People/Nassim Taleb.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -122,7 +111,7 @@
                   "repelStrength": 10,
                   "linkStrength": 0.641176470588235,
                   "linkDistance": 188,
-                  "scale": 0.07776175304995121,
+                  "scale": 0.421191523205993,
                   "close": true
                 }
               }
@@ -134,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/Sample of Generate Liturature note.md"
+                "file": "Bins/People/Nassim Taleb.md"
               }
             }
           },
@@ -184,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/Sample of Generate Liturature note.md",
+                "file": "Bins/People/Nassim Taleb.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -199,20 +188,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294,
-    "collapsed": true
+    "width": 294
   },
-  "active": "cb7ec9e5bc4ec024",
+  "active": "db2247c96d1c7654",
   "lastOpenFiles": [
-    "Sources/Sample of Generate Liturature note.md",
-    "Zettelkasten MOC.md",
-    "Sources/2012 ≡ƒôÜ Daring Greatly.md",
-    "Flow, Insights, and Acting cannot be forced.md",
-    "Slip Box/Holocaust P-210619-2059.md",
-    "Slip Box/Trang Tử.md",
-    "Slip Box/Utopia.md",
-    "Slip Box/052a-cosmos.md",
-    "Slip Box/Khoi-dau-cai-cach-Khang-Nghi.md",
-    "Slip Box/070a-San-Francisco.md"
+    "Nassim Taleb.md",
+    "Slip Box/Barbell Reading Method P-210628-0934.md",
+    "2021 06 20 22 46 swastika_01.md",
+    "Slip Box/Người Amish.md",
+    "Reference Box/210101_LSGHCG_12.md",
+    "Umami/Metaphor MOC.md",
+    "Slip Box/Citation P-201021-2213.md",
+    "Slip Box/Homo Neanderthal P-210627-2248.md",
+    "Slip Box/Phật giáo Bắc Tông.md",
+    "Slip Box/The PARA Method P-210701-2247.md"
   ]
 }

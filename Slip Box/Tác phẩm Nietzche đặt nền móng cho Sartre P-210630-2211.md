@@ -6,7 +6,7 @@
 	- previous note:
 
 ## Notes
-Các tác phẩm của [[Friedrich Nietzsche P-201022-0549]] đặt nền móng cho công trình về triết học hiện sinh cho các công trình của [[Jean Paul Sartre P-2011072314]] [^1]
+Các tác phẩm của [[Friedrich Nietzsche P-201022-0549]] đặt nền móng cho công trình về triết học hiện sinh cho các công trình của [[Jean Paul Sartre P-201107-2314]] [^1]
 
 ## Questions & thoughts:
 - Các tác phẩm nào, lý thuyết nào là nền móng, lấy ví dụ??

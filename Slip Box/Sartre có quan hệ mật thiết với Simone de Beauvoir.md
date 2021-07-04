@@ -7,6 +7,6 @@
 	- previous note:
 
 ## Notes
-[[Jean Paul Sartre P-2011072314]] là người có mối quan hệ mật thiết đến [[Simone de Beauvoir]] một nhà nữ quyền nổi tiếng.
+[[Jean Paul Sartre P-201107-2314]] là người có mối quan hệ mật thiết đến [[Simone de Beauvoir]] một nhà nữ quyền nổi tiếng.
 
 ## Questions & thoughts:

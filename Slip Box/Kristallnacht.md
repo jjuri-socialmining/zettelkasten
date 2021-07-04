@@ -1,4 +1,4 @@
-# Su-Kien-Kristallnacht
+# Kristallnacht
 
 Date: Jun 19, 2021 8:39 PM
 Description: Kristallnacht là từ tiếng Đức có nghĩa là Thủy Tinh

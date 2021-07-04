@@ -9,5 +9,7 @@ tags: #MOC
 - [[Lịch sử Công Giáo MOC]]
 - [[Lịch Sử Do Thái MOC]]
 - [[Phật Giáo MOC]]
-## Questions & thoughts:
+- [[Ấn Độ giáo MOC]]
+
+
 
