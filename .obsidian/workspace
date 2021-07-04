@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "db2247c96d1c7654",
+        "id": "db0aba374805ba1a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bins/People/Nassim Taleb.md",
-            "mode": "preview"
+            "file": "Slip Box/Writings MOC.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hitler",
+                "query": "tag:#quote",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353
+    "width": 369
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bins/People/Nassim Taleb.md",
+                "file": "Slip Box/Writings MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -111,7 +111,7 @@
                   "repelStrength": 10,
                   "linkStrength": 0.641176470588235,
                   "linkDistance": 188,
-                  "scale": 0.421191523205993,
+                  "scale": 0.4211915232059932,
                   "close": true
                 }
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bins/People/Nassim Taleb.md"
+                "file": "Slip Box/Writings MOC.md"
               }
             }
           },
@@ -159,8 +159,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "55512af75108e012",
@@ -173,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bins/People/Nassim Taleb.md",
+                "file": "Slip Box/Writings MOC.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -188,19 +187,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294
+    "width": 591
   },
-  "active": "db2247c96d1c7654",
+  "active": "db0aba374805ba1a",
   "lastOpenFiles": [
-    "Nassim Taleb.md",
-    "Slip Box/Barbell Reading Method P-210628-0934.md",
-    "2021 06 20 22 46 swastika_01.md",
-    "Slip Box/Người Amish.md",
-    "Reference Box/210101_LSGHCG_12.md",
-    "Umami/Metaphor MOC.md",
-    "Slip Box/Citation P-201021-2213.md",
-    "Slip Box/Homo Neanderthal P-210627-2248.md",
-    "Slip Box/Phật giáo Bắc Tông.md",
-    "Slip Box/The PARA Method P-210701-2247.md"
+    "Umami/Writings MOC.md",
+    "Umami/Workflows MOC.md",
+    "Umami/Vulnerability.md",
+    "Umami/The Home note và the Interests MOC.md",
+    "Umami/Story MOC.md",
+    "Umami/Sources MOC.md",
+    "Umami/Some Greek Allusions.md",
+    "Umami/Solutions to Flow Stoppers.md",
+    "Umami/Publish your own stuff with Obsidian Publish.md",
+    "Umami/Projects MOC.md"
   ]
 }

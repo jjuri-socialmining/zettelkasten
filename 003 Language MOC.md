@@ -1,4 +1,4 @@
-[[Interests MOC]]
+[[000 Interests MOC]]
 %% - metadata:
 	- tags: #MOC #on/language %%
 # Language MOC

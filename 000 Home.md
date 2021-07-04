@@ -10,7 +10,7 @@ This is your launchpad and homebase. Your personal North Star. That's here. That
 	- 02 - [[Writings MOC]] 
  - Things
 	- 03 - [[Concepts MOC]]
-	- 04 - [[Interests MOC]]
+	- 04 - [[000 Interests MOC]]
 - Outer-led Sense-making
 	- 05 - [[Sources MOC]]
 	- 06 - [[People MOC]]
@@ -30,6 +30,8 @@ This is your launchpad and homebase. Your personal North Star. That's here. That
 `#project/active` | `#project/slowburn`
 `#project/idea` | `#project/idle` | `#project/archive` 
 
+[[Publish your own stuff with Obsidian Publish]]
+[[Hiding content in plain sight]]
 
 ---
 Search Strings

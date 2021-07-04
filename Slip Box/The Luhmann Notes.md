@@ -7,3 +7,6 @@ Date: Oct 22, 2020 12:06 AM
 [[Permanent Note P-201021-2209]]
 
 [[Hub note  P-210701-1222]]
+
+Phân loại ghi chú theo nội dung [[Các loại ghi chú theo nội dung]]
+[[Ghi chú bậc cao]]

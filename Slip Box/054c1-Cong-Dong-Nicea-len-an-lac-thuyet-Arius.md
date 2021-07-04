@@ -2,4 +2,4 @@
 
 Date: Jan 01, 2021 10:45 AM
 
-[[Cong-Dong-Nicea 325]] lên án [[Lac-Thuyet-Arius]] .
+[[Cong-Dong-Nicea 325]] lên án [[Lạc Thuyết Arius]] .

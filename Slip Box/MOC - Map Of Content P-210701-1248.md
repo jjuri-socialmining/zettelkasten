@@ -8,4 +8,6 @@
 ## Notes
 
 ## Questions & thoughts:
+- [[Workflows MOC]]
+- [[MOCs encourage flexible non-destructive thinking]]
 

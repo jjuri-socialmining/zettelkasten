@@ -1,10 +1,8 @@
-# 066b-Phaolo-tu-dao
+# Phaolo tử đạo
+- metadata
+	- created: Dec 31, 2020 11:14 PM
+	- tags: #literature-notes 
+	- previous note: [[Bùi Đức Sinh O.P, Lịch sử Giáo Hội Công Giáo]], p53
 
-Date: Dec 31, 2020 11:14 PM
-Trích dẫn: [[201231_LSGHCG_08]]
+Án tử hình của [[Thánh Phaolo]] không có tài liệu để lại. Ngài bị trảm quyết trên con đường đi Ostia 
 
-Án tử hình của [[Thánh Phaolo P-201225-1038]] không có tài liệu để lại. Ngài bị trảm quyết trên con đường đi Ostia 
-
-Tham khảo:
-
-[[201231_LSGHCG_08]]

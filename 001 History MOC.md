@@ -6,10 +6,7 @@ tags: #MOC
 
 ## Notes
 - [[Lịch Sử Việt Nam MOC]]
-- [[Lịch sử Công Giáo MOC]]
-- [[Lịch Sử Do Thái MOC]]
-- [[Phật Giáo MOC]]
-- [[Ấn Độ giáo MOC]]
+- [[Lịch sử Do Thái MOC]]
 
 
 
