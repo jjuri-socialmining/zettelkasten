@@ -2,7 +2,7 @@
 
 - metadata
 	- created: Nov 07, 2020 11:14 PM
-	- tags: #TODO 
+	- tags: #TODO #people 
 	- previous note:
 
 ## Notes

@@ -4,7 +4,7 @@ authors: Author NCQT
 year: 2015
 created: 202106250458
 ---
-
+#literature-notes #Note 
 
 ### Quote 1
 > "Tất cả từ Abraham, Isaac, Jacob cho đến mười hai người con trai của Jacob được gọi là 'tổ phụ' (Patriarchs) tức là tổ tiên của dân tộc Do Thái." ([NCQT 2015:2](zotero://open-pdf/library/items/6YV7V8YD?page=2))

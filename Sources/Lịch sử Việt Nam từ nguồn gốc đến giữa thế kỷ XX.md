@@ -1,15 +1,13 @@
-# Lịch sử Việt Nam từ nguồn gốc đến giữa thế kỷ XX
-
 # Lịch sử Việt Nam: từ nguồn gốc đến giữa thế kỷ XX
 
 ## Metadata
 
 - Item Type: [[Book]]
-- Authors: [[ Lê-Thành-Khôi]]
+- Authors: [[ Lê Thành Khôi]]
 - Date: [[2016]]
 - Date Added: [[2021-06-04]]
 - Cite key: le-thanh-khoiLichSuViet2016
-, #zotero, #literature-notes, #reference
+, #zotero, #literature-notes, #reference, #source/book 
 
 ## Zotero links
 
@@ -45,7 +43,7 @@ Notes:
 [[Untitled 2.png]]
 
 Notes:
-- Lễ nghi Khổng giaos dẫn đến chủ nghĩa quy phạm, phục tùng quân vương, người cai trị. Điều này dẫn đến trật tự xã hội phong kiến được ổn định
+- Lễ nghi Nho giáo dẫn đến chủ nghĩa quy phạm, phục tùng quân vương, người cai trị. Điều này dẫn đến trật tự xã hội phong kiến được ổn định
 - Mạnh Tử (372-289) là người theo chủ nghĩa duy tâm "Nhân chi sơ tính bản thiện" (Con người ta mới sinh ra tính vốn tốt lành)
 
 ### p.109

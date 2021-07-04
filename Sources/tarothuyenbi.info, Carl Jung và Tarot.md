@@ -6,7 +6,7 @@
 * Date Added: [[2021-06-02]]
 * URL: [http://www.tarothuyenbi.info/2012/11/carl-jung-va-tarot.html](http://www.tarothuyenbi.info/2012/11/carl-jung-va-tarot.html)
 * Cite key: undefined
-, #zotero, #literature-notes, #reference
+, #zotero, #literature-notes, #reference, #source/article 
 
 ## Abstract
 

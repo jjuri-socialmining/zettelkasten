@@ -4,12 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "24227f2ecbb591c8",
+        "id": "58fb601ebb50d648",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "graph",
+          "state": {},
+          "pinned": true
+        }
+      },
+      {
+        "id": "cb7ec9e5bc4ec024",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Đạo giáo ngược với Nho giáo P-210704-1150.md",
+            "file": "Sources/Sample of Generate Liturature note.md",
             "mode": "source"
           }
         }
@@ -39,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Index",
+                "query": "zett",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -56,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -88,7 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Đạo giáo ngược với Nho giáo P-210704-1150.md",
+                "file": "Sources/Sample of Generate Liturature note.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -123,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Đạo giáo ngược với Nho giáo P-210704-1150.md"
+                "file": "Sources/Sample of Generate Liturature note.md"
               }
             }
           },
@@ -173,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Đạo giáo ngược với Nho giáo P-210704-1150.md",
+                "file": "Sources/Sample of Generate Liturature note.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -191,17 +202,17 @@
     "width": 294,
     "collapsed": true
   },
-  "active": "24227f2ecbb591c8",
+  "active": "cb7ec9e5bc4ec024",
   "lastOpenFiles": [
-    "Đạo giáo ngược với Nho giáo.md",
-    "Sources/Lịch sử Việt Nam từ nguồn gốc đến giữa thế kỷ XX.md",
-    "Untitled.md",
-    "Học thuyết Nho giáo mập mờ nước đôi.md",
-    "Sources/Lịch sử Việt Nam từ nguồn gốc đến giu 5cbae96b64fc4cffbc8f09a0b953df10.md",
-    "Reference Box/Lịch sử Việt Nam từ nguồn gốc đến giữa thế kỷ XX.md",
-    "Reference Box/Lịch sử thăng trầm 4000 năm của người Do Thái (P.1).md",
-    "Sources/2015 ≡ƒôÜ Between the World and Me.md",
-    "Sources/Sascha, The Barbell Method of Reading.md",
-    "Sources/Ryan Holiday, Ego is Enemy.md"
+    "Sources/Sample of Generate Liturature note.md",
+    "Zettelkasten MOC.md",
+    "Sources/2012 ≡ƒôÜ Daring Greatly.md",
+    "Flow, Insights, and Acting cannot be forced.md",
+    "Slip Box/Holocaust P-210619-2059.md",
+    "Slip Box/Trang Tử.md",
+    "Slip Box/Utopia.md",
+    "Slip Box/052a-cosmos.md",
+    "Slip Box/Khoi-dau-cai-cach-Khang-Nghi.md",
+    "Slip Box/070a-San-Francisco.md"
   ]
 }

@@ -6,6 +6,7 @@
 - [[Nihilism - Chủ nghĩa Hư vô]]
 - [[Absurdism - Chủ nghĩa phi lý]]
 - [[Stoicism MOC]]
+- [[Đạo Giáo]]
 
 ### Top Philosophers
 - [[Jean Paul Sartre P-2011072314|Jean Paul Sartre]]
@@ -13,12 +14,16 @@
 
 ### Chronological 
 
+**6th Century BC **
+- 571 - 471 BC - [[Lão Tử]]
+
 **5th Century BC**
-- 470 – 399 BC - Socrates 
+- 470 – 399 BC - [[Socrates]] 
 - 460 – 370 BC - Democritus
 - 428 – 347 BC - Plato
 
 **4th Century BC**
+372 - 289 BC - [[Mạnh Tử]]
 
 **3rd Century BC**
 - 

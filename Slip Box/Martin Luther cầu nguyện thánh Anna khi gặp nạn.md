@@ -1,0 +1,13 @@
+# Martin Luther cầu nguyện thánh Anna khi gặp nạn
+
+- metadata
+	- UID (delete): P-210704-1319
+	- created: July 4, 2021 1:19 PM
+	- tags:
+	- previous note:
+
+## Notes
+Sau một biến cố năm 1505, [[Martin Luther P-201225-1003]] mắc kẹt trong một cơn bão lớn và bị sấm sét đánh, Martin đã cầu [[Thánh Anna P-201225-1114]] phù trợ và hứa trở thành một tu sĩ: *"Lạy Thánh Anna xin cứu giúp con! Con muốn trở thành một thầy Dòng"*. Sau đó ông thực hiện lời hứa vào dòng tu kín Augustine tại Erfurt.
+
+## Questions & thoughts:
+

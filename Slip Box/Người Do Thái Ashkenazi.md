@@ -3,7 +3,7 @@
 Date: Jun 19, 2021 7:14 AM
 Description: Người Do Thái Ashkenazi
 
-Người Do Thái Ashkenazi là một cộng đồng Do Thái thuần chủng sống vào cuối thế kỷ X tại La Mã. Ngôn ngữ được họ sử dụng phổ biến là tiếng [[096a1-Tieng-Yiddish]]. Ashkenazi có nghĩa là người Đức.
+Người Do Thái Ashkenazi là một cộng đồng Do Thái thuần chủng sống vào cuối thế kỷ X tại La Mã. Ngôn ngữ được họ sử dụng phổ biến là tiếng [[Ngôn ngữ Yiddish]]. Ashkenazi có nghĩa là người Đức.
 
 Người Ashkenazi chiếm 70% dân số Do thái trên thế giới.
 

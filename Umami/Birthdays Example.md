@@ -1,7 +1,7 @@
 [[People MOC]]
 %%- metadata:
 	- tags: #people %%
-# Birthdays Example
+# Birthdays MOC
 
 ## January
 

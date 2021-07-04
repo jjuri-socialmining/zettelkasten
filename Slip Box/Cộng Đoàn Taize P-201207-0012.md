@@ -6,7 +6,7 @@
 	- previous note: [[Phong trào Đại Kết P-201207-2008]]
 
 ## Notes
-**Cộng đoàn Taizé** là một tu hội đại kết tại làng Taizé, Saône-et-Loire, Burgundy, nước Pháp. Cộng đoàn này bao gồm những tu sĩ theo [[Công Giáo Roma P-201225-1057]] và [[Tin Lành (P-202012251013)]] . 
+**Cộng đoàn Taizé** là một tu hội đại kết tại làng Taizé, Saône-et-Loire, Burgundy, nước Pháp. Cộng đoàn này bao gồm những tu sĩ theo [[Công Giáo Roma P-201225-1057]] và [[Tin Lành P-201225-1013]] . 
 
 **Cộng đoàn Taizé** được thành lập vào năm 1940 bởi thầy [[Roger Schutz]]  - một người Tin Lành
 

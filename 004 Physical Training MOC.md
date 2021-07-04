@@ -1,3 +1,6 @@
+%% - metadata:
+	- tags: #MOC %%
+
 - [[Running MOC]]
 
 ### Workout

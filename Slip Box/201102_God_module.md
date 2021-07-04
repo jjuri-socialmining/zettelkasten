@@ -4,4 +4,4 @@ Date: Nov 02, 2020 11:01 PM
 Description: Tìm hiểu định nghĩa God module
 source: #TODO
 
-God Module được nhắc đến trong quyển [Sáu Tỉ Đường Đến Hạnh [[S u T ng n H nh Ph c]]
+God Module được nhắc đến trong quyển [[Sáu Tỉ Đường Đến Hạnh]]

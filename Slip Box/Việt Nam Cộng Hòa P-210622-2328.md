@@ -6,7 +6,7 @@
 	- previous note:
 
 ## Notes
-Người lãnh đạo thời kỳ đầu - [[Đệ Nhất Cộng Hòa P-201212-2209]]-  là [[Ngô Đình Diệm (P-201212-1444)]]
+Người lãnh đạo thời kỳ đầu - [[Đệ Nhất Cộng Hòa P-201212-2209]]-  là [[Ngô Đình Diệm P-201212-1444]]
 
 ## Questions & thoughts:
 

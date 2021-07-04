@@ -1,5 +1,7 @@
 # Stoicism MOC
-
+%% - metadata:
+	- tags: #MOC %%
+	
 ### Định nghĩa
 - [[Stoicism - Chủ nghĩa khắc kỷ]]
 

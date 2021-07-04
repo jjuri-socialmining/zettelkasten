@@ -1,4 +1,6 @@
-
+%% - metadata:
+	- tags: #MOC %%
+	
 ## Kinh Nghiệm
 ### Nghe
 - [[English-Listening]]

@@ -9,5 +9,5 @@ Các vương cung thánh đường mặt bằng thường có hình thập giá.
 
 Vương cung thánh đường được chia thành 2 loại:
 
-- [[063b-Dai-vuong-cung-thanh-duong]]
+- [[Dai-vuong-cung-thanh-duong]]
 - [[Tiểu vương cung thánh đường P-201212-1129]]
