@@ -1,9 +1,12 @@
 [[000 Home]]
 tags: #MOC #project 
-related: [[created title]], [[Template for Project ✂️]]
+
+
+## Task list
+- [[Markdown for Obsidian MOC]] - Tìm hiểu [[Markdown Language]] để sử dụng [[Obsidian P-210628-2327]] hiệu quả hơn.
 
 # Projects MOC
-There are excellent ways to manage projects and tasks with linked frameworks. However, the LYT opinion is that most projects need *less* maintenance work, not more. Don't micro-manage yourself. Keep it spartan. Give yourself a broad direction and let your own ingenuity surprise you.
+[[Programming MOC]]
 
 overview
 later « onhold «««« idea »»»» soon » active
@@ -66,3 +69,5 @@ from #my/spaces
 table 
 from #archive/project
 ```
+
+

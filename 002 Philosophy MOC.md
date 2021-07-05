@@ -1,7 +1,7 @@
 %% - metadata:
 	- tags: #MOC %%
 # Philosophy MOC
-- [[Collective Intelligence MOC]]
+
 - [[Existentialism MOC]]
 - [[Nihilism - Chủ nghĩa Hư vô]]
 - [[Absurdism - Chủ nghĩa phi lý]]

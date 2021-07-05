@@ -1,7 +1,7 @@
 # {{title}}
 
 - metadata
-	- UID (delete): P-{{date}}
+	- UID: P-{{date}}
 	- created: {{date:LLL}}
 	- tags:
 	- previous note:

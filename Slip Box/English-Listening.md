@@ -5,9 +5,8 @@ source: #TODO
 
 - English Listening
     - Kinh nghiệm luyện nghe
-    - [[Kinh nghiệm nghe 1]]
-    - 
-    - 
+    - [[Kinh-nghiệm-nghe-1]]
+
     - Nguồn nghe
     - Listen a minute – Kênh luyện chép chính tả theo dạng bài ngắn
     - [http://www.listenaminute.com/](http://www.listenaminute.com/)

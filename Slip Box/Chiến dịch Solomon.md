@@ -1,4 +1,4 @@
-# 096d3-Chien-Dich-Solomon
+# Chiến dịch Solomon
 
 Date: Jun 19, 2021 9:18 AM
 Description: Chiến Dịch Solomon

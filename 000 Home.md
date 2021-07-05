@@ -21,7 +21,7 @@ This is your launchpad and homebase. Your personal North Star. That's here. That
 	- 10 - [[PKM MOC]]
 
 ---
-| #question❓ | [[Command N]] | [[Spaces/LYT/Team/•LYT Home|LYT]] | [[Reminders MOC]] | [[External Links MOC|External Links]] | [[Finances MOC|Finance]] | [[Commonplace MOC|Commonplace]] | [[I want to...]] | [[ToDo]]
+| #question❓ | [[Command N]] | [[Reminders MOC]] | [[External Links MOC|External Links]] | [[Finances MOC|Finance]] | [[Commonplace MOC|Commonplace]] | [[I want to...]] | [[ToDo]]
 
 ---
 #state/boat | #state/develop | #state/tidy 
@@ -30,6 +30,7 @@ This is your launchpad and homebase. Your personal North Star. That's here. That
 `#project/active` | `#project/slowburn`
 `#project/idea` | `#project/idle` | `#project/archive` 
 
+[LYT Publish](https://publish.obsidian.md/lyt-kit/%2BHome)
 [[Publish your own stuff with Obsidian Publish]]
 [[Hiding content in plain sight]]
 
