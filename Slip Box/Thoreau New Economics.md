@@ -1,6 +1,7 @@
 # Thoreau New Economics
 
-Date: Oct 22, 2020 5:51 AM
+created: Oct 22, 2020 5:51 AM
+tags: #created/2020/Oct/22
 source: #TODO
 
 the philosopher Frédéric Gros calls Thoreau’s “new economics,” a theory that builds on the following axiom, which Thoreau establishes early in Walden: “The cost of a thing is the amount of what I will call life which is required to be exchanged for it, immediately or in the long run.”

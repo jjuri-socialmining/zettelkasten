@@ -2,7 +2,7 @@
 
 - metadata
 	- created: June 30, 2021 9:34 PM
-	- tags: #people #TODO 
+	- tags: #people #state/boat  
 	- previous note:
 
 ## Notes

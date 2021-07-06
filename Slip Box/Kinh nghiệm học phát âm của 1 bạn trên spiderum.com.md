@@ -1,6 +1,7 @@
 # Phát-âm
 
-Date: Oct 22, 2020 5:50 AM
+created: Oct 22, 2020 5:50 AM
+tags: #created/2020/Oct/22
 source: #TODO
 
 - Phát âm

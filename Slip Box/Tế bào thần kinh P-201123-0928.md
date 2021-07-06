@@ -1,6 +1,7 @@
 # 012 te bao than kinh
 
-Date: Oct 23, 2020 9:28 PM
+created: Oct 23, 2020 9:28 PM
+tags: #created/2020/Oct/23
 
 ![[neuron.jpg]]
 

@@ -1,6 +1,7 @@
 # 067a1-Cau-truyen-Giuse-dinh-hon-Maria
 
-Date: Dec 25, 2020 11:55 AM
+created: Dec 25, 2020 11:55 AM
+tags: #created/2020/Dec/25
 
 Theo [[Ngụy thư Giacobe]], thượng tế Dacaria cầu nguyện để tìm ra người chông tương lai cho Đức Maria thì được trả lời rằng: “Dacaria, Dacaria, hãy đi triệu tập tất cả những người đàn ông goá vợ trong dân và bảo họ mỗi người mang đến một cây gậy. Chính Đức Chúa sẽ chỉ cho biết người nào sẽ làm chồng nàng” (Prot 8,3)
 

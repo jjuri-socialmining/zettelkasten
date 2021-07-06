@@ -2,7 +2,7 @@
 
 - metadata
 	- created: Dec 07, 2020 12:12 AM
-	- tags:
+	- tags: #created/2020/Dec/07,
 	- previous note: [[Phong trào Đại Kết P-201207-2008]]
 
 ## Notes

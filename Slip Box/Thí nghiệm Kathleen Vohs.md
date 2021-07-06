@@ -1,7 +1,8 @@
 # Thí nghiệm Kathleen Vohs
 
-Date: Nov 05, 2020 9:56 PM
-tags: #TODO 
+created: Nov 05, 2020 9:56 PM
+tags: #created/2020/Nov/05
+tags: #state/tidy  
 Description: Thí nghiệm Kathleen Vohs
 source: https://caphesach.wordpress.com/2015/07/19/nhung-hieu-ung-tam-ly-va-thuc-nghiem-tam-ly-noi-tieng-phan-vii/
 

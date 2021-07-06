@@ -1,6 +1,7 @@
 # Kinh Tin Kính Nicea
 
-Date: Dec 06, 2020 10:26 PM
+created: Dec 06, 2020 10:26 PM
+tags: #created/2020/Dec/06
 
 Tín điều Nicea được tuyên bố trong [[Cong-Dong-Nicea 325]]  hay còn gọi là kinh tin kính Nicea (Symbolum Nicaenum) là kinh tuyên xưng đức tin của giáo hội [[Công Giáo Roma P-201225-1057]] . 
 

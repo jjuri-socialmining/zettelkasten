@@ -1,6 +1,7 @@
 # 054-Lac-Thuyet-Arius
 
-Date: Dec 06, 2020 12:44 AM
+created: Dec 06, 2020 12:44 AM
+tags: #created/2020/Dec/06
 
 Lạc thuyết Arius là một thuyết lạc giáo của Ario, một linh mục giáo xứ Baucalis thuộc giáo phận [[Alexandria]] vào thế kỷ thứ 4 sau CN. Ario cho rằng Chúa con có khởi sự **được tạo dựng**, là tạo vật nên không đồng bản tính với Đức Chúa Cha. Sau gần một thế kỷ tranh luận, hội thánh Công giáo chính thức lên án Thuyết Arius là tà thuyết, đồng thời soạn kinh [[Kinh Tin Kính Nicea P-201206-2226]] trong đó khẳng định "được sinh ra mà không phải tạo thành, đồng bản tính với đức Chúa Cha"
 

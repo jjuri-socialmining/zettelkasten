@@ -1,6 +1,7 @@
 # 061-Menh-de-Filioque
 
-Date: Dec 06, 2020 12:30 AM
+created: Dec 06, 2020 12:30 AM
+tags: #created/2020/Dec/06
 Description: Mệnh đề Filioque
 
 **Mệnh đề Filioque**

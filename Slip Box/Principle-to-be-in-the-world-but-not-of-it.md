@@ -1,6 +1,7 @@
 # Principle-to-be-in-the-world-but-not-of-it
 
-Date: Oct 22, 2020 5:50 AM
+created: Oct 22, 2020 5:50 AM
+tags: #created/2020/Oct/22
 Description: Ở trong thế gian nhưng không thuộc về thế gian
 Related: [[Người Amish]]
 

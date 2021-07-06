@@ -3,7 +3,7 @@
 - metadata
 	- UID (delete): P-210704-1556
 	- created: July 4, 2021 3:56 PM
-	- tags: #linking 
+	- tags: #created/2021/Jul/4, #linking 
 	- previous note: [[Brahma - Phạm Thiên]]
 
 ## Notes

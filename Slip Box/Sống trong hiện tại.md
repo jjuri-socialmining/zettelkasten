@@ -1,6 +1,7 @@
 # 075-Song-trong-hien-tai
 
-Date: Dec 31, 2020 10:38 PM
+created: Dec 31, 2020 10:38 PM
+tags: #created/2020/Dec/31
 
 Có nhiều triết lý khuyên mọi người quên đi quá khứ và đừng nghĩ về tương lai, điều đáng làm nhất là sống từng giây phút hiện tại.
 

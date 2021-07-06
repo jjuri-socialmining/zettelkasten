@@ -1,6 +1,7 @@
 # Đảo chính VNCH 1963
 
-Date: Dec 12, 2020 9:30 PM
+created: Dec 12, 2020 9:30 PM
+tags: #created/2020/Dec/12
 Description: Đảo chính Việt Nam Cộng hòa 1963
 
 **Đảo chính Việt Nam Cộng hòa 1963** là cuộc đảo chính nhằm lật đổ chính quyền [[Ngô Đình Diệm P-201212-1444]] do chính các tướng lĩnh của Việt Nam Cộng Hòa, và có sự hậu thuẫn ngầm của Hoa Kỳ. Tổng thống Ngô Đình Diệm và cố vấn Ngô Đình Nhu bị ám sát, Chính phủ đệ nhất Cộng Hòa bị sụp đổ. Và chuyển sang chính Phủ đệ nhị Cộng hòa do Dương Văn Minh đứng đầu.

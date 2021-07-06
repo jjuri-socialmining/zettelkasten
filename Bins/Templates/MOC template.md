@@ -1,5 +1,5 @@
 # {{title}}
 
 %% - metadata:
-	- tags: #MOC %%
+	- tags: #created/{{date:YYYY/MMM/DD}}, #MOC %%
 	

@@ -1,7 +1,8 @@
 # Sách quan trọng về chủ nghĩa hư vô
 
-- Date: Jan 08, 2021 11:21 AM
-- source: #TODO
+- created: Jan 08, 2021 11:21 AM
+tags: #created/2021/Jan/08
+- source: #state/tidy 
 - previous note: [[Nihilism - Chủ nghĩa Hư vô]]
 
 ### **Sách quan trọng về chủ nghĩa hư vô**

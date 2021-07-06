@@ -1,6 +1,7 @@
 # Đại vương cung thánh đường
 
-Date: Dec 12, 2020 11:28 AM
+created: Dec 12, 2020 11:28 AM
+tags: #created/2020/Dec/12
 Description: Đại vương cung thánh đường (Major Basilica)
 
 **Đại vương cung thánh đường** (Major Basilica) là danh hiệu dành cho bốn vương cung thánh đường nổi tiếng trực thuộc phủ Giáo hoàng bao gồm 

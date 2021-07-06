@@ -1,6 +1,7 @@
 # 067a2-Giuse-co-1-vo-truoc-khi-cuoi-Maria
 
-Date: Dec 25, 2020 11:49 AM
+created: Dec 25, 2020 11:49 AM
+tags: #created/2020/Dec/25
 
 Theo [[Ngụy thư Giacobe]], Giuse góa vợ, vì theo lời Thiên Chúa đáp lại thượng tế Dacaria khi ông cầu nguyện để tìm chồng cho Maria: *“Dacaria, Dacaria, hãy đi triệu tập tất cả những người đàn ông **goá vợ** trong dân và bảo họ mỗi người mang đến một cây gậy. Chính Đức Chúa sẽ chỉ cho biết người nào sẽ làm chồng nàng"*
 

@@ -1,6 +1,7 @@
 # 201108_gia_duoc
 
-Date: Nov 08, 2020 10:29 PM
+created: Nov 08, 2020 10:29 PM
+tags: #created/2020/Nov/08
 source: #TODO
 
 P.277

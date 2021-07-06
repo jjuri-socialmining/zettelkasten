@@ -1,6 +1,7 @@
 # z_chat dan truyen than kinh
 
-Date: Nov 15, 2020 6:49 PM
+created: Nov 15, 2020 6:49 PM
+tags: #created/2020/Nov/15
 
 để gửi tín hiệu giữa các tế bào thần kinh
 

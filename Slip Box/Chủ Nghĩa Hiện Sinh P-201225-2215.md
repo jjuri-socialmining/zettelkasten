@@ -2,7 +2,7 @@
 
 - metadata
 	- created: Dec 25, 2020 10:15 PM
-	- tags:
+	- tags: #created/2020/Dec/25,
 	- previous note:
 
 ## Notes

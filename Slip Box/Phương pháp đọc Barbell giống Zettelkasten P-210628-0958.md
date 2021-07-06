@@ -3,7 +3,7 @@
 
 - metadata
 	- created: June 28, 2021 9:58 AM
-	- tags:
+	- tags: #created/2021/Jun/28,
 	- previous note: [[Barbell Reading Method P-210628-0934]]
 
 ## Notes

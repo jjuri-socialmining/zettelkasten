@@ -2,7 +2,7 @@
 
 - metadata
 	- created: June 27, 2021 10:48 PM
-	- tags:
+	- tags: #created/2021/Jun/27,
 	- previous note:
 	- url: [Wiki]([Người Neanderthal – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Neanderthal))
 

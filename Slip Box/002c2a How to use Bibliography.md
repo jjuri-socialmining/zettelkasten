@@ -1,6 +1,7 @@
 # 002c2a How to use Bibliography
 
-Date: Oct 21, 2020 10:38 PM
+created: Oct 21, 2020 10:38 PM
+tags: #created/2020/Oct/21
 
 - Trích dẫn nguồn từ sách
 

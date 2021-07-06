@@ -1,6 +1,7 @@
 # 040-Temptation-Bundling-Methods
 
-Date: Oct 22, 2020 5:50 AM
+created: Oct 22, 2020 5:50 AM
+tags: #created/2020/Oct/22
 Description: phương pháp Đóng gói cám dỗ
 source: https://tamlyhoctoipham.com/nhan-thuc/thuc-day-suc-manh-y-chi-bang-phuong-phap-dong-goi-cam-do-559.html
 

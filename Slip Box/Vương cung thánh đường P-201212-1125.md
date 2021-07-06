@@ -1,6 +1,7 @@
 # Vương cung thánh đường
 
-Date: Dec 12, 2020 11:25 AM
+created: Dec 12, 2020 11:25 AM
+tags: #created/2020/Dec/12
 Description: Vương cung thánh đường
 
 **Vương cung thánh đường** (Basilica) là một danh hiệu mà ĐGH dành cho một số nhà thờ hoặc thánh địa có nhiều ý nghĩa và giá trị về lịch sử, kiến trúc cũng như ý nghĩa về mặt tôn giáo đối với giáo hội. Phần lớn các vương cung thánh đường là các nhà thờ chính tòa, nhưng không phải các nhà thờ chính tòa đều được phong danh hiệu này.

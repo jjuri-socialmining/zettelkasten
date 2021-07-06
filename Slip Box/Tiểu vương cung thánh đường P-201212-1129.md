@@ -1,6 +1,7 @@
 # Tiểu vương cung thánh đường
 
-Date: Dec 12, 2020 11:29 AM
+created: Dec 12, 2020 11:29 AM
+tags: #created/2020/Dec/12
 Description: Tiểu vương cung thánh đường (Minor Basilica)
 
 **Tiểu vương cung thánh đường** (Minor Basilica) là danh hiệu dành ngôi thánh đường hay thánh địa do Đức Giáo Hoàng phong tặng. 

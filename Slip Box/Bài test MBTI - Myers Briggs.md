@@ -1,6 +1,7 @@
 # Bài test MBTI - Myers Briggs
 
-Date: Jun 16, 2021 10:48 PM
+created: Jun 16, 2021 10:48 PM
+tags: #created/2021/Jun/16
 
 Myers-Briggs Type Indication (MBTI) là bài test bao gồm một danh sách các câu hỏi trắc nghiệm để đánh giá tính cách của con người. Dựa vào các câu trả lời của người tham gia, ta có thể phân loại được tính cách cũng như lựa chọn được nghề nghiệp phù hợp cho mỗi người.
 

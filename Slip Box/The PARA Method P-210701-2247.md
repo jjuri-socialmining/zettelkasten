@@ -3,7 +3,7 @@
 - metadata
 	- UID (delete): P-210701-2247
 	- created: July 1, 2021 10:47 PM
-	- tags: #TODO 
+	- tags: #created/2021/Jul/1, #state/boat  
 	- previous note:
 
 ## Notes

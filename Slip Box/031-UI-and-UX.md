@@ -1,6 +1,7 @@
 # 031-UI-and-UX
 
-Date: Oct 22, 2020 5:51 AM
+created: Oct 22, 2020 5:51 AM
+tags: #created/2020/Oct/22
 
 Là định nghĩa về thiết kế giao diện của web, ứng dụng liên quan đến lập trình
 

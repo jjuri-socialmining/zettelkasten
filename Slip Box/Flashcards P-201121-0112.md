@@ -2,7 +2,7 @@
 
 - metadata
 	- created: Nov 21, 2020 1:12 AM
-	- tags:
+	- tags: #created/2020/Nov/21,
 	- previous note: [[Spaced Repetition P-201121-0022]]
 
 ## Notes

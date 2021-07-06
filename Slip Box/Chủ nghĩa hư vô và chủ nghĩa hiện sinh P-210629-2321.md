@@ -2,7 +2,7 @@
 
 - metadata
 	- created: June 29, 2021 11:21 PM
-	- tags: #TODO 
+	- tags: #created/2021/Jun/29, #linking 
 	- previous note: [[Nihilism - Chủ nghĩa Hư vô]]
 	- source: https://ichi.pro/vi/chu-nghia-hien-sinh-vs-chu-nghia-hu-vo-giai-thich-va-su-khac-biet-chinh-cua-moi-183062170379920
 

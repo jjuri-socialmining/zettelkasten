@@ -1,6 +1,7 @@
 # Shadow
 
-Date: May 03, 2021 9:59 PM
+created: May 03, 2021 9:59 PM
+tags: #created/2021/May/03
 
 
 Shadow (Bóng tối) là một trong bốn nguyên mẫu [[Jungian Archetypes - Nguyên mẫu của Jung]] theo học thuyết của Jung.

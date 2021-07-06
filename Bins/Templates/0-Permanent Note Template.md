@@ -2,9 +2,9 @@
 
 - metadata
 	- UID: P-{{date}}
-	- created: {{date:LLL}}
-	- tags:
-	- previous note:
+	- tags: #created/{{date:YYYY/MMM/DD}}
+	- previous note: 
+	- source: 
 
 ## Notes
 

@@ -1,9 +1,8 @@
 # {{title}}
 
 - metadata:
-	- tags: 
-	- UID (delete): L-{{date}}
-	- created/modified: {{date:LLL}}
+	- tags:  #created/{{date:YYYY/MMM/DD}}
+	- UID: L-{{date}}
 	- people: 
 
 

@@ -1,6 +1,7 @@
 # MAF Method - Phil Maffetone
 
-Date: Jun 17, 2021 11:24 PM
+created: Jun 17, 2021 11:24 PM
+tags: #created/2021/Jun/17
 
 MAF, viết tắt của Maximum Aerobic Function, nghĩa là tối đa hoá chức năng hiếu khí của con người. MAF là một phương pháp chạy bộ được sáng lập bởi [[Phil-Maffetone]].
 

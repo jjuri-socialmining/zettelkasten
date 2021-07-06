@@ -3,7 +3,7 @@
 - metadata
 	- UID (delete): P-210704-1145
 	- created: July 4, 2021 11:45 AM
-	- tags:
+	- tags: #created/2021/Jul/4,
 	- previous note:
 
 ## Notes

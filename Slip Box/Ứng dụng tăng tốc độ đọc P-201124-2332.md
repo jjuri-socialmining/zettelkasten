@@ -2,7 +2,7 @@
 
 - metadata
 	- created: Nov 24, 2020 11:32 PM
-	- tags: #TODO 
+	- tags: #created/2020/Nov/24, #state/tidy  
 	- previous note:
 
 ## Notes

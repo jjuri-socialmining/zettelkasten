@@ -1,4 +1,5 @@
 # Bảy công đồng đại kết đầu tiên
 
-Date: Dec 07, 2020 12:11 AM
+created: Dec 07, 2020 12:11 AM
+tags: #created/2020/Dec/07
 source: #TODO

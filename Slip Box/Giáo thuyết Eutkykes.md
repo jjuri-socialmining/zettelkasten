@@ -1,3 +1,4 @@
 # Giáo thuyết Eutkykes
 
-Date: Jan 01, 2021 11:26 AM
+created: Jan 01, 2021 11:26 AM
+tags: #created/2021/Jan/01

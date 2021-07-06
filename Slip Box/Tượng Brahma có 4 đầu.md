@@ -3,7 +3,7 @@
 - metadata
 	- UID (delete): P-210704-1623
 	- created: July 4, 2021 4:23 PM
-	- tags:
+	- tags: #created/2021/Jul/4,
 	- previous note: [[Trimurti - Tam thần Ấn giáo]]
 
 ## Notes

@@ -10,7 +10,8 @@
 ## Questions & thoughts:
 
 
-Date: Oct 21, 2020 10:09 PM
+created: Oct 21, 2020 10:09 PM
+tags: #created/2020/Oct/21
 Description: Ghi chú vĩnh viễn
 
 Permanent note được gọi là ghi chú vĩnh cửu, ghi chú không thay đổi. Nó chứa đựng một ý tưởng độc lập và mang đầy đủ ý nghĩa cũng như hoàn chỉnh cấu trúc câu. Ghi chú nên ngắn gọn và xúc tích tập trung vào một chủ đề duy nhất, thường khoảng 3-5 câu. Mỗi câu giống như một câu trong một bài báo hoặc một quyển sách thực sự.

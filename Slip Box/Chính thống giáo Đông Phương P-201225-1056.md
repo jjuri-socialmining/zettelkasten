@@ -1,6 +1,7 @@
 # Chính thống giáo Đông Phương
 
-Date: Dec 25, 2020 10:56 AM
+created: Dec 25, 2020 10:56 AM
+tags: #created/2020/Dec/25
 Description: Chính thống giáo Đông Phương
 
 Chính Thống giáo là nhánh lớn thứ nhì của Kito giáo, sau [[Công Giáo Roma P-201225-1057]]. Trong thiên niên kỷ đầu, Chính Thống Giáo và Công Giáo là một giáo hội, tuy nhiên do tách biệt địa lý chính trị văn hóa. đến 1054, các thượng phụ xung đột quyền với Đức Giáo Hoàng và chính thức ly khai khỏi Công giáo. Đức Giáo Hoàng rút thông phép thông công với Chính thông giáo. Sự kiện này được biết đến với cái tên [[Đại ly giáo Đông Tây (P-201206-0059)]] 

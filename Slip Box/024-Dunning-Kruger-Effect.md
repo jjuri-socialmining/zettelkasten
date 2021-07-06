@@ -1,6 +1,7 @@
 # 024-Dunning-Kruger-Effect
 
-Date: Oct 22, 2020 5:50 AM
+created: Oct 22, 2020 5:50 AM
+tags: #created/2020/Oct/22
 Description: Hiệu ứng Dunning Kruger
 
 **Hiệu ứng Dunning Kruger** là một thiên kiến nhận thức trong đó mọi người đánh giá nhận thức của họ trên mức năng lực hiện tại họ có.

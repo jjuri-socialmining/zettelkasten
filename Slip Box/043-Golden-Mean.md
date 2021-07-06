@@ -1,6 +1,7 @@
 # 043-Golden-Mean
 
-Date: Nov 07, 2020 11:11 PM
+created: Nov 07, 2020 11:11 PM
+tags: #created/2020/Nov/07
 Description: Quy tắc vàng, sống điều hòa, không thiên về cực nào
 
 Theo Golden Mean của Aristotle, những thứ sát giới hạn trên hoặc giới hạn dưới đều không tốt, tốt nhất là ở giữa. 

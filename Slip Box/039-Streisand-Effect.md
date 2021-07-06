@@ -1,6 +1,7 @@
 # 039-Streisand-Effect
 
-Date: Oct 25, 2020 9:56 PM
+created: Oct 25, 2020 9:56 PM
+tags: #created/2020/Oct/25
 Description: Hiệu ứng Streisand
 
 **Hiệu ứng Streisand** (Streisand effect) là hiện tượng khi ai đó cố tình kiểm duyệt, cấm, che dấu một thông tin thì lại khiến thông tin lan truyền một cách bùng nổ không kiểm soát, đặc biệt trên mạng internet.

@@ -2,7 +2,7 @@
 
 - metadata
 	- created: Dec 12, 2020 11:24 AM
-	- tags: #TODO
+	- tags: #created/2020/Dec/12, #state/tidy 
 	- previous note: [[Ngô Đình Thục P-201209-0524]]
 
 ## Notes

@@ -1,6 +1,7 @@
 # 033-Cornell-Notetaking-Method
 
-Date: Nov 05, 2020 9:38 PM
+created: Nov 05, 2020 9:38 PM
+tags: #created/2020/Nov/05
 Description: Phương pháp ghi chú Cornell
 
 Là một phương pháp ghi chú được đưa ra bởi giáo sư Walter Pauk thuộc trường Đại học Cornell vào những năm 1950. 

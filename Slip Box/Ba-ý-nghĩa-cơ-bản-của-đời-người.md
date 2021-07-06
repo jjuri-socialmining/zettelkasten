@@ -1,6 +1,7 @@
 # Ba-ý-nghĩa-cơ-bản-của-đời-người
 
-Date: Oct 22, 2020 5:49 AM
+created: Oct 22, 2020 5:49 AM
+tags: #created/2020/Oct/22
 source: #TODO
 
 - Ba ý nghĩa cơ bản của đời người

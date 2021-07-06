@@ -1,6 +1,7 @@
 # 003a-Reference-Manager-Software
 
-Date: Oct 21, 2020 10:16 PM
+created: Oct 21, 2020 10:16 PM
+tags: #created/2020/Oct/21
 
 **Reference Manager Software** là một phần mềm, công cụ phục vụ trong việc quản lý tài liệu tham khảo ([[Reference Manager P-201021-2216]] )
 

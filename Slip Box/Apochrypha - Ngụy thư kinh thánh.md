@@ -1,6 +1,7 @@
 # 067-Nguy-thu-kinh-thanh
 
-Date: Dec 25, 2020 11:37 AM
+created: Dec 25, 2020 11:37 AM
+tags: #created/2020/Dec/25
 Description: Ngụy thư kinh thanh
 
 **Ngụy thư** (**Apochrypha**) tiếng Hy lạp có nghĩa là “những điều được che dấu”. Ngụy thư được phân làm hai loại:

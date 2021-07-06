@@ -1,6 +1,7 @@
 # 060-Va-tuyet-thong
 
-Date: Dec 08, 2020 10:43 PM
+created: Dec 08, 2020 10:43 PM
+tags: #created/2020/Dec/08
 Description: Vạ Tuyệt Thông
 
 **Vạ tuyệt thông** (hay rút phép thông công) là một hình phạt của Giáo hội Công giáo Rôma dành cho những giáo sĩ và giáo dân phạm trọng tội.

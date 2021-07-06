@@ -1,6 +1,7 @@
 # Anabaptist
 
-Date: Nov 06, 2020 9:59 PM
+created: Nov 06, 2020 9:59 PM
+tags: #created/2020/Nov/06
 
 **Anabaptists** là một nhánh cải cách đạo Cơ đốc chống đối việc rửa tội cho trẻ sơ sinh. Vì họ cho rằng, theo kinh thánh Tân Ước, người trưởng thành có đủ nhận biết và tự do mới có quyền chọn lựa chịu phép rửa hay không. 
 

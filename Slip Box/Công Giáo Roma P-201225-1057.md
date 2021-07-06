@@ -1,6 +1,7 @@
 # Công giáo Roma
 
-Date: Dec 25, 2020 10:57 AM
+created: Dec 25, 2020 10:57 AM
+tags: #created/2020/Dec/25
 Description: Đạo Công giáo
 
 **Công giáo** (hay còn gọi là **Công giáo Roma**) là nhánh lớn nhất của **Kito giáo.** Giáo Hội công giáo được xem là giáo hội duy nhất cho Chúa Giesu thiết lập, Đức Giáo Hoàng là người kế vị tông đồ Phero.

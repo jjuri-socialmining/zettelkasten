@@ -1,6 +1,7 @@
 # Wordpress
 
-Date: Oct 22, 2020 5:51 AM
+created: Oct 22, 2020 5:51 AM
+tags: #created/2020/Oct/22
 source: #TODO
 
 - Wordpress

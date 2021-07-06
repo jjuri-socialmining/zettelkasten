@@ -1,6 +1,7 @@
 # Jungian Archetypes - Nguyên mẫu của Jung
 
-Date: Jun 05, 2021 9:52 AM
+created: Jun 05, 2021 9:52 AM
+tags: #created/2021/Jun/05
 Description: Các nguyên mẫu theo học thuyết của Jung
 
 **Jungian Archetypes**: Những nguyên mẫu theo học thuyết của [[Carl Jung P-210117-2207]] là những hình mẫu về hành vi tính cánh con người.

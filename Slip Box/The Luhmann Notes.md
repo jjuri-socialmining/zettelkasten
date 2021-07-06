@@ -1,6 +1,7 @@
 # The Luhmann Notes
 
-Date: Oct 22, 2020 12:06 AM
+created: Oct 22, 2020 12:06 AM
+tags: #created/2020/Oct/22
 
 [[Fleeting Note P-201221-2209]]
 [[Literature Note P-201021-2209]]

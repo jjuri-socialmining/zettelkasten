@@ -1,4 +1,5 @@
 # 082b3-Anima/Animus
 
-Date: Jun 05, 2021 9:17 AM
+created: Jun 05, 2021 9:17 AM
+tags: #created/2021/Jun/05
 Description: Nguyên mẫu của Jung

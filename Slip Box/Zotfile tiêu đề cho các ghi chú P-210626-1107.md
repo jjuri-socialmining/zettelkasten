@@ -3,7 +3,7 @@
 - metadata
 	- UID (delete): P-210704-1631
 	- created: July 4, 2021 4:31 PM
-	- tags:
+	- tags: #created/2021/Jul/4
 	- previous note: [[Zotfile P-210626-1028]], [[Zotero P-201021-2217]]
 
 ## Notes

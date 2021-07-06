@@ -1,6 +1,7 @@
 # 042-Amish
 
-Date: Oct 22, 2020 5:50 AM
+created: Oct 22, 2020 5:50 AM
+tags: #created/2020/Oct/22
 Description: Người Amish
 
 Người Amish là một nhóm người Kito giáo "duy truyền thống" có nguồn gốc từ Thụy Sĩ. Sau khi ly giáo khỏi giáo hội Anabaptist ở Thụy Sĩ vào năm 1693. Họ được dẫn dắt bởi Jakob Ammann. Tên gọi Amish bắt nguồn từ đó. Khoảng thế kỷ 18 thì người Amish và [[Mennonite ]] di cư sang Pennsylvania. Họ vẫn duy trì phong cách sống đơn giản, trang phục giản dị, lối sống khép kín và ít phụ thuộc công nghệ.

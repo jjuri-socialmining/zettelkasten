@@ -1,6 +1,7 @@
 # 022-Duchenne-Smile
 
-Date: Nov 03, 2020 10:53 PM
+created: Nov 03, 2020 10:53 PM
+tags: #created/2020/Nov/03
 
 Nụ cười kiểu này được đặt tên cho Guillaume Duchenne, nhà khoa học thế kỷ 19
 

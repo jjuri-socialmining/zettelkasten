@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "c543578d3705ab16",
+        "id": "fa838a33eab13702",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Slip Box/Nội dung lạc thuyết Arius.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#created/2020/Nov/03",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -53,7 +56,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -74,7 +78,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -85,6 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Slip Box/Nội dung lạc thuyết Arius.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -118,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Slip Box/Nội dung lạc thuyết Arius.md"
+              }
             }
           },
           {
@@ -166,6 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Slip Box/Nội dung lạc thuyết Arius.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -180,20 +188,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 591,
-    "collapsed": true
+    "width": 269
   },
-  "active": "c543578d3705ab16",
+  "active": "fa838a33eab13702",
   "lastOpenFiles": [
-    "Quốc hiệu VN qua các thời kỳ MOC.md",
-    "Reference Box/Bùi Đức Sinh O.P, Lịch sử Giáo Hội Công Giáo.md",
-    "Reference Box/2015 ≡ƒôÜ Between the World and Me.md",
-    "Reference Box/1844 ≡ƒôÜ The Count of Monte Cristo.md",
-    "Reference Box/Articles/ichi.pro, Chủ nghĩa hiện sinh vs Chủ nghĩa hư vô.md",
-    "Reference Box/Articles/ybox.vn, Hiểu Về Vô Thức Tập Thể (The Collective Unconscious) Theo Quan Điểm Của Nhà Tâm Lý Học Carl Jung.md",
-    "Reference Box/Articles/Zotero best practices - Knowledge management.md",
-    "Reference Box/Trần Trọng Kim, Việt Nam sử lược.md",
+    "Slip Box/Nội dung lạc thuyết Arius.md",
+    "Existentialism MOC.md",
+    "Bins/People/Friedrich Nietzsche P-201022-0549.md",
+    "Slip Box/Dopamine P-201115-1847.md",
+    "Slip Box/Thập Tự Chinh P-201202-0015.md",
     "Bins/Templates/MOC template.md",
-    "Bins/Templates/Permanent Note Template.md"
+    "Bins/Templates/Literature Note Template.md",
+    "Spaces/Daily/210706-2353 Journal.md",
+    "Bins/Templates/1-Date Tag Template.md",
+    "Bins/Templates/0-Permanent Note Template.md"
   ]
 }

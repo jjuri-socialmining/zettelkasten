@@ -2,7 +2,7 @@
 
 - metadata
 	- created: June 27, 2021 09:07 PM
-	- tags:
+	- tags: #created/2021/Jun/27,
 	- previous note: [[Slipbox Software P-201021-2201]], [[Zettelkasten P-201021-1230]]
 
 ## Template

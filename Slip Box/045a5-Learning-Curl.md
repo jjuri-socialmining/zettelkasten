@@ -1,6 +1,7 @@
 # 045a5-Learning-Curl
 
-Date: Nov 21, 2020 12:43 AM
+created: Nov 21, 2020 12:43 AM
+tags: #created/2020/Nov/21
 
 Đường cong học tập (hay còn được gọi là đường cong lãng quên) là một đồ thị dựa trên nghiên cứu (của Hermann Ebbinghaus) về việc ghi nhớ các âm tiết vô nghĩa và liên tục tự kiểm tra sau nhiều khoảng thời gian khác nhau và thống kê lại kết quả.
 

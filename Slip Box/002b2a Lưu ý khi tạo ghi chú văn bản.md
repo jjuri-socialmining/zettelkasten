@@ -1,6 +1,7 @@
 # 002b2a Lưu ý khi tạo ghi chú văn bản
 
-Date: Oct 21, 2020 10:44 PM
+created: Oct 21, 2020 10:44 PM
+tags: #created/2020/Oct/21
 
 Ahrens có đưa ra một số lời khuyên khi tạo ghi chú văn bản:
 - Cực kỳ chọn lọc những thứ được ghi chú

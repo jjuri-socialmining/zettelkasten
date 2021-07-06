@@ -1,6 +1,7 @@
 # 067a-Nguy-thu-Giacobe
 
-Date: Dec 25, 2020 11:28 AM
+created: Dec 25, 2020 11:28 AM
+tags: #created/2020/Dec/25
 Description: Ngụy thư Giacôbê
 
 **Ngụy thư Giacôbê (Tiền Phúc âm thánh Giacôbê)** là một **Phúc Âm ngoại điển** được viết khoảng 150. Sách gồm 25 chương quan tâm đặc biệt đến cuộc đời của Đức Mẹ. Vì thế Phúc âm này được xem là Phúc âm Đức Maria. Sách được biên soạn bởi một người tự nhận là Giacôbê, anh cùng cha khác mẹ với Đức Giêsu.

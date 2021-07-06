@@ -1,6 +1,7 @@
 # Cải Cách Kháng Nghị
 
-Date: Dec 06, 2020 10:47 PM
+created: Dec 06, 2020 10:47 PM
+tags: #created/2020/Dec/06
 Description: Cải cách Kháng Nghị, hay cải cách Tin Lành
 
 **Cải cách kháng nghị** (Protestant Reformation) **Cải cánh Tin Lành** hay  là cuộc cải cách tôn giáo khởi xướng bởi [[Martin Luther P-201225-1003]] thế kỷ 16. Ý định ban đầu là nhằm cải cách Giáo hội công giáo Roma trước những tình trạng lạm dụng mua bán chức thánh, thối nát, băng hoại trong hệ thống ngay cả ĐGH. 

@@ -1,6 +1,7 @@
 # Hội chứng FOMO
 
-Date: Nov 21, 2020 9:43 PM
+created: Nov 21, 2020 9:43 PM
+tags: #created/2020/Nov/21
 Description: Hội chứng FOMO Fear Of Missing Out
 
 **FOMO** là từ viết tắt của **Fear Of Missing Out** dịch là hội chứng sợ bỏ lỡ.

@@ -3,7 +3,7 @@
 - metadata
 	- UID (delete): P-210704-1443
 	- created: July 4, 2021 2:43 PM
-	- tags:
+	- tags: #created/2021/Jul/4,
 	- previous note: [[Phật giáo]]
 
 ## Notes

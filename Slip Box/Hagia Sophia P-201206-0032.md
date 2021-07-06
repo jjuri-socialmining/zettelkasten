@@ -1,6 +1,7 @@
 # 053b-Hagia-Sophia
 
-Date: Dec 06, 2020 12:32 AM
+created: Dec 06, 2020 12:32 AM
+tags: #created/2020/Dec/06
 Description: Nhà Thờ Hagia Sophia
 
 Hagia Sophia trong tiếng Hy Lạp là "Sự khôn ngoan của Thiên Chúa"
