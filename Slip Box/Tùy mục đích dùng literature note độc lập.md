@@ -1,8 +1,8 @@
 # Tùy mục đích dùng literature note độc lập 
 
 - metadata
-	- created: June 28, 2021 11:28 PM #created/2021/June/28,
-	- tags:
+	- created: June 28, 2021 11:28 PM 
+	- tags: #created/2021/June/28,
 	- previous note:
 
 ## Notes

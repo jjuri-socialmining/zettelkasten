@@ -6,7 +6,7 @@
 	- previous note:
 
 ## Notes
-[[MOC - Map Of Content P-210701-1248|MOC]] Note trong [[LYT System]] là một dạng của [[Structure Note]] trong [[Zettelkasten P-201021-1230]]
+[[MOC - Map Of Content P-210701-1248|MOC]] Note trong [[LYT System]] là một dạng của [[Structure Note]] trong [[Zettelkasten]]
 ## Questions & thoughts:
 - Tìm hiểu Structure note, Hub note trong phương pháp Zettelkasten
 

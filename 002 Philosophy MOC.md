@@ -43,4 +43,4 @@
 
 **20th Century AD**
 - 1905 - 1980 - [[Jean Paul Sartre P-201107-2314]]
-- 1913 - 1960 - [[Albert Camus P-210630-2134]]
+- 1913 - 1960 - [[Albert Camus]]

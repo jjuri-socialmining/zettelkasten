@@ -9,5 +9,5 @@
 ## Notes
 
 ## Questions & thoughts:
-- Các biểu tượng trong [[Bài Tarot]] tương tự như những nguyên mẫu trong học thuyết của [[Carl Jung P-210117-2207]]
+- Các biểu tượng trong [[Bài Tarot]] tương tự như những nguyên mẫu trong học thuyết của [[Carl Jung]]
 - Jung nghiên cứu Tarot, [[Kinh Dịch]] của Trung Hoa

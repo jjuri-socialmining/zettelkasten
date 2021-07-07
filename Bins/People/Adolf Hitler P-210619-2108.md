@@ -2,7 +2,7 @@
 
 - metadata
 	- created: Jun 19, 2021 9:08 PM
-	- tags: #people 
+	- tags: #created/2021/Jun/19 #people 
 	- previous note:
 
 ## Notes

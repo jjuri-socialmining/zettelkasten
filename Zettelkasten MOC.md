@@ -7,13 +7,13 @@
 Phương pháp Zettelkasten là một hệ thống quản lý tri thức (Knowledge Management). Hoặc phát triển lên tầm xa hơn nữa thì nó còn được gọi là bộ não thứ 2 ([[The Second Brain P-201021-2223|The Second Brain]] )
 
 ### Ba phần chính của một hệ thống Zettelkasten
-- [[Zettelkasten P-201021-1230]] hay còn gọi là Slipbox
+- [[Zettelkasten]] hay còn gọi là Slipbox
 - Hệ thống quản lý tri thức [[Reference Manager P-201021-2216]] 
 - Trình soạn thảo văn bản
 
 ### Cách thức thực hiện
-Khi ý tưởng đến bất chợt, bạn tạo một ghi chú [[Fleeting Note P-201221-2209]] để lưu trữ lại ý tưởng.
-Khi bạn đang đọc một quyển sách, văn bản mà bạn có thời gian gian hoàn chỉnh nội dụng câu chữ bạn hoàn có thể tạo ra một [[Literature Note P-201021-2209 ]]. Những [[Fleeting Note P-201221-2209]] cũng sẽ được bỏ đi sau khi nội dụng nó được hoàn thiện trong một [[Permanent Note P-201021-2209]] 
+Khi ý tưởng đến bất chợt, bạn tạo một ghi chú [[Fleeting Note]] để lưu trữ lại ý tưởng.
+Khi bạn đang đọc một quyển sách, văn bản mà bạn có thời gian gian hoàn chỉnh nội dụng câu chữ bạn hoàn có thể tạo ra một [[Literature Note P-201021-2209 ]]. Những [[Fleeting Note]] cũng sẽ được bỏ đi sau khi nội dụng nó được hoàn thiện trong một [[Permanent Note]] 
 
 ### Ví dụ
 [[Sample of Generate Liturature note]]

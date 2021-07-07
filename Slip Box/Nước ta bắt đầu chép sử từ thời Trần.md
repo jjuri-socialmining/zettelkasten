@@ -3,7 +3,7 @@
 - metadata
 	- UID (delete): P-210705-2217
 	- created: July 5, 2021 10:17 PM
-	- tags: #literature-notes 
+	- tags: #created/2021/Jul/5  #literature-notes 
 	- previous note:
 
 ## Notes

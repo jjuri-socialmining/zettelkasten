@@ -8,4 +8,4 @@
 
 **19th Century**
 1856 - 1939 - [[Sigmund Freud]]
-1875 - 1961 - [[Carl Jung P-210117-2207]]
+1875 - 1961 - [[Carl Jung]]

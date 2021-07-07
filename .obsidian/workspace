@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "fa838a33eab13702",
+        "id": "0d78ae63a35973e1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slip Box/Esperanto - Quốc tế  ngữ.md",
+            "file": "Slip Box/Triển khai Zettelkasten trên Obsidian.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#created/2020/",
+                "query": "tag:#question❓",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -60,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369
+    "width": 369,
+    "collapsed": true
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -88,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Slip Box/Esperanto - Quốc tế  ngữ.md",
+                "file": "Slip Box/Triển khai Zettelkasten trên Obsidian.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slip Box/Esperanto - Quốc tế  ngữ.md"
+                "file": "Slip Box/Triển khai Zettelkasten trên Obsidian.md"
               }
             }
           },
@@ -172,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slip Box/Esperanto - Quốc tế  ngữ.md",
+                "file": "Slip Box/Triển khai Zettelkasten trên Obsidian.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -189,17 +190,17 @@
     "direction": "horizontal",
     "width": 269
   },
-  "active": "fa838a33eab13702",
+  "active": "0d78ae63a35973e1",
   "lastOpenFiles": [
-    "Slip Box/Esperanto - Quốc tế  ngữ.md",
-    "Spaces/Daily/210707-0856.md",
-    "Slip Box/Robert-Moore.md",
-    "Bins/People/Albert Camus P-210630-2134.md",
-    "Bins/Templates/1-Date Tag Template.md",
-    "Bins/People/Adolf Hitler P-210619-2108.md",
-    "Slip Box/Attention.md",
-    "Slip Box/Hub note  P-210701-1222.md",
-    "Slip Box/Reference Manager P-201021-2216.md",
-    "Slip Box/Thư Corinto là thư hay nhất của Phao lô.md"
+    "Slip Box/Triển khai Zettelkasten trên Obsidian P-210627-0907.md",
+    "Slip Box/Slipbox Software P-201021-2201.md",
+    "Slip Box/Triển khai Zettelkasten thủ công và kỹ thuật số P-210627-2237.md",
+    "Slip Box/Slipbox P-201021-2158.md",
+    "Slip Box/Zettelkasten P-201021-1230.md",
+    "Slip Box/Niklas Luhmann P-20201021-2130.md",
+    "Slip Box/Fleeting Note P-201221-2209.md",
+    "Slip Box/Permanent Note P-201021-2209.md",
+    "Reference Box/201017.md",
+    "Slip Box/GPT và MBR.md"
   ]
 }

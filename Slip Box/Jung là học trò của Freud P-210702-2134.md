@@ -6,6 +6,6 @@
 	- previous note:
 
 ## Notes
-[[Carl Jung P-210117-2207]] là học trò, là người bạn thân thiết của [[Sigmund Freud]]. Tuy nhiên, quan điểm học thuyết của hai nhà tâm lý có những điểm khác nhau đặc về vô thức.
+[[Carl Jung]] là học trò, là người bạn thân thiết của [[Sigmund Freud]]. Tuy nhiên, quan điểm học thuyết của hai nhà tâm lý có những điểm khác nhau đặc về vô thức.
 ## Questions & thoughts:
 

@@ -3,9 +3,9 @@
 created: Oct 22, 2020 12:06 AM
 tags: #created/2020/Oct/22
 
-[[Fleeting Note P-201221-2209]]
+[[Fleeting Note]]
 [[Literature Note P-201021-2209]]
-[[Permanent Note P-201021-2209]]
+[[Permanent Note]]
 
 [[Hub note  P-210701-1222]]
 

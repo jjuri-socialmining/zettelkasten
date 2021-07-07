@@ -7,6 +7,6 @@
 
 ## Notes
 
-Robert-Moore là một nhà tâm lý học theo trường phái [[Carl Jung P-210117-2207]], tác giả quyển sách [[King, Warrior, Magician, Lover]]
+Robert-Moore là một nhà tâm lý học theo trường phái [[Carl Jung]], tác giả quyển sách [[King, Warrior, Magician, Lover]]
 
 ## Questions & thoughts:

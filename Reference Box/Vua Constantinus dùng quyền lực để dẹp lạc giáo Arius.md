@@ -3,6 +3,7 @@
 Author: Bùi Đức Sinh O.P.
 Book: Lịch sử giáo hội Công Giáo
 Created: Jan 01, 2021
+#created/2021/Jan/01 
 Descrip: Vua Constantinus dùng quyền lực để dẹp lạc giáo Arius
 Page: 135
 Related to slip_box (Ref-box): [[054b-Constantinus-chong-Arius]]
