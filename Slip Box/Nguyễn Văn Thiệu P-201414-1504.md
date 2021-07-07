@@ -1,7 +1,7 @@
 # Nguyễn Văn Thiệu P-201414-1504
 
 - metadata
-	- created: Dec 12, 2020 3:04 PM
+	- created: Dec 12, 2020 3:04 PM #created/2020/Dec/12,
 	- tags: #people 
 	- previous note: [[Ngô Đình Diệm P-201212-1444]]
 

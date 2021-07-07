@@ -1,8 +1,8 @@
 # Chủng tộc thượng đẳng
 
 - metadata
-	- created: Jun 19, 2021 9:57 PM
-	- tags:
+	- created: Jun 19, 2021 9:57 PM 
+	- tags: #created/2021/Jun/19,
 	- previous note:
 
 ## Notes

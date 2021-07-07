@@ -1,7 +1,7 @@
 # Permanent Note
 
 - metadata
-	- created: Oct 21, 2020 10:09 PM
+	- created: Oct 21, 2020 10:09 PM #created/2020/Oct/21,
 	- tags:
 	- previous note:
 

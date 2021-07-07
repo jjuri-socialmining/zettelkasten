@@ -1,7 +1,7 @@
 # 092a-Richard-Feynman
 
 - metadata
-	- created: Jun 16, 2021 11:15 PM
+	- created: Jun 16, 2021 11:15 PM #created/2021/Jun/16,
 	- tags: #people 
 	- previous note:
 

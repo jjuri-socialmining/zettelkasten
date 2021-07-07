@@ -1,7 +1,7 @@
 # Stoicism - Chủ nghĩa khắc kỷ
 
 - metadata
-	- created: Jan 01, 2021 11:42 AM
+	- created: Jan 01, 2021 11:42 AM #created/2021/Jan/01,
 	- tags:
 	- previous note:
 

@@ -1,7 +1,7 @@
 # Theodor Herzl P-210618-2352
 
 - metadata
-	- created: Jun 18, 2021 11:52 PM
+	- created: Jun 18, 2021 11:52 PM #created/2021/Jun/18,
 	- tags: #people 
 	- previous note: [[Chủ Nghĩa Zion P-210618-2234]]
 

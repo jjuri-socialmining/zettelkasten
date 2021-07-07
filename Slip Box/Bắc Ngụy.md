@@ -1,7 +1,7 @@
 # Bắc Ngụy
 
 - metadata
-	- UID: P-210706-2239, #created/2021/Jul/06
+	- UID: P-210706-2239
 	- tags: #created/2021/Jul/06, #state/tidy 
 	- previous note: 
 	- source: 

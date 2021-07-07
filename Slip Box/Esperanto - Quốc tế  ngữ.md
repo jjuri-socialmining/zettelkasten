@@ -1,8 +1,8 @@
 # Esperanto - Quốc tế  ngữ
 
 - metadata
-	- created:  Nov 13, 2020 12:50 PM
-	- tags: #TODO 
+	- created:  Nov 13, 2020 12:50 PM 
+	- tags: #created/2020/Nov/13, #TODO 
 	- previous note:
 
 ## Notes

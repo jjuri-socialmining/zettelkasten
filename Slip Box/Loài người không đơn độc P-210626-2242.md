@@ -1,7 +1,7 @@
 # Loài người không đơn độc
 
 - metadata
-	- created: June 27, 2021 10:52 AM
+	- created: June 27, 2021 10:52 AM #created/2021/June/27,
 	- tags:
 	- previous note:
 

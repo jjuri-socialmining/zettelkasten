@@ -1,8 +1,8 @@
 # Thư Corinto là thư hay nhất của Phao lô
 
 - metadata
-	- created: Dec 31, 2020
-	- tags: #literature-notes 
+	- created: Dec 31, 2020 
+	- tags: #created/2020/Dec/31, #literature-notes 
 	- previous note: [[Bùi Đức Sinh O.P, Lịch sử Giáo Hội Công Giáo]], note7
 
 ## Notes

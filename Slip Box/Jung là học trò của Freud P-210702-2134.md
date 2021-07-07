@@ -1,8 +1,8 @@
 # Jung là học trò của Freud
 
 - metadata
-	- created: July 2, 2021 9:34 PM
-	- tags:
+	- created: July 2, 2021 9:34 PM 
+	- tags: #created/2021/July/2,
 	- previous note:
 
 ## Notes

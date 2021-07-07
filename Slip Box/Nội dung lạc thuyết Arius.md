@@ -1,6 +1,6 @@
 # 054a-Noi-dung-lac-thuyet-Arius
 - metadata
-	- created: Jan 01, 2021 10:50 AM
+	- created: Jan 01, 2021 10:50 AM #created/2021/Jan/01,
 	- tags: #literature-notes 
 	- previous note: [[Bùi Đức Sinh O.P, Lịch sử Giáo Hội Công Giáo]], p.164
 

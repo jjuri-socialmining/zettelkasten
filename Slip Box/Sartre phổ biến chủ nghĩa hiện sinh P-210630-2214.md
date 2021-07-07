@@ -1,7 +1,7 @@
 # Sartre phổ biến chủ nghĩa hiện sinh
 
 - metadata
-	- created: June 30, 2021 10:14 PM
+	- created: June 30, 2021 10:14 PM #created/2021/June/30,
 	- tags:
 	- previous note: [[Chủ Nghĩa Hiện Sinh P-201225-2215]]
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slip Box/Nội dung lạc thuyết Arius.md",
+            "file": "Slip Box/Esperanto - Quốc tế  ngữ.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#created/2020/Nov/03",
+                "query": "tag:#created/2020/",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -56,8 +56,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -89,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Slip Box/Nội dung lạc thuyết Arius.md",
+                "file": "Slip Box/Esperanto - Quốc tế  ngữ.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slip Box/Nội dung lạc thuyết Arius.md"
+                "file": "Slip Box/Esperanto - Quốc tế  ngữ.md"
               }
             }
           },
@@ -173,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slip Box/Nội dung lạc thuyết Arius.md",
+                "file": "Slip Box/Esperanto - Quốc tế  ngữ.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -192,15 +191,15 @@
   },
   "active": "fa838a33eab13702",
   "lastOpenFiles": [
-    "Slip Box/Nội dung lạc thuyết Arius.md",
-    "Existentialism MOC.md",
-    "Bins/People/Friedrich Nietzsche P-201022-0549.md",
-    "Slip Box/Dopamine P-201115-1847.md",
-    "Slip Box/Thập Tự Chinh P-201202-0015.md",
-    "Bins/Templates/MOC template.md",
-    "Bins/Templates/Literature Note Template.md",
-    "Spaces/Daily/210706-2353 Journal.md",
+    "Slip Box/Esperanto - Quốc tế  ngữ.md",
+    "Spaces/Daily/210707-0856.md",
+    "Slip Box/Robert-Moore.md",
+    "Bins/People/Albert Camus P-210630-2134.md",
     "Bins/Templates/1-Date Tag Template.md",
-    "Bins/Templates/0-Permanent Note Template.md"
+    "Bins/People/Adolf Hitler P-210619-2108.md",
+    "Slip Box/Attention.md",
+    "Slip Box/Hub note  P-210701-1222.md",
+    "Slip Box/Reference Manager P-201021-2216.md",
+    "Slip Box/Thư Corinto là thư hay nhất của Phao lô.md"
   ]
 }

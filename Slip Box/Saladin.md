@@ -1,7 +1,7 @@
 # Saladin
 
 - metadata
-	- created: Dec 01, 2020 11:59 PM
+	- created: Dec 01, 2020 11:59 PM #created/2020/Dec/01,
 	- tags: #people 
 	- previous note:
 

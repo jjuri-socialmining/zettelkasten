@@ -1,7 +1,7 @@
 # Việt Nam Cộng Hòa
 
 - metadata
-	- created: Jun 22, 2021 11:28 PM
+	- created: Jun 22, 2021 11:28 PM #created/2021/Jun/22,
 	- tags: #bb/history
 	- previous note:
 

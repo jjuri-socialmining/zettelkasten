@@ -1,7 +1,7 @@
 # Vua David
 
 - metadata
-	- created: Jun 21, 2021 10:35 PM
+	- created: Jun 21, 2021 10:35 PM #created/2021/Jun/21,
 	- tags: #people 
 	- previous note:
 

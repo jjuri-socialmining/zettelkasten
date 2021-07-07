@@ -2,8 +2,8 @@
 
 - metadata
 	- UID (delete): P-210702-2148
-	- created: July 2, 2021 9:48 PM
-	- tags:
+	- created: July 2, 2021 9:48 PM 
+	- tags: #created/2021/July/2,
 	- previous note:
 
 ## Notes

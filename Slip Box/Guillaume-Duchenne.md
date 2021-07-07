@@ -1,8 +1,8 @@
 # Guillaume-Duchenne
 
 - metadata
-	- created: Nov 05, 2020 12:45 PM
-	- tags: #people 
+	- created: Nov 05, 2020 12:45 PM 
+	- tags: #created/2020/Nov/05, #people 
 	- previous note: [[Duchenne Smile]]
 
 ## Notes

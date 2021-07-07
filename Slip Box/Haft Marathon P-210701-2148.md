@@ -1,8 +1,8 @@
 # Haft Marathon
 
 - metadata
-	- created: July 1, 2021 9:48 PM
-	- tags:
+	- created: July 1, 2021 9:48 PM 
+	- tags: #created/2021/July/1,
 	- previous note:
 
 ## Notes

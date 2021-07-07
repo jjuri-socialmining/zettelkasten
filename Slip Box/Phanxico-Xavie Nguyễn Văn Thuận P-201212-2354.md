@@ -1,7 +1,7 @@
 # Phanxico-Xavie Nguyễn Văn Thuận
 
 - metadata
-	- created: Dec 12, 2020 11:54 AM
+	- created: Dec 12, 2020 11:54 AM #created/2020/Dec/12,
 	- tags: #people 
 	- previous note:
 

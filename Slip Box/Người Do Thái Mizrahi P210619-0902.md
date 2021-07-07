@@ -1,7 +1,7 @@
 # Người Do Thái Mizrahi
 
 - metadata
-	- created: Jun 19, 2021 9:02 AM
+	- created: Jun 19, 2021 9:02 AM #created/2021/Jun/19,
 	- tags:
 	- previous note:
 	- source: https://spiderum.com/bai-dang/Cac-anh-em-dan-toc-thieu-so-Do-Thai-7z6

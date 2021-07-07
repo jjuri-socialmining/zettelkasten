@@ -1,8 +1,8 @@
 # Constantinus chịu phép rửa trước khi chết
 
 - metadata
-	- created: Jan 01, 2021
-	- tags: #literature-notes 
+	- created: Jan 01, 2021 
+	- tags: #created/2021/Jan/01, #literature-notes 
 	- previous note: [[Bùi Đức Sinh O.P, Lịch sử Giáo Hội Công Giáo]], [[Constantinnus được kính trọng]]
 
 ## Notes

@@ -1,7 +1,7 @@
 #  Khoảng thời gian gợi nhớ tối ưu
 
 - metadata
-	- created: Nov 22, 2020 4:37 PM
+	- created: Nov 22, 2020 4:37 PM #created/2020/Nov/22,
 	- tags:
 	- previous note: [[Spaced Repetition P-201121-0022]]
 

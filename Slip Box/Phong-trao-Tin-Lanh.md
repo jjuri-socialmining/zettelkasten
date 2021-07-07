@@ -1,7 +1,7 @@
 # 056c-Phong-trao-Tin-Lanh
 
 - metadata
-	- created: Dec 25, 2020 10:21 AM
+	- created: Dec 25, 2020 10:21 AM #created/2020/Dec/25,
 	- tags:
 	- previous note:
 

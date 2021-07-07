@@ -1,7 +1,7 @@
 # Niklas Luhmann
 
 - metadata
-	- created: Oct 21, 2020 9:30 PM
+	- created: Oct 21, 2020 9:30 PM #created/2020/Oct/21,
 	- tags:
 	- previous note:
 

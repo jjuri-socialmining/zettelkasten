@@ -1,8 +1,8 @@
 # Alfred Nobel
 
 - metadata
-	- created: Jun 16, 2021 11:22 PM
-	- tags: #people 
+	- created: Jun 16, 2021 11:22 PM 
+	- tags: #created/2021/Jun/16, #people 
 	- previous note:
 
 ## Notes

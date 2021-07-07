@@ -1,8 +1,8 @@
 # Chủ nghĩa hư vô chủ động
 
 - metadata
-	- created: June 30, 2021 9:46 PM
-	- tags:
+	- created: June 30, 2021 9:46 PM 
+	- tags: #created/2021/June/4
 	- previous note:
 
 ## Notes

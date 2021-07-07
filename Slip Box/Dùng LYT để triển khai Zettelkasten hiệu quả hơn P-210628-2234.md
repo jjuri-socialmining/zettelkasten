@@ -1,8 +1,8 @@
 # Dùng LYT để triển khai Zettelkasten hiệu quả hơn
 
 - metadata
-	- created: June 28, 2021 10:34 PM
-	- tags:
+	- created: June 28, 2021 10:34 PM 
+	- tags: #created/2021/June/28,
 	- previous note:
 
 ## Notes

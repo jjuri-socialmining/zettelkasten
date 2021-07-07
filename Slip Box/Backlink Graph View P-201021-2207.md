@@ -1,8 +1,8 @@
 # Backlink Graph View
 
 - metadata
-	- created: Oct 21, 2020 10:07 PM
-	- tags:
+	- created: Oct 21, 2020 10:07 PM 
+	- tags: #created/2020/Oct/21,
 	- previous note: [[Backlink P-201021-2203]]
 
 ## Notes

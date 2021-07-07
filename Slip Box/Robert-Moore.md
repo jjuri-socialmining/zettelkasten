@@ -1,7 +1,7 @@
 # Robert-Moore
 
 - metadata
-	- created: Jun 16, 2021 10:34 PM
+	- created: Jun 16, 2021 10:34 PM #created/2021/Jun/16,
 	- tags: #people 
 	- previous note:
 

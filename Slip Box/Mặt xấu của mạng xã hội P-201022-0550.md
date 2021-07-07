@@ -1,7 +1,7 @@
 # Mặt xấu của mạng xã hội
 
 - metadata
-	- created: Oct 22, 2020 5:50 AM
+	- created: Oct 22, 2020 5:50 AM #created/2020/Oct/22,
 	- tags:
 	- previous note: 
 

@@ -1,8 +1,8 @@
 # Các sắc tộc Do Thái
 
 - metadata
-	- created: Jun 18, 2021 11:26 PM
-	- tags:
+	- created: Jun 18, 2021 11:26 PM 
+	- tags: #created/2021/Jun/18,
 	- previous note: [[Người Do Thái P-210619-2105]]
 	- source: [Người Do Thái Ashkenazi có nguồn gốc từ đâu ?](https://nguoidothai.medium.com/ng%C6%B0%E1%BB%9Di-do-th%C3%A1i-ashkenazi-c%C3%B3-ngu%E1%BB%93n-g%E1%BB%91c-t%E1%BB%AB-%C4%91%C3%A2u-dbf983469c13)
 

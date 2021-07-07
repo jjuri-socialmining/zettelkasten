@@ -1,8 +1,8 @@
 # Incremental Reading
 
 - metadata
-	- created: Nov 12, 2020 1:36 AM
-	- tags:
+	- created: Nov 12, 2020 1:36 AM 
+	- tags: #created/2020/Nov/12,
 	- previous note: [[SuperMemo P-201121-0036]], [[Spaced Repetition P-201121-0022]]
 
 ## Notes

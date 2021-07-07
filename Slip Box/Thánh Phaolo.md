@@ -2,7 +2,7 @@
 
 - metadata
 	- UID: P-201225-1038, #created/2020/Dec/25
-	- created: Dec 25, 2020 10:38 AM
+	- created: Dec 25, 2020 10:38 AM #created/2020/Dec/25,
 	- tags: #people 
 	- previous note:
 

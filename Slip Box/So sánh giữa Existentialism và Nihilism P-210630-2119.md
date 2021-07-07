@@ -1,7 +1,7 @@
 # Khác nhau giữa Existentialism và Nihilism
 
 - metadata
-	- created: June 30, 2021 9:19 PM
+	- created: June 30, 2021 9:19 PM #created/2021/June/30,
 	- tags:
 	- previous note:
 	- source: https://danielmiessler.com/blog/difference-existentialism-nihilism-absurdism/

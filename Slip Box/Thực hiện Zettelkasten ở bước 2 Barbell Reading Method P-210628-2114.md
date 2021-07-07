@@ -1,7 +1,7 @@
 # Thực hiện Zettelkasten ở bước 2 Barbell Reading Method
 
 - metadata
-	- created: June 28, 2021 9:14 PM
+	- created: June 28, 2021 9:14 PM #created/2021/June/28,
 	- tags:
 	- previous note: [[Phương pháp đọc Barbell giống Zettelkasten P-210628-0958]], [[Zettelkasten P-201021-1230]], [[Barbell Reading Method P-210628-0934]]
 

@@ -1,7 +1,7 @@
 # Ngôi sao David
 
 - metadata
-	- created: Jun 21, 2021 10:53 PM
+	- created: Jun 21, 2021 10:53 PM #created/2021/Jun/21,
 	- tags:
 	- previous note:
 

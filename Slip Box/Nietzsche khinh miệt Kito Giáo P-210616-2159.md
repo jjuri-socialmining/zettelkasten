@@ -1,7 +1,7 @@
 # Nietzsche khinh miệt Kito Giáo
 
 - metadata
-	- created: Jun 16, 2021 9:59 PM
+	- created: Jun 16, 2021 9:59 PM #created/2021/Jun/16,
 	- tags:
 	- previous note:
 

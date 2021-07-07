@@ -1,7 +1,7 @@
 # Reference Manager
 
 - metadata
-	- created: Oct 21, 2020 10:16 PM
+	- created: Oct 21, 2020 10:16 PM #created/2020/Oct/21,
 	- tags:
 	- previous note: [[Zettelkasten P-201021-1230]]
 

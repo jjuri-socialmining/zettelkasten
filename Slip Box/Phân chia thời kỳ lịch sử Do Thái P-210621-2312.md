@@ -1,7 +1,7 @@
 # Phân chia thời kỳ lịch sử Do Thái
 
 - metadata
-	- created: Jun 21, 2021 11:12 PM
+	- created: Jun 21, 2021 11:12 PM #created/2021/Jun/21,
 	- tags:
 	- previous note:
 	- 

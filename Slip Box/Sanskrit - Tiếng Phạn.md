@@ -1,7 +1,7 @@
 # Sanskrit - Tiếng Phạn
 
 - metadata
-	- created: Jun 20, 2021 2:01 PM
+	- created: Jun 20, 2021 2:01 PM #created/2021/Jun/20,
 	- tags:
 	- previous note:
 
