@@ -5,4 +5,4 @@
 
 ## Programming languages
 [[C Programming]]
-[[Python Learning Path MOC]]
+[[Python Programming MOC]]

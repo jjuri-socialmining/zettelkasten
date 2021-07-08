@@ -6,7 +6,7 @@
 * Authors: [[Trần Trọng Kim]]
 * Date Added: [[2021-06-05]]
 * Cite key: undefined
-, #zotero, #literature-notes, #reference, #source/book 
+, #zotero, #literature-notes, #reference, #source/book , #created/2021/Jul/08
 * PDF Attachments
 	- [trantrongkimVietNamSu-Việt Nam sử lược.pdf](zotero://open-pdf/library/items/ZAGGHZ67)
 

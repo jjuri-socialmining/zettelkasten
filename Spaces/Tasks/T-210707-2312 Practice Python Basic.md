@@ -7,6 +7,6 @@
 	- source: 
 
 ## Notes
-Practice/research basic [[Python Learning Path MOC]]
+Practice/research basic [[Python MOC]]
 
 

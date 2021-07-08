@@ -1,4 +1,4 @@
-Hướng dẫn sử dụng [[Zotfile P-210626-1028]]
+Hướng dẫn sử dụng [[Zotfile]]
 
 - [[Cách điều chỉnh thuộc tính cho Zotfile P-210626-1114]]
 

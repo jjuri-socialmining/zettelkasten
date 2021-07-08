@@ -6,6 +6,6 @@
 	- previous note:
 
 ## Notes
-Tùy bạn muốn sử dụng Literature note một cách độc lập hay không để tách ghi chú đó ra từng file hay không hoặc gom chung một file. Thường việc chia thành nhiều file để dễ dẫn trích dẫn. Tuy nhiên, phần mềm [[Obsidian P-210628-2327]] có chức năng [[Block Quote]], tức trích dẫn một một đoạn văn từ một file note khác khá tiện lợi. Nên thoải mái để chung 1 file.
+Tùy bạn muốn sử dụng Literature note một cách độc lập hay không để tách ghi chú đó ra từng file hay không hoặc gom chung một file. Thường việc chia thành nhiều file để dễ dẫn trích dẫn. Tuy nhiên, phần mềm [[Obsidian]] có chức năng [[Block Quote]], tức trích dẫn một một đoạn văn từ một file note khác khá tiện lợi. Nên thoải mái để chung 1 file.
 ## Questions & thoughts:
 

@@ -3,7 +3,7 @@ tags: #MOC #project
 
 
 ## Task list
-- [[Markdown for Obsidian MOC]] - Tìm hiểu [[Markdown Language]] để sử dụng [[Obsidian P-210628-2327]] hiệu quả hơn.
+- [[Markdown for Obsidian MOC]] - Tìm hiểu [[Markdown Language]] để sử dụng [[Obsidian]] hiệu quả hơn.
 
 # Projects MOC
 [[Programming MOC]]

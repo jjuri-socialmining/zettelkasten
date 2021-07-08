@@ -7,17 +7,9 @@
         "id": "701fc40427d4d7c7",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
-        "id": "6573e464f4ee6bba",
-        "type": "leaf",
-        "state": {
           "type": "markdown",
           "state": {
-            "file": "Slip Box/Nhạc Lofi.md",
+            "file": "Trần Thủ Độ.md",
             "mode": "source"
           }
         }
@@ -47,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#created/2021/Jul",
+                "query": "Trần Thủ độ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -68,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 436
+    "width": 436,
+    "collapsed": true
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -96,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Slip Box/077-Lac-thuyet-Montanus.md",
+                "file": "Trần Thủ Độ.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -131,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slip Box/077-Lac-thuyet-Montanus.md"
+                "file": "Trần Thủ Độ.md"
               }
             }
           },
@@ -156,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slip Box/077-Lac-thuyet-Montanus.md",
+                "file": "Trần Thủ Độ.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,19 +164,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269
+    "width": 269,
+    "collapsed": true
   },
   "active": "701fc40427d4d7c7",
   "lastOpenFiles": [
-    "Slip Box/077-Lac-thuyet-Montanus.md",
-    "Slip Box/040-Temptation-Bundling-Methods.md",
-    "Slip Box/039-Streisand-Effect.md",
-    "Slip Box/030-Two-Minutes-Rule.md",
-    "Slip Box/020-Diderot-Effect.md",
-    "Slip Box/016-Chu-Dong-Hoi-Tuong.md",
-    "Slip Box/006-Knowledge-Management.md",
-    "Slip Box/015-Cung-đien-ky-uc.md",
-    "Slip Box/045a5-Learning-Curl.md",
-    "Slip Box/064a1-Nguyen-nhan-dao-chinh.md"
+    "Trần Thủ Độ.md",
+    "Slip Box/Trần Thủ Độ tư thông với Lý Thái hậu.md",
+    "Untitled.md",
+    "Chiêu thánh công chúa.md",
+    "Slip Box/Trần Thủ Độ một người gian hùng.md",
+    "Slip Box/Trần Thủ Độ ép Lý Chiêu Hoàng truyền ngôi.md",
+    "Bins/Templates/0-Permanent Note Template 1.md",
+    "Trần Thủ Độ tư thông với Lý Thái hậu.md",
+    "Trần Thủ Độ một người gian hùng.md",
+    "Lý Chiêu Hoàng.md"
   ]
 }

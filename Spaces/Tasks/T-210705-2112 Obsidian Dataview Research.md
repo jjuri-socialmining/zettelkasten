@@ -3,7 +3,7 @@
 	- tags: #task/todo %% 
 
 ## Notes
-Trên forum cho show được cách dùng table cho [[Obsidian P-210628-2327]]
+Trên forum cho show được cách dùng table cho [[Obsidian]]
 - Có sort/list/filter table
 ![[markdown_obsidian.png]]
 
