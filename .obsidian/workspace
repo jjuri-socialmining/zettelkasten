@@ -7,8 +7,11 @@
         "id": "e86bc4e3ebb964ba",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Phanxico-Xavie Nguyễn Văn Thuận.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#2020-10",
+                "query": "Space",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,6 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Phanxico-Xavie Nguyễn Văn Thuận.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Phanxico-Xavie Nguyễn Văn Thuận.md"
+              }
             }
           },
           {
@@ -142,6 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Phanxico-Xavie Nguyễn Văn Thuận.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -156,19 +163,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269
+    "width": 269,
+    "collapsed": true
   },
   "active": "e86bc4e3ebb964ba",
   "lastOpenFiles": [
-    "Slip Box/Flow---Trạng-thái-dòng-chảy.md",
-    "Slip Box/Homo Sapiens P-210626-2211.md",
-    "Lịch Sử Do Thái MOC.md",
-    "Bins/People/Adolf Hitler P-210619-2108.md",
-    "Slip Box/Holocaust P-210619-2059.md",
-    "Slip Box/Chủ Nghĩa Zion.md",
-    "Slip Box/Người Do Thái.md",
-    "Slip Box/Người Hebrew.md",
-    "Slip Box/Cách Zotfile trích xuất highight ra nhiều file P-210626-1036.md",
-    "Slip Box/Hướng dẫn sử dụng Zotfile P-210626-1055.md"
+    "Phanxico-Xavie Nguyễn Văn Thuận P-201212-2354.md",
+    "Phân chia thời kỳ lịch sử Do Thái P-210621-2312.md",
+    "Paul Pimsleur P-201122-1639.md",
+    "Nietzsche khinh miệt Kito Giáo P-210616-2159.md",
+    "Nho giáo ổn định trật tự chế độ phong kiến P-210704-1258.md",
+    "Nietzche là một triết gia hiện sinh P-210630-2141.md",
+    "Marathon P-210701-2145.md",
+    "Cải Cách Kháng Nghị P-201206-2247.md",
+    "Martin Luther P-201225-1003.md",
+    "Digital Minimalism.md"
   ]
 }

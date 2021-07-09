@@ -4,7 +4,7 @@
 	- tags: #MOC %%
 
 ### Khái quát các thời kỳ
-- [[Phân chia thời kỳ lịch sử Do Thái P-210621-2312]]
+- [[Phân chia thời kỳ lịch sử Do Thái]]
 
 - [[Các sắc tộc Do Thái]]
 	- [[Người Do Thái Ashkenazi]]

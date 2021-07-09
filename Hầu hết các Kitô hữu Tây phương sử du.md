@@ -4,4 +4,4 @@ created: Dec 06, 2020 12:36 AM
 tags: #created/2020/Dec/06
 source: #TODO
 
-[[Kinh Tin Kính Nicea P-201206-2226]]
+[[Kinh Tin Kính Nicea]]

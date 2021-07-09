@@ -1,4 +1,4 @@
-# 002b2a Lưu ý khi tạo ghi chú văn bản
+# Lưu ý khi tạo ghi chú văn bản
 
 created: Oct 21, 2020 10:44 PM
 tags: #created/2020/Oct/21

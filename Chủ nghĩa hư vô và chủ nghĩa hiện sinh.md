@@ -7,7 +7,7 @@
 	- source: https://ichi.pro/vi/chu-nghia-hien-sinh-vs-chu-nghia-hu-vo-giai-thich-va-su-khac-biet-chinh-cua-moi-183062170379920
 
 ## Notes
-[[Nihilism - Chủ nghĩa Hư vô]] thì có hai loại [[Chủ nghĩa hư vô thụ động|thụ động]] và [[Chủ nghĩa hư vô chủ động P-210630-2146|tích cực]]. 
+[[Nihilism - Chủ nghĩa Hư vô]] thì có hai loại [[Chủ nghĩa hư vô thụ động|thụ động]] và [[Chủ nghĩa hư vô chủ động|tích cực]]. 
 Chủ nghĩa hư vô tích cực phát sinh ra [[Existentialism - Chủ Nghĩa Hiện Sinh]]
 
 ## Questions & thoughts:

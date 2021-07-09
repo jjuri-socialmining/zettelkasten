@@ -1,4 +1,4 @@
-# 002c2a How to use Bibliography
+# How to use Bibliography
 
 created: Oct 21, 2020 10:38 PM
 tags: #created/2020/Oct/21

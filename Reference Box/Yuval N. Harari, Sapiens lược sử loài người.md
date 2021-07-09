@@ -16,7 +16,7 @@ created:
 	- year: 2018
 
 ## Summary
-- Phần đầu nói về sự phát triển ưu thế của [[Homo Sapiens]] trước người [[Homo Neanderthal P-210627-2248]]
+- Phần đầu nói về sự phát triển ưu thế của [[Homo Sapiens]] trước người [[Homo Neanderthal]]
 
 ## Quotes
 ### p.13

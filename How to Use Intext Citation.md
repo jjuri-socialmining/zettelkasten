@@ -1,4 +1,4 @@
-# 003c1a How to Use Intext Citation
+# How to Use Intext Citation
 
 created: Oct 21, 2020 10:19 PM
 tags: #created/2020/Oct/21

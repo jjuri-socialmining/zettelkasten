@@ -6,6 +6,6 @@
 	- previous note:
 
 ## Notes
-Haft Marathon là tên gọi cuộc đua chạy bộ tương ứng với một nửa quãng đường của cự ly [[Marathon P-210701-2145]].
+Haft Marathon là tên gọi cuộc đua chạy bộ tương ứng với một nửa quãng đường của cự ly [[Marathon]].
 ## Questions & thoughts:
 

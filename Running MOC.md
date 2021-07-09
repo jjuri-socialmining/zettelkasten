@@ -4,8 +4,8 @@
 
 ### Thuật ngữ
 - [[Ultra Marathon]]
-- [[Marathon P-210701-2145]]
-- [[Haft Marathon P-210701-2148]]
+- [[Marathon]]
+- [[Haft Marathon]]
 - [[Pace]]
 - [[Cadence]]
 - [[Trail running]]

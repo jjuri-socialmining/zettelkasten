@@ -6,6 +6,6 @@
 	- previous note:
 
 ## Notes
-**Holocaust** là một cuộc diệt chủng lớn mà [[Đảng Quốc Xã P-210620-1442]] Đức đã tiến hành cướp đi sinh mạng của 6 triệu người [[Người Do Thái]] vào thập niên 1930-1940
+**Holocaust** là một cuộc diệt chủng lớn mà [[Đảng Quốc Xã]] Đức đã tiến hành cướp đi sinh mạng của 6 triệu người [[Người Do Thái]] vào thập niên 1930-1940
 
 ## Questions & thoughts:

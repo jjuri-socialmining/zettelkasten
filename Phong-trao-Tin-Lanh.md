@@ -7,7 +7,7 @@
 
 ## Notes
 
-**Phong trào Tin Lành** bắt đầu cuối thế kỷ 18 tại Mỹ, là một trong nhiều phong trào thuộc [[Cải Cách Kháng Nghị P-201206-2247|Cải Cách Kháng Nghị]]. 
+**Phong trào Tin Lành** bắt đầu cuối thế kỷ 18 tại Mỹ, là một trong nhiều phong trào thuộc [[Cải Cách Kháng Nghị|Cải Cách Kháng Nghị]]. 
 
 **Phong trào Tin Lành** còn được biết đến là Chủ nghĩa phúc âm, phái phúc âm (evangelicalism). Phong trào Tin Lành chú trọng:
 
