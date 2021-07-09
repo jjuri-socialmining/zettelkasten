@@ -6,7 +6,7 @@
 - [[Stoicism - Chủ nghĩa khắc kỷ]]
 
 ### Những nhà khắc kỷ tiêu biểu
-- Người sáng lập [[Zeno thành Citium P-210629-2144]] 
+- Người sáng lập [[Zeno thành Citium]] 
 - Những nhà khắc kỷ tiêu biểu
 	- [[Seneca]]
 	- [[Epictetus]]

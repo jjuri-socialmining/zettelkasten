@@ -1,4 +1,4 @@
-# 081a-Canh-bac-Pascal
+# Canh bạc Pascal
 
 created: Feb 28, 2021 10:16 PM
 tags: #created/2021/Feb/28

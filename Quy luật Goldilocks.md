@@ -1,4 +1,4 @@
-# 018 Quy luật Goldilocks
+# Quy luật Goldilocks
 
 created: Oct 22, 2020 5:50 AM
 tags: #created/2020/Oct/22

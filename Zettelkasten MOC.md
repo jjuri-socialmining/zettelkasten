@@ -4,7 +4,7 @@
 	- tags: #MOC %%
 
 ### Định nghĩa
-Phương pháp Zettelkasten là một hệ thống quản lý tri thức (Knowledge Management). Hoặc phát triển lên tầm xa hơn nữa thì nó còn được gọi là bộ não thứ 2 ([[The Second Brain P-201021-2223|The Second Brain]] )
+Phương pháp Zettelkasten là một hệ thống quản lý tri thức (Knowledge Management). Hoặc phát triển lên tầm xa hơn nữa thì nó còn được gọi là bộ não thứ 2 ([[The Second Brain|The Second Brain]] )
 
 ### Ba phần chính của một hệ thống Zettelkasten
 - [[Zettelkasten]] hay còn gọi là Slipbox

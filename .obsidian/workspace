@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e86bc4e3ebb964ba",
+        "id": "8587b55d9b87f591",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Phanxico-Xavie Nguyễn Văn Thuận.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Space",
+                "query": "Thánh Tông",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -88,7 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Phanxico-Xavie Nguyễn Văn Thuận.md",
+                "file": "047-Pygmalion-Effect.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -123,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phanxico-Xavie Nguyễn Văn Thuận.md"
+                "file": "047-Pygmalion-Effect.md"
               }
             }
           },
@@ -148,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phanxico-Xavie Nguyễn Văn Thuận.md",
+                "file": "047-Pygmalion-Effect.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -166,17 +163,17 @@
     "width": 269,
     "collapsed": true
   },
-  "active": "e86bc4e3ebb964ba",
+  "active": "8587b55d9b87f591",
   "lastOpenFiles": [
-    "Phanxico-Xavie Nguyễn Văn Thuận P-201212-2354.md",
-    "Phân chia thời kỳ lịch sử Do Thái P-210621-2312.md",
-    "Paul Pimsleur P-201122-1639.md",
-    "Nietzsche khinh miệt Kito Giáo P-210616-2159.md",
-    "Nho giáo ổn định trật tự chế độ phong kiến P-210704-1258.md",
-    "Nietzche là một triết gia hiện sinh P-210630-2141.md",
-    "Marathon P-210701-2145.md",
-    "Cải Cách Kháng Nghị P-201206-2247.md",
-    "Martin Luther P-201225-1003.md",
-    "Digital Minimalism.md"
+    "047-Pygmalion-Effect.md",
+    "058-Hoi-thanh-vo-hinh.md",
+    "059-Cong-dong-Epheso-431.md",
+    "067a3-Hinh-anh-hang-da-bo-lua.md",
+    "073-Dinh-nghia-su-chet.md",
+    "074-Triet-hoc-nguoc-ton-giao.md",
+    "081b-Nguyen-Duy-Can-Recommend-Pascal.md",
+    "077-Lac-thuyet-Montanus.md",
+    "081a-Canh-bac-Pascal.md",
+    "Tin Lành.md"
   ]
 }

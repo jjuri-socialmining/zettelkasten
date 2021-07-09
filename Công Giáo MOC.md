@@ -12,7 +12,7 @@
 
 ### 
 - [[Công Giáo]]
-- [[Thập Tự Chinh P-201202-0015]]
+- [[Thập Tự Chinh]]
 - [[Chính thống giáo Đông Phương]]
 - [[Anh giáo]]
 

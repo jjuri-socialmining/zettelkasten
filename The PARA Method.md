@@ -7,6 +7,6 @@
 	- previous note:
 
 ## Notes
-Phương pháp này được nhắc đến trong việc quản lý [[The Second Brain P-201021-2223]], quản lý ghi chú, task bằng các thư mục: Projects, Areas, Resource.
+Phương pháp này được nhắc đến trong việc quản lý [[The Second Brain]], quản lý ghi chú, task bằng các thư mục: Projects, Areas, Resource.
 ## Questions & thoughts:
 

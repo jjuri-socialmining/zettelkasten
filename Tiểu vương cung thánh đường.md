@@ -15,4 +15,4 @@ Một **tiểu vương cung thánh đường** thường được trao tặng k�
 
 Xem thêm:
 
-[[Vương cung thánh đường P-201212-1125]]
+[[Vương cung thánh đường]]

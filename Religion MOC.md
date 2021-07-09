@@ -5,10 +5,10 @@
 - [[Công Giáo MOC]]
 - [[Anh giáo]]
 - [[Chính thống giáo Đông Phương]]
-- [[Tin Lành P-201225-1013]]
+- [[Tin Lành]]
 
 ### 
-- [[Hồi Giáo P-201225-1130]]
+- [[Hồi Giáo]]
 - [[Do Thái Giáo]]
 
 ## Tôn giáo khác
