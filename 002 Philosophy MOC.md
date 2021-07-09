@@ -9,7 +9,7 @@
 - [[Đạo Giáo]]
 
 ### Top Philosophers
-- [[Jean Paul Sartre P-201107-2314|Jean Paul Sartre]]
+- [[Jean Paul Sartre|Jean Paul Sartre]]
 - [[Friedrich Nietzsche P-201022-0549|Friedrich Wilhelm Nietzsche]]
 
 ### Chronological 
@@ -42,5 +42,5 @@
 - 1844 - 1900 - [[Friedrich Nietzsche P-201022-0549]]
 
 **20th Century AD**
-- 1905 - 1980 - [[Jean Paul Sartre P-201107-2314]]
+- 1905 - 1980 - [[Jean Paul Sartre]]
 - 1913 - 1960 - [[Albert Camus]]

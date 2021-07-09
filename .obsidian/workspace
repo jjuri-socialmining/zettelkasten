@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "701fc40427d4d7c7",
+        "id": "e86bc4e3ebb964ba",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Trần Thủ Độ.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Trần Thủ độ",
+                "query": "tag:#2020-10",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -60,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 436,
-    "collapsed": true
+    "width": 436
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -89,7 +85,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Trần Thủ Độ.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -123,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Trần Thủ Độ.md"
-              }
+              "state": {}
             }
           },
           {
@@ -149,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trần Thủ Độ.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,20 +156,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269,
-    "collapsed": true
+    "width": 269
   },
-  "active": "701fc40427d4d7c7",
+  "active": "e86bc4e3ebb964ba",
   "lastOpenFiles": [
-    "Trần Thủ Độ.md",
-    "Slip Box/Trần Thủ Độ tư thông với Lý Thái hậu.md",
-    "Untitled.md",
-    "Chiêu thánh công chúa.md",
-    "Slip Box/Trần Thủ Độ một người gian hùng.md",
-    "Slip Box/Trần Thủ Độ ép Lý Chiêu Hoàng truyền ngôi.md",
-    "Bins/Templates/0-Permanent Note Template 1.md",
-    "Trần Thủ Độ tư thông với Lý Thái hậu.md",
-    "Trần Thủ Độ một người gian hùng.md",
-    "Lý Chiêu Hoàng.md"
+    "Slip Box/Flow---Trạng-thái-dòng-chảy.md",
+    "Slip Box/Homo Sapiens P-210626-2211.md",
+    "Lịch Sử Do Thái MOC.md",
+    "Bins/People/Adolf Hitler P-210619-2108.md",
+    "Slip Box/Holocaust P-210619-2059.md",
+    "Slip Box/Chủ Nghĩa Zion.md",
+    "Slip Box/Người Do Thái.md",
+    "Slip Box/Người Hebrew.md",
+    "Slip Box/Cách Zotfile trích xuất highight ra nhiều file P-210626-1036.md",
+    "Slip Box/Hướng dẫn sử dụng Zotfile P-210626-1055.md"
   ]
 }

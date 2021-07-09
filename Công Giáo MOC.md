@@ -11,7 +11,7 @@
 - 
 
 ### 
-- [[Công Giáo Roma P-201225-1057]]
+- [[Công Giáo]]
 - [[Thập Tự Chinh P-201202-0015]]
 - [[Chính thống giáo Đông Phương P-201225-1056]]
 - [[Anh giáo P-201225-2307]]

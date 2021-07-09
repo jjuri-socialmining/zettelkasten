@@ -3,10 +3,10 @@
 	- tags: #MOC %% 
 
 ### Định Nghĩa
-[[Chủ Nghĩa Hiện Sinh P-201225-2215]]
+[[Existentialism - Chủ Nghĩa Hiện Sinh]]
 
 ### Các Nhà tư tưởng chính
 - Søren Kierkegaard
 - Fyodor Dostoevsky
-- [[Jean Paul Sartre P-201107-2314|Jean Paul Sartre]]
+- [[Jean Paul Sartre|Jean Paul Sartre]]
 - [[Friedrich Nietzsche P-201022-0549]] 
