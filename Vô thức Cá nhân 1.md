@@ -2,7 +2,7 @@
 
 - metadata
 	- UID (delete): P-210702-2224
-	- created: July 2, 2021 10:24 PM #created/2021/July/2,
+	- created: July 2, 2021 10:24 PM #created/2021/Jul/2,
 	- tags:
 	- previous note: [[Vô thức tập thể]]
 

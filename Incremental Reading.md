@@ -3,7 +3,7 @@
 - metadata
 	- created: Nov 12, 2020 1:36 AM 
 	- tags: #created/2020/Nov/12,
-	- previous note: [[SuperMemo P-201121-0036]], [[Spaced Repetition P-201121-0022]]
+	- previous note: [[SuperMemo]], [[Spaced Repetition]]
 
 ## Notes
 **Incremental Reading** (IR) là một phương pháp giúp bạn đọc và nhớ hầu hết các thông tin trong các bài viết bạn đọc trên các website, pdf,... Sau khi đọc hiểu nội dung bài viết bất kỳ, bạn có thể lựa chọn và trích xuất các mẩu thông tin, các câu quan trọng và lưu lại dưới dạng câu hỏi/trả lời hoặc dưới dạng cloze deletion. 

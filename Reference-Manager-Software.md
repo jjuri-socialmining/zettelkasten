@@ -3,7 +3,7 @@
 created: Oct 21, 2020 10:16 PM
 tags: #created/2020/Oct/21
 
-**Reference Manager Software** là một phần mềm, công cụ phục vụ trong việc quản lý tài liệu tham khảo ([[Reference Manager P-201021-2216]] )
+**Reference Manager Software** là một phần mềm, công cụ phục vụ trong việc quản lý tài liệu tham khảo ([[Reference Manager]] )
 
 Nó là một ứng dụng có lưu trữ các tệp pdf, hình ảnh, ghi âm. Các ứng dụng này có phần chuẩn lưu trữ như BibTex, JSON
 

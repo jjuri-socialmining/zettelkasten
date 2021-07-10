@@ -12,7 +12,7 @@ created:
 	- tags: #source/book
 	- UID: L-210627-1059
 	- dates: June 27, 2021 10:59 AM
-	- people: [[Yuval N. Harari P-210627-2258]]
+	- people: [[Yuval N. Harari]]
 	- year: 2018
 
 ## Summary

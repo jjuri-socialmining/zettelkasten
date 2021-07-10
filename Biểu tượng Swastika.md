@@ -1,4 +1,4 @@
-# Bieu-Tuong-Swastika
+# Biểu tượng Swastika
 
 - metadata
 	- created: Jun 19, 2021 10:01 PM

@@ -3,7 +3,7 @@
 - metadata
 	- created: Dec 07, 2020 12:12 AM
 	- tags: #created/2020/Dec/07,
-	- previous note: [[Phong trào Đại Kết P-201207-2008]]
+	- previous note: [[Phong trào Đại Kết]]
 
 ## Notes
 **Cộng đoàn Taizé** là một tu hội đại kết tại làng Taizé, Saône-et-Loire, Burgundy, nước Pháp. Cộng đoàn này bao gồm những tu sĩ theo [[Công Giáo]] và [[Tin Lành]] . 

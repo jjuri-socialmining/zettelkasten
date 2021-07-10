@@ -3,7 +3,7 @@
 - metadata
 	- created: Nov 22, 2020 4:37 PM #created/2020/Nov/22,
 	- tags:
-	- previous note: [[Spaced Repetition P-201121-0022]]
+	- previous note: [[Spaced Repetition]]
 
 ## Notes
 Được công bố bởi [[Paul Pimsleur]] vào năm 1967. Khoảng thời gian lặp lại Pimsleur được sử dụng trong các chương trình học ngoại ngữ Pimsleur. Đặc điểm của khoảng lặp này là có thể áp dụng vào được những khoảng thời gian nhỏ (tính bằng giây và phút), thích hợp trong việc học qua các audio.

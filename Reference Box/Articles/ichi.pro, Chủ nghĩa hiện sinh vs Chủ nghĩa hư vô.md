@@ -2,7 +2,7 @@
 
 ## Metadata
 
-* Item Type: [[Webpage]]
+* Item Type: #source/webpage 
 * Date Added: [[2021-05-29]]
 * URL: [https://ichi.pro/vi/chu-nghia-hien-sinh-vs-chu-nghia-hu-vo-giai-thich-va-su-khac-biet-chinh-cua-moi-183062170379920](https://ichi.pro/vi/chu-nghia-hien-sinh-vs-chu-nghia-hu-vo-giai-thich-va-su-khac-biet-chinh-cua-moi-183062170379920)
 * Cite key: undefined

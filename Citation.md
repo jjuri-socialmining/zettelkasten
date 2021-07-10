@@ -11,4 +11,4 @@ Có hai loại trích dẫn thường gặp trong một tài liệu học thuậ
 [[Bibliography - Danh mục tham khảo]]
 
 Xem thêm:
-[[Reference Manager P-201021-2216]]
+[[Reference Manager]]

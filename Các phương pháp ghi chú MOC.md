@@ -8,3 +8,4 @@ source: #TODO
 - [[Boxing]]
 - [[Charting]]
 - [[Phương pháp Sơ Đồ Tư Duy]]
+- [[Phương pháp ghi chú Cornell]]

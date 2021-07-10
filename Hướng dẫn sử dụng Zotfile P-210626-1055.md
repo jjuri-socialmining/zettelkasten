@@ -4,4 +4,4 @@ Hướng dẫn sử dụng [[Zotfile]]
 
 - [[Cách Zotfile trích xuất highight ra nhiều file P-210626-1036]]
 
-- [[Zotfile tiêu đề cho các ghi chú P-210626-1107]]
+- [[Zotfile tiêu đề cho các ghi chú]]

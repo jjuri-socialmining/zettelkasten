@@ -2,7 +2,7 @@
 
 ## Metadata
 
-* Item Type: [[Webpage]]
+* Item Type: #source/webpage 
 * Authors: [[ybox.vn]]
 * Date Added: [[2021-06-02]]
 * URL: [https://ybox.vn/gia-vi/a-crazy-mind-hieu-ve-vo-thuc-tap-the-the-collective-unconscious-theo-quan-diem-cua-nha-tam-ly-hoc-carl-jung-5e7bb59638792c1cac7e19ec](https://ybox.vn/gia-vi/a-crazy-mind-hieu-ve-vo-thuc-tap-the-the-collective-unconscious-theo-quan-diem-cua-nha-tam-ly-hoc-carl-jung-5e7bb59638792c1cac7e19ec)
