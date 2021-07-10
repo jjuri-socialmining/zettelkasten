@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "8587b55d9b87f591",
+        "id": "a648398f41e0afc1",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Vaccine mRNA.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -85,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "047-Pygmalion-Effect.md",
+                "file": "Vaccine mRNA.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -120,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "047-Pygmalion-Effect.md"
+                "file": "Vaccine mRNA.md"
               }
             }
           },
@@ -145,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "047-Pygmalion-Effect.md",
+                "file": "Vaccine mRNA.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,8 +166,10 @@
     "width": 269,
     "collapsed": true
   },
-  "active": "8587b55d9b87f591",
+  "active": "a648398f41e0afc1",
   "lastOpenFiles": [
+    "Vaccine mRMA.md",
+    "Untitled.md",
     "047-Pygmalion-Effect.md",
     "058-Hoi-thanh-vo-hinh.md",
     "059-Cong-dong-Epheso-431.md",
@@ -172,8 +177,6 @@
     "073-Dinh-nghia-su-chet.md",
     "074-Triet-hoc-nguoc-ton-giao.md",
     "081b-Nguyen-Duy-Can-Recommend-Pascal.md",
-    "077-Lac-thuyet-Montanus.md",
-    "081a-Canh-bac-Pascal.md",
-    "Tin Lành.md"
+    "077-Lac-thuyet-Montanus.md"
   ]
 }
