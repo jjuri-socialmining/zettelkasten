@@ -3,10 +3,9 @@ tags: #created/2021/Jun/22
 
 ## Thời kỳ lịch sử
 [[Thời Bắc thuộc]]
-[[Thời]]
 
 [[Nhà Trần MOC]]
-- [[Việt Nam Cộng Hòa]]
+[[Việt Nam Cộng Hòa]]
 
 
 ## Nhân vật lịch sử

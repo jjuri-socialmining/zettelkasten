@@ -7,10 +7,10 @@
 %%
 
 ## Các đời vua
-[[Trần Cảnh]] được [[Trần Thủ Độ]] đưa vào cung, và ép [[Lý Chiêu Hoàng]] nhường ngôi, lập ra nhà Trần.
+[[Trần Cảnh - Trần Thái Tông]] được [[Trần Thủ Độ]] đưa vào cung, và ép [[Lý Chiêu Hoàng]] nhường ngôi, lập ra nhà Trần.
 
 ### Trần Thái Tông 1225-1258
-- Trần Cảnh lên ngôi vua lấy tên là [[Trần Thái Tông - Trần Cảnh]]
+- Trần Cảnh lên ngôi vua lấy tên là [[Trần Cảnh - Trần Thái Tông]]
 
 ### Trần Thánh Tông 1258-1278
 - Năm 1258, Trần Thái Tông truyền ngôi cho thái tử Trần Hoảng, gọi là [[Trần Thánh Tông]] (1258-1278)

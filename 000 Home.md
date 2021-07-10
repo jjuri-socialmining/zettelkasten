@@ -21,12 +21,8 @@ This is your launchpad and homebase. Your personal North Star. That's here. That
 	- 10 - [[PKM MOC]]
 
 ---
-| #question❓ | [[Command N]] | [[Reminders MOC]] | [[External Links MOC|External Links]] | [[Finances MOC|Finance]] | [[Commonplace MOC|Commonplace]] | [[I want to...]] | [[ToDo]]
+| #question❓ |   [[Finances MOC|Finance]] | [[Commonplace MOC|Commonplace]] | [[I want to...]] 
 
----
-#state/boat | #state/develop | #state/tidy 
-
----
 `#project/active` | `#project/slowburn`
 `#project/idea` | `#project/idle` | `#project/archive` 
 

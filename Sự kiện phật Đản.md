@@ -13,7 +13,7 @@
 
 Nguyên nhân là sau khi lên nắm quyền, Diệm và bộ máy đã áp đặt chính sách kỳ thị trên nhiều mặt xã hội đối với Phật giáo. Diệm là một tín hữu [[Công Giáo]] , mặc dù ông không đưa Công giáo thành quốc giáo nhưng các chính sách của ông ngầm ủng hộ Công giáo. 
 
-Sự kiện lên đỉnh điểm vào trước lễ phật đản 1963. Chính quyền ông Diệm không cho phép treo cờ tôn giáo ngoài khuôn viên nhưng hầu hết các tôn giáo không tuân theo quy định này. Chính phủ ban đầu cũng không lưu tâm đến vấn đề này. [[Ngô Đình Thục P-201209-0524]] muốn tổ chức Ngân khánh giám mục nhưng số lượng Kito hữu không lớn. Đúng lúc này là dịp lễ phật đản nên khắp thành phố Huế treo cờ Phật giáo, ông Thục phàn nàn Diệm.
+Sự kiện lên đỉnh điểm vào trước lễ phật đản 1963. Chính quyền ông Diệm không cho phép treo cờ tôn giáo ngoài khuôn viên nhưng hầu hết các tôn giáo không tuân theo quy định này. Chính phủ ban đầu cũng không lưu tâm đến vấn đề này. [[Ngô Đình Thục]] muốn tổ chức Ngân khánh giám mục nhưng số lượng Kito hữu không lớn. Đúng lúc này là dịp lễ phật đản nên khắp thành phố Huế treo cờ Phật giáo, ông Thục phàn nàn Diệm.
 
 Ngày 6/5/1963, [[Ngô Đình Diệm]] gửi [[064a3-Cong-dien-so-5159 ]] (trước ngày lễ phật đản 2 ngày) yêu cầu các tôn giáo thực hiện nghiêm về quy định treo cờ tôn giáo. Dẫn đến những cuộc phản đối và biểu tình liền sau đó: [[sự kiện đài phát thanh Huế 1963]], Tuyệt thực đòi 5 chính sách, [[Hoà thượng Thích Quảng Đức tự thiêu]] 
 

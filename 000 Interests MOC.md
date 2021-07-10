@@ -98,7 +98,6 @@ For those that want to maintain an alphabetical "Map of Maps" list, here's an in
 - [[005 Literature MOC]]
 - [[Rhetoric MOC]]
 - [[Stoicism - Chủ nghĩa khắc kỷ]]
-- [[Spaces/LYT Kit/Philosophy MOC]]
 - [[Vocals MOC]]
 - [[Words MOC]]
 

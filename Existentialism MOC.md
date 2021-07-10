@@ -9,4 +9,4 @@
 - Søren Kierkegaard
 - Fyodor Dostoevsky
 - [[Jean Paul Sartre|Jean Paul Sartre]]
-- [[Friedrich Nietzsche P-201022-0549]] 
+- [[Friedrich Nietzsche]] 

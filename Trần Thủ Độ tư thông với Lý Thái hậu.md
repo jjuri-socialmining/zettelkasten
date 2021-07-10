@@ -7,7 +7,7 @@
 	- source: [[Trần Trọng Kim, Việt Nam sử lược]]
 
 ## Notes
-Khi Chiêu Hoàng lên ngôi, [[Trần Thủ Độ]] tư thông với Thái Hậu nhường ngôi [[Trần Thái Tông - Trần Cảnh]]. Rồi sau đó, ông giáng bà xuống công chúa để là vợ mình, mặc dù ông và Lý Thái hậu là anh em họ.
+Khi Chiêu Hoàng lên ngôi, [[Trần Thủ Độ]] tư thông với Thái Hậu nhường ngôi [[Trần Cảnh - Trần Thái Tông]]. Rồi sau đó, ông giáng bà xuống công chúa để là vợ mình, mặc dù ông và Lý Thái hậu là anh em họ.
 
 ## Questions & thoughts:
 

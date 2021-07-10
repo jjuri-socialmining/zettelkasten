@@ -7,6 +7,6 @@
 	- source: 
 
 ## Notes
-Vaccine AstraZeneca được sản xuất dựa trên công nghệ [[Vaccine Vector]]. Vaccine này dùng mẫu protein có trên gai của [[SARS-CoV-2]] được gọi là [[Spike Protein - Protein gai]]. Sau đó đưa mẫu protein này vào một virus cảm lạnh thường ở loài tinh tinh. Virus này không gây hại có tên là [[Andenovirus]]. Sau đó, virus này sinh sản nhiều để tạo vaccine.
+Vaccine AstraZeneca được sản xuất dựa trên công nghệ [[Vaccine Vector]]. Vaccine này dùng mẫu protein có trên gai của [[SARS-CoV-2]] được gọi là [[Spike Protein]]. Sau đó đưa mẫu protein này vào một virus cảm lạnh có tên là [[Andenovirus]]. Rồi kích thích virus này sinh sản trong điều kiện thích hợp để tạo vaccine.
 ## Questions & thoughts:
 

@@ -6,6 +6,6 @@
 	- previous note:
 
 ## Notes
-Mặc dù [[Friedrich Nietzsche P-201022-0549]] được giáo dục đức tin từ nhỏ, cha ông là một mục sư tin lành. Nhưng ông tỏ ra phê phán, khinh miệt Kito giáo. Ông cho rằng Kito giáo khiến con người đánh mất tự chủ và ý thức sống hiện sinh.
+Mặc dù [[Friedrich Nietzsche]] được giáo dục đức tin từ nhỏ, cha ông là một mục sư tin lành. Nhưng ông tỏ ra phê phán, khinh miệt Kito giáo. Ông cho rằng Kito giáo khiến con người đánh mất tự chủ và ý thức sống hiện sinh.
 
 ## Questions & thoughts:

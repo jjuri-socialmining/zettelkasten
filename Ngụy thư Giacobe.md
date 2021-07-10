@@ -10,4 +10,4 @@ Description: Ngụy thư Giacôbê
 
 Tham Khảo
 
-[[0-Ref-Wiki-Nguy-Thu-Giacobe]]
+[[vi.wikipedia.org, Ngụy thư Giacobe]]

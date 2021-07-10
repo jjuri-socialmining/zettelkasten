@@ -6,7 +6,7 @@ source: #TODO
 
 ‣ 
 
-[[Qui-luật-của-Goodhart]] 
+[[Qui luật của Goodhart]] 
 
 [[Nguyên-tắc-Cardinal]] 
 

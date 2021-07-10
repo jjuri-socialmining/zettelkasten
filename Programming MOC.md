@@ -5,4 +5,4 @@
 
 ## Programming languages
 [[C Programming]]
-[[Python Programming MOC]]
+[[Python MOC]]

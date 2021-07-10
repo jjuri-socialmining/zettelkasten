@@ -4,7 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "431656e3fec388e4",
+        "id": "bd5be72c6d8185a6",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002 Philosophy MOC.md",
+            "mode": "preview"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "9d6d17beadce5dd6",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -36,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ghi chú",
+                "query": "Socrate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -57,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 534
+    "width": 534,
+    "collapsed": true
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -85,6 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Đạo giáo ngược với Nho giáo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -99,7 +114,7 @@
                   "colorGroups": [],
                   "collapse-display": false,
                   "showArrow": false,
-                  "textFadeMultiplier": 0,
+                  "textFadeMultiplier": -1.8,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": false,
@@ -107,7 +122,7 @@
                   "repelStrength": 10,
                   "linkStrength": 0.641176470588235,
                   "linkDistance": 188,
-                  "scale": 0.21428619353628148,
+                  "scale": 0.30042557856741703,
                   "close": true
                 }
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Đạo giáo ngược với Nho giáo.md"
+              }
             }
           },
           {
@@ -127,6 +144,18 @@
             "state": {
               "type": "calendar",
               "state": {}
+            }
+          },
+          {
+            "id": "f94c156b68121fab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Đạo giáo ngược với Nho giáo.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ],
@@ -143,13 +172,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Đạo giáo ngược với Nho giáo.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -157,20 +187,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269,
+    "width": 622,
     "collapsed": true
   },
-  "active": "431656e3fec388e4",
+  "active": "9d6d17beadce5dd6",
   "lastOpenFiles": [
+    "Đạo giáo ngược với Nho giáo.md",
+    "Bins/People/Albert Camus.md",
+    "Workflows MOC.md",
+    "002 Philosophy MOC.md",
+    "Aristotle.md",
     "Untitled.md",
-    "Ngũ Kinh.md",
-    "Nho giáo.md",
-    "Thánh Phê Rô.md",
-    "Vương cung thánh đường Thánh Phêrô.md",
-    "Đại vương cung thánh đường.md",
-    "Chủ nghĩa quy phạm.md",
-    "Đạo Giáo.md",
-    "MERS-CoV thuộc nhóm Beta-coronavirus.md",
-    "Tam giáo thời cổ đại Trung Quốc.md"
+    "Pythagoras.md",
+    "Định lý Thales.md",
+    "Math MOC.md",
+    "Pythagoras là học trò của Thales.md"
   ]
 }

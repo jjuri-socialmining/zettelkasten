@@ -34,7 +34,7 @@
 > Protein spike (S) tạo thành các gai đặc trưng trong "vương miện" coronavirus. Nó bị glycosyl hóa mạnh, có thể tạo thành một homotrimer, và là receptor giúp gắn và hợp nhất với màng tế bào vật chủ. Các thành phần của protein S là kháng nguyên chính kích thích kháng thể trung hòa, cũng như là mục tiêu quan trọng của tế bào lympho gây độc tế bào.
 
 Notes:
-[[Spike Protein - Protein gai]]
+[[Spike Protein]]
 
 ### Quote 5
 > Protein M đóng vai trò quan trọng trong sự lắp ráp virus.

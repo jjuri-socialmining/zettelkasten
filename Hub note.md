@@ -7,7 +7,7 @@
 	- previous note: [[The Luhmann Notes]]
 
 ## Notes
-Hub note là một [[The Luhmann Notes|loại ghi chú của Luhmann]]. Hub note là  một bảng mục lục các ghi chú được, nó được  [[Niklas Luhmann P-20201021-2130|Luhmann]] sử dụng để liệt kê, sắp xếp những ghi chú theo một dàn ý. 
+Hub note là một [[The Luhmann Notes|loại ghi chú của Luhmann]]. Hub note là  một bảng mục lục các ghi chú được, nó được  [[Niklas Luhmann|Luhmann]] sử dụng để liệt kê, sắp xếp những ghi chú theo một dàn ý. 
 
 Hub note tương đồng với khái niệm [[MOC - Map Of Content]] của [[Fluid Frameworks (LYT frameworks)]]. .
 

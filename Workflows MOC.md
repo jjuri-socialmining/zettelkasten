@@ -93,3 +93,5 @@ Assuming it's a book I've identified as high-value—and it's a book I actually 
 	- Link out as needed
 - Use a Timestamped note for things you might want to track: meetings, meals, workouts, conversations
 	- Link out as needed
+
+[[How to use tags MOC]]
