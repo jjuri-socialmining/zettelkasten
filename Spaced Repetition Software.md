@@ -7,7 +7,7 @@ Spaced-Repetition-Software là ứng dụng, phầm mềm tích hợp phương p
 
 Những phần mềm áp dụng kỹ thuật học lặp lại ngắt quãng bao gồm 
 
-[[Anki P-201121-0035]]
+[[Anki]]
 
 MochiMochi
 
