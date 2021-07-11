@@ -2,7 +2,7 @@
 
 - metadata
 	- created: Oct 21, 2020 10:21 PM
-	- tags: #created/2020/Oct/21, #concept 
+	- tags: #created/2020/Oct/21, #permanent/concept 
 	- previous note: [[Reference Manager]]
 
 ## Notes

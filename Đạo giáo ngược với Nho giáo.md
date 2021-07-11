@@ -7,7 +7,7 @@
 	- previous note:
 
 ## Notes
-[[Đạo Giáo]] ngược với [[Nho Giáo]], Đạo giáo tìm kiếm hạnh phúc cá nhân với thái độ tách biệt chính trị.[[Lịch sử Việt Nam từ nguồn gốc đến giữa thế kỷ XX#p 109]]
+[[Đạo Giáo]] ngược với [[Nho Giáo MOC]], Đạo giáo tìm kiếm hạnh phúc cá nhân với thái độ tách biệt chính trị.[[Lịch sử Việt Nam từ nguồn gốc đến giữa thế kỷ XX#p 109]]
 
 ## Questions & thoughts:
 

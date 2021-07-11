@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "382086f0cd8e582a",
+        "id": "d710cdca6950c970",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "OC43",
+                "query": "tag:#created/2021/Jul/11",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -170,17 +170,17 @@
     "width": 269,
     "collapsed": true
   },
-  "active": "382086f0cd8e582a",
+  "active": "d710cdca6950c970",
   "lastOpenFiles": [
-    "Cải Cách Kháng Nghị P-201206-2247.md",
-    "056a1-Nam-Tin-ly-duy-nhat.md",
-    "Zotero-mdnotes P-210626-1138.md",
-    "Anki P-201121-0035.md",
-    "Spaced Repetition Software.md",
-    "Homo erectus (P-210626-2224).md",
-    "Homo Neanderthal P-210627-2248.md",
-    "Sapiens là loài duy nhất còn tồn tại.md",
-    "001 History MOC.md",
-    "Homo Neanderthal.md"
+    "Các loại Vaccine COVID.md",
+    "Các bộ sách trong Ngũ Kinh.md",
+    "Cá heo ngủ nhắm 1 mắt.md",
+    "Existentialism - Chủ Nghĩa Hiện Sinh.md",
+    "Ba-ý-nghĩa-cơ-bản-của-đời-người.md",
+    "Bins/Templates/1-Date Tag Template.md",
+    "Bins/Templates/0-Permanent Note Template VNSL.md",
+    "Nho Giáo.md",
+    "Ngũ Kinh.md",
+    "tyrosin.md"
   ]
 }

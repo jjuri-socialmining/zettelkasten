@@ -1,4 +1,4 @@
-# Immunoglobulin - Globulin miễn dịch
+# Immunoglobulin
 
 - metadata
 	- UID: P-210710-1247
@@ -7,6 +7,6 @@
 	- source: 
 
 ## Notes
-Immunoglobulin - Globulin miễn dịch là tên gọi khác của [[Gamma protein]]
+Immunoglobulin, là tên gọi khác của [[Gamma protein]], [[Globulin miễn dịch]]
 ## Questions & thoughts:
 

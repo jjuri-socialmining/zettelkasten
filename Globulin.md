@@ -2,7 +2,7 @@
 
 - metadata
 	- UID: P-210710-1021
-	- tags: #created/2021/Jul/10, #state/boat 
+	- tags: #created/2021/Jul/10,
 	- previous note: 
 	- source: 
 
@@ -12,6 +12,7 @@ Globulin có ba loại chính:
 - Alpha Globulin
 - Beta Globulin
 - [[Gamma protein]]
+
 ## Questions & thoughts:
--  Gamma protein là immunoglobulin, Huyết thanh miễn dịch, Globulin miễn dịch. Tức là Glubulin bao gồm huyết thanh miễn dịch...
+-  Gamma protein là immunoglobulin, Huyết thanh miễn dịch, Globulin miễn dịch. Tức là Glubulin bao gồm huyết thanh miễn dịch... #question❓ 
 

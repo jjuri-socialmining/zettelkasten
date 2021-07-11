@@ -2,7 +2,7 @@
 
 - metadata
 	- created: Jun 19, 2021 8:57 PM 
-	- tags: #created/2021/Jun/19, #concept 
+	- tags: #created/2021/Jun/19, #permanent/concept 
 	- previous note:
 
 ## Notes

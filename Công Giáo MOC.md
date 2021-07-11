@@ -1,7 +1,17 @@
 # Công Giáo MOC
 %% - metadata:
-	- tags: #MOC %%
+	- tags: #MOC,  #created/2020/Dec/25%%
 
+### Định nghĩa
+**Công giáo** (hay còn gọi là **Công giáo Roma**) là nhánh lớn nhất của **Kito giáo.** Giáo Hội công giáo được xem là giáo hội duy nhất cho Chúa Giesu thiết lập, Đức Giáo Hoàng là người kế vị tông đồ Phero.
+
+**Catholic** là một thuật ngữ để chỉ Công giáo thời thế kỷ II. **Catholic** nghĩa là phổ quát, nghĩa là ơn cứu độ phổ quát cho mọi người không chỉ dành cho dân riêng Chúa chọn. Từ Công giáo trong tiếng Việt được chuyển ngữ với ý nghĩa này.
+
+### Các thánh
+[[Thánh Martino]]
+[[Thánh Phê Rô]]
+[[Thánh Phaolo]]
+[[Thánh Phanxico-Assisi]]
 
 ### Các thời kỳ lịch sử
 - 50 - 600 - [[Giáo Hội thời các Tông Đồ và các Giáo Phụ MOC]]
@@ -11,8 +21,7 @@
 - 
 
 ### 
-- [[Công Giáo]]
+- [[Công Giáo MOC]]
 - [[Thập Tự Chinh]]
 - [[Chính thống giáo Đông Phương]]
 - [[Anh giáo]]
-

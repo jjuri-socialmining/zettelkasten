@@ -2,7 +2,7 @@
 
 - metadata
 	- created: Jun 19, 2021 10:01 PM
-	- tags: #created/2021/Jun/19, #concept 
+	- tags: #created/2021/Jun/19, #permanent/concept 
 	- previous note: [[Đảng Quốc Xã]]
 
 ## Notes

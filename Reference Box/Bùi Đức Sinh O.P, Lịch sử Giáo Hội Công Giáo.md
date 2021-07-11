@@ -22,7 +22,7 @@
 |p.53|[[Phaolo tử đạo]]
 |Note9|[[Thánh Phê Rô bị tử hình trên đồi Vatican]]|
 |Note10|[[Thi Hài Phê Rô an táng đồi Vatican]]|
-||[[Vua Constantinus dùng quyền lực để dẹp lạc giáo Arius]]
+||[[210101_LSGHCG_11 - Vua Constantinus dùng quyền lực để dẹp lạc giáo Arius]]
 ||[[210101_LSGHCG_13]]
 ||[[Phần sau kinh Kính mừng bổ sung từ công đồng Epheso]]|
 |p.147| [[Thuyết Ngộ Đạo]]|

@@ -3,7 +3,7 @@
 - metadata
 	- UID (delete): P-210704-1610
 	- created: July 4, 2021 4:10 PM
-	- tags: #created/2021/Jul/4, #state/boat  #concept 
+	- tags: #created/2021/Jul/4, #state/boat  #permanent/concept 
 	- previous note: [[Brahma - Phạm Thiên]]
 
 ## Notes

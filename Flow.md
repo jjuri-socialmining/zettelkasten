@@ -1,5 +1,5 @@
 %% - metadata:
-	- tags: #concept 
+	- tags: #permanent/concept 
 	- dates: 2009-01-22 %% 
 # Flow
 *I am effortless effort, timeless time*
