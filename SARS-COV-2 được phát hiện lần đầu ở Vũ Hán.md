@@ -1,4 +1,4 @@
-# SARS-COV-2 được phát hiện lần đầu ở Vũ Hán
+# SARS-CoV-2 được phát hiện lần đầu ở Vũ Hán
 
 - metadata
 	- UID: P-210710-1339

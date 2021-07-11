@@ -1,1 +1,1 @@
-#people/personal 
+#permanent/people/personal 

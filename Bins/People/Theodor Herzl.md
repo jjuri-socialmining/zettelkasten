@@ -2,7 +2,7 @@
 
 - metadata
 	- created: Jun 18, 2021 11:52 PM #created/2021/Jun/18,
-	- tags: #people 
+	- tags: #permanent/people 
 	- previous note: [[Chủ Nghĩa Zion]]
 
 ## Notes

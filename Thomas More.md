@@ -3,7 +3,7 @@
 - metadata
 	- UID (delete): P-210704-1349
 	- created: Dec 08, 2020 10:59 PM #created/2020/Dec/08,
-	- tags: #people 
+	- tags: #permanent/people 
 	- previous note:
 
 ## Notes

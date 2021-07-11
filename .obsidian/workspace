@@ -4,24 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "bd5be72c6d8185a6",
+        "id": "494f295cad74a12c",
         "type": "leaf",
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002 Philosophy MOC.md",
-            "mode": "preview"
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "9d6d17beadce5dd6",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
+            "file": "Tử Tư là cháu nội Khổng Tử.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -49,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Socrate",
+                "query": "OC43",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -70,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 534,
-    "collapsed": true
+    "width": 534
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -99,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Đạo giáo ngược với Nho giáo.md",
+                "file": "Tử Tư là cháu nội Khổng Tử.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -114,7 +103,7 @@
                   "colorGroups": [],
                   "collapse-display": false,
                   "showArrow": false,
-                  "textFadeMultiplier": -1.8,
+                  "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": false,
@@ -122,7 +111,7 @@
                   "repelStrength": 10,
                   "linkStrength": 0.641176470588235,
                   "linkDistance": 188,
-                  "scale": 0.30042557856741703,
+                  "scale": 0.21428619353628148,
                   "close": true
                 }
               }
@@ -134,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Đạo giáo ngược với Nho giáo.md"
+                "file": "Tử Tư là cháu nội Khổng Tử.md"
               }
             }
           },
@@ -147,19 +136,18 @@
             }
           },
           {
-            "id": "f94c156b68121fab",
+            "id": "bc23dcb1ab32bde2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Đạo giáo ngược với Nho giáo.md",
-                "linksCollapsed": true,
+                "file": "Tử Tư là cháu nội Khổng Tử.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "55512af75108e012",
@@ -172,14 +160,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Đạo giáo ngược với Nho giáo.md",
+                "file": "Tử Tư là cháu nội Khổng Tử.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -187,20 +175,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 622,
+    "width": 269,
     "collapsed": true
   },
-  "active": "9d6d17beadce5dd6",
+  "active": "494f295cad74a12c",
   "lastOpenFiles": [
-    "Đạo giáo ngược với Nho giáo.md",
-    "Bins/People/Albert Camus.md",
-    "Workflows MOC.md",
-    "002 Philosophy MOC.md",
-    "Aristotle.md",
-    "Untitled.md",
-    "Pythagoras.md",
-    "Định lý Thales.md",
-    "Math MOC.md",
-    "Pythagoras là học trò của Thales.md"
+    "Tử Tư là cháu nội Khổng Tử.md",
+    "Lý Chiêu Hoàng.md",
+    "Bins/Templates/Permanent Template reference 1.md",
+    "Bins/Templates/Permanent Template reference.md",
+    "Bins/Templates/Permanent Template name.md",
+    "Bins/People/Mạnh Tử.md",
+    "Bins/People/Lão Tử.md",
+    "Thuyết tính đa thiện của Mạnh Tử.md",
+    "Tuân tử quan niệm con người bản tính xấu.md",
+    "Tuân Tử quan điểm trái ngược với Mạnh Tử vè bản tính con người.md"
   ]
 }

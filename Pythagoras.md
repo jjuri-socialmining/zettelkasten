@@ -2,7 +2,7 @@
 
 - metadata
 	- UID: P-210710-2146
-	- tags: #created/2021/Jul/10, #permanent/concept #people 
+	- tags: #created/2021/Jul/10, #permanent/concept #permanent/people 
 	- previous note: 
 	- source: 
 

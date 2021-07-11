@@ -3,7 +3,7 @@
 - metadata
 	- UID (delete): P-210704-1315
 	- created: July 4, 2021 1:15 PM
-	- tags: #people #TODO 
+	- tags: #permanent/people #TODO 
 	- previous note:
 
 ## Notes

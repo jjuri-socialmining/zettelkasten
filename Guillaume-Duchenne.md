@@ -2,7 +2,7 @@
 
 - metadata
 	- created: Nov 05, 2020 12:45 PM 
-	- tags: #created/2020/Nov/05, #people 
+	- tags: #created/2020/Nov/05, #permanent/people 
 	- previous note: [[Duchenne Smile]]
 
 ## Notes

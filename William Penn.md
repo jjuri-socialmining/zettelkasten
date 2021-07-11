@@ -4,7 +4,7 @@
 - metadata
 	- UID (delete): P-210704-1356
 	- created: Nov 06, 2020 10:05 PM
-	- tags: #created/2020/Nov/06, #people 
+	- tags: #created/2020/Nov/06, #permanent/people 
 	- previous note:
 
 ## Notes

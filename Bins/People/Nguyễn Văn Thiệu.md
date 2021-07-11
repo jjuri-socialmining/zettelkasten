@@ -2,7 +2,7 @@
 
 - metadata
 	- created: Dec 12, 2020 3:04 PM #created/2020/Dec/12,
-	- tags: #people 
+	- tags: #permanent/people 
 	- previous note: [[Ngô Đình Diệm]]
 
 ## Notes

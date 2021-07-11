@@ -7,6 +7,7 @@
 	- source: [[Trần Trọng Kim, Việt Nam sử lược]]
 
 ## Notes
-Thời vua [[Lý Chiêu Hoàng]], [[Trần Thủ Độ]] nắm việc triều chính. Ông mưu toan lấy cơ nghiệp nhà Lý để chuyển sang nhà Trần. Ông tư thông với Thái hậu, đưa cháu là [[Trần Cảnh - Trần Thái Tông]] vào cung. Sau đó, Chiêu Hoàng lấy Trần Cảnh và truyền lại ngôi cho chồng.
+Thời vua [[Lý Chiêu Hoàng]], [[Trần Thủ Độ]] nắm việc triều chính. Ông mưu toan lấy cơ nghiệp nhà Lý để chuyển sang nhà Trần. Ông tư thông với Thái hậu, đưa cháu là [[Trần Cảnh]] vào cung. Sau đó, Chiêu Hoàng lấy Trần Cảnh và truyền lại ngôi cho chồng, tức là vua [[Trần Thái Tông]].
+
 ## Questions & thoughts:
 

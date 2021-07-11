@@ -3,7 +3,7 @@
 
 - metadata
 	- created: Dec 09, 2020 5:24 AM #created/2020/Dec/09,
-	- tags: #people 
+	- tags: #permanent/people 
 	- previous note:
 
 ## Notes

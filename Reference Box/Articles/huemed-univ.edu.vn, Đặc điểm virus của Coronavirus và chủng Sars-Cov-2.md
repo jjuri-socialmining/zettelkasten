@@ -58,5 +58,5 @@ Notes:
 > Động vật được bán để làm thức ăn bị nghi ngờ là nơi chứa hoặc trung gian cho virus vì nhiều người nhiễm bệnh đầu tiên được xác định là công nhân tại Chợ hải sản Hoa Nam, thành phố Vũ Hán.
 
 Notes:
-[[SARS-COV-2 được phát hiện lần đầu ở Vũ Hán]]
+[[SARS-CoV-2 được phát hiện lần đầu ở Vũ Hán]]
 
