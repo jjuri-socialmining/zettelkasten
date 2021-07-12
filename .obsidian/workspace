@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "d710cdca6950c970",
+        "id": "70058605317cfebb",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -57,7 +57,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418
+    "width": 418,
+    "collapsed": true
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -170,17 +171,17 @@
     "width": 269,
     "collapsed": true
   },
-  "active": "d710cdca6950c970",
+  "active": "70058605317cfebb",
   "lastOpenFiles": [
-    "Các loại Vaccine COVID.md",
-    "Các bộ sách trong Ngũ Kinh.md",
-    "Cá heo ngủ nhắm 1 mắt.md",
-    "Existentialism - Chủ Nghĩa Hiện Sinh.md",
-    "Ba-ý-nghĩa-cơ-bản-của-đời-người.md",
-    "Bins/Templates/1-Date Tag Template.md",
-    "Bins/Templates/0-Permanent Note Template VNSL.md",
-    "Nho Giáo.md",
-    "Ngũ Kinh.md",
-    "tyrosin.md"
+    "Mạc Đăng Dung.md",
+    "Nguyễn Kim.md",
+    "Việt Nam Cộng Hòa.md",
+    "Lịch Sử Việt Nam MOC.md",
+    "Trịnh Kiểm.md",
+    "Nhà Hậu Lê MOC.md",
+    "Nguyễn Hoàng.md",
+    "Untitled.md",
+    "Tiền Lê MOC.md",
+    "Nam Bắc Triều.md"
   ]
 }
