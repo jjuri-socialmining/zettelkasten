@@ -5,7 +5,7 @@
 	- tags: #created/2021/Jul/10, #MOC 
 %%
 
-Ghi chú này diễn đạt cách sử dụng tag hiệu quả trong việc dùng [[Obsidian]] để triển khai [[Zettelkasten]]
+Ghi chú này diễn đạt cách sử dụng tag hiệu quả trong việc dùng [[Obsidian]] để triển khai [[Zettelkasten MOC]]
 
 Các MOC note sẽ có tag #MOC 
 

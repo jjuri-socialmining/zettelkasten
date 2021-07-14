@@ -4,10 +4,12 @@
 	- tags: #MOC %%
 
 ### Định nghĩa
-Phương pháp Zettelkasten là một hệ thống quản lý tri thức (Knowledge Management). Hoặc phát triển lên tầm xa hơn nữa thì nó còn được gọi là bộ não thứ 2 ([[The Second Brain|The Second Brain]] )
+The Zettelkasten là một từ trong tiếng Đức, có nghĩa là ngăn kéo trượt. Nó giống như các tủ đựng thẻ ghi đầu sách trong thư viện. Nghĩa tiếng Anh là [[Slipbox]]. The Zettelkasten là nơi lưu trữ tất cả các ghi chú của bạn. Bạn có thể dùng giấy viết và ngăn kéo trượt thủ công thực sự để bảo quản thẻ ghi chú giống như Luhman đã làm.
+
+Phương pháp Zettelkasten là một hệ thống quản lý tri thức [[Knowledge Management]]. Hoặc phát triển lên tầm xa hơn nữa thì nó còn được gọi là bộ não thứ 2 ([[The Second Brain]] )
 
 ### Ba phần chính của một hệ thống Zettelkasten
-- [[Zettelkasten]] hay còn gọi là Slipbox
+- Zettelkasten hay còn gọi là Slipbox
 - Hệ thống quản lý tri thức [[Reference Manager]] 
 - Trình soạn thảo văn bản
 

@@ -6,7 +6,7 @@ Navigate your "library" with a classification system modified for PKM. #MOC
 
 ---
 ### Knowledge Management
-The [[PKM MOC]] shows the best practices of knowledge management. I use the [[LYT Kit]] to show the power of linked thinking and to empower others to develop their thinking. The [[MOC - Map Of Content|MOC]] is my personal note to wrap my head around the wondrous beauty that MOCs offer.
+The [[PKM MOC]] shows the best practices of [[Knowledge Management]]. I use the [[LYT Kit]] to show the power of linked thinking and to empower others to develop their thinking. The [[MOC - Map Of Content|MOC]] is my personal note to wrap my head around the wondrous beauty that MOCs offer.
 
 ### Personal Management
 The [[Mindsets MOC]] can galvanize my attention; the [[Concepts MOC]] can flavor it; and the [[Habits MOC]] speaks about how to direct it. Others: [[Posture MOC]] and [[Hormesis MOC]] and [[Breathing Exercises MOC]].

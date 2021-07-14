@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e0328225c9cd021d",
+        "id": "d5868657318fde8c",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -168,20 +168,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269,
-    "collapsed": true
+    "width": 269
   },
-  "active": "e0328225c9cd021d",
+  "active": "d5868657318fde8c",
   "lastOpenFiles": [
-    "Trịnh - Nguyễn phân tranh.md",
-    "Trịnh Kiểm.md",
-    "Chúa Nguyễn.md",
-    "Untitled.md",
-    "Đàng Ngoài.md",
     "000 Interests MOC.md",
-    "Mạc Đăng Dung.md",
-    "Nguyễn Kim.md",
-    "Việt Nam Cộng Hòa.md",
-    "Lịch Sử Việt Nam MOC.md"
+    "Reference Box/Articles/Zotero best practices - Knowledge management.md",
+    "Reference Box/Articles/leananki.com, Zettelkasten Method How to Take Smart Notes for Knowledge Management.md",
+    "Knowledge Management.md",
+    "Personal Knowledge Management MOC.md",
+    "The PARA Method.md",
+    "Zettelkasten MOC.md",
+    "Knowledge-Management.md",
+    "Zettelkasten.md",
+    "The Second Brain.md"
   ]
 }
