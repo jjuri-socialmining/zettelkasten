@@ -1,7 +1,7 @@
 # Người Sapiens tiến hóa chiếm ưu thế hơn Neanderthal
 
 - metadata
-	- created: June 27, 2021 10:50 PM #created/2021/June/27,
+	- created: June 27, 2021 10:50 PM #created/2021/Jun/27,
 	- tags:
 	- previous note: [[Homo Sapiens]]
 

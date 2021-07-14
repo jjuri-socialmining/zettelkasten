@@ -9,7 +9,7 @@
 |---|---|---|
 |2897 - 258 TCN|[[Hồng Bàng]]|[[Văn Lang]]|
 ||[[An Dương Vương]]|[[Âu Lạc]]|
-||[[Nhà Đinh]]|[[Đại Cồ Việt]]|
+||[[Nhà Đinh MOC]]|[[Đại Cồ Việt]]|
 ||[[Lý Thánh Tông]]|[[Đại Việt]]|
 ||[[Lý Anh Tông]]|[[An Nam Quốc]]|
 ||[[Gia Long]]|[[Việt Nam]]|

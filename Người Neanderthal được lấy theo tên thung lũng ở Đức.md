@@ -1,7 +1,7 @@
 # Người Neanderthal được đặt tên theo một thung lũng ở Đức
 
 - metadata
-	- created: June 27, 2021 11:09 PM #created/2021/June/27,
+	- created: June 27, 2021 11:09 PM #created/2021/Jun/27,
 	- tags:
 	- previous note: [[Homo Neanderthal]]
 	- url: [Wiki](https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Neanderthal)

@@ -1,8 +1,7 @@
 # {{title}}
 
-- metadata:
-	- tags:  #created/{{date:YYYY/MMM/DD}}
+
+- metadata
 	- UID: L-{{date}}
-	- people: 
-
-
+	- tags: #created/{{date:YYYY/MMM/DD}}, #literature-notes 
+	- source: 

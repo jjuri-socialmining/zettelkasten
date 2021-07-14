@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "d5868657318fde8c",
+        "id": "451fe8b2f54c67e7",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#created/2021/Jul/11",
+                "query": "tag:#created/2021/Jul/14",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -53,12 +53,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 418,
-    "collapsed": true
+    "width": 418
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -168,19 +168,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269
+    "width": 269,
+    "collapsed": true
   },
-  "active": "d5868657318fde8c",
+  "active": "451fe8b2f54c67e7",
   "lastOpenFiles": [
-    "000 Interests MOC.md",
-    "Reference Box/Articles/Zotero best practices - Knowledge management.md",
-    "Reference Box/Articles/leananki.com, Zettelkasten Method How to Take Smart Notes for Knowledge Management.md",
-    "Knowledge Management.md",
-    "Personal Knowledge Management MOC.md",
-    "The PARA Method.md",
-    "Zettelkasten MOC.md",
-    "Knowledge-Management.md",
-    "Zettelkasten.md",
-    "The Second Brain.md"
+    "Chúa Nguyễn.md",
+    "Đàng Ngoài.md",
+    "Đàng Trong.md",
+    "Đinh Bộ Lĩnh, Nguyễn Bặc, Đinh Điền kết thân keo sơn từ bé.md",
+    "Zettelkasten Workflow.md",
+    "Vụ án Lệ Chi Viên trong các sách sử.md",
+    "Vụ án Lệ Chi Viên được khai thác nhiều trong văn chương nghệ thuật.md",
+    "Vụ án Lệ Chi Viên.md",
+    "Việt sử tân biên.md",
+    "Phim Thiên mệnh anh hùng.md"
   ]
 }

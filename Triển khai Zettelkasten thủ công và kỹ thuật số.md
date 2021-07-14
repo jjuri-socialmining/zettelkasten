@@ -1,7 +1,7 @@
 # Triển khai Zettelkasten thủ công và kỹ thuật số
 
 - metadata
-	- created: June 27, 2021 10:37 PM #created/2021/June/27,
+	- created: June 27, 2021 10:37 PM #created/2021/Jun/27,
 	- tags:
 	- previous note: [[Slipbox]]
 

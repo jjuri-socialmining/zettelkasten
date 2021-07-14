@@ -1,7 +1,7 @@
 # Sartre phổ biến chủ nghĩa hiện sinh
 
 - metadata
-	- created: June 30, 2021 10:14 PM #created/2021/June/30,
+	- created: June 30, 2021 10:14 PM #created/2021/Jun/30,
 	- tags:
 	- previous note: [[Existentialism - Chủ Nghĩa Hiện Sinh]]
 

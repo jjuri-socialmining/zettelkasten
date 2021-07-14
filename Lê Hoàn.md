@@ -1,0 +1,13 @@
+# Lê Hoàn
+
+- metadata
+	- UID: P-210714-2151
+	- tags: #created/2021/Jul/14, #permanent/people 
+	- previous note: 
+	- source: [[Tiền Lê MOC]]
+
+## Notes
+
+
+## Questions & thoughts:
+

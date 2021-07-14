@@ -8,5 +8,6 @@
 
 ## Notes
 Năm 1592, [[Trịnh Tùng]] - con trai của [[Trịnh Kiểm]], lật đổ [[Nhà Mạc]] khôi phục [[Nhà Hậu Lê MOC]].
+
 ## Questions & thoughts:
 

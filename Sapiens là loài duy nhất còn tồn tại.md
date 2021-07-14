@@ -1,7 +1,7 @@
 # Sapiens là loài duy nhất còn tồn tại
 
 - metadata
-	- created: June 27, 2021 11:22 AM #created/2021/June/27,
+	- created: June 27, 2021 11:22 AM #created/2021/Jun/27,
 	- tags:
 	- previous note:
 
