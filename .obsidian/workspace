@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "70058605317cfebb",
+        "id": "e0328225c9cd021d",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -171,17 +171,17 @@
     "width": 269,
     "collapsed": true
   },
-  "active": "70058605317cfebb",
+  "active": "e0328225c9cd021d",
   "lastOpenFiles": [
+    "Trịnh - Nguyễn phân tranh.md",
+    "Trịnh Kiểm.md",
+    "Chúa Nguyễn.md",
+    "Untitled.md",
+    "Đàng Ngoài.md",
+    "000 Interests MOC.md",
     "Mạc Đăng Dung.md",
     "Nguyễn Kim.md",
     "Việt Nam Cộng Hòa.md",
-    "Lịch Sử Việt Nam MOC.md",
-    "Trịnh Kiểm.md",
-    "Nhà Hậu Lê MOC.md",
-    "Nguyễn Hoàng.md",
-    "Untitled.md",
-    "Tiền Lê MOC.md",
-    "Nam Bắc Triều.md"
+    "Lịch Sử Việt Nam MOC.md"
   ]
 }
