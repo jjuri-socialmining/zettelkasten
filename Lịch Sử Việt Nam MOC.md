@@ -9,10 +9,14 @@
 [[Thời Bắc thuộc]]
 [[Nhà Lý MOC]]
 [[Nhà Trần MOC]]
-[[Tiền Lê MOC]]
+[[Nhà Tiền Lê MOC]]
 [[Nhà Hậu Lê MOC]]
+[[Nhà Nguyễn MOC]]
+
 [[Việt Nam Cộng Hòa MOC]]
 
 
 ## Nhân vật lịch sử
 - [[Hai Bà Trưng]]
+
+[[Quốc hiệu VN qua các thời kỳ MOC]]

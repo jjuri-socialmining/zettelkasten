@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "451fe8b2f54c67e7",
+        "id": "268fc375959f3db9",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#created/2021/Jul/14",
+                "query": "tag:#created/2021/Jul/15",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -171,17 +171,17 @@
     "width": 269,
     "collapsed": true
   },
-  "active": "451fe8b2f54c67e7",
+  "active": "268fc375959f3db9",
   "lastOpenFiles": [
-    "Chúa Nguyễn.md",
-    "Đàng Ngoài.md",
-    "Đàng Trong.md",
-    "Đinh Bộ Lĩnh, Nguyễn Bặc, Đinh Điền kết thân keo sơn từ bé.md",
-    "Zettelkasten Workflow.md",
-    "Vụ án Lệ Chi Viên trong các sách sử.md",
-    "Vụ án Lệ Chi Viên được khai thác nhiều trong văn chương nghệ thuật.md",
-    "Vụ án Lệ Chi Viên.md",
-    "Việt sử tân biên.md",
-    "Phim Thiên mệnh anh hùng.md"
+    "Nguyễn Hoàng.md",
+    "Nhà Hậu Lê MOC.md",
+    "Ngô Sĩ Liên.md",
+    "Untitled.md",
+    "Hồ Quý Ly.md",
+    "Nhà Nguyễn MOC.md",
+    "Nhà Hồ MOC.md",
+    "Nguyễn Uông bị Trịnh Kiểm giết.md",
+    "Nguyễn Hoàng xin Trịnh Kiểm dẫn người vào nam.md",
+    "Nguyễn Hoàng hỏi ý Trạng Trình trước khi đưa người vào nam.md"
   ]
 }

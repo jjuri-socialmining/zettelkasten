@@ -13,7 +13,7 @@ Theo tài liệu sử để lại, [[Đinh Tiên Hoàng]] và [[Đinh Liễn]] b
 
 - Việc tư thông còn thể hiện khi Dương Vân Nga rất sẵn lòng nhường ngôi từ [[Đinh Toàn]] cho Lê Hoàn, hơn thế nữa, còn chính tay khoác hoàng bào cho ông. 
 
-Hiện nay, còn nhiều di tích thời [[Nguyễn Bặc]] và [[Đinh Điền]] ở Ninh Bình. Số đền thờ của các công thần nhà Đinh nhiều hơn nhà [[Tiền Lê MOC]] và Dương Hậu cũng nói lên điều này.
+Hiện nay, còn nhiều di tích thời [[Nguyễn Bặc]] và [[Đinh Điền]] ở Ninh Bình. Số đền thờ của các công thần nhà Đinh nhiều hơn nhà [[Nhà Tiền Lê MOC]] và Dương Hậu cũng nói lên điều này.
 
 ## Questions & thoughts:
 - Vụ án này giống với [[Vụ án Lệ Chi Viên]]

@@ -7,7 +7,7 @@
 %%
 
 ## Các đời vua
-[[Trần Cảnh]] được [[Trần Thủ Độ]] đưa vào cung, và ép [[Lý Chiêu Hoàng]] nhường ngôi, lập ra nhà Trần.
+[[Trần Cảnh]] được [[Trần Thủ Độ]] đưa vào cung, và ép [[Lý Chiêu Hoàng]] nhường ngôi, lập ra nhà Trần, chấm dứt [[Nhà Tiền Lê MOC]]
 
 ### Trần Thái Tông 1225-1258
 - Trần Cảnh lên ngô[[Trần Thái Tông]] Trần Thái Tông]]

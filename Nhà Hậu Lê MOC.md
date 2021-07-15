@@ -5,7 +5,6 @@
 	- tags: #created/2021/Jul/12, #MOC 
 %%
 
-
 ## Notes
 Nhà Hậu Lê là một triều đại kéo dài từ 1428-1789 do [[Lê Lợi]] gây dựng lên.
 

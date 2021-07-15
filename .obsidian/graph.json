@@ -11,7 +11,7 @@
       "query": "tag:#MOC",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 15745602
       }
     },
     {
@@ -29,14 +29,7 @@
       }
     },
     {
-      "query": "tag:#created/2021/Jun",
-      "color": {
-        "a": 1,
-        "rgb": 16777215
-      }
-    },
-    {
-      "query": "tag:#created/2021/Jul",
+      "query": "tag:#created/2021/Jul/14",
       "color": {
         "a": 1,
         "rgb": 16777215
@@ -53,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.09725011345308457,
-  "close": false
+  "scale": 0.7384930490343684,
+  "close": true
 }
