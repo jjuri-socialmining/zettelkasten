@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "tag:#created/2021/Jul/14",
+      "query": "tag:#created/2021/Jul/16",
       "color": {
         "a": 1,
         "rgb": 16777215
@@ -38,14 +38,14 @@
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -1.4,
-  "nodeSizeMultiplier": 0.97948717948718,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7384930490343684,
-  "close": true
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.42588235294118,
+  "lineSizeMultiplier": 0.849411764705882,
+  "collapse-forces": false,
+  "centerStrength": 0.247058823529412,
+  "repelStrength": 10.1176470588235,
+  "linkStrength": 0.894117647058824,
+  "linkDistance": 500,
+  "scale": 0.049477151093191826,
+  "close": false
 }

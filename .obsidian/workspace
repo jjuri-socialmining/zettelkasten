@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "268fc375959f3db9",
+        "id": "89da36a5553507e9",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#created/2021/Jul/15",
+                "query": "tag:#created/2021/Jul",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -58,7 +58,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418
+    "width": 418,
+    "collapsed": true
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -171,17 +172,17 @@
     "width": 269,
     "collapsed": true
   },
-  "active": "268fc375959f3db9",
+  "active": "89da36a5553507e9",
   "lastOpenFiles": [
-    "Nguyễn Hoàng.md",
-    "Nhà Hậu Lê MOC.md",
-    "Ngô Sĩ Liên.md",
+    "Lịch Sử Việt Nam MOC.md",
+    "Nguyễn Huệ.md",
+    "Nhà Tây Sơn MOC.md",
+    "Chúa Nguyễn.md",
+    "Phương pháp Getting things done.md",
+    "The PARA Method.md",
+    "Nguyễn Ánh.md",
     "Untitled.md",
-    "Hồ Quý Ly.md",
-    "Nhà Nguyễn MOC.md",
-    "Nhà Hồ MOC.md",
-    "Nguyễn Uông bị Trịnh Kiểm giết.md",
-    "Nguyễn Hoàng xin Trịnh Kiểm dẫn người vào nam.md",
-    "Nguyễn Hoàng hỏi ý Trạng Trình trước khi đưa người vào nam.md"
+    "Thời Chúa Nguyễn có quan hệ ngoại giao tốt  với các nước lân cận.md",
+    "Nhà Tây Sơn.md"
   ]
 }
