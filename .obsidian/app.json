@@ -5,7 +5,7 @@
   "newFileLocation": "root",
   "newFileFolderPath": "Seedbox",
   "foldIndent": true,
-  "fileSortOrder": "alphabetical",
+  "fileSortOrder": "byModifiedTime",
   "spellcheck": true,
   "showFrontmatter": false,
   "spellcheckDictionary": [

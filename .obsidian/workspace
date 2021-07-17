@@ -4,11 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "268fc375959f3db9",
+        "id": "72b773a068f4f736",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CI & CD MOC.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "d0767922fa8a2458",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Jenkins.md",
+            "mode": "preview"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "26ed5e173d4c7e57",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Nhà Nguyễn MOC.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#created/2021/Jul/15",
+                "query": "dataview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -53,8 +82,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,8 +114,9 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Nhà Nguyễn MOC.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 3,
                   "localBacklinks": true,
@@ -95,20 +124,35 @@
                   "localInterlinks": false,
                   "showTags": false,
                   "showAttachments": false,
-                  "hideUnresolved": false,
+                  "hideUnresolved": true,
                   "collapse-color-groups": false,
-                  "colorGroups": [],
+                  "colorGroups": [
+                    {
+                      "query": "tag:#MOC",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16711680
+                      }
+                    },
+                    {
+                      "query": "",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14069084
+                      }
+                    }
+                  ],
                   "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
+                  "showArrow": true,
+                  "textFadeMultiplier": -2,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": false,
-                  "centerStrength": 0.417647058823529,
-                  "repelStrength": 10,
-                  "linkStrength": 0.641176470588235,
-                  "linkDistance": 188,
-                  "scale": 0.21428619353628148,
+                  "centerStrength": 0.435294117647059,
+                  "repelStrength": 10.4273504273504,
+                  "linkStrength": 0.47008547008547,
+                  "linkDistance": 114,
+                  "scale": 0.42119152320599645,
                   "close": true
                 }
               }
@@ -119,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Nhà Nguyễn MOC.md"
+              }
             }
           },
           {
@@ -136,12 +182,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Nhà Nguyễn MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "55512af75108e012",
@@ -154,6 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Nhà Nguyễn MOC.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -168,20 +217,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269,
+    "width": 305,
     "collapsed": true
   },
-  "active": "268fc375959f3db9",
+  "active": "26ed5e173d4c7e57",
   "lastOpenFiles": [
-    "Nguyễn Hoàng.md",
-    "Nhà Hậu Lê MOC.md",
-    "Ngô Sĩ Liên.md",
-    "Untitled.md",
-    "Hồ Quý Ly.md",
     "Nhà Nguyễn MOC.md",
-    "Nhà Hồ MOC.md",
-    "Nguyễn Uông bị Trịnh Kiểm giết.md",
-    "Nguyễn Hoàng xin Trịnh Kiểm dẫn người vào nam.md",
-    "Nguyễn Hoàng hỏi ý Trạng Trình trước khi đưa người vào nam.md"
+    "Bins/Templates/MOC template.md",
+    "Jenkins.md",
+    "Pythonic.md",
+    "Gitlab CI & CD.md",
+    "CI & CD MOC.md",
+    "Gitlab.md",
+    "Cần cài Java trước khi cài Jenkins.md",
+    "Spaces/Daily/210717-1119.md",
+    "Enroll Udemy Cource and Learn about Jenkins.md"
   ]
 }

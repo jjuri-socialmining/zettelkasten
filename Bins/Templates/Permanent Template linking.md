@@ -4,10 +4,14 @@
 	- UID: P-{{date}}
 	- tags: #created/{{date:YYYY/MMM/DD}}, #permanent/linking
 	- source: 
-	- related: 
 
 ## Notes
 
 
 ## Questions & thoughts:
 
+## Related:
+```dataview
+list
+from [[{{title}}]]
+```

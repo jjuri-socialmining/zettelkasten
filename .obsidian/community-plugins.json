@@ -1,5 +1,4 @@
 [
-  "sliding-panes-obsidian",
   "hotkeysplus-obsidian",
   "calendar",
   "dataview",
@@ -8,5 +7,6 @@
   "obsidian-markdown-formatting-assistant-plugin",
   "obsidian-kindle-plugin",
   "table-editor-obsidian",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "sliding-panes-obsidian"
 ]

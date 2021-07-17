@@ -1,13 +1,15 @@
 {
-  "theme": "obsidian",
-  "obsidianCss": true,
-  "cssTheme": "",
+  "theme": "moonstone",
+  "obsidianCss": false,
+  "cssTheme": "Blue Topaz",
   "enabledCssSnippets": [
     "cybertron",
     "sliding-panes-No-Gradient",
-    "My Font"
+    "My Font",
+    "image-adjustments-by-SIRvb",
+    "kanban-css-by-SIRvb"
   ],
   "translucency": false,
-  "baseFontSize": 16,
+  "baseFontSize": 14,
   "baseFontSizeAction": true
 }

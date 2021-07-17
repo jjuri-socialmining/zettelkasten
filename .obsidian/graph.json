@@ -3,7 +3,7 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -11,41 +11,34 @@
       "query": "tag:#MOC",
       "color": {
         "a": 1,
-        "rgb": 15745602
+        "rgb": 16711680
       }
     },
     {
       "query": "tag:#state/boat",
       "color": {
         "a": 1,
-        "rgb": 13534449
+        "rgb": 14069084
       }
     },
     {
-      "query": "tag:#task",
+      "query": "tag:#task/todo",
       "color": {
         "a": 1,
-        "rgb": 1480799
-      }
-    },
-    {
-      "query": "tag:#created/2021/Jul/14",
-      "color": {
-        "a": 1,
-        "rgb": 16777215
+        "rgb": 13893887
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -1.4,
-  "nodeSizeMultiplier": 0.97948717948718,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7384930490343684,
+  "textFadeMultiplier": -2.3,
+  "nodeSizeMultiplier": 0.705294117647059,
+  "lineSizeMultiplier": 0.417058823529412,
+  "collapse-forces": false,
+  "centerStrength": 0.294117647058824,
+  "repelStrength": 8.47058823529412,
+  "linkStrength": 0.717647058823529,
+  "linkDistance": 188,
+  "scale": 0.6316046762907855,
   "close": true
 }

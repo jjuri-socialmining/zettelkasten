@@ -5,6 +5,7 @@
 	- tags: #created/2021/Jul/07
 	- previous note: 
 	- source: 
+	- related: [[Python MOC]]
 
 ## Notes
 Pythonic là một đoạn code tối ưu cho một mục đích.
@@ -16,4 +17,5 @@ Có nhiều tiêu chí để đánh giá:
 - Dễ đọc
 
 ## Questions & thoughts:
+- [ ] Trang web chính thức của pythonic #task/todo #question❓ 
 

@@ -8,5 +8,5 @@
 %%
 
 ## Works to finished
-- [ ] - Do something
+- [ ] Do something
 
