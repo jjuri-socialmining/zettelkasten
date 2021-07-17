@@ -7,7 +7,7 @@
 	- previous note:
 
 ## Notes
-Nước ta bắt đầu tự chép sử từ thời [[Nhà Trần MOC]]. Từ đó, các đời vua sau này cũng theo đó coi trọng việc chép sử.[^1]
+Nước ta bắt đầu tự chép sử từ thời [[~Nhà Trần]]. Từ đó, các đời vua sau này cũng theo đó coi trọng việc chép sử.[^1]
 Tuy vậy, các nhà chép sử còn thô sơ, chỉ ghi lại sự kiện mà không giải thích. Hơn nữa, người chép sử là các quan lại bị ảnh hưởng bởi vua nên sử chép ra cũng không khách quan.
 
 ## Questions & thoughts:

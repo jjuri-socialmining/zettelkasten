@@ -4,40 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "72b773a068f4f736",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "CI & CD MOC.md",
-            "mode": "source"
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "d0767922fa8a2458",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Jenkins.md",
-            "mode": "preview"
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "26ed5e173d4c7e57",
+        "id": "2b7376d6b13cf639",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Nhà Nguyễn MOC.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -65,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dataview",
+                "query": "Publish",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418
+    "width": 220
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -114,7 +85,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Nhà Nguyễn MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -152,7 +122,7 @@
                   "repelStrength": 10.4273504273504,
                   "linkStrength": 0.47008547008547,
                   "linkDistance": 114,
-                  "scale": 0.42119152320599645,
+                  "scale": 0.30042557856740926,
                   "close": true
                 }
               }
@@ -163,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Nhà Nguyễn MOC.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nhà Nguyễn MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,14 +169,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nhà Nguyễn MOC.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -220,17 +186,17 @@
     "width": 305,
     "collapsed": true
   },
-  "active": "26ed5e173d4c7e57",
+  "active": "2b7376d6b13cf639",
   "lastOpenFiles": [
-    "Nhà Nguyễn MOC.md",
-    "Bins/Templates/MOC template.md",
-    "Jenkins.md",
-    "Pythonic.md",
-    "Gitlab CI & CD.md",
-    "CI & CD MOC.md",
-    "Gitlab.md",
-    "Cần cài Java trước khi cài Jenkins.md",
-    "Spaces/Daily/210717-1119.md",
-    "Enroll Udemy Cource and Learn about Jenkins.md"
+    "Nguyên thủ Quốc gia.md",
+    "Đế quốc Việt Nam.md",
+    "Bảo Đại sắc phong Ngô Đình Diệm làm thượng thư.md",
+    "Bins/People/Ngô Đình Diệm.md",
+    "Bins/Templates/Template reference.md",
+    "Bins/Templates/Template fact.md",
+    "Untitled.md",
+    "Khải Định.md",
+    "Vua Khải Định bị cho là vô sinh.md",
+    "Bảo Đại.md"
   ]
 }

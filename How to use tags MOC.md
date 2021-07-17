@@ -5,7 +5,7 @@
 	- tags: #created/2021/Jul/10, #MOC 
 %%
 
-Ghi chú này diễn đạt cách sử dụng tag hiệu quả trong việc dùng [[Obsidian]] để triển khai [[Zettelkasten MOC]]
+Ghi chú này diễn đạt cách sử dụng tag hiệu quả trong việc dùng [[Obsidian]] để triển khai [[~Zettelkasten]]
 
 Các MOC note sẽ có tag #MOC 
 
@@ -33,5 +33,9 @@ Mỗi ghi chú khi được tạo sẽ mặc định có tag
 Đối với các task, công việc cần phải làm hoặc đã hoàn thành
 #task/todo 
 #task/done
+
+
+~ => MOC
+! => Thinking/idea
 
 

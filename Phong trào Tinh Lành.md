@@ -15,7 +15,7 @@
 - Xem Kinh Thánh là cội nguồn của đạo
 - Việc tìm hiểu, nghiên cứu và truyền bá Kinh thánh
 
-**Tin Lành** cũng có thể coi là một tên gọi khác của **Tin mừng** hay **Phúc Âm** trong [[Công Giáo MOC]]
+**Tin Lành** cũng có thể coi là một tên gọi khác của **Tin mừng** hay **Phúc Âm** trong [[~Công Giáo]]
 
 ## Questions & thoughts:
 - [[#^e5ec58]] là gì??

@@ -10,4 +10,4 @@
 
 
 ## Questions & thoughts:
-Thời các Chúa Nguyễn, quan hệ ngoại giao của họ với các nước lân cận tốt đẹp, nên khi bị nhà Tây Sơn lật đổ, Nguyễn Ánh qua cầu viện vua Xiêm đưa quân sang đánh [[Nhà Tây Sơn MOC]]
+Thời các Chúa Nguyễn, quan hệ ngoại giao của họ với các nước lân cận tốt đẹp, nên khi bị nhà Tây Sơn lật đổ, Nguyễn Ánh qua cầu viện vua Xiêm đưa quân sang đánh [[~Nhà Tây Sơn]]

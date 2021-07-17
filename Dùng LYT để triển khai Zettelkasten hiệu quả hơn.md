@@ -6,6 +6,6 @@
 	- previous note:
 
 ## Notes
-Mình đang triển khai [[Zettelkasten MOC]] trên bằng [[LYT System]]. Tìm hiểu thêm [[Zettelkasten and LYT Frameworks]]
+Mình đang triển khai [[~Zettelkasten]] trên bằng [[LYT System]]. Tìm hiểu thêm [[Zettelkasten and LYT Frameworks]]
 ## Questions & thoughts:
 

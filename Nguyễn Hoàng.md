@@ -8,7 +8,7 @@
 	- other names: [[Chúa Tiên]], [[Nguyễn Thái Tổ]] 
 
 ## Notes
-Nguyễn Hoàng (1525-1613) là vị [[Chúa Nguyễn]] đầu tiên, là người đặt nền móng cho [[Nhà Nguyễn MOC]]. Quê ông ở Thanh Hóa. Cha ông là [[Nguyễn Kim]]. Ông có công khai phá, mở rộng lãnh thổ Việt Nam về phía Nam.
+Nguyễn Hoàng (1525-1613) là vị [[Chúa Nguyễn]] đầu tiên, là người đặt nền móng cho [[~Nhà Nguyễn]]. Quê ông ở Thanh Hóa. Cha ông là [[Nguyễn Kim]]. Ông có công khai phá, mở rộng lãnh thổ Việt Nam về phía Nam.
 
 ## Questions & thoughts:
  - [x] [[Nguyễn Hoàng con trai của Nguyễn Kim]]

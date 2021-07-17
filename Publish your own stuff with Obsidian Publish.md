@@ -18,4 +18,5 @@ Start sharing your stuff now, [get Obsidian Publish here](https://obsidian.md/pr
 - [Andy's Notes](https://publish.obsidian.md/andymatuschak/_Start+Here) - Andy Matuschak
 - [Ehsan's Notes](https://notes.thisisehsan.com/Networked+Note+Making/A+designer's+guide+to+networked+notemaking+with+Obsidian) - Ehsan Noursalehi
 - [Moby Diction](https://publish.obsidian.md/mobydiction/_About) - David Drysdale
+- https://publish.obsidian.md/bryan-jenks/Tag+Taxonomy
 

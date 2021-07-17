@@ -9,7 +9,7 @@
 ## Notes
 Identation là thụt lề. Mỗi loại có một quy ước thụt lề khác nhau với mỗi dòng code thực thi. 
 - Có ngôn ngữ dùng việc thụt lề theo nhiều cấp để cho code đồng bộ dễ đọc: [[C Programming]]
-- Có ngôn ngữ việc căn thụt lề là cú pháp, code thực thi mới không bị lỗi và đảm bảo thực thi đúng ngữ nghĩa: [[Python MOC]]
+- Có ngôn ngữ việc căn thụt lề là cú pháp, code thực thi mới không bị lỗi và đảm bảo thực thi đúng ngữ nghĩa: [[~Python]]
 
 ## Questions & thoughts:
 

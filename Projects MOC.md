@@ -1,4 +1,4 @@
-[[000 Home]]
+[[~000 Home]]
 tags: #MOC #project 
 
 

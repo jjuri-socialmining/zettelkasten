@@ -7,7 +7,7 @@
 	- previous note:
 
 ## Notes
-Họ[[Nho Giáo MOC]]ho giáo]] mập mờ nước đôi trong việc trật tự của chế độ phong kiến.[^1]
+Họ[[~Nho Giáo]]ho giáo]] mập mờ nước đôi trong việc trật tự của chế độ phong kiến.[^1]
 
 ## Questions & thoughts:
 - Một số nhận xét tương đồng trong [[Nguyễn Gia Kiểng, Tổ Quốc ăn ăn]] của [[Nguyễn Gia Kiểng]]

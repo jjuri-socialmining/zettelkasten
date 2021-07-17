@@ -9,7 +9,8 @@
 
 
 ## Questions & thoughts:
-
+- [ ] Dataview sử dụng [[YAML]] để hiển thị dữ liệu
+- [ ] Tìm hiểu YAML
 
 ### Related:
 ```dataview

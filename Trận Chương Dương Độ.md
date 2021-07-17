@@ -8,5 +8,6 @@
 
 ## Notes
 [[Trần Quang Khải]], [[Trần Quốc Toản]] và [[Phạm Ngũ Lão]] đem quân ra đến Chương Dương đánh bại Thoát Hoan. Quân Nguyên phải rút khỏi thành Thăng Long lên Kinh Bắc
+
 ## Questions & thoughts:
 

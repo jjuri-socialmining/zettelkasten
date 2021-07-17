@@ -7,7 +7,7 @@
 	- source: 
 
 ## Notes
-[[Nhà Hậu Lê MOC]] kéo dài 356 năm từ 1428 đến 1789, là thời đại dài nhất trong lịch sử phong kiến Việt Nam.
+[[~Nhà Hậu Lê]] kéo dài 356 năm từ 1428 đến 1789, là thời đại dài nhất trong lịch sử phong kiến Việt Nam.
 
 ## Questions & thoughts:
 

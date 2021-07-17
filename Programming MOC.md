@@ -11,4 +11,4 @@
 
 ## Programming languages
 [[C Programming]]
-[[Python MOC]]
+[[~Python]]

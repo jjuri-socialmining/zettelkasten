@@ -1,1 +1,0 @@
-#created/{{date:YYYY/MMM/DD}}

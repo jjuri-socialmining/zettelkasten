@@ -6,7 +6,7 @@
 	- previous note: 
 
 ## Notes
-Khổng Tử, hay còn gọi là Khổng Phu Tử (551-479TCN), tự là Trọng Ni. Khổng tử là người sáng lập [[Nho Giáo MOC]]
+Khổng Tử, hay còn gọi là Khổng Phu Tử (551-479TCN), tự là Trọng Ni. Khổng tử là người sáng lập [[~Nho Giáo]]
 
 ## Questions & thoughts:
 

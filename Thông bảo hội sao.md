@@ -4,10 +4,10 @@
 	- UID: P-210715-2334
 	- tags: #created/2021/Jul/15, #permanent/concept 
 	- source: 
-	- related: [[Hồ Quý Ly]], [[Nhà Hồ MOC]] 
+	- related: [[Hồ Quý Ly]], [[~Nhà Hồ]] 
 
 ## Notes
-Thông bảo hội sao là tên loại tiền giấy được [[Hồ Quý Ly]] phát hành để thay thế tiền đồng. Cuộc cải cách tiền giấy này có thể xem là bước đi trước thời đại. Tuy nhiên, vào thời đó, tiền giấy chưa có công nghệ chống tiền giả, mực in dễ bị phai màu. Dù có nhiều biện pháp bắt buộc dân sử dụng nhưng [[Nhà Hồ MOC]] vẫn thất bại trong cuộc cải cách này.
+Thông bảo hội sao là tên loại tiền giấy được [[Hồ Quý Ly]] phát hành để thay thế tiền đồng. Cuộc cải cách tiền giấy này có thể xem là bước đi trước thời đại. Tuy nhiên, vào thời đó, tiền giấy chưa có công nghệ chống tiền giả, mực in dễ bị phai màu. Dù có nhiều biện pháp bắt buộc dân sử dụng nhưng [[~Nhà Hồ]] vẫn thất bại trong cuộc cải cách này.
 
 ## Questions & thoughts:
 - [ ] [[Nguyễn Gia Kiểng, Tổ Quốc ăn ăn]] có đánh giá cao quá đáng cho chính sách này??

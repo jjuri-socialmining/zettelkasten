@@ -7,9 +7,9 @@
 	- previous note:
 
 ## Notes
-Trong quyển [[Trần Trọng Kim, Việt Nam sử lược|Việt Nam sử lược]], [[Trần Trọng Kim]] chia [[Lịch Sử Việt Nam MOC]] thành 5 thời kỳ:
+Trong quyển [[Trần Trọng Kim, Việt Nam sử lược|Việt Nam sử lược]], [[Trần Trọng Kim]] chia [[~Lịch Sử Việt Nam]] thành 5 thời kỳ:
 - Thời thượng cổ
-- [[Thời Bắc thuộc]]
+- [[~Thời Bắc thuộc]]
 - Thời tự chủ
 - Thời Nam Bắc phân tranh
 - Thời Cận kim
