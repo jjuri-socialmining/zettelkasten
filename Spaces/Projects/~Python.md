@@ -82,7 +82,7 @@ https://coggle.it/diagram/XgtVOa6K4obH730X/t/%F0%9F%90%8D%F0%9F%92%BB-python-dev
 ### Data scientist/analysis
 ### Web parsing/scrawling
 ### CI/CD
-Định nghĩa tham khảo [[CI & CD MOC]]
+Định nghĩa tham khảo [[~CI & CD]]
 [[Travis CI]]
 [[Jenkins]]
 [[Gitlab]]

@@ -11,3 +11,9 @@ PEP-8 là một chuẩn code của [[~Python]], được tạo ra vào năm 2001
 
 ## Questions & thoughts:
 
+## Related:
+```dataview
+list
+from [[PEP-8]]
+sort file.name asc
+```

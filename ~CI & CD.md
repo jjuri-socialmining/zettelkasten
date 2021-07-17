@@ -1,4 +1,4 @@
-# CI & CD MOC
+# CI & CD
 
 - metadata
 	- UID: P-210717-0804
@@ -23,5 +23,5 @@ Thường được ký hiệu bằng `CI/CD`, là hai công đoạn tự động
 ## Related:
 ```dataview
 list
-from [[CI & CD MOC]]
+from [[~CI & CD]]
 ```

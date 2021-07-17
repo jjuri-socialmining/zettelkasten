@@ -12,3 +12,10 @@
 ## Programming languages
 [[C Programming]]
 [[~Python]]
+
+## Related:
+```dataview
+list
+from [[~Programming]]
+sort file.name asc
+```

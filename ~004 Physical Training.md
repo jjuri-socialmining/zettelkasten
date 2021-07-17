@@ -1,7 +1,7 @@
 %% - metadata:
 	- tags: #MOC %%
 
-- [[Running MOC]]
+- [[~Chạy bộ]]
 
 ### Workout
 - [[Bungee Jump]]

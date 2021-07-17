@@ -13,3 +13,9 @@ Pipeline để chỉ các đối được xử lý một cách tuần tự. Outp
 
 ## Questions & thoughts:
 
+## Related:
+```dataview
+list
+from [[Pipeline]]
+sort file.name asc
+```

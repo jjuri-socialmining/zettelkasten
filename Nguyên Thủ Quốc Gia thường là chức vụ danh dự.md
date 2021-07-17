@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-
+Nguyên Thủ Quốc Gia thường là chức vụ danh dự, ngoại trừ [[Tổng thống Hoa Kỳ]], [[Tổng thống Indonesia]]
 
 ## Questions & thoughts:
 

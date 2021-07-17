@@ -8,5 +8,5 @@
 %%
 
 ## Works to finished
-- [ ] [[T-210717-1115 Enroll Udemy Cource and Learn about Jenkins]]
+- [ ] [[$ Enroll Udemy Cource and Learn about Jenkins]]
 

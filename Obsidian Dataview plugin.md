@@ -12,8 +12,9 @@
 - [ ] Dataview sử dụng [[YAML]] để hiển thị dữ liệu
 - [ ] Tìm hiểu YAML
 
-### Related:
+## Related:
 ```dataview
 list
 from [[Obsidian Dataview plugin]]
+sort file.name asc
 ```

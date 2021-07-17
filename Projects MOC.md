@@ -6,7 +6,7 @@ tags: #MOC #project
 - [[Markdown for Obsidian MOC]] - Tìm hiểu [[Markdown Language]] để sử dụng [[Obsidian]] hiệu quả hơn.
 
 # Projects MOC
-[[Programming MOC]]
+[[~Programming]]
 
 overview
 later « onhold «««« idea »»»» soon » active

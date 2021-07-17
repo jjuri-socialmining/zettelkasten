@@ -48,7 +48,7 @@ Film & TV | [[Movies MOC]] | Sports | [[Football MOC]] | Music
 ### History & Biography & Geography
 - The [[Art & Science Storytelling MOC]] look at some great storytellers of history. 
 - [[Ancient Greece MOC]], 
-- [[~001 History]]
+- [[~001 Lịch sử]]
 - [[Places MOC]]
 
 ---
@@ -88,7 +88,7 @@ For those that want to maintain an alphabetical "Map of Maps" list, here's an in
 - [[Cooking MOC]]
 - [[Cosmology MOC]]
 - [[Football MOC]]
-- [[~001 History]]
+- [[~001 Lịch sử]]
 - [[Home Building MOC]]
 - [[~003 Language]]
 	- [[Chinese Language MOC]]

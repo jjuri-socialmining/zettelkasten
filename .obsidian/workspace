@@ -6,9 +6,22 @@
       {
         "id": "2b7376d6b13cf639",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "graph",
-          "state": {}
+          "state": {},
+          "pinned": true
+        }
+      },
+      {
+        "id": "0faed51a468af70c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CD - Continuous Delivery.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -36,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Publish",
+                "query": "tag:#created/2021/Jul/17",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -53,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,6 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "CD - Continuous Delivery.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -133,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CD - Continuous Delivery.md"
+              }
             }
           },
           {
@@ -150,13 +167,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CD - Continuous Delivery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "55512af75108e012",
@@ -169,6 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CD - Continuous Delivery.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -186,17 +204,17 @@
     "width": 305,
     "collapsed": true
   },
-  "active": "2b7376d6b13cf639",
+  "active": "0faed51a468af70c",
   "lastOpenFiles": [
-    "Nguyên thủ Quốc gia.md",
-    "Đế quốc Việt Nam.md",
-    "Bảo Đại sắc phong Ngô Đình Diệm làm thượng thư.md",
-    "Bins/People/Ngô Đình Diệm.md",
-    "Bins/Templates/Template reference.md",
-    "Bins/Templates/Template fact.md",
-    "Untitled.md",
-    "Khải Định.md",
-    "Vua Khải Định bị cho là vô sinh.md",
-    "Bảo Đại.md"
+    "CD - Continuous Delivery.md",
+    "CI - Continuous Integration.md",
+    "Đảng Cộng sản Pháp từng lên kế hoạch ám sát Bảo Đại trên đường về nước.md",
+    "Bảo Đại từng thay 5 thượng thư trong đợt cải cách.md",
+    "T-210717-1047 Cài đặt và sử dụng Jenkins ở máy tính cá nhân.md",
+    "Cần cài Java trước khi cài Jenkins.md",
+    "Nhật thành lập Đế quốc Việt Nam để thi hành chính phát xít.md",
+    "Pipeline.md",
+    "T-210717-1115 Enroll Udemy Cource and Learn about Jenkins.md",
+    "Travis CI.md"
   ]
 }

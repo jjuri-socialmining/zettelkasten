@@ -11,9 +11,10 @@ Travis CI là một công cụ [[CI - Continuous Integration]] mã nguồn mở 
 
 ## Questions & thoughts:
 
-### Related:
+## Related:
 ```dataview
 list
 from [[Travis CI]]
+sort file.name asc
 ```
 

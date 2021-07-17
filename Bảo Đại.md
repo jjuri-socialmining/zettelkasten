@@ -16,4 +16,5 @@ Bảo Đại là vị hoàng đế thứ 13, cũng là cuối cùng của [[~Nh�
 ```dataview
 list
 from [[Bảo Đại]]
+sort file.name asc
 ```

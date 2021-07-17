@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[Nhà Nguyễn]] là triều đại [[phong kiến]] cuối cùng trong lịch sử Việt Nam
+[[Nhà Nguyễn]] là triều đại [[phong kiến]] cuối cùng trong [[~Lịch Sử Việt Nam]]
 
 ## Questions & thoughts:
 
