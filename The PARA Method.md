@@ -14,4 +14,5 @@ Phương pháp này được nhắc đến trong việc [[Knowledge Management|q
 - Archive: Nơi lưu trữ công việc đã làm, hoặc những dự án không còn làm.
 
 ## Questions & thoughts:
+Phương pháp PARA là dựa trên [[Phương pháp Getting things done]] của [[David Allen]].
 

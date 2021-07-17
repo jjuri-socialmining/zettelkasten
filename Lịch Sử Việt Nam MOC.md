@@ -9,6 +9,8 @@
 [[Thời Bắc thuộc]]
 [[Nhà Lý MOC]]
 [[Nhà Trần MOC]]
+[[Nhà Hồ MOC]]
+[[Nhà Đinh MOC]]
 [[Nhà Tiền Lê MOC]]
 [[Nhà Hậu Lê MOC]]
 [[Nhà Nguyễn MOC]]
