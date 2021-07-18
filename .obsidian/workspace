@@ -4,7 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2b7376d6b13cf639",
+        "id": "50591c905f02fe56",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Reference Box/@ wiki, Bảo Đại.md",
+            "mode": "preview"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "e572cf567f9fd4a2",
         "type": "leaf",
         "pinned": true,
         "state": {
@@ -14,14 +27,53 @@
         }
       },
       {
-        "id": "0faed51a468af70c",
+        "id": "0073fb630691ebf7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CD - Continuous Delivery.md",
+            "file": "Chủ nghĩa Stalin.md",
             "mode": "preview"
           }
+        }
+      },
+      {
+        "id": "e3235d97f4903c90",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Quốc tế Cộng sản.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "6db200cdbed0f5dd",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Chủ nghĩa Stalin.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "6e4f75eb53c67323",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Reference Box/@ wiki, Chủ nghĩa Stalin.md",
+            "mode": "source"
+          },
+          "pinned": true
         }
       }
     ],
@@ -66,8 +118,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CD - Continuous Delivery.md",
+                "file": "Chủ nghĩa Stalin.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -149,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CD - Continuous Delivery.md"
+                "file": "Chủ nghĩa Stalin.md"
               }
             }
           },
@@ -167,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CD - Continuous Delivery.md",
+                "file": "Chủ nghĩa Stalin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CD - Continuous Delivery.md",
+                "file": "Chủ nghĩa Stalin.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -204,17 +255,17 @@
     "width": 305,
     "collapsed": true
   },
-  "active": "0faed51a468af70c",
+  "active": "0073fb630691ebf7",
   "lastOpenFiles": [
-    "CD - Continuous Delivery.md",
-    "CI - Continuous Integration.md",
-    "Đảng Cộng sản Pháp từng lên kế hoạch ám sát Bảo Đại trên đường về nước.md",
-    "Bảo Đại từng thay 5 thượng thư trong đợt cải cách.md",
-    "T-210717-1047 Cài đặt và sử dụng Jenkins ở máy tính cá nhân.md",
-    "Cần cài Java trước khi cài Jenkins.md",
-    "Nhật thành lập Đế quốc Việt Nam để thi hành chính phát xít.md",
-    "Pipeline.md",
-    "T-210717-1115 Enroll Udemy Cource and Learn about Jenkins.md",
-    "Travis CI.md"
+    "Chủ nghĩa Stalin.md",
+    "Quốc tế Cộng sản.md",
+    "Chủ nghĩa Cộng sản.md",
+    "Untitled.md",
+    "Reference Box/@ wiki, Chủ nghĩa Stalin.md",
+    "Reference Box/@ wiki, Bảo Đại.md",
+    "Spaces/Tasks/T-210705-2112 Obsidian Dataview Research.md",
+    "Chủ nghĩa Stalin phát triển lý thuyết của Lenin.md",
+    "Chủ nghĩa Mao và Tư tưởng chủ thể bị hưởng bởi Chủ nghĩa Stalin.md",
+    "Reference Box/@2020 09 05 0 00 5n-3.md"
   ]
 }

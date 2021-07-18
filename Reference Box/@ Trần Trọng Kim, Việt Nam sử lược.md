@@ -14,3 +14,10 @@
 ##  Zotero links
 * [Local library](zotero://select/items/1_YRK6EIEX)
 * [Cloud library](http://zotero.org/users/2023153/items/YRK6EIEX)
+
+## Related:
+```dataview
+list
+from [[@ Trần Trọng Kim, Việt Nam sử lược]]
+sort file.name asc
+```

@@ -23,22 +23,22 @@
 - Sau khi phát xít Nhật đánh bại Pháp ở Đông Dương, Nhật lập lên bộ máy lâm thời có tên là Đế quốc Việt Nam để thi hành chính sách của chúng tại Việt Nam. Ngày 11 tháng 3 năm 1945, Bảo Đại gặp cố vấn Nhật để ký thông cáo "Tuyên cáo Việt Nam độc lập" được soạn sẵn. Nội dung chính của bản tuyên cáo là hủy bỏ các hiệp ước bảo hộ trước đó với Pháp, thống nhất 3 miền Bắc Kỳ, Trung Kỳ và Nam Kỳ và Nhật Bản có quyền trưng dụng tài sản trên toàn Việt Nam.
 - 7 tháng 4 năm 1945, Bảo Đại ký đạo dụ 5 phê chuẩn nội các Trần Trọng Kim. 
 - Tháng 6 năm 1945, nội các Trần Trọng Kim lấy quốc hiệu là Đế quốc Việt Nam, lấy cờ quẻ ly làm quốc kỳ.
-- Đến 16 tháng 8 năm 1945, Nhật đầu hàng đồng minh. Theo cố vấn của bộ trưởng bộ ngoại giao, Bảo Đại gửi thư đến các nước Đồng Minh (Tổng thống Truman, vua nước Anh, Thống chế Tưởng Giới Thạch, Tướng de Gaulle) đề nghị công nhận Đế quốc Việt Nam. Các nước như Mỹ, Anh, Trung Quốc đều không công nhận vì theo Tuyên bố Cairo, các nước Đồng Minh không công nhận bất cứ một chính phủ nào do Nhật dựng lên trong thời gian chiếm đóng, Đế quốc Việt Nam nằm trong số đó.
-- Tuy nhiên, riêng với tướng De Gaulle, De Gaulle đã có một kế hoạch khác là đưa cựu hoàng Duy Tân (Vĩnh San) lên và hậu thuẫn chế độ quân chủ này. Vĩnh San sau nhiều năm bị lưu đày, ông tham gia chiến đấu trong quân đội De Gaulle để chống phát xít Đức. De Gaulle đã sắp xếp gặp Duy Tân và lên kế hoạch từ trước.
+- [[Bảo Đại gửi thư cho các nước Đồng Minh công nhận Đế quốc Việt Nam nhưng bị từ chối]]
+- [[De Gaulle âm mưu đưa Vĩnh San lên nắm quyền sau khi Nhật đầu hàng Đồng Minh]]
 #### Thoái vị
-- 3 năm 1945, Nhật lo chống trả Đồng Minh, Nhật cạn kiệt nguyên liệu, bắt dân Việt Nam phá lúa trồng đay để phục vu chiến tranh. Chính vì điều này đã dẫn đến [[Nạn đói Ất Dậu]]
-- 17/8, biểu tình tại Hà Nội ủng hộ Việt Minh. Cuộc khởi nghĩa nhanh chóng lan ra các tỉnh thành.
-- Cách mạng tháng Tám thành công, quân cách mạng buộc chính quyền Đế quốc Việt Nam chuyển giao quyền lực. Theo lời khuyên của quan đại thần, PHạm Khắc Hòe, Bảo Đại quyết định thoái vị: "Đáp ứng lời kêu gọi của Ủy ban, tôi sẵn sàng thoái vị. Trước giờ quyết định này của lịch sử quốc gia, đoàn kết là sống, chia rẽ là chết. Tôi sẵn sàng hy sinh tất cả mọi quyền lợi, để cho sự đoàn kết được thành tựu, và yêu cầu đại diện của Ủy ban sớm tới Huế, để nhận bàn giao"
-- 23/8, Trần Huy Liệu và Cù Huy Cận vào Huế, theo lời yêu cầu của hai ông, Bảo Đại đọc Tuyên ngôn Thoái vị vào ngày 30/8 trước cổng Ngọ Môn rồi trao ấn tín, bảo kiếm và quốc bảo cho Trần Huy Liệu. Bảo Đại có câu nói "Trẫm muốn được làm dân một nước tự do, hơn làm Vua một nước nô lệ"
-- Sau khi tuyên bố thoái vị, ông cùng gia đình đang dọn hết đồ đạc về cung An Định thì nhận được bức điện khẩn cua HCM: "Chính phủ lâm thời mời công dân Vĩnh Thuỵ ra Hà Nội làm cố vấn tối cao cho chính phủ. Nếu nhận lời, sẽ có những chỉ dẫn cần thiết để ông cố vấn có thể ra Hà Nội sớm nhất. Ký tên: Hồ Chí Minh"
-- Ông cùng phái đoàn Việt Minh cùng đi ra Hà Nội trên xe của cựu hoàng.
-- 10/9, Bảo Đại được HCM bổ nhiệm làm cố vấn tối cao của Chính phủ cách mạng lâm thời Việt Nam. Bảo Đại cũng là 1 trong 7 người trong ban dự thảo hiến pháp do HCM đứng đầu.
-- 1/1946, ông được bầu làm đại biểu quốc hội khóa đầu tiên của Việt Nam Dân chủ Cộng hòa.
-- 3/1946, ông được cử đi chung với phái đoàn Việt Nam dân chủ cộng hòa sang thăm Trung Ho. Nhưng sau đó ông không trở về nước mà đi Côn Minh rồi Hồng Kong.
-- HCM nhiều lần cử người qua thuyết phục Vĩnh Thụy về nước nhưng đều thất bại. Ít lâu sau, ông gửi thư xin từ chức cố vấn tối cao.
+- [[3-1945, Nhật Bản bắt dân Việt Nam phá lúa trồng đay]], [[Nguyên nhân nạn đói Ất Dậu]]
+- [[17-8-1945, biểu tình ủng hộ Việt Minh ở Hà Nội]]
+- [[CMT8 thành công, Việt Minh ép Bảo Đại thoái vị]]
+- [[Việt Minh sắp đặt Bảo Đại đọc tuyên bố thoái vị 3-8-1945]]
+- [[HCM gửi công điện mời Vĩnh Thụy làm cố vấn ngay khi ông thoái vị]]
+- [[Vĩnh Thụy nhận lời HCM ra Hà Nội làm cố vấn chính phủ lâm thời]]
+- [[1-1946, Vĩnh Thụy được bầu vào đại biểu quốc hội I của Việt Nam Dân chủ Cộng hòa]]
+- [[3-1946, Vĩnh Thụy theo phái đoàn VNDCCH sang thăm Trung Hoa rồi không quay về]]
+- [[HCM cử người thuyết phục Vĩnh Thụy về nước nhưng bị từ chối, ông từ chức sau đó]]
 - 
 #### Quốc trưởng Quốc gia Việt Nam
 #Task/todo
+- 6/1949, Việt Nam chính thức thống nhất dưới sự lãnh đạo của chính phủ Quốc gia Việt Nam. Bảo đại được tấn phong làm Quốc Trưởng.
 - Được pháp hậu thuẫn quay lại Nam Kỳ là quốc trưởng Quốc gia Việt Nam
 - Bị Ngô Đình Diệm phế truất sau một cuộc bỏ phiếu dưới sự sắp đặt bởi những người ủng hộ Ngô Đình Diệm
 
@@ -48,6 +48,6 @@
 ## Related:
 ```dataview
 list
-from [[@ wiki, Bảo_Đại]]
+from [[@ wiki, Bảo Đại]]
 sort file.name asc
 ```

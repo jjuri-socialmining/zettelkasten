@@ -16,4 +16,4 @@
 || [[Minh Mệnh]]|[[Đại Nam]]|
 
 
-[^1]:[[Trần Trọng Kim, Việt Nam sử lược]]
+[^1]:[[@ Trần Trọng Kim, Việt Nam sử lược]]

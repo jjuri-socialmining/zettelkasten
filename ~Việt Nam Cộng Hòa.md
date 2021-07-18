@@ -6,7 +6,7 @@
 %%
 
 ## Notes
-Người lãnh đạo thời kỳ đầu - [[Đệ Nhất Cộng Hòa]]-  là [[Bins/People/Ngô Đình Diệm]]
+Người lãnh đạo thời kỳ đầu - [[Đệ Nhất Cộng Hòa]]-  là [[Ngô Đình Diệm]]
 
 ## Questions & thoughts:
 

@@ -4,7 +4,7 @@
 	- UID: P-210708-2336
 	- tags: #created/2021/Jul/08
 	- previous note: 
-	- source: [[Trần Trọng Kim, Việt Nam sử lược]]
+	- source: [[@ Trần Trọng Kim, Việt Nam sử lược]]
 
 ## Notes
 [[Trần Trọng Kim]] nhận xét trong quyển Việt Nam sử lược rằng: [[Trần Thủ Độ]] là một người gian hùng. Ông không có học vấn nhưng vì mưu đồ lập nên nhà Trần mà việc tàn bạo gì ông cũng làm:

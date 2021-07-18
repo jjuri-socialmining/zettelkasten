@@ -4,7 +4,7 @@
 	- UID: P-210709-2307
 	- tags: #created/2021/Jul/09
 	- previous note: 
-	- source: [[Trần Trọng Kim, Việt Nam sử lược]]
+	- source: [[@ Trần Trọng Kim, Việt Nam sử lược]]
 
 ## Notes
 Ban đầu, quân Nguyên đông, tinh nhuệ. Quân nhà Trần phải nhiều lần rút quân bỏ thành Thăng Long. Nhưng sau đó, nhà Trần phản công và giành những chiến thắng lớn:

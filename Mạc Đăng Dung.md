@@ -10,4 +10,4 @@
 
 
 ## Questions & thoughts:
-- Trong [[Trần Trọng Kim, Việt Nam sử lược]], [[Trần Trọng Kim]] đánh giá [[Nhà Mạc]] có những việc làm bất nhân bất nghĩa, vô sỉ khi nắm quyền cai trị.
+- Trong [[@ Trần Trọng Kim, Việt Nam sử lược]], [[Trần Trọng Kim]] đánh giá [[Nhà Mạc]] có những việc làm bất nhân bất nghĩa, vô sỉ khi nắm quyền cai trị.

@@ -12,4 +12,4 @@ Tuy vậy, các nhà chép sử còn thô sơ, chỉ ghi lại sự kiện mà k
 
 ## Questions & thoughts:
 
-[^1]:[[Trần Trọng Kim, Việt Nam sử lược]]
+[^1]:[[@ Trần Trọng Kim, Việt Nam sử lược]]

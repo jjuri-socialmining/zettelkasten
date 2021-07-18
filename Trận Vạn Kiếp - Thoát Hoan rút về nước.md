@@ -4,7 +4,7 @@
 	- UID: P-210709-2258
 	- tags: #created/2021/Jul/09
 	- previous note: 
-	- source: [[Trần Trọng Kim, Việt Nam sử lược]]
+	- source: [[@ Trần Trọng Kim, Việt Nam sử lược]]
 
 ## Notes
 Sau khi Toa Đô thua [[Trận Tây Kết - Trần Hưng Đạo giết chết Toa Đô|Trận Tây Kết]], binh sĩ của [[Thoát Hoan]] hoảng loạn, cộng thêm với việc không quen khí hậu thổ nhưỡng, ai nấy đều nhụt trí. 

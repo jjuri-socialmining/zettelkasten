@@ -4,7 +4,7 @@
 	- UID: P-{{date}}
 	- tags: #created/{{date:YYYY/MMM/DD}}
 	- previous note: 
-	- source: [[Trần Trọng Kim, Việt Nam sử lược]]
+	- source: [[@ Trần Trọng Kim, Việt Nam sử lược]]
 
 ## Notes
 
