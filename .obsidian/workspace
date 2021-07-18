@@ -17,7 +17,20 @@
         }
       },
       {
-        "id": "e572cf567f9fd4a2",
+        "id": "5992042d557f6f55",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1946, Pháp không thừa nhận Việt Nam độc lập.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "a1b98e65d3996b48",
         "type": "leaf",
         "pinned": true,
         "state": {
@@ -27,50 +40,13 @@
         }
       },
       {
-        "id": "0073fb630691ebf7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Chủ nghĩa Stalin.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "e3235d97f4903c90",
+        "id": "c38e7fd158e67ef4",
         "type": "leaf",
         "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Quốc tế Cộng sản.md",
-            "mode": "source"
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "6db200cdbed0f5dd",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Chủ nghĩa Stalin.md",
-            "mode": "source"
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "6e4f75eb53c67323",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Reference Box/@ wiki, Chủ nghĩa Stalin.md",
+            "file": "@ wiki, Lịch sử Việt Nam.md",
             "mode": "source"
           },
           "pinned": true
@@ -122,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220
+    "width": 220,
+    "collapsed": true
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -150,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chủ nghĩa Stalin.md",
+                "file": "@ wiki, Lịch sử Việt Nam.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -200,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chủ nghĩa Stalin.md"
+                "file": "@ wiki, Lịch sử Việt Nam.md"
               }
             }
           },
@@ -218,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chủ nghĩa Stalin.md",
+                "file": "@ wiki, Lịch sử Việt Nam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chủ nghĩa Stalin.md",
+                "file": "@ wiki, Lịch sử Việt Nam.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -255,17 +232,17 @@
     "width": 305,
     "collapsed": true
   },
-  "active": "0073fb630691ebf7",
+  "active": "c38e7fd158e67ef4",
   "lastOpenFiles": [
+    "@ wiki, Lịch sử Việt Nam.md",
+    "1946, Pháp không thừa nhận Việt Nam độc lập.md",
+    "Untitled.md",
+    "1946, Pháp không thừa nhận chính quyền VN Dân chủ Cộng hòa.md",
+    "Reference Box/@ wiki, Bảo Đại.md",
     "Chủ nghĩa Stalin.md",
     "Quốc tế Cộng sản.md",
     "Chủ nghĩa Cộng sản.md",
-    "Untitled.md",
     "Reference Box/@ wiki, Chủ nghĩa Stalin.md",
-    "Reference Box/@ wiki, Bảo Đại.md",
-    "Spaces/Tasks/T-210705-2112 Obsidian Dataview Research.md",
-    "Chủ nghĩa Stalin phát triển lý thuyết của Lenin.md",
-    "Chủ nghĩa Mao và Tư tưởng chủ thể bị hưởng bởi Chủ nghĩa Stalin.md",
-    "Reference Box/@2020 09 05 0 00 5n-3.md"
+    "Spaces/Tasks/T-210705-2112 Obsidian Dataview Research.md"
   ]
 }

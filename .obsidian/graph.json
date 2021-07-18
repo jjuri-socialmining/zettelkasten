@@ -22,10 +22,10 @@
       }
     },
     {
-      "query": "tag:#literature/wiki ",
+      "query": "file:@",
       "color": {
         "a": 1,
-        "rgb": 15662848
+        "rgb": 12797181
       }
     }
   ],
@@ -37,8 +37,8 @@
   "collapse-forces": false,
   "centerStrength": 0.311764705882353,
   "repelStrength": 12.8235294117647,
-  "linkStrength": 0.723529411764706,
-  "linkDistance": 165,
-  "scale": 0.3213363860503727,
+  "linkStrength": 0.623529411764706,
+  "linkDistance": 221,
+  "scale": 0.08317427835928107,
   "close": true
 }
