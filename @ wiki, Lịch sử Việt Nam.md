@@ -14,21 +14,24 @@
 ##### Tuyên bố độc lập
 ##### Chiến tranh Đông Dương
 - [[1946, Pháp không thừa nhận Việt Nam độc lập]]
-- 1947, Pháp thắng thể trên chiến trường [[Đông Dương]], tuy nhiên [[Việt Nam Dân chủ Cộng hòa]] thực hiện chiến tranh du kích khiến Pháp không thể chấm dứt cuộc chiến. 
-- Pháp đàm phán với các phe chính trị phản đối [[Việt Nam Dân chủ Cộng hòa]] nhằm giảm bớt gánh nặng nhằm tiếp tục duy trì chiến tranh ở chiến trường Việt Nam. Pháp thực hiện kế hoạch thành lập chính phủ [[Quốc gia Việt Nam]] ở miền Nam đứng đầu là [[Bảo Đại]]. Pháp hỗ trợ tài chính, và hậu thuẫn cho chính phủ, quân đội [[Quốc gia Việt Nam]] chiến đấu cho Pháp đánh [[Việt Minh]]
-- 5-1954, Pháp thất bại trọng [[Trận Điện Biên Phủ]], Hiệp định Geneve được ký kết và chiến tranh ở Việt Nam kết thúc.
-- [[Hiệp định Geneve 1954]] quy định vĩ tuyến 17 làm ranh giới phân chia vùng tập trung quân sự: Miền bắc là nơi tập trung quân đội [[Việt Nam Dân chủ Cộng hòa]], miền nam tập trung quân của [[Liên hiệp Pháp]] trong đó có quân đội của [[Quốc gia Việt Nam]]
-- [[Vĩ tuyến 17]] chỉ là ranh giới quy ước tạm thời, người dân được tự do đi lại 2 miền và tự do chọn nơi cư trú. Trong thời gian này, khoảng 1 triệu người chủ yếu là đồng bào theo đạo [[~Công Giáo]] di cư vào nam. Người ta thường gọi những người này là [[Bắc 54]].
-- Chính phủ [[Việt Nam Dân chủ Cộng hòa]] tin tưởng vào uy của [[Hồ Chí Minh]] sẽ thắng trong đợt tổng tuyển cử hai miền được quy định trong [[Hiệp định Geneve 1954]]. Tuy nhiên, cuộc tổng tuyển cử đã không xảy ra.
-- Theo tình báo [[CIA]], dự tính sẽ có 80% dân số bầu cho [[Hồ Chí Minh]]. Chính phủ Mỹ không muốn [[Thuyết Domino]] xảy ra, Cộng sản sẽ lan tràn khắp Châu Á nếu Mỹ không can thiệp. Chính phủ Mỹ quyết định thành lập một chính phủ đứng đầu là [[Ngô Đình Diệm]] mà không thực hiện tổng tuyển cử. Việc này của Mỹ và chính quyền Diệm là vi phạm [[Hiệp định Geneve 1954]].
+- [[1947, Pháp thắng thế ở Đông Dương nhưng không thể chấm dứt chiến tranh]]
+- [[Pháp thành lập Quốc gia Việt Nam thể cùng đánh Việt Minh]]
+- [[5-1954, Pháp thất bại tại Điện Biên Phủ, Hiệp định Geneve được ký kết]]
+- [[Hiệp định Geneve 1954]]
+- [[Theo Geneve, vĩ tuyến 17 chỉ là ranh giới tạm thời, mọi người được tự do di cư]]
+- [[Chính phủ Việt Nam Dân chủ Cộng Hòa hy vọng vào cuộc tổng tuyển cử]]
+- [[Hoa Kỳ thành lập chính phủ miền nam VN do Ngô Đình Diệm, ngăn cản tổng tuyển cử]]
 
 ##### Chiến tranh Việt Nam
 - 1956-1958, [[Việt Nam Dân chủ Cộng hòa]] nhiều lần đề nghị [[Quốc gia Việt Nam]] thực hiện tổng tuyển cử nhưng đều bị từ chối.
 - 1955, [[Ngô Đình Diệm]] gian lận trong cuộc trưng cầu ý dân. Thông qua đó, Ngô Đình Diệm phế truất [[Bảo Đại]], Ngô Đình Diệm lên làm quốc trưởng [[Quốc gia Việt Nam]].
-- Quốc gia Việt Nam sau này là [[~Việt Nam Cộng Hòa]]
+- [[Quốc gia Việt Nam]] sau này là [[~Việt Nam Cộng Hòa]]
 - 1959, [[Mặt trận Dân tộc Giải phóng miền nam Việt Nam]] được thành lập dưới sự hậu thuẫn của [[Việt Nam Dân chủ Cộng hòa]]
 - Đầu những năm 1960, [[Quân giải phóng Miền nam]] được thành lập kiểm soát các khu vực nông thôn miền nam.
-- Chính phủ Mỹ tăng cường viện trợ cho 
+- Chính phủ Mỹ tăng cường viện trợ cho [[~Việt Nam Cộng Hòa]]. Tuy nhiên, tình hình không trở nên khả quan hơn. Các chính sách phân biệt tôn giáo của chính phủ [[Ngô Đình Diệm]] gây ra mâu thuẫn trầm trọng với [[Phật giáo]] miền nam, gây ra nhiều cuộc biểu. Cộng thêm việc Ngô Đình Diệm muốn tách dần sự lệ thuộc vào Hoa Kỳ.
+- Hoa Kỳ quyết định loại bỏ [[Ngô Đình Diệm]]. Hoa Kỳ hậu thuẫn cho các tướng lĩnh quân lực [[~Việt Nam Cộng Hòa]] đảo chính và ám sát Ngô Đình Diệm 1/11/1963, thành lập [[Đệ Nhị Cộng Hòa]].
+- Tình hình miền nam càng hỗn loạn sau sự kiện đảo chính.
+- 1967, [[Nguyễn Văn Thiệu]] lên làm Tổng thống [[~Việt Nam Cộng Hòa]]
 
 ## Questions and thoughts
 

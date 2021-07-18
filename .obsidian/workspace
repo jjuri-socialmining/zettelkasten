@@ -4,52 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "50591c905f02fe56",
+        "id": "392e9f8945df8cca",
         "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Reference Box/@ wiki, Bảo Đại.md",
-            "mode": "preview"
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "5992042d557f6f55",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1946, Pháp không thừa nhận Việt Nam độc lập.md",
-            "mode": "source"
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "a1b98e65d3996b48",
-        "type": "leaf",
-        "pinned": true,
         "state": {
           "type": "graph",
-          "state": {},
-          "pinned": true
-        }
-      },
-      {
-        "id": "c38e7fd158e67ef4",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "@ wiki, Lịch sử Việt Nam.md",
-            "mode": "source"
-          },
-          "pinned": true
+          "state": {}
         }
       }
     ],
@@ -127,7 +86,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "@ wiki, Lịch sử Việt Nam.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -176,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "@ wiki, Lịch sử Việt Nam.md"
-              }
+              "state": {}
             }
           },
           {
@@ -195,7 +151,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@ wiki, Lịch sử Việt Nam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +169,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@ wiki, Lịch sử Việt Nam.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -232,17 +186,17 @@
     "width": 305,
     "collapsed": true
   },
-  "active": "c38e7fd158e67ef4",
+  "active": "392e9f8945df8cca",
   "lastOpenFiles": [
-    "@ wiki, Lịch sử Việt Nam.md",
     "1946, Pháp không thừa nhận Việt Nam độc lập.md",
-    "Untitled.md",
-    "1946, Pháp không thừa nhận chính quyền VN Dân chủ Cộng hòa.md",
     "Reference Box/@ wiki, Bảo Đại.md",
-    "Chủ nghĩa Stalin.md",
-    "Quốc tế Cộng sản.md",
-    "Chủ nghĩa Cộng sản.md",
-    "Reference Box/@ wiki, Chủ nghĩa Stalin.md",
-    "Spaces/Tasks/T-210705-2112 Obsidian Dataview Research.md"
+    "@ wiki, Lịch sử Việt Nam.md",
+    "Theo Geneve, vĩ tuyến 17 chỉ là ranh giới tạm thời, mọi người được tự do di cư.md",
+    "Hoa Kỳ thành lập chính phủ miền nam VN do Ngô Đình Diệm, ngăn cản tổng tuyển cử.md",
+    "Chính phủ Việt Nam Dân chủ Cộng Hòa hy vọng vào cuộc tổng tuyển cử.md",
+    "Hiệp định Geneve 1954.md",
+    "5-1954, Pháp thất bại tại Điện Biên Phủ, Hiệp định Geneve được ký kết.md",
+    "@Jun 21, 2021 11 19 PM.md",
+    "Reference Box/@Jun 21, 2021 11 19 PM.md"
   ]
 }
