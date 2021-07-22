@@ -4,4 +4,3 @@
 - [[~Chạy bộ]]
 
 ### Workout
-- [[Bungee Jump]]

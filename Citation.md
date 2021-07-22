@@ -7,7 +7,7 @@ Citation là một trích dẫn trong tài liệu có tham khảo từ một tà
 
 Có hai loại trích dẫn thường gặp trong một tài liệu học thuật hay nghiên cứu:
 
-[[In-text citation]]
+[[In-text citation - Trích dẫn nguyên văn]]
 [[Bibliography - Danh mục tham khảo]]
 
 Xem thêm:

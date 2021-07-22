@@ -8,9 +8,9 @@
 
 ## Notes
 Các tên gọi của Thành Cát Tư Hãn:
-- Thành Cát Tư Hãn - Gengis khan
-- Thiết Mộc Chân - Témoudjine
-- Miêu hiệu là Nguyên Thái tổ
+- [[Thành Cát Tư Hãn]] - Gengis khan
+- [[Thiết Mộc Chân]] - Témoudjine
+- Miêu hiệu là [[Nguyên Thái tổ]]
 
 ## Questions & thoughts:
 

@@ -1,6 +1,19 @@
-# MOOC
+# MOOC - Các khóa học trực tuyến
 
-created: Oct 22, 2020 5:50 AM
-tags: #created/2020/Oct/22
+- metadata
+	- UID: P-210722-0752
+	- tags: #created/2020/Oct/22, #permanent/concept 
+	- source: 
 
-MOOC: Massive Open Online Courses là các khóa học trực tuyến với quy mô lớn không giới hạn học viên. Đó là triển khai của ý tưởng giáo dục từ xa, một số nền tảng học trực tuyến như: EDX, [[Coursera]], Udacity,...
+## Notes
+MOOC: Massive Open Online Courses là các khóa học trực tuyến với quy mô lớn không giới hạn học viên. Đó là triển khai của ý tưởng giáo dục từ xa, một số nền tảng học trực tuyến như: EDX, [[Coursera]], Udacity, [[Udemy]],...
+
+## Questions & thoughts:
+
+
+## Related:
+```dataview
+list
+from [[MOOC - Các khóa học trực tuyến]]
+sort file.name asc
+```

@@ -7,7 +7,7 @@
 	- source: https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_gi%C3%A1o
 
 ## Notes
-[[Đạo Giáo]] có nhiều tên gọi khác nhau bao gồm Lão giáo, Đạo Lão, Đạo Hoàng Lão, hay Đạo gia, Tiên Giáo.
+[[Đạo Giáo]] có nhiều tên gọi khác nhau bao gồm [[Lão giáo]], Đạo Lão, Đạo Hoàng Lão, hay Đạo gia, Tiên Giáo.
 
 ## Questions & thoughts:
 

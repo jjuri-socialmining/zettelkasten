@@ -9,5 +9,7 @@
 - [[Barbell Reading Method]]
 - [[Closed Reading Method]]
 - [[Incremental Reading]]
+
+
 ## Questions & thoughts:
 

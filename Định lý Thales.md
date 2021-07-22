@@ -12,3 +12,9 @@
 
 ## Questions & thoughts:
 
+## Related:
+```dataview
+list
+from [[Định lý Thales]]
+sort file.name asc
+```

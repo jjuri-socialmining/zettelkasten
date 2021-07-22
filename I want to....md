@@ -20,3 +20,7 @@
 - I want to do a deeper reflection and planning session.
 	- Go to: #my/review and #my/planning 
 - I want to be surprised (click on "Open random note")
+- Tags
+	- `~` MOC
+	- `!` Thinking/idea
+	- `$` Task

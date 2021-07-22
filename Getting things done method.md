@@ -18,3 +18,10 @@ Bước 4 Review ( Đánh giá)
 Bước 5 Engage ( Thực thi)
 
 #task/todo 
+
+## Related:
+```dataview
+list
+from [[Getting things done method]]
+sort file.name asc
+```

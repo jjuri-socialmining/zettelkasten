@@ -18,18 +18,16 @@ Khi ý tưởng đến bất chợt, bạn tạo một ghi chú [[Fleeting Note]
 Khi bạn đang đọc một quyển sách, văn bản mà bạn có thời gian gian hoàn chỉnh nội dụng câu chữ bạn hoàn có thể tạo ra một [[Literature Note ]]. Những [[Fleeting Note]] cũng sẽ được bỏ đi sau khi nội dụng nó được hoàn thiện trong một [[Permanent Note]] 
 
 ### Ví dụ
-[[Sample of Generate Liturature note]]
+- [[Sample of Generate Liturature note]]
 
 Tài liệu tham khảo:
+- [Zettelkasten note-taking in 10 minutes · Tomas Vik](https://blog.viktomas.com/posts/slip-box/)
+- [How To Take Smart Notes: 10 Principles to Revolutionize Your Note-Taking and Writing - Forte Labs](https://fortelabs.co/blog/how-to-take-smart-notes/) 
+- [https://leananki.com/zettelkasten-method-smart-notes/](https://leananki.com/zettelkasten-method-smart-notes/)
 
-[Zettelkasten note-taking in 10 minutes · Tomas Vik](https://blog.viktomas.com/posts/slip-box/)
-
-[How To Take Smart Notes: 10 Principles to Revolutionize Your Note-Taking and Writing - Forte Labs](https://fortelabs.co/blog/how-to-take-smart-notes/) 
-
-[https://leananki.com/zettelkasten-method-smart-notes/](https://leananki.com/zettelkasten-method-smart-notes/)
-
-Keywords
-
-Luhmann Methods
-
-Slipbox Methods
+## Related:
+```dataview
+list
+from [[~Zettelkasten]]
+sort file.name asc
+```

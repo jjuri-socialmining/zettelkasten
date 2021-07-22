@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "3fc0d8ff2e5c35eb",
+        "id": "427930219d9594c4",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Pomodone.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -57,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220,
-    "collapsed": true
+    "width": 220
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -86,6 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Pomodone.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -134,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pomodone.md"
+              }
             }
           },
           {
@@ -151,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pomodone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,6 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pomodone.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,20 +190,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305,
-    "collapsed": true
+    "width": 305
   },
-  "active": "3fc0d8ff2e5c35eb",
+  "active": "427930219d9594c4",
   "lastOpenFiles": [
-    "Reference Box/@Jun 21, 2021 10 03 PM note_04.md",
-    "Reference Box/@Jun 21, 2021 10 17 PM note_05.md",
-    "Reference Box/@Jun 21, 2021 10 32 PM note_06.md",
-    "Reference Box/@Jun 21, 2021 10 42 PM note_07.md",
-    "Reference Box/@Jun 21, 2021 11 05 PM note_08.md",
-    "Reference Box/@2021 06 21 21 12 note_01.md",
     "Untitled.md",
-    "Nguyễn Nhạc.md",
-    "Một số vua Nguyễn ngăn cấm Công giáo.md",
-    "~Nhà Nguyễn.md"
+    "~Lịch Sử Việt Nam.md",
+    "~Nhà Đinh.md",
+    "Beta Israel.md",
+    "Bảy nhà hiền triết Hy Lạp theo Plato.md",
+    "MOOC - Các khóa học trực tuyến.md",
+    "2021 Complete Python Bootcamp From Zero to Hero in Python.md",
+    "$ Enroll Udemy Cource and Learn about Jenkins.md",
+    "$ Cài đặt và sử dụng Jenkins ở máy tính cá nhân.md",
+    "~Zettelkasten.md"
   ]
 }

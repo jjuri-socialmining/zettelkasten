@@ -1,1 +1,0 @@
-Citation key là một mã định danh được [[Zotero]] tạo ra để truy xuất đến một Item trong Zotero. Mã định danh này tất nhiên sẽ không trùng lặp.

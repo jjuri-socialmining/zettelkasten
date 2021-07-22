@@ -8,5 +8,6 @@
 
 ## Notes
 [[Lý Chiêu Hoàng]] là vua thứ 6 nhà Lý, tên thật là [[Lý Phật Kim]]. Trước khi được vua cha là [[Lý Huệ Tông]] truyền ngôi, được gọi là [[Chiêu thánh công chúa]]. Sau khi cưới [[Trần Cảnh]] và nhường lại ngôi, bà trở thành [[Chiêu Thánh hoàng hậu]].
+
 ## Questions & thoughts:
 

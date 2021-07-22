@@ -8,6 +8,7 @@
 
 ## Notes
 Bad faith là một thuật ngữ của [[Jean Paul Sartre]]: "đức tin xấu"  [^1]
+
 ## Questions & thoughts:
 
 [^1].[[ichi.pro, Chủ nghĩa hiện sinh vs Chủ nghĩa hư vô#Quote 5]]

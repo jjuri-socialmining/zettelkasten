@@ -6,3 +6,4 @@
 %%
 
 Nhà Hồ cướp ngôi [[~Nhà Trần]]
+[[Hồ Quý Ly]] lập nhà Hồ

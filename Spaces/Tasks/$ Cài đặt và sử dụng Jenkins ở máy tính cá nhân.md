@@ -14,7 +14,7 @@
 	wget -q -O - https://pkg.jenkins.io/debian/jenkins.io.key | sudo apt-key add - sudo sh -c 'echo deb http://pkg.jenkins.io/debian-stable binary/ > /etc/apt/sources.list.d/jenkins.list' sudo add-apt-repository universe sudo apt-	get update sudo apt-get install jenkins -y
 	```
 
-- Để truy cập vào Jenkins, vào browser và nhập địa chỉ [[http://localhost:8080]]
+- Để truy cập vào Jenkins, vào browser và nhập địa chỉ http://localhost:8080
 > Ở đây chúng ta còn cần phải sử dụng Github webhook để trigger những sự kiện như tạo PR hoặc merge PR, mà webhook cần phải có một public domain để hoạt động. Các bạn có thể dùng các tool để public cổng 8080 trên local thành public domain. Ví dụ như [ngrok.com](http://ngrok.com/) và làm theo hướng dẫn hoặc chạy lệnh `ssh -R 80:localhost:8080 ssh.localhost.run`.
 
 ### Cấu hình CI
