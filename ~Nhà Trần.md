@@ -10,7 +10,7 @@
 [[Trần Cảnh]] được [[Trần Thủ Độ]] đưa vào cung, và ép [[Lý Chiêu Hoàng]] nhường ngôi, lập ra nhà Trần, chấm dứt [[~Nhà Tiền Lê]]
 
 ### Trần Thái Tông 1225-1258
-- Trần Cảnh lên ngô[[Trần Thái Tông]] Trần Thái Tông]]
+- Trần Cảnh lên ngôi [[Trần Thái Tông]] Trần Thái Tông]]
 
 ### Trần Thánh Tông 1258-1278
 - Năm 1258, Trần Thái Tông truyền ngôi cho thái tử Trần Hoảng, gọi là [[Trần Thánh Tông]] (1258-1278)

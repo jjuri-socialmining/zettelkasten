@@ -1,1 +1,0 @@
-# 20201016 Nghiên cứu các phương pháp Học hiện đại

@@ -4,14 +4,111 @@
     "type": "split",
     "children": [
       {
-        "id": "427930219d9594c4",
+        "id": "c5a90dcf4881731e",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pomodone.md",
+            "file": "~Lịch Sử Việt Nam.md",
             "mode": "source"
-          }
+          },
+          "pinned": true
+        },
+        "group": "331469c8c51a6f37"
+      },
+      {
+        "id": "4400eec299306230",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "~Lịch Sử Việt Nam.md",
+            "options": {
+              "collapse-filter": false,
+              "search": "",
+              "localJumps": 3,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": true,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": false,
+              "colorGroups": [
+                {
+                  "query": "tag:#MOC",
+                  "color": {
+                    "a": 1,
+                    "rgb": 14024704
+                  }
+                },
+                {
+                  "query": "file:@",
+                  "color": {
+                    "a": 1,
+                    "rgb": 761089
+                  }
+                },
+                {
+                  "query": "file:~Lịch Sử Việt Nam",
+                  "color": {
+                    "a": 1,
+                    "rgb": 6054102
+                  }
+                }
+              ],
+              "collapse-display": false,
+              "showArrow": true,
+              "textFadeMultiplier": -2.3,
+              "nodeSizeMultiplier": 0.532352941176471,
+              "lineSizeMultiplier": 0.705294117647059,
+              "collapse-forces": false,
+              "centerStrength": 0.0235294117647059,
+              "repelStrength": 9.17647058823529,
+              "linkStrength": 0.988235294117647,
+              "linkDistance": 168,
+              "scale": 0.06699744995282672,
+              "close": false
+            }
+          },
+          "pinned": true
+        },
+        "group": "331469c8c51a6f37"
+      },
+      {
+        "id": "a894eda46bf8e743",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "486dda96caeec171",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Reference Box/@ wiki, Lịch sử Việt Nam.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "6c568180c3e044a9",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "~Lịch sử Trung Quốc.md",
+            "mode": "source"
+          },
+          "pinned": true
         }
       }
     ],
@@ -39,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#created/2021/Jul/17",
+                "query": "tag:#created/2021/Jul/24",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -56,11 +153,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 220
+    "width": 263
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -88,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pomodone.md",
+                "file": "~Lịch Sử Việt Nam.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -138,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pomodone.md"
+                "file": "~Lịch Sử Việt Nam.md"
               }
             }
           },
@@ -156,10 +254,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pomodone.md",
+                "file": "~Lịch Sử Việt Nam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "ee149ef05ba02108",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ]
@@ -175,7 +281,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pomodone.md",
+                "file": "~Lịch Sử Việt Nam.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -192,17 +298,17 @@
     "direction": "horizontal",
     "width": 305
   },
-  "active": "427930219d9594c4",
+  "active": "c5a90dcf4881731e",
   "lastOpenFiles": [
-    "Untitled.md",
     "~Lịch Sử Việt Nam.md",
-    "~Nhà Đinh.md",
-    "Beta Israel.md",
-    "Bảy nhà hiền triết Hy Lạp theo Plato.md",
-    "MOOC - Các khóa học trực tuyến.md",
-    "2021 Complete Python Bootcamp From Zero to Hero in Python.md",
-    "$ Enroll Udemy Cource and Learn about Jenkins.md",
-    "$ Cài đặt và sử dụng Jenkins ở máy tính cá nhân.md",
-    "~Zettelkasten.md"
+    "Reference Box/@ wiki, Lịch sử Việt Nam.md",
+    "Nhà Đường.md",
+    "~Lịch sử Trung Quốc.md",
+    "Năm 905, nhà Đường suy yếu, Khúc Thừa Dụ lên nắm quyền.md",
+    "Bắc thuộc lần 3 dưới sự cai trị nhà Đường.md",
+    "Nhà Đường triều đại kế tiếp nhà Tùy.md",
+    "~001 Lịch sử.md",
+    "Năm 602, nhà Tùy xâm lược Vạn Xuân kết thúc nhà Tiền Lý.md",
+    "Năm 571, Lý Phật Tử cướp ngôi Triệu Việt Vương.md"
   ]
 }

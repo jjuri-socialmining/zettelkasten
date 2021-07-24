@@ -13,32 +13,18 @@
         "a": 1,
         "rgb": 16711680
       }
-    },
-    {
-      "query": "tag:#state/boat",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    },
-    {
-      "query": "file:@",
-      "color": {
-        "a": 1,
-        "rgb": 12797181
-      }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -2.5,
+  "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1.02235294117647,
   "lineSizeMultiplier": 1.05117647058824,
   "collapse-forces": false,
-  "centerStrength": 0.152941176470588,
-  "repelStrength": 20,
-  "linkStrength": 1,
-  "linkDistance": 77,
-  "scale": 0.030182895067324376,
+  "centerStrength": 0.352941176470588,
+  "repelStrength": 11.7647058823529,
+  "linkStrength": 0.705882352941177,
+  "linkDistance": 102,
+  "scale": 0.04231590268976189,
   "close": true
 }

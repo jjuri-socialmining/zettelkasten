@@ -1,1 +1,0 @@
-table date, rating, woke-up, slept FROM #daily

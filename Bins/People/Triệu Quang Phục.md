@@ -8,7 +8,7 @@
 
 ## Notes
 Triệu Quang Phục con của Triệu Túc
-Triệu Túc là thái phó của [[Lý Bí - Lý Nam Đế]]
+Triệu Túc là thái phó của [[Lý Bí]]
 Triệu Quang Phục còn được biết đến với cái tên [[Dạ Trạch Vương]]
 
 ## Questions & thoughts:
