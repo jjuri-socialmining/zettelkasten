@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-1955, [[Ngô Đình Diệm]] gian lận trong cuộc trưng cầu ý dân. Việc này được Hoa Kỳ hậu thuẫn Thông qua đó, Ngô Đình Diệm phế truất quốc trưởng [[Bảo Đại]], Ngô Đình Diệm lên làm quốc trưởng [[Quốc gia Việt Nam]].
+1955, [[Ngô Đình Diệm]] gian lận trong cuộc trưng cầu ý dân. Việc này được Hoa Kỳ hậu thuẫn Thông qua đó, Ngô Đình Diệm phế truất quốc trưởng [[Bảo Đại]], Ngô Đình Diệm lên làm quốc trưởng [[Quốc gia Việt Nam]]. [[Quốc gia Việt Nam là tiền thân của Việt Nam Cộng Hòa, đổi tên năm 1955]]
 
 
 ## Questions & thoughts:

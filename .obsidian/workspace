@@ -4,112 +4,78 @@
     "type": "split",
     "children": [
       {
-        "id": "c5a90dcf4881731e",
+        "id": "5fece6ab6596f74e",
         "type": "leaf",
         "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "~Lịch Sử Việt Nam.md",
+            "file": "Christopher Colombo.md",
             "mode": "source"
           },
           "pinned": true
-        },
-        "group": "331469c8c51a6f37"
+        }
       },
       {
-        "id": "4400eec299306230",
+        "id": "8e407d3ca70e2f34",
         "type": "leaf",
         "pinned": true,
         "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Bán Đảo Iberia.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "eb7139a70bad567a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "@ wiki, Cristoforo Colombo.md",
+            "mode": "source"
+          }
+        },
+        "group": "52908d16336a4ed2"
+      },
+      {
+        "id": "27e61207ca855d2f",
+        "type": "leaf",
+        "state": {
           "type": "localgraph",
           "state": {
-            "file": "~Lịch Sử Việt Nam.md",
+            "file": "@ wiki, Cristoforo Colombo.md",
             "options": {
               "collapse-filter": false,
               "search": "",
               "localJumps": 3,
               "localBacklinks": true,
               "localForelinks": true,
-              "localInterlinks": true,
+              "localInterlinks": false,
               "showTags": false,
               "showAttachments": false,
               "hideUnresolved": false,
-              "collapse-color-groups": false,
-              "colorGroups": [
-                {
-                  "query": "tag:#MOC",
-                  "color": {
-                    "a": 1,
-                    "rgb": 14024704
-                  }
-                },
-                {
-                  "query": "file:@",
-                  "color": {
-                    "a": 1,
-                    "rgb": 761089
-                  }
-                },
-                {
-                  "query": "file:~Lịch Sử Việt Nam",
-                  "color": {
-                    "a": 1,
-                    "rgb": 6054102
-                  }
-                }
-              ],
-              "collapse-display": false,
-              "showArrow": true,
-              "textFadeMultiplier": -2.3,
-              "nodeSizeMultiplier": 0.532352941176471,
-              "lineSizeMultiplier": 0.705294117647059,
-              "collapse-forces": false,
-              "centerStrength": 0.0235294117647059,
-              "repelStrength": 9.17647058823529,
-              "linkStrength": 0.988235294117647,
-              "linkDistance": 168,
-              "scale": 0.06699744995282672,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 0.5087618855792587,
               "close": false
             }
-          },
-          "pinned": true
+          }
         },
-        "group": "331469c8c51a6f37"
-      },
-      {
-        "id": "a894eda46bf8e743",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
-        "id": "486dda96caeec171",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Reference Box/@ wiki, Lịch sử Việt Nam.md",
-            "mode": "source"
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "6c568180c3e044a9",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "~Lịch sử Trung Quốc.md",
-            "mode": "source"
-          },
-          "pinned": true
-        }
+        "group": "52908d16336a4ed2"
       }
     ],
     "direction": "vertical"
@@ -158,7 +124,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263
+    "width": 263,
+    "collapsed": true
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -186,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "~Lịch Sử Việt Nam.md",
+                "file": "@ wiki, Cristoforo Colombo.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -236,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "~Lịch Sử Việt Nam.md"
+                "file": "@ wiki, Cristoforo Colombo.md"
               }
             }
           },
@@ -254,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "~Lịch Sử Việt Nam.md",
+                "file": "@ wiki, Cristoforo Colombo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "~Lịch Sử Việt Nam.md",
+                "file": "@ wiki, Cristoforo Colombo.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -296,19 +263,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305
+    "width": 305,
+    "collapsed": true
   },
-  "active": "c5a90dcf4881731e",
+  "active": "eb7139a70bad567a",
   "lastOpenFiles": [
+    "@ wiki, Cristoforo Colombo.md",
+    "Bán Đảo Iberia.md",
+    "Christopher Colombo.md",
+    "Bán đảo Iberia lớn thứ nhì ở Châu Âu.md",
+    "Bán đảo Scandinavie.md",
+    "Untitled 1.md",
     "~Lịch Sử Việt Nam.md",
-    "Reference Box/@ wiki, Lịch sử Việt Nam.md",
-    "Nhà Đường.md",
-    "~Lịch sử Trung Quốc.md",
-    "Năm 905, nhà Đường suy yếu, Khúc Thừa Dụ lên nắm quyền.md",
-    "Bắc thuộc lần 3 dưới sự cai trị nhà Đường.md",
-    "Nhà Đường triều đại kế tiếp nhà Tùy.md",
-    "~001 Lịch sử.md",
-    "Năm 602, nhà Tùy xâm lược Vạn Xuân kết thúc nhà Tiền Lý.md",
-    "Năm 571, Lý Phật Tử cướp ngôi Triệu Việt Vương.md"
+    "Đảng Quốc Xã.md",
+    "Triệu Đà.md",
+    "~Nhà Triệu.md"
   ]
 }

@@ -2,7 +2,7 @@
 
 %% 
 - metadata:
-	- tags: #created/2021/Jun/22, #MOC 
+	- tags: #created/2021/Jun/22, #MOC/1st
 %%
 
 ## Thời kỳ lịch sử
@@ -28,6 +28,7 @@
 ## Nhân vật lịch sử
 - [[Vua Hùng]]
 - [[An Dương Vương]]
+- [[Lữ Gia]]
 - [[Hai Bà Trưng]]
 - [[Lý Bí]]
 - [[Đinh Bộ Lĩnh]]
@@ -42,6 +43,7 @@
 - [[Trần Hưng Đạo]]
 - [[Trần Quang Khải]]
 - [[Phạm Ngũ Lão]]
+- [[Lê Thánh Tông]]
 - [[Nguyễn Trãi]]
 - [[Ngô Sĩ Liên]]
 - [[Mạc Đăng Dung]]
@@ -50,6 +52,7 @@
 - [[Trịnh Kiểm]]
 - [[Nguyễn Huệ]]
 - [[Nguyễn Ánh]]
+- [[Khải Định]]
 - [[Bảo Đại]]
 - [[Trần Trọng Kim]]
 - [[Hồ Chí Minh]]
