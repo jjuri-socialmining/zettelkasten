@@ -4,65 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "5fece6ab6596f74e",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Christopher Colombo.md",
-            "mode": "source"
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "8e407d3ca70e2f34",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Bán Đảo Iberia.md",
-            "mode": "source"
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "eb7139a70bad567a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "@ wiki, Cristoforo Colombo.md",
-            "mode": "source"
-          }
-        },
-        "group": "52908d16336a4ed2"
-      },
-      {
         "id": "27e61207ca855d2f",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "@ wiki, Cristoforo Colombo.md",
+            "file": "@ wiki, Mahatma Gandhi.md",
             "options": {
               "collapse-filter": false,
               "search": "",
-              "localJumps": 3,
+              "localJumps": 2,
               "localBacklinks": true,
               "localForelinks": true,
               "localInterlinks": false,
               "showTags": false,
               "showAttachments": false,
               "hideUnresolved": false,
-              "collapse-color-groups": true,
+              "collapse-color-groups": false,
               "colorGroups": [],
-              "collapse-display": true,
+              "collapse-display": false,
               "showArrow": false,
-              "textFadeMultiplier": 0,
+              "textFadeMultiplier": -2.4,
               "nodeSizeMultiplier": 1,
               "lineSizeMultiplier": 1,
               "collapse-forces": true,
@@ -70,12 +33,20 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 0.5087618855792587,
+              "scale": 0.508761885579262,
               "close": false
             }
-          }
-        },
-        "group": "52908d16336a4ed2"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "e2c53b9f40e0d2b2",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -153,7 +124,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "@ wiki, Cristoforo Colombo.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -202,9 +172,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "@ wiki, Cristoforo Colombo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -221,7 +189,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@ wiki, Cristoforo Colombo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +215,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@ wiki, Cristoforo Colombo.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -263,20 +229,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305,
-    "collapsed": true
+    "width": 305
   },
-  "active": "eb7139a70bad567a",
+  "active": "e2c53b9f40e0d2b2",
   "lastOpenFiles": [
-    "@ wiki, Cristoforo Colombo.md",
-    "Bán Đảo Iberia.md",
-    "Christopher Colombo.md",
-    "Bán đảo Iberia lớn thứ nhì ở Châu Âu.md",
-    "Bán đảo Scandinavie.md",
-    "Untitled 1.md",
-    "~Lịch Sử Việt Nam.md",
-    "Đảng Quốc Xã.md",
-    "Triệu Đà.md",
-    "~Nhà Triệu.md"
+    "@ wiki, Mahatma Gandhi.md",
+    "Gandhi thực hiện Hành trình muối để phản đối tăng thuế muối.md",
+    "Gandhi ảnh hưởng bởi Lev Tolstoy và Henry Thoreau.md",
+    "Gandhi được thành viên Thần Trí học khuyên đọc Chí tôn ca.md",
+    "Khi ở Anh, Gandhi ăn chay và tìm hiểu các tôn giáo.md",
+    "Từ Mahatma trong tên Gandhi được người Ấn đặt để thể hiện sự kính trọng.md",
+    "19 tuổi, Gandhi học luật tại Anh.md",
+    "Gandhi có 4 người con.md",
+    "Gandhi đấu tranh bất bạo động.md",
+    "Nguyên tắc đấu tranh của Gandhi ảnh hưởng đến nhiều phong trào.md"
   ]
 }

@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 1630804
       }
+    },
+    {
+      "query": "tag:#MOC",
+      "color": {
+        "a": 1,
+        "rgb": 15317782
+      }
     }
   ],
   "collapse-display": false,
@@ -32,6 +39,6 @@
   "repelStrength": 11.7647058823529,
   "linkStrength": 0.705882352941177,
   "linkDistance": 102,
-  "scale": 0.3213363860503849,
+  "scale": 0.042315902689762895,
   "close": false
 }

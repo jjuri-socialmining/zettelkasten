@@ -1,6 +1,6 @@
 # Công Giáo MOC
 %% - metadata:
-	- tags: #MOC,  #created/2020/Dec/25%%
+	- tags: #MOC/1st,  #created/2020/Dec/25%%
 
 ### Định nghĩa
 **Công giáo** (hay còn gọi là **Công giáo Roma**) là nhánh lớn nhất của **Kito giáo.** Giáo Hội công giáo được xem là giáo hội duy nhất cho Chúa Giesu thiết lập, Đức Giáo Hoàng là người kế vị tông đồ Phero.
