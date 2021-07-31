@@ -6,10 +6,54 @@
       {
         "id": "c2543862c10bb536",
         "type": "leaf",
+        "pinned": true,
         "state": {
-          "type": "empty",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "Cựu Ước.md",
+            "mode": "source"
+          },
+          "pinned": true
+        },
+        "group": "f7572fdc1f7924ad"
+      },
+      {
+        "id": "d7317da07d78f081",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Cựu Ước.md",
+            "options": {
+              "collapse-filter": false,
+              "search": "",
+              "localJumps": 3,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": false,
+              "showArrow": false,
+              "textFadeMultiplier": -2.3,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": false,
+              "centerStrength": 0.196629213483146,
+              "repelStrength": 8.98876404494382,
+              "linkStrength": 0.606741573033708,
+              "linkDistance": 101,
+              "scale": 0.13168724279835822,
+              "close": true
+            }
+          },
+          "pinned": true
+        },
+        "group": "f7572fdc1f7924ad"
       }
     ],
     "direction": "vertical"
@@ -36,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Canh bạc",
+                "query": "Kito",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,6 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Cựu Ước.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -134,7 +179,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cựu Ước.md"
+              }
             }
           },
           {
@@ -151,6 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cựu Ước.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,6 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cựu Ước.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -194,17 +243,17 @@
     "direction": "horizontal",
     "width": 305
   },
-  "active": "c2543862c10bb536",
+  "active": "d7317da07d78f081",
   "lastOpenFiles": [
-    "Canh bạc Pascal.md",
-    "~002 Triết học.md",
-    "Baruch Spinoza.md",
-    "Spinoza là người Do thái Sephardi.md",
-    "@ wiki, Baruch Spinoza.md",
-    "Index Librorum Prohibitorum của Spinoza được Công Giáo Roma lưu giữ trong thư viện.md",
-    "Brauch Spinoza cho rằng Moise không phải tác giả Ngũ Kinh.md",
-    "@ wiki, Cựu Ước.md",
-    "Spinoza là một trong những người tiên phong của Thời kỳ khai sáng.md",
-    "Spinoza được gọi là hoàng tử của triết học.md"
+    "Cựu Ước.md",
+    "Đức Jesus.md",
+    "Untitled 1.md",
+    "Marcion thành Sinope.md",
+    "Thánh Phaolo.md",
+    "Thánh Phê Rô.md",
+    "Tanakh.md",
+    "Vườn địa đàng.md",
+    "Phúc Âm.md",
+    "Cựu Ước tiếng Hy Lạp.md"
   ]
 }

@@ -1,4 +1,4 @@
-# Cựu Ước là phần đầu của Kinh thánh Kito Giáo
+# Cựu Ước là phần đầu của Kinh thánh Cơ Đốc giáo
 
 - metadata
 	- UID: P-210731-1714
@@ -13,6 +13,6 @@ Kinh thánh [[Cựu ước]] là phần đầu của bộ Kinh Thánh [[Kito Gi�
 ## Related:
 ```dataview
 list
-from [[Cựu Ước là phần đầu của Kinh thánh Kito Giáo]]
+from [[Cựu Ước là phần đầu của Kinh thánh Cơ Đốc giáo]]
 sort file.name asc
 ```

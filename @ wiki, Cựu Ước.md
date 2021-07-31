@@ -7,7 +7,7 @@
 	- source: 
 
 ## Summary
-- [[Cựu Ước là phần đầu của Kinh thánh Kito Giáo]]
+- [[Cựu Ước là phần đầu của Kinh thánh Cơ Đốc giáo]]
 - [[Kinh thánh Cựu ước có nguồn gốc từ kinh Tanakh của Do Thái Giáo]]
 - Cựu ước bao gồm các sách: Luật lệ, lịch sử, thi ca và tiên tri.
 - [[Sách Cựu ước được viết trước thời Chúa Jesus sinh ra]]
