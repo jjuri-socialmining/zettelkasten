@@ -42,6 +42,9 @@
 
 **16th Century AD**
 
+**17th Century AD**
+- 1632 - 1677 - [[Baruch Spinoza]]
+- 
 **19th Century AD**
 - 1844 - 1900 - [[Friedrich Nietzsche]]
 
