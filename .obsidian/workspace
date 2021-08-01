@@ -4,31 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "c2543862c10bb536",
+        "id": "b714f995f7f59edf",
         "type": "leaf",
         "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cựu Ước.md",
-            "mode": "source"
+            "file": "Marcion thành Sinope.md",
+            "mode": "preview"
           },
           "pinned": true
         },
-        "group": "f7572fdc1f7924ad"
+        "group": "7baf91799269d3d6"
       },
       {
-        "id": "d7317da07d78f081",
+        "id": "c9a4c22d891e8f16",
         "type": "leaf",
         "pinned": true,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Cựu Ước.md",
+            "file": "Marcion thành Sinope.md",
             "options": {
-              "collapse-filter": false,
+              "collapse-filter": true,
               "search": "",
-              "localJumps": 5,
+              "localJumps": 1,
               "localBacklinks": true,
               "localForelinks": true,
               "localInterlinks": false,
@@ -37,31 +37,44 @@
               "hideUnresolved": false,
               "collapse-color-groups": true,
               "colorGroups": [],
-              "collapse-display": false,
+              "collapse-display": true,
               "showArrow": false,
-              "textFadeMultiplier": -2.3,
+              "textFadeMultiplier": 0,
               "nodeSizeMultiplier": 1,
               "lineSizeMultiplier": 1,
-              "collapse-forces": false,
-              "centerStrength": 0.196629213483146,
-              "repelStrength": 8.98876404494382,
-              "linkStrength": 0.606741573033708,
-              "linkDistance": 101,
-              "scale": 0.3628873693012269,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
               "close": false
             }
           },
           "pinned": true
         },
-        "group": "f7572fdc1f7924ad"
+        "group": "7baf91799269d3d6"
       },
       {
-        "id": "16ba60bc3a6cb686",
+        "id": "ed7eb324f0a807a8",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Damasus I.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "c46f1aa37b149eb5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Marcion thành Sinope.md",
+            "file": "Damasus I đã phải chiến đấu với giáo hoàng đối lập Ursicinus.md",
             "mode": "source"
           }
         }
@@ -123,7 +136,7 @@
       {
         "id": "ea89fdbc5439f479",
         "type": "tabs",
-        "dimension": 70.58823529411765,
+        "dimension": 52.248803827751196,
         "children": [
           {
             "id": "4f6e4ddebde66a86",
@@ -142,11 +155,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Marcion thành Sinope.md",
+                "file": "Damasus I.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 5,
+                  "localJumps": 3,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -180,7 +193,7 @@
                   "repelStrength": 10.4273504273504,
                   "linkStrength": 0.47008547008547,
                   "linkDistance": 114,
-                  "scale": 0.5905033122230836,
+                  "scale": 0.10902064787712172,
                   "close": true
                 }
               }
@@ -192,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marcion thành Sinope.md"
+                "file": "Damasus I.md"
               }
             }
           },
@@ -210,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marcion thành Sinope.md",
+                "file": "Damasus I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +243,7 @@
       {
         "id": "55512af75108e012",
         "type": "tabs",
-        "dimension": 29.411764705882355,
+        "dimension": 47.751196172248804,
         "children": [
           {
             "id": "d535bd36dbc98e0b",
@@ -238,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marcion thành Sinope.md",
+                "file": "Damasus I.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -253,19 +266,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 586
+    "width": 305,
+    "collapsed": true
   },
-  "active": "16ba60bc3a6cb686",
+  "active": "ed7eb324f0a807a8",
   "lastOpenFiles": [
+    "Damasus I.md",
+    "Untitled 1.md",
+    "Thánh Jerome làm thư ký cho Giáo hoàng Damasus I.md",
+    "Thánh Jerome.md",
+    "Thuyết Trí Huệ.md",
     "Marcion thành Sinope.md",
-    "Đức Jesus.md",
+    "@ wiki, Marcion thành Sinope.md",
     "Cựu Ước.md",
-    "Tanakh.md",
-    "Kinh thánh Cựu ước có nguồn gốc từ kinh Tanakh của Do Thái Giáo.md",
-    "~Công Giáo.md",
-    "Giáo Hội Tin Lành không công nhận Thứ Kinh.md",
-    "Bản bảy mươi.md",
-    "Các bản dịch Cựu Ước tiếng Hy Lạp.md",
-    "Thánh Jerome.md"
+    "Đức Jesus.md",
+    "Thánh Phaolo.md"
   ]
 }
