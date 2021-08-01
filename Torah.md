@@ -12,6 +12,7 @@
 - [ ] Bản kinh thánh của [[Do Thái Giáo]]
 
 ## Related:
+- [[Năm sách trong Ngũ Kinh Cựu Ước]]
 ```dataview
 list
 from [[Torah]]

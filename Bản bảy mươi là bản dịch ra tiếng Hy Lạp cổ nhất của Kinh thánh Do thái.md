@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[Cựu Ước tiếng Hy Lạp]] là bản dịch cổ nhất của [[Kinh thánh Do thái]] và các sách [[Thứ kinh]]
+[[Các bản dịch Cựu Ước tiếng Hy Lạp]] là bản dịch cổ nhất của [[Kinh thánh Do thái]] và các sách [[Thứ kinh]]
 
 ## Questions & thoughts:
 

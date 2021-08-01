@@ -6,12 +6,13 @@
 	- source: 
 
 ## Notes
-Bản bảy mươi là tên gọi bản dịch [[Cựu Ước]] bằng tiếng Hy Lạp của thánh kinh [[Do Thái Giáo]]
+Bản bảy mươi hay còn gọi là bản dịch [[Septuaginta]], bản dịch [[Cựu Ước]] bằng tiếng Hy Lạp của [[Kinh thánh Hebrew]]
 
 ## Questions & thoughts:
 
 
 ## Related:
+- [[Do Thái Giáo]]
 ```dataview
 list
 from [[Bản bảy mươi]]

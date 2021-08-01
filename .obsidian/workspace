@@ -28,7 +28,7 @@
             "options": {
               "collapse-filter": false,
               "search": "",
-              "localJumps": 3,
+              "localJumps": 5,
               "localBacklinks": true,
               "localForelinks": true,
               "localInterlinks": false,
@@ -47,13 +47,24 @@
               "repelStrength": 8.98876404494382,
               "linkStrength": 0.606741573033708,
               "linkDistance": 101,
-              "scale": 0.13168724279835822,
-              "close": true
+              "scale": 0.3628873693012269,
+              "close": false
             }
           },
           "pinned": true
         },
         "group": "f7572fdc1f7924ad"
+      },
+      {
+        "id": "16ba60bc3a6cb686",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Marcion thành Sinope.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -102,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263
+    "width": 263,
+    "collapsed": true
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -111,7 +123,7 @@
       {
         "id": "ea89fdbc5439f479",
         "type": "tabs",
-        "dimension": 52.248803827751196,
+        "dimension": 70.58823529411765,
         "children": [
           {
             "id": "4f6e4ddebde66a86",
@@ -130,11 +142,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cựu Ước.md",
+                "file": "Marcion thành Sinope.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 3,
+                  "localJumps": 5,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -168,7 +180,7 @@
                   "repelStrength": 10.4273504273504,
                   "linkStrength": 0.47008547008547,
                   "linkDistance": 114,
-                  "scale": 0.10902064787712172,
+                  "scale": 0.5905033122230836,
                   "close": true
                 }
               }
@@ -180,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cựu Ước.md"
+                "file": "Marcion thành Sinope.md"
               }
             }
           },
@@ -198,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cựu Ước.md",
+                "file": "Marcion thành Sinope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +230,7 @@
       {
         "id": "55512af75108e012",
         "type": "tabs",
-        "dimension": 47.751196172248804,
+        "dimension": 29.411764705882355,
         "children": [
           {
             "id": "d535bd36dbc98e0b",
@@ -226,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cựu Ước.md",
+                "file": "Marcion thành Sinope.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -241,19 +253,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305
+    "width": 586
   },
-  "active": "d7317da07d78f081",
+  "active": "16ba60bc3a6cb686",
   "lastOpenFiles": [
-    "Cựu Ước.md",
-    "Đức Jesus.md",
-    "Untitled 1.md",
     "Marcion thành Sinope.md",
-    "Thánh Phaolo.md",
-    "Thánh Phê Rô.md",
+    "Đức Jesus.md",
+    "Cựu Ước.md",
     "Tanakh.md",
-    "Vườn địa đàng.md",
-    "Phúc Âm.md",
-    "Cựu Ước tiếng Hy Lạp.md"
+    "Kinh thánh Cựu ước có nguồn gốc từ kinh Tanakh của Do Thái Giáo.md",
+    "~Công Giáo.md",
+    "Giáo Hội Tin Lành không công nhận Thứ Kinh.md",
+    "Bản bảy mươi.md",
+    "Các bản dịch Cựu Ước tiếng Hy Lạp.md",
+    "Thánh Jerome.md"
   ]
 }
