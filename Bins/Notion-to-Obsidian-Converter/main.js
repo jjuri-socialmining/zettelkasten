@@ -53,12 +53,11 @@ const correctMarkdownLinks = (content) => {
 	const linkFullMatches = content.match(/(\[(.*?)\])(\((.*?)\))/gi);
 	const linkTextMatches = content.match(/(\[(.*?)\])(\()/gi);
 	const linkFloaterMatches = content.match(/([\S]*\.md(\))?)/gi);
-	const linkNotionMatches = content.match(/([\S]*notion.so(\S*))/g);
+	const linkNotionMatches = content.match(/\[(.*?)\]\(.*?notion.so.*?\)/gi);
 	if (!linkFullMatches && !linkFloaterMatches && !linkNotionMatches)
 		return { content: content, links: 0 };
 
 	let totalLinks = 0;
-
 	let out = content;
 	if (linkFullMatches) {
 		totalLinks += linkFullMatches.length;
@@ -88,7 +87,7 @@ const correctMarkdownLinks = (content) => {
 	}
 
 	if (linkNotionMatches) {
-		out = out.replace(/([\S]*notion.so(\S*))/g, convertNotionLinks);
+		out = out.replace(/(\[(.*?)\])(\((.*?)\))/gi, "[$1]");
 		totalLinks += linkNotionMatches.length;
 	}
 
