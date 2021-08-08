@@ -8,7 +8,8 @@ const rl = readline.createInterface({
 });
 rl.question('Notion Export Path:\n', (path) => {
 	const start = Date.now();
-	const output = fixNotionExport(path.trim());
+	//const output = fixNotionExport(path.trim());
+	const output = fixNotionExport(path);
 	const elapsed = Date.now() - start;
 
 	console.log(
@@ -26,6 +27,7 @@ CSV Links: ${output.csvLinks}`
 const truncateFileName = (name) => {
 	let bn = npath.basename(name);
 	bn = bn.lastIndexOf(' ') > 0 ? bn.substring(0, bn.lastIndexOf(' ')) : bn;
+	//console.log(name)
 	return npath.resolve(
 		npath.format({
 			dir: npath.dirname(name),
@@ -163,6 +165,7 @@ const fixNotionExport = function (path) {
 
 	let currentDirectory = fs.readdirSync(path, { withFileTypes: true });
 
+	// Get all file to files[] array
 	for (let i = 0; i < currentDirectory.length; i++) {
 		let currentPath = npath.format({
 			dir: path,
@@ -175,10 +178,21 @@ const fixNotionExport = function (path) {
 	for (let i = 0; i < files.length; i++) {
 		let file = files[i];
 		if (!file.includes('.png')) {
-			let trunc = truncateFileName(file);
-			fs.renameSync(file, trunc);
-			file = trunc;
-			files[i] = trunc;
+			if (npath.extname(file) === '.md') {
+				// read contents of the file
+				const data = fs.readFileSync(file, 'utf8');
+				// split the contents by new line
+				lines = data.split(/\r?\n/);
+				new_file_name = npath.dirname(file) + '\\' + lines[0].replace('# ','') + '.md';
+				fs.renameSync(file, new_file_name);
+				file = new_file_name;
+				files[i] = new_file_name;
+			} else if (npath.extname(file) === '.csv') {
+				new_file_name = truncateFileName(file);
+				fs.renameSync(file, new_file_name);
+				file = new_file_name;
+				files[i] = new_file_name;
+			}
 		}
 
 		//Fix Markdown Links
@@ -222,8 +236,11 @@ const fixNotionExport = function (path) {
 	}
 
 	directories.forEach((dir) => {
+		//console.log(dir);
 		const stats = fixNotionExport(dir);
 		directories = directories.concat(stats.directories);
+		//console.log(stats);
+		//console.log(files);
 		files = files.concat(stats.files);
 		markdownLinks += stats.markdownLinks;
 		csvLinks += stats.csvLinks;
