@@ -6,7 +6,7 @@
 	- source: [[@ wiki, Lịch sử Việt Nam]]
 
 ## Notes
-Nguyên nhân [[Hoa kỳ]] loại bỏ [[Ngô Đình Diệm]]:
+Nguyên nhân [[Hoa Kỳ]] loại bỏ [[Ngô Đình Diệm]]:
 - [[Mỹ tiếp tục viện trợ cho VNCH nhưng tình hình càng tồi tệ]]
 - [[Chính sách phân biệt tôn giáo của Ngô Đình Diệm gây căm phẫn dư luận]]
 - [[Ngô Đình Diệm chủ trương tách khỏi sự lệ thuộc Hoa Kỳ]]

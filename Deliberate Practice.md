@@ -1,9 +1,9 @@
-# Deliberate Practice by Anders Ericsson
+# Deliberate Practice
 
 Description: Deliberate nghĩa là purposeful, có chủ ý
 Property: July 27, 2021 8:33 PM
 
-Deliberate Practice dịch là luyện tập có chủ ý. Phương pháp được nhắc đến trong quyển sách [[Peak - Anders Ericsson]] của Anders Erricson. 
+Deliberate Practice dịch là luyện tập có chủ ý. Phương pháp được nhắc đến trong quyển sách [[@ Anders Ericsson, Peak]] của [[Anders Ericsson]]. 
 
 Nguyên tắc cốt lõi của phương pháp này là:
 

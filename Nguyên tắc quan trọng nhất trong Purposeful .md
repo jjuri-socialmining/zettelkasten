@@ -2,4 +2,4 @@
 
 Property: August 6, 2021 10:08 PM
 
-Nguyên tắc quan trọng nhất trong [[Purposeful Practice - Luyện tập có chủ đích]] là đòi hỏi người luyện tập ngoài vùng an toàn
+Nguyên tắc quan trọng nhất trong [[Purposeful Practice]] là đòi hỏi người luyện tập ngoài vùng an toàn

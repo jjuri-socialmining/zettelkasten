@@ -160,7 +160,7 @@ We have especially strong evidence of this phenomenon as it applies to physician
 
 [[Benjamin Franklin là người lập ra thư viện cho mượn sách đầu tiên ở Mỹ]] 
 
-[[Bếp lò của Benjamin Franklin]] 
+[[Bếp lò Franklin]] 
 
 Perhaps my favorite example of this lesson is the case of Ben Franklin’s chess skills. Franklin was America’s first famous genius. He was a scientist who made his reputation with his studies of electricity, a popular writer and publisher of Poor Richard’s Almanack, the founder of the first public lending library in America, an accomplished diplomat, and the inventor of, among other things, bifocals, the lightning rod, and the Franklin stove. But his greatest passion was chess. He was one of the first chess players in America, and he was a participant in the earliest game of chess known to have been played here. He played chess for more than fifty years, and as he got older he spent more and more time on it. While in Europe he played with François-André Danican Philidor, the best chess player of the time. And despite his well-known advice to be early to bed and early to rise, Franklin regularly played from around 6:00 p.m. until sunrise.
 

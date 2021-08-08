@@ -24,7 +24,7 @@ Note: Tên gọi các quận khi bị nhà Hán xâm chiếm
 
 ### p.102
 
-[[Untitled.png]]
+[[todoist_notion.png]]
 
 Notes:
 - Năm 34, thái thú Giao Chỉ là Tô Định áp đặt chính sách áp bức nặng nề. Hàng quý tộc âm thầm phản kháng. Tô Định bèn ám sát Thi Sách để đập tan mầm mống phản loạn.

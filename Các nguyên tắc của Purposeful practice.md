@@ -2,7 +2,7 @@
 
 Property: August 6, 2021 10:03 PM
 
-[[Peak - Anders Ericsson]] đưa ra 4 nguyên tắc của [[Purposeful Practice - Luyện tập có chủ đích]]:
+[[@ Anders Ericsson, Peak]] đưa ra 4 nguyên tắc của [[Purposeful Practice]]:
 
 1. [[Luyện tập có chủ đích đưa ra mục tiêu rõ ràng cho mỗi bài tập]] 
 2. [[Luyện tập có chủ đích thì phải tập trung]] 

@@ -2,7 +2,7 @@
 
 Property: August 6, 2021 9:40 PM
 
-[[Purposeful Practice - Luyện tập có chủ đích]] thực hành có chủ đích là đưa ra một mục tiêu rõ ràng cho từng bài tập luyện. Nhờ mục tiêu đó, ta đánh giá được sự cải thiện, hay điểm yếu của bài luyện tập hôm đó. Ví dụ như: 
+[[Purposeful Practice]] thực hành có chủ đích là đưa ra một mục tiêu rõ ràng cho từng bài tập luyện. Nhờ mục tiêu đó, ta đánh giá được sự cải thiện, hay điểm yếu của bài luyện tập hôm đó. Ví dụ như: 
 
 - Đệm một bản nhạc ít nhất 2 lần không lỗi trong 1 buổi tập.
 - Đánh máy văn bản 200 từ với tốc độ 50 từ/phút và gặp dưới 3 lỗi
