@@ -9,6 +9,6 @@ Related: https://www.notion.so/Deliberate-Practice-by-Anders-Ericsson-ac984765a4
     - Tập trung toàn tâm vào bài tập
     - Đánh giá các phản hồi ngay
     - Luôn cố gắng luyện tập ngoài vùng an toàn của bản thân
-- [[Deliberate practice là một dạng của Purposefule practice nhưng ở mức độ cao hơn]]. [[Deliberate Practice]] giống với Purposeful practice nhưng thêm hai nguyên tắc:
+- [[Deliberate practice là một dạng của Purposeful practice nhưng ở mức độ cao hơn]]. [[Deliberate Practice]] giống với Purposeful practice nhưng thêm hai nguyên tắc:
     - Lĩnh vực được xác định rõ ràng để đánh giá giữa chuyên gia và nghiệp dư
     - Đòi hỏi có giáo viên hoặc người hướng dẫn riêng có chuyên môn.
