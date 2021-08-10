@@ -26,7 +26,7 @@
           "state": {
             "file": "@ wiki, Benjamin Franklin.md",
             "options": {
-              "collapse-filter": false,
+              "collapse-filter": true,
               "search": "",
               "localJumps": 4,
               "localBacklinks": true,
@@ -47,8 +47,8 @@
               "repelStrength": 10,
               "linkStrength": 0.691011235955056,
               "linkDistance": 250,
-              "scale": 0.13168724279835653,
-              "close": false
+              "scale": 0.13168724279835683,
+              "close": true
             }
           },
           "pinned": true
@@ -56,11 +56,22 @@
         "group": "fe14d11d4e89f5d0"
       },
       {
-        "id": "488c901cc442ac56",
+        "id": "a8d043c14a6128a8",
         "type": "leaf",
         "state": {
           "type": "graph",
           "state": {}
+        }
+      },
+      {
+        "id": "488c901cc442ac56",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Deliberate Practice.md",
+            "mode": "source"
+          }
         }
       },
       {
@@ -122,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Naive",
+                "query": "Deliberate Practice by",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -139,7 +150,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -281,17 +293,17 @@
     "width": 305,
     "collapsed": true
   },
-  "active": "488c901cc442ac56",
+  "active": "a8d043c14a6128a8",
   "lastOpenFiles": [
     "@ wiki, Benjamin Franklin.md",
+    "Deliberate Practice.md",
+    "Anders Ericsson.md",
+    "Ba nguyên tắc áp dụng Deliberate practice mà không có người giám sát.md",
+    "Luyện tập có chủ đích.md",
+    "So sánh các khái niệm Naive, Purposeful và Deliberate Pracitce.md",
     "Benjamin Franklin.md",
     "Nhóm lập quốc Hoa Kỳ.md",
     "Các đời tổng thống Hoa Kỳ.md",
-    "Harry S. Truman.md",
-    "Harry S Truman được nhắc đến trong Ông già trăm tuổi trèo qua cửa sổ.md",
-    "Harry S. Truman được nhắc đến trong Ông già trăm tuổi trèo qua cửa sổ.md",
-    "Ulysses S Grant.md",
-    "Ulysses S. Grant.md",
-    "! Benjamin Franklin không phải tổng thống Mỹ.md"
+    "Harry S. Truman.md"
   ]
 }
