@@ -9,7 +9,7 @@ URL: https://www.nateliason.com/blog/deliberate-practice-examples
 
 [[Deliberate practice]] is by far the most effective method for rapidly improving your abilities at any skill. If you’re lucky enough to have a good coach, they’ll take care of the planning and feedback necessary for effective deliberate practice. But when you’re learning on your own, you have to get creative in how you challenge yourself and assess your abilities.
 
-Out of my own [[interest in self-education]], I’m collecting as many examples as I can find for ways you can independently challenge your abilities and get feedback in different fields. Each of these methods targets part of the deliberate practice roadmap and provide ways to take advantage of it without a dedicated coach.
+Out of my own interest in self-education, I’m collecting as many examples as I can find for ways you can independently challenge your abilities and get feedback in different fields. Each of these methods targets part of the deliberate practice roadmap and provide ways to take advantage of it without a dedicated coach.
 
 ![[@ nateliason, 45 Deliberate Practice Examples for /5b2f89ee934cc581f2f031a1_Deliberate-Practice-Roadmap.png]]
 
@@ -26,7 +26,7 @@ That means each of these techniques is usually:
 
 Most of these are focused on improving a certain part of the skill that may be a weakness for you and use yourself or an audience as the forms of feedback. It’s up to you to be honest about how you did and to make sure you’re completely focused while you’re working on them.
 
-Finally, if this is the first you’re hearing about deliberate practice, I strongly recommend you read [[my comprehensive guide on it]] first. Then come back and use these strategies for your self-education.
+Finally, if this is the first you’re hearing about deliberate practice, I strongly recommend you read my comprehensive guide on it first. Then come back and use these strategies for your self-education.
 
 ## Art / Design
 
@@ -62,11 +62,11 @@ Finally, if this is the first you’re hearing about deliberate practice, I stro
 
 [[Áp dụng deliberate vào việc học ngoại ngữ]] 
 
-- Watch a movie in a foreign language with the subtitles in English, cover the subtitles, and quiz yourself after every sentence they speak. (Source: [[Peak]])
+- Watch a movie in a foreign language with the subtitles in English, cover the subtitles, and quiz yourself after every sentence they speak. (Source: [[@ Anders Ericsson, Peak]])
 
 [[Áp dụng deliberate vào việc học ngoại ngữ]] 
 
-- Go to the mall in a foreign country and ask different people the same question to train yourself how to listen to their responses. (Source: [[Peak]])
+- Go to the mall in a foreign country and ask different people the same question to train yourself how to listen to their responses. (Source: [[@ Anders Ericsson, Peak]])
 - Use a spaced repetition system like [[Anki]] to memorize and quiz yourself on vocabulary (Source: [[Fluent Forever]]).
 - Read a book in a foreign language while also listening to the audio to force yourself to move at a normal pace through the book.
 
@@ -97,7 +97,7 @@ Finally, if this is the first you’re hearing about deliberate practice, I stro
 
 ## Rubik’s Cube
 
-- Make yourself solve it a few seconds faster than you normally can, and see what parts of the solution are slowing you down the most (Source: [[Peak]]).
+- Make yourself solve it a few seconds faster than you normally can, and see what parts of the solution are slowing you down the most (Source: [[@ Anders Ericsson, Peak]]).
 
 ## Singing
 
@@ -111,7 +111,7 @@ Finally, if this is the first you’re hearing about deliberate practice, I stro
 
 - Force yourself to start sentences over if you use filler words such as “like” “um” “uh” etc.
 - Give presentations with no words on the slides, only images.
-- Try stopping people on the street and keeping them entertained for as long as possible, using body gestures, excited speaking, etc. Time yourself (Source: [[Peak]]).
+- Try stopping people on the street and keeping them entertained for as long as possible, using body gestures, excited speaking, etc. Time yourself (Source: [[@ Anders Ericsson, Peak]]).
 - Video tape yourself presenting and watch it to identify weak points.
 - Try other kinds of speaking such as stand up comedy, improv, dramatic interpretation.
 - Try speaking in front of your dog or other animals and keep them entertained.
@@ -124,7 +124,7 @@ Finally, if this is the first you’re hearing about deliberate practice, I stro
 
 ## Typing
 
-- Slowly ratcheting up the WPM you have to write at, and then figuring out what’s holding you back as you reach plateaus (Source: [[Peak]]).
+- Slowly ratcheting up the WPM you have to write at, and then figuring out what’s holding you back as you reach plateaus (Source: [[@ Anders Ericsson, Peak]]).
 
 ## Video Games
 
@@ -135,7 +135,7 @@ Finally, if this is the first you’re hearing about deliberate practice, I stro
 
 - Forbid yourself from using certain kinds of words, such as adjectives or adverbs.
 - Force yourself to write from a different perspective than you usually do, or in a different style (e.g. if I re-wrote this as a fiction piece or series of haikus).
-- Break up someone else’s writing and try to reproduce it on your own, such as by trying to recreate their structure, word choice, or other elements. (Source: [[Ben Franklin]])
+- Break up someone else’s writing and try to reproduce it on your own, such as by trying to recreate their structure, word choice, or other elements. (Source: [[Benjamin Franklin]])
 - Writing articles or stories within a certain fixed timeframe, either in that writing session (1 hour) or for a publishing schedule (1 article every Monday).
 - Force yourself to convey ideas in extremely compact forms, like tweets or haikus.
 

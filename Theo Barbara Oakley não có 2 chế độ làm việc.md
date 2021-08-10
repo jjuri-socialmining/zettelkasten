@@ -7,4 +7,4 @@ Trong quyển [[Learn how to learn - Barbara Oakley]], Barbara Oakley chỉ ra r
 - [[Chế độ tập trung]]
 - [[Chế độ phân tán]]
 
-Để tận dụng những lợi ích của 2 chế độ này, chúng ta có phương pháp [[011-Pomodoro]]
+Để tận dụng những lợi ích của 2 chế độ này, chúng ta có phương pháp [[Phương pháp Pomodoro]]

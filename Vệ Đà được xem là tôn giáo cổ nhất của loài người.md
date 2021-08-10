@@ -7,6 +7,7 @@
 	- previous note:
 
 ## Notes
-
+[[Vệ Đà]]
+[[Rig - Veda]]
 ## Questions & thoughts:
 

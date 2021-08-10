@@ -8,7 +8,7 @@
 ## Notes
 Nếu dùng một chương trình đặc biệt, chữ viết tự di chuyển theo một tốc độ định trước, chúng ta có thể tăng tốc độ lên 1,600 từ/phút. Tuy nhiên, khả năng hiểu nội dung chỉ còn khoảng 50%.
 
-THam khảo phương pháp **Spritz trên trang** [Readsy](http://www.readsy.co/)
+THam khảo phương pháp **[[Spritz]] trên trang** [Readsy](http://www.readsy.co/)
 
 ## Questions & thoughts:
 Bài tập luyện mắt!!!?

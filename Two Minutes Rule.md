@@ -10,4 +10,4 @@ Và bạn sẽ nhận ra bạn có thể làm được nhiều hơn thế sau kh
 
 Xem thêm 
 
-Getting Things Done - David Allen
+[[@ David Allen, Getting Things Done]] - [[David Allen]]

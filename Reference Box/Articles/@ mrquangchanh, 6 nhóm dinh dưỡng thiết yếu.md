@@ -34,8 +34,6 @@ Vì tạo năng lượng chỉ có 3 chất này, nên nếu bạn nghe ai nói 
 
 **1.CARBOHYRATE**
 
-![[@%20mrquangchanh,%206%20nho%CC%81m%20dinh%20du%CC%9Bo%CC%9B%CC%83ng%20thie%CC%82%CC%81t%20ye%CC%82%CC%81%204ee9860aa63140e383b36271bb1dc7ab Untitled.jpg]]
-
 Trong 3 chất trên, carbohydrate là nguồn tạo năng lượng chủ yếu cho cơ thể. Vì thế, trong khâu phần ăn hằng ngày, chúng ta thường ăn nhiều hơn so với lipid (mỡ) và protein (thịt cá)
 
 [[carbohydrate cần nhiều nhất trong khẩu phần ăn hàng ngày]] 
@@ -92,17 +90,13 @@ Trong khi đó, Kali điều hòa hoạt động của tim. Canxi thì tham gia
 
 Nước mà bạn cung cấp cho cơ thể ở nhiều hình thức: nước lọc, nước ép, trái cây, rau quả, canh súp. Nó là môi trường để các tế bào hoạt động và các phản ứng xảy ra, giúp thải chất độc: qua thận, qua da, điều hòa nhiệt độ qua việc tiết mồ hôi trong những ngày nóng bức.... Và nó chiếm phần lớn nhất của cơ thể chúng ta 60-61%.
 
-![[@%20mrquangchanh,%206%20nho%CC%81m%20dinh%20du%CC%9Bo%CC%9B%CC%83ng%20thie%CC%82%CC%81t%20ye%CC%82%CC%81%204ee9860aa63140e383b36271bb1dc7ab Nutrients_of_the_Body.jpg]]
 
 Trong những bài tiếp theo, tôi và bạn sẽ xoay quanh 6 nhóm chất thiết yếu này!
 
 Nguồn tham khảo:
 
 1. The science of nutrition textbook
-
-2.
-
-[[www.vitamins-nutrition.org/vitamins/vitamins-give-energy.html]]
+2. www.vitamins-nutrition.org/vitamins/vitamins-give-energy.html
 
 Measure
 

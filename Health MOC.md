@@ -6,17 +6,13 @@ tags: #MOC
 # Health MOC
 This is for areas of physical health, wellness, training, and exercise.
 
-[[Breathing Exercises MOC]] | [[Hormesis MOC]] | [[Posture MOC]]
-
-#on/health/diet
-#on/health/workout
-#on/health/movements
-#on/health/training
-#on/health/nutrition
-#my/medical
+[[Hệ miễn dịch]]
+[[Huyết tương MOC]]
+[[Neuron]]
+[[Hormone]]
 
 ### Nutrition
-* [[Nutrition MOC]] »» [[Vitamins MOC]]
+* [[Nutrition MOC]]
 
 ### Physical Training
 - [[~004 Physical Training]] - Anything exercise-related, but no workouts 
@@ -24,6 +20,6 @@ This is for areas of physical health, wellness, training, and exercise.
 - [[Injury Tracker MOC]] - Tracking injuries and ailments over time
 - Body Quirks Tracker
 
-### Medical and Health Metrics
-- [[Medical MOC]] - For more private and personal health information
-	- Any blood test results: fasting glucose, cholesterol, vitamin d, etc
+### Các loại bệnh tật
+- [[Cảm cúm]]
+- [[Đại dịch COVID-19 MOC]]

@@ -7,7 +7,7 @@
 	- source: 
 
 ## Notes
-Vaccine virus bất hoạt là loại vaccine chính những virus gây bệnh để sản xuất vaccine. Tuy nhiên, những virus này được nuôi cấy và bị bất hoạt bởi các yếu tố như nhiệt độ hoặc hóa chất. 
+Vaccine virus bất hoạt là loại [[Vaccine]] chính những [[Virus]] gây bệnh để sản xuất vaccine. Tuy nhiên, những virus này được nuôi cấy và bị bất hoạt bởi các yếu tố như nhiệt độ hoặc hóa chất. 
 Các virus bị bất hoạt không còn khả năng gây bệnh và sinh sản. Tuy nhiên, nó vẫn mang thông tin của virus gây bệnh, giúp cơ thể tạo ra miễn dịch.
 
 ## Questions & thoughts:

@@ -1,4 +1,4 @@
-# @ tamlyhoctoipham.com, Ươm giống một nơron, vun trồng một bộ não
+# @ tamlyhoctoipham, Ươm giống một nơron, vun trồng một bộ não
 
 Author: Nguyễn Phương Mai
 URL: https://tamlyhoctoipham.com/uom-giong-mot-noron-vun-trong-mot-bo-nao
@@ -33,7 +33,7 @@ Tuy nhiên, chúng ta vẫn còn một niềm hi vọng lớn. Dù 100 tỉ nơr
 
 Vùng đồi hải mã có vai trò tối quan trọng trong việc giúp con người ghi nhớ, học hành và điều khiển cảm xúc. Theo ước tính, mỗi ngày một người khỏe mạnh có thể sản sinh ra 700 nơron mới ở khu vực này.
 
-[[Vùng đồi hải mã tạo ra khoảng 700 nơron mỗi ngày]] 
+[[Vùng đồi hải mã tạo ra khoảng 700 Neuron mỗi ngày]] 
 
 Tức là chỉ trong vòng vài chục năm, chúng ta hoàn toàn có thể có một vùng đồi hải mã mới. Hãy so sánh với bộ nhớ của một chiếc máy tính hằng ngày hằng giờ được cập nhật và một bộ nhớ chạy cả đời không bảo hành sửa chữa, chúng ta sẽ hiểu tầm quan trọng của 700 nơron mới mỗi ngày.
 

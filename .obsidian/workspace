@@ -4,89 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "abd87d80a363959d",
+        "id": "a172eea5a3e9f370",
         "type": "leaf",
         "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "@ wiki, Benjamin Franklin.md",
+            "file": "4 nhóm chất dinh dưỡng thiết yếu.md",
             "mode": "source"
           },
           "pinned": true
         },
-        "group": "fe14d11d4e89f5d0"
+        "group": "06ba211d52ab5263"
       },
       {
-        "id": "7af328d6351c6ec2",
+        "id": "6df8ad4e0539edbb",
         "type": "leaf",
         "pinned": true,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "@ wiki, Benjamin Franklin.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 4,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": true,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": false,
-              "showArrow": false,
-              "textFadeMultiplier": -3,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": false,
-              "centerStrength": 0,
-              "repelStrength": 10,
-              "linkStrength": 0.691011235955056,
-              "linkDistance": 250,
-              "scale": 0.13168724279835683,
-              "close": true
-            }
-          },
-          "pinned": true
-        },
-        "group": "fe14d11d4e89f5d0"
-      },
-      {
-        "id": "a8d043c14a6128a8",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
-        "id": "488c901cc442ac56",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Deliberate Practice.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "3d763aa542a3d293",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
-          "state": {
+            "file": "4 nhóm chất dinh dưỡng thiết yếu.md",
             "options": {
               "collapse-filter": false,
               "search": "",
-              "localJumps": 4,
+              "localJumps": 3,
               "localBacklinks": true,
               "localForelinks": true,
-              "localInterlinks": true,
+              "localInterlinks": false,
               "showTags": false,
               "showAttachments": false,
               "hideUnresolved": false,
@@ -94,17 +39,40 @@
               "colorGroups": [],
               "collapse-display": false,
               "showArrow": false,
-              "textFadeMultiplier": -3,
+              "textFadeMultiplier": -1.9,
               "nodeSizeMultiplier": 1,
               "lineSizeMultiplier": 1,
               "collapse-forces": false,
-              "centerStrength": 0,
+              "centerStrength": 0.0561797752808989,
               "repelStrength": 10,
-              "linkStrength": 0.691011235955056,
+              "linkStrength": 0.775280898876405,
               "linkDistance": 250,
-              "scale": 0.36288736930122123,
+              "scale": 0.09392927902846998,
               "close": false
             }
+          },
+          "pinned": true
+        },
+        "group": "06ba211d52ab5263"
+      },
+      {
+        "id": "d9c6560ae66fff3d",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "graph",
+          "state": {},
+          "pinned": true
+        }
+      },
+      {
+        "id": "6847046bdcbe0711",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vaccine virus bất hoạt.md",
+            "mode": "source"
           }
         }
       }
@@ -184,6 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Vaccine virus bất hoạt.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -232,7 +201,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Vaccine virus bất hoạt.md"
+              }
             }
           },
           {
@@ -249,6 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vaccine virus bất hoạt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,6 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vaccine virus bất hoạt.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -290,20 +263,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305,
-    "collapsed": true
+    "width": 305
   },
-  "active": "a8d043c14a6128a8",
+  "active": "6847046bdcbe0711",
   "lastOpenFiles": [
-    "@ wiki, Benjamin Franklin.md",
-    "Deliberate Practice.md",
-    "Anders Ericsson.md",
-    "Ba nguyên tắc áp dụng Deliberate practice mà không có người giám sát.md",
-    "Luyện tập có chủ đích.md",
-    "So sánh các khái niệm Naive, Purposeful và Deliberate Pracitce.md",
-    "Benjamin Franklin.md",
-    "Nhóm lập quốc Hoa Kỳ.md",
-    "Các đời tổng thống Hoa Kỳ.md",
-    "Harry S. Truman.md"
+    "Vaccine virus bất hoạt.md",
+    "Cảm cúm do virus gây ra.md",
+    "Andenovirus.md",
+    "Reference Box/Articles/@ tamlyhoctoipham com, Ươm giống một nơron,/Untitled Database.md",
+    "https is muni cz th uwa3f diplomka pdf.md",
+    "Internet có đầy đủ các hướng dẫn về các kỹ năng nhưng lại thiếu cách để kiểm tra chất lượng.md",
+    "@%20mrquangchanh,%206%20nho%CC%81m%20dinh%20du%CC%9Bo%CC%9B%CC%83ng%20thie%CC%82%CC%81t%20ye%CC%82%CC%81%204ee9860aa63140e383b36271bb1dc7ab Nutrients_of_the_Body.jpg.md",
+    "Untitled.md",
+    "Flow---Trạng-thái-dòng-chảy.md",
+    "Thực hành có chủ ý không chỉ đòi hỏi làm theo hương dẫn mà còn tập trung vào mục tiêu và tự điều chỉnh.md"
   ]
 }
