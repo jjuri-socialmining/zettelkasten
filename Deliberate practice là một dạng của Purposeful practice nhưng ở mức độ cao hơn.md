@@ -1,4 +1,4 @@
-# Deliberate practice là một dạng của Purposefule practice nhưng ở mức độ cao hơn
+# Deliberate practice là một dạng của Purposeful practice nhưng ở mức độ cao hơn
 
 - metadata
 	- UID: P-210808-2245
@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[Deliberate practice]] là một dạng của [[Purposefule practice]] nhưng ở mức độ cao hơn.
+[[Deliberate practice]] là một dạng của [[Purposeful practice]] nhưng ở mức độ cao hơn.
 
 ## Questions & thoughts:
 

@@ -13,6 +13,6 @@ Anders Erricson người đã sáng lập ra [[Deliberate Practice]] hay còn g�
 ## Related:
 ```dataview
 list
-from [[Anders Erricson]]
+from [[Anders Ericsson]]
 sort file.name asc
 ```
