@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a172eea5a3e9f370",
+        "id": "d46ef67049121ae4",
         "type": "leaf",
         "pinned": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "4 nhóm chất dinh dưỡng thiết yếu.md",
-            "mode": "source"
-          },
+          "type": "graph",
+          "state": {},
           "pinned": true
         }
       }
@@ -41,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Deliberate Practice by",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -58,13 +55,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 263,
-    "collapsed": true
+    "width": 263
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -92,7 +87,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4 nhóm chất dinh dưỡng thiết yếu.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -141,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "4 nhóm chất dinh dưỡng thiết yếu.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 nhóm chất dinh dưỡng thiết yếu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +171,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 nhóm chất dinh dưỡng thiết yếu.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -195,19 +185,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305
+    "width": 305,
+    "collapsed": true
   },
-  "active": "a172eea5a3e9f370",
+  "active": "d46ef67049121ae4",
   "lastOpenFiles": [
-    "4 nhóm chất dinh dưỡng thiết yếu.md",
-    "Vaccine virus bất hoạt.md",
-    "Cảm cúm do virus gây ra.md",
-    "Andenovirus.md",
-    "Reference Box/Articles/@ tamlyhoctoipham com, Ươm giống một nơron,/Untitled Database.md",
-    "https is muni cz th uwa3f diplomka pdf.md",
-    "Internet có đầy đủ các hướng dẫn về các kỹ năng nhưng lại thiếu cách để kiểm tra chất lượng.md",
-    "@%20mrquangchanh,%206%20nho%CC%81m%20dinh%20du%CC%9Bo%CC%9B%CC%83ng%20thie%CC%82%CC%81t%20ye%CC%82%CC%81%204ee9860aa63140e383b36271bb1dc7ab Nutrients_of_the_Body.jpg.md",
-    "Untitled.md",
-    "Flow---Trạng-thái-dòng-chảy.md"
+    "Reference Box/20201023_0132.md",
+    "Reference Box/@ Ryan Holiday, Ego is Enemy.md",
+    "Reference Box/20201023_0126.md",
+    "Reference Box/201023_0111.md",
+    "Reference Box/201019_2300.md",
+    "Frank Shamrock.md",
+    "Reference Box/201025_Ego_12.md",
+    "Reference Box/201025_Ego_10.md",
+    "Các đời tổng thống Hoa Kỳ.md",
+    "Harry S Truman được nhắc đến trong Ông già trăm tuổi trèo qua cửa sổ.md"
   ]
 }
