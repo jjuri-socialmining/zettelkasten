@@ -7,6 +7,7 @@
 
 ## Notes
 [[MOC - Map Of Content|MOC]] Note trong [[LYT System]] là một dạng của [[Structure Note]] trong [[~Zettelkasten]]
+
 ## Questions & thoughts:
 - Tìm hiểu Structure note, Hub note trong phương pháp Zettelkasten
 

@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Khi ở Bethlehem, [[Thánh Jerome]] chú tâm nghiên cứu [[Kinh thánh]].
+Khi ở [[Bethlehem]], [[Thánh Jerome]] chú tâm nghiên cứu [[Kinh thánh]].
 
 ## Questions & thoughts:
 

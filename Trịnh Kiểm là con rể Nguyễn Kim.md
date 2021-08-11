@@ -7,7 +7,7 @@
 	- source: 
 
 ## Notes
-Khi [[Nguyễn Kim]] chiêu mộ quân đội phù tá nhà Lê, [[Trịnh Kiểm]] quyết định gia nhập. Cậu là người có tài và được Nguyễn Kim để ý đến, Nguyễn Kim đươc phong chức và được Nguyễn Kim gả con gái tên là [[Nguyễn Thị Bảo Ngọc]]
+Khi [[Nguyễn Kim]] chiêu mộ quân đội phù tá nhà Lê, [[Trịnh Kiểm]] quyết định gia nhập. Cậu là người có tài và được Nguyễn Kim để ý đến, Trịnh Kiểm được phong chức và được Nguyễn Kim gả con gái tên là [[Nguyễn Thị Bảo Ngọc]]
 
 ## Questions & thoughts:
 

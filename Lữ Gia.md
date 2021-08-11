@@ -9,7 +9,7 @@
 
 
 ## Questions & thoughts:
-
+- [ ] Một nhân vật lịch sử dưới thời [[~Nhà Triệu]]
 ## Related:
 ```dataview
 list

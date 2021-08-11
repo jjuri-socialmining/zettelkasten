@@ -6,7 +6,7 @@
 	- source: [[@ wiki, Lịch sử Việt Nam]]
 
 ## Notes
-5-1954, Pháp thất bại trọng [[Trận Điện Biên Phủ]], Hiệp định Geneve được ký kết và chiến tranh ở Việt Nam kết thúc.
+5-1954, Pháp thất bại trọng [[Trận Điện Biên Phủ]], [[Hiệp định Geneve 1954]] được ký kết và chiến tranh ở Việt Nam kết thúc.
 
 ## Questions & thoughts:
 

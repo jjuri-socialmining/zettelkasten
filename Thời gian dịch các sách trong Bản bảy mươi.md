@@ -2,7 +2,7 @@
 
 - metadata
 	- UID: P-210731-1633
-	- tags: #created/2021/Jul/31, #permanent/fact 
+- tags: #created/2021/Jul/31, #permanent/fact 
 	- source: 
 
 ## Notes
