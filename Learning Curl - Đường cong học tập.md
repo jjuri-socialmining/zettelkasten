@@ -14,3 +14,5 @@ Ví dụ theo đồ thị:
 - Với lần học đầu tiên, bạn quên 50% kiến thức chỉ trong 10 phút đầu
 - Với lần ôn tập 24 tiếng sau khi học, bạn quên 50% kiến thức sau 1-2 tuần
 - Mỗi lần ôn tập cách quãng hợp lý, bạn sẽ càng giãn cách thời gian ôn tập lần tới.
+
+[[Spaced Repetition]]

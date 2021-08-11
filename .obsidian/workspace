@@ -4,201 +4,124 @@
     "type": "split",
     "children": [
       {
-        "id": "d46ef67049121ae4",
+        "id": "90548ed00ab4066d",
         "type": "leaf",
-        "pinned": true,
         "state": {
-          "type": "graph",
-          "state": {},
-          "pinned": true
+          "type": "markdown",
+          "state": {
+            "file": "Cong-dong-Epheso-Giao-thuyet-Nestorius.md",
+            "mode": "source"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "440b3841429709ed",
-    "type": "split",
+    "id": "f3a1c26323677e42",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "b208c03cadd231ee",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dddbab8b18fd423a",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "77966b04a7f238ed",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": true,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "50a064198c878664",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 263
-  },
-  "right": {
-    "id": "7a43a6c530e72e44",
-    "type": "split",
-    "children": [
-      {
-        "id": "ea89fdbc5439f479",
-        "type": "tabs",
-        "dimension": 52.248803827751196,
-        "children": [
-          {
-            "id": "4f6e4ddebde66a86",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "alphabetical",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "4fd5ddab0d74cf4f",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 3,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": true,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#MOC",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16711680
-                      }
-                    },
-                    {
-                      "query": "",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14069084
-                      }
-                    }
-                  ],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": -2,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.435294117647059,
-                  "repelStrength": 10.4273504273504,
-                  "linkStrength": 0.47008547008547,
-                  "linkDistance": 114,
-                  "scale": 0.4211915232059994,
-                  "close": true
-                }
-              }
-            }
-          },
-          {
-            "id": "90d026528dc7103b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "bc23dcb1ab32bde2",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "ee149ef05ba02108",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 4
+        "id": "7a315d55d1725d3d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
       },
       {
-        "id": "55512af75108e012",
-        "type": "tabs",
-        "dimension": 47.751196172248804,
-        "children": [
-          {
-            "id": "d535bd36dbc98e0b",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": true,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": true,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "51aa060484fcb895",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "412deeabb103a6bc",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "4a8d76f8ada0c129",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 305,
-    "collapsed": true
+    "currentTab": 0
   },
-  "active": "d46ef67049121ae4",
+  "right": {
+    "id": "f0e99d05e1b1a1fd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ea048c385fb5d033",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Cong-dong-Epheso-Giao-thuyet-Nestorius.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "db786e59b37d151a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Cong-dong-Epheso-Giao-thuyet-Nestorius.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "78b5b8626282f62b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Cong-dong-Epheso-Giao-thuyet-Nestorius.md"
+          }
+        }
+      }
+    ]
+  },
+  "active": "90548ed00ab4066d",
   "lastOpenFiles": [
-    "Reference Box/20201023_0132.md",
-    "Reference Box/@ Ryan Holiday, Ego is Enemy.md",
-    "Reference Box/20201023_0126.md",
-    "Reference Box/201023_0111.md",
-    "Reference Box/201019_2300.md",
-    "Frank Shamrock.md",
-    "Reference Box/201025_Ego_12.md",
-    "Reference Box/201025_Ego_10.md",
-    "Các đời tổng thống Hoa Kỳ.md",
-    "Harry S Truman được nhắc đến trong Ông già trăm tuổi trèo qua cửa sổ.md"
+    "Cong-dong-Epheso-Giao-thuyet-Nestorius.md",
+    "Tòa án dị giáo Rôma.md",
+    "Thí nghiệm Kathleen Vohs.md",
+    "Reference Box/tarothuyenbi.info, Carl Jung và Tarot.md",
+    "Learning Curl - Đường cong học tập.md",
+    "! Benjamin Franklin không phải tổng thống Mỹ.md",
+    "! Không nên gọi là Cựu Ước để nói về Tanakh với tín hữu Do thái giáo.md",
+    "Reference Box/0-LearnHowToLearn_Qo_4.md",
+    "Ứng dụng tăng tốc độ đọc P-201124-2332.md",
+    "1. The Power of Purposeful Practice.md"
   ]
 }

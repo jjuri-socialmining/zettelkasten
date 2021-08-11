@@ -10,7 +10,7 @@
 
 ## Abstract
 
-Tiểu dẫn:  Bài này có một phần được dịch từ trang nhà của Mary.K.Greer tập trung chủ yếu về các trích dẫn của Jung liên quan đến Tarot, c...
+Tiểu dẫn:  Bài này có một phần được dịch từ trang nhà của Mary.K.Greer tập trung chủ yếu về các trích dẫn của [[Carl Jung]] liên quan đến Tarot, c...
 
 
 ##  Zotero links

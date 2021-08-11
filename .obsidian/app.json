@@ -58,5 +58,23 @@
   "readableLineLength": true,
   "tabSize": 4,
   "communityPluginSortOrder": "download",
-  "emacsyKeys": true
+  "emacsyKeys": true,
+  "mobileToolbarCommands": [
+    "editor:insert-wikilink",
+    "editor:insert-tag",
+    "editor:attach-file",
+    "editor:set-heading",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:undo",
+    "editor:redo",
+    "editor:toggle-keyboard",
+    "editor:configure-toolbar",
+    "editor:focus"
+  ]
 }
