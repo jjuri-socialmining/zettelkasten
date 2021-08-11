@@ -32,7 +32,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reference Box/201231_HCS_02.md",
+            "file": "Reference Box/201019_2300.md",
             "mode": "source"
           }
         }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference Box/201231_HCS_02.md",
+                "file": "~ Sách đã đọc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference Box/201231_HCS_02.md",
+                "file": "~ Sách đã đọc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,28 +153,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference Box/201231_HCS_02.md"
+                "file": "~ Sách đã đọc.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "f3168124c176eeb2",
+  "active": "b56d6518225b4f3a",
   "lastOpenFiles": [
+    "~ Sách đã đọc.md",
+    "Người Duy Ngô Nhĩ.md",
+    "Reference Box/201019_2300.md",
     "Reference Box/201231_HCS_02.md",
     "CI - Continuous Integration.md",
     "CD - Continuous Delivery.md",
     "Tri thức Siêu Nghiệm.md",
     "Gandhi được thành viên Thần Trí học khuyên đọc Chí tôn ca.md",
     "Bảo Đại.md",
-    "Bungee Jump.md",
-    "Reference Box/@ Bùi Đức Sinh O.P, Lịch sử Giáo Hội Công Giáo.md",
-    "Pháp thành lập Quốc gia Việt Nam thể cùng đánh Việt Minh.md",
-    "Thánh Jerome thông thạo nhiều ngoại ngữ.md"
+    "Bungee Jump.md"
   ]
 }
