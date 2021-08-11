@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Sử dụng [[Obsidian Dataview plugin]] trong Obsidian để liệt kê [[Backlink]] ở cuối file. Có thể dùng để làm template cho đồng bộ
+Sử dụng [[Obsidian Dataview plugin]] trong [[Obsidian]] để liệt kê [[Backlink]] ở cuối file. Có thể dùng để làm template cho đồng bộ
 
 ## Questions & thoughts:
 

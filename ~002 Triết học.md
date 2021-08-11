@@ -13,6 +13,7 @@
 - [[Friedrich Nietzsche|Friedrich Wilhelm Nietzsche]]
 
 ### Chronological 
+[[Immanuel Kant]]
 
 **6th Century BC **
 - 571 - 471 BC - [[Lão Tử]]

@@ -16,10 +16,11 @@
 [[~Zettelkasten]]
 [[Incremental Reading]]
 [[Cung điện ký ức]]
-
+[[Phương pháp con vịt cao su]]
+[[Kỹ thuật học tập Feymann]]
 
 [[Dopamine detox]]
-[[Digital Minimalism]]
+[[@ Cal Newport, Digital Minimalism]]
 ## Related:
 ```dataview
 list

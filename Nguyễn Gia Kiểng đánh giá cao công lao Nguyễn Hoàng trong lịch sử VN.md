@@ -7,7 +7,7 @@
 	- source: 
 
 ## Notes
-Nguyễn Hoàng có công khai hóa miền nam việt nam. Trong quyển [[Nguyễn Gia Kiểng, Tổ Quốc ăn ăn]] có đánh giá công của [[Nguyễn Hoàng]] rất lớn.
+Nguyễn Hoàng có công khai hóa miền nam việt nam. Trong quyển [[@ Nguyễn Gia Kiểng, Tổ Quốc ăn ăn]] có đánh giá công của [[Nguyễn Hoàng]] rất lớn.
 
 ## Questions & thoughts:
 

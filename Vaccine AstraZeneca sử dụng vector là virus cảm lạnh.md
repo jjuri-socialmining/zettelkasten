@@ -7,6 +7,6 @@
 	- source: 
 
 ## Notes
-[[Vaccine AstraZeneca]] sử dụng vector là virus cảm lạnh có ở loài tinh tinh [[Andenovirus]].
+[[Vaccine AstraZeneca]] sử dụng vector là [[Virus]] cảm lạnh có ở loài tinh tinh [[Andenovirus]].
 ## Questions & thoughts:
 

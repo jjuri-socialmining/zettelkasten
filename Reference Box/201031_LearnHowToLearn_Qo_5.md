@@ -1,6 +1,6 @@
 # 201031_LearnHowToLearn_Qo_5
 
-Book: Học Cách Học
+Book: [[@ Barbara Oakley, Learn how to learn]]
 Created: Oct 31, 2020
 Page: 226
 Tag: #Note

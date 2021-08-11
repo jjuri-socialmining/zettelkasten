@@ -6,7 +6,7 @@
 	- source: [[@ wiki, Bảo Đại]]
 
 ## Notes
-[[Hồ Chí Minh]] nhiều lần cử người qua thuyết phục [[Bảo Đại|Vĩnh Thụy]] về nước nhưng đều thất bại. Ít lâu sau, ông gửi thư xin từ chức cố vấn tối cao.
+[[Hồ Chí Minh]] nhiều lần cử người qua thuyết phục [[Bảo Đại|Vĩnh Thụy]] về nước nhưng đều thất bại. Ít lâu sau, [[Bảo Đại]] gửi thư xin từ chức cố vấn tối cao.
 
 ## Questions & thoughts:
 

@@ -18,6 +18,8 @@
 [[Nhà Đường]]
 [[Tây Thục]]
 [[Đông Ngô]]
+[[Nhà Thanh]]
+[[Thái Bình Thiên Quốc]]
 
 ## Các tướng lĩnh, nhân vật lịch sử
 ### Liên quan tới Lịch sử Việt Nam

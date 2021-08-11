@@ -1,4 +1,4 @@
-# 026 Tri thức Hậu Nghiệm
+#  Tri thức Hậu Nghiệm
 
 created: Nov 05, 2020 9:13 PM
 tags: #created/2020/Nov/05

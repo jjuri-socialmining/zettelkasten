@@ -5,4 +5,4 @@ tags: #created/2020/Nov/07
 Description: Hiệu ứng coolidge
 source: #TODO
 
-P.140 sáu tỉ đường hạnh phúc.
+P.140 [[@ Stefan Klein, Sáu Tỉ Đường Đến Hạnh]].

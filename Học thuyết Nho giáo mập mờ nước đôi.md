@@ -10,6 +10,6 @@
 Họ[[~Nho Giáo]]ho giáo]] mập mờ nước đôi trong việc trật tự của chế độ phong kiến.[^1]
 
 ## Questions & thoughts:
-- Một số nhận xét tương đồng trong [[Nguyễn Gia Kiểng, Tổ Quốc ăn ăn]] của [[Nguyễn Gia Kiểng]]
+- Một số nhận xét tương đồng trong [[@ Nguyễn Gia Kiểng, Tổ Quốc ăn ăn]] của [[Nguyễn Gia Kiểng]]
 
 [^1]:[[Lịch sử Việt Nam từ nguồn gốc đến giữa thế kỷ XX#p 109]]

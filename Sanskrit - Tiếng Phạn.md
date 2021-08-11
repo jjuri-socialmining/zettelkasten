@@ -7,7 +7,7 @@
 
 ## Notes
 
-**Ngôn ngữ Sankrit** là ngôn ngữ bắt nguồn từ [[Người Aryan]] [^1] khi những người này di chuyển từ Iran xuống vùng Bắc Ấn. Tiền thân của tiếng Hindi, ngôn ngữ Ấn Độ sử dụng hiện nay
+**Ngôn ngữ Sankrit** là ngôn ngữ bắt nguồn từ [[Người Aryan]] [^1] khi những người này di chuyển từ Iran xuống vùng Bắc Ấn. Tiền thân của [[Tiếng Hindi]], ngôn ngữ [[Ấn Độ]] sử dụng hiện nay
 
 ## Questions & thoughts:
 

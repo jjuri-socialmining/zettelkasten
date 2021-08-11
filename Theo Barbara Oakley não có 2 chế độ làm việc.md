@@ -2,7 +2,7 @@
 
 Property: August 4, 2021 10:04 PM
 
-Trong quyển [[Learn how to learn - Barbara Oakley]], Barbara Oakley chỉ ra rằng não có 2 chế độ làm việc:
+Trong quyển [[@ Barbara Oakley, Learn how to learn]], Barbara Oakley chỉ ra rằng não có 2 chế độ làm việc:
 
 - [[Chế độ tập trung]]
 - [[Chế độ phân tán]]

@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Nhóm lập quốc Hoa Kỳ là một nhóm người đã có công lãnh đạo 13 thuộc địa của Anh trong cuộc Cách mạng Mỹ chống lại Anh. Nhóm lập quốc Hoa Kỳ bao gồm 7 thành viên chủ chốt:
+Nhóm lập quốc Hoa Kỳ là một nhóm người đã có công lãnh đạo [[13 thuộc địa của Anh]] trong cuộc [[Cách mạng Mỹ]] chống lại Anh. Nhóm lập quốc [[Hoa Kỳ]] bao gồm 7 thành viên chủ chốt:
 - John Adams
 - [[Benjamin Franklin]]
 - [[Alexander Hamilton]]

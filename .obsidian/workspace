@@ -4,124 +4,177 @@
     "type": "split",
     "children": [
       {
+        "id": "b56d6518225b4f3a",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "~ Sách đã đọc.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
         "id": "90548ed00ab4066d",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "graph",
+          "state": {},
+          "pinned": true
+        }
+      },
+      {
+        "id": "f3168124c176eeb2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cong-dong-Epheso-Giao-thuyet-Nestorius.md",
+            "file": "Reference Box/201231_HCS_02.md",
             "mode": "source"
           }
+        }
+      },
+      {
+        "id": "0eb1c48e0338bed7",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Người Duy Ngô Nhĩ.md",
+            "mode": "source"
+          },
+          "pinned": true
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f3a1c26323677e42",
-    "type": "mobile-drawer",
+    "id": "b4903b9fb25a3dc0",
+    "type": "split",
     "children": [
       {
-        "id": "7a315d55d1725d3d",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "51aa060484fcb895",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "a1621622b4da29b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2c5396c7448058b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "963fa73c6b9b5154",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": " take smart notes",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f803a84cad41b79c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "412deeabb103a6bc",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "4a8d76f8ada0c129",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "f0e99d05e1b1a1fd",
-    "type": "mobile-drawer",
+    "id": "7ad004a913c002d5",
+    "type": "split",
     "children": [
       {
-        "id": "ea048c385fb5d033",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Cong-dong-Epheso-Giao-thuyet-Nestorius.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "de477eb0ba9541a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8117ea0348458f4a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reference Box/201231_HCS_02.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "459edaecd4d10f28",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Reference Box/201231_HCS_02.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f519cb15d4f7744",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "19bae82c296416a8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Reference Box/201231_HCS_02.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "db786e59b37d151a",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "Cong-dong-Epheso-Giao-thuyet-Nestorius.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "78b5b8626282f62b",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "Cong-dong-Epheso-Giao-thuyet-Nestorius.md"
-          }
-        }
+        ]
       }
-    ]
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
-  "active": "90548ed00ab4066d",
+  "active": "f3168124c176eeb2",
   "lastOpenFiles": [
-    "Cong-dong-Epheso-Giao-thuyet-Nestorius.md",
-    "Tòa án dị giáo Rôma.md",
-    "Thí nghiệm Kathleen Vohs.md",
-    "Reference Box/tarothuyenbi.info, Carl Jung và Tarot.md",
-    "Learning Curl - Đường cong học tập.md",
-    "! Benjamin Franklin không phải tổng thống Mỹ.md",
-    "! Không nên gọi là Cựu Ước để nói về Tanakh với tín hữu Do thái giáo.md",
-    "Reference Box/0-LearnHowToLearn_Qo_4.md",
-    "Ứng dụng tăng tốc độ đọc P-201124-2332.md",
-    "1. The Power of Purposeful Practice.md"
+    "Reference Box/201231_HCS_02.md",
+    "CI - Continuous Integration.md",
+    "CD - Continuous Delivery.md",
+    "Tri thức Siêu Nghiệm.md",
+    "Gandhi được thành viên Thần Trí học khuyên đọc Chí tôn ca.md",
+    "Bảo Đại.md",
+    "Bungee Jump.md",
+    "Reference Box/@ Bùi Đức Sinh O.P, Lịch sử Giáo Hội Công Giáo.md",
+    "Pháp thành lập Quốc gia Việt Nam thể cùng đánh Việt Minh.md",
+    "Thánh Jerome thông thạo nhiều ngoại ngữ.md"
   ]
 }

@@ -2,4 +2,4 @@
 
 created: Jun 11, 2021 10:49 PM
 tags: #created/2021/Jun/11
-Description: Nguyên mẫu của Jung
+Description: [[Jungian Archetypes - Nguyên mẫu của Jung]]

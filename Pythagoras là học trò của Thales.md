@@ -8,5 +8,6 @@
 
 ## Notes
 [[Pythagoras]] là học trò của [[Thales]]
+
 ## Questions & thoughts:
 

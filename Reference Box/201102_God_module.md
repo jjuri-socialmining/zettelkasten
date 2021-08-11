@@ -5,4 +5,4 @@ tags: #created/2020/Nov/02
 Description: Tìm hiểu định nghĩa God module
 source: #TODO
 
-God Module được nhắc đến trong quyển [[Sáu Tỉ Đường Đến Hạnh]]
+God Module được nhắc đến trong quyển [[@ Stefan Klein, Sáu Tỉ Đường Đến Hạnh]]

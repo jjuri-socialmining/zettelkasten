@@ -10,4 +10,4 @@ Xem thêm
 
 [[201028_mat_mat_1]] 
 
-p.125 sáu tỉ đường hạnh phúc
+p.125 [[@ Stefan Klein, Sáu Tỉ Đường Đến Hạnh]]
