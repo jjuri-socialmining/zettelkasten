@@ -14,12 +14,12 @@
         }
       },
       {
-        "id": "5985044ff926d555",
+        "id": "f3624c5c990440f3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "@ Kim Dung, Lộc Đỉnh Ký.md",
+            "file": "Đại dịch COVID-19 MOC.md",
             "mode": "source"
           }
         }
@@ -87,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Đại dịch COVID-19 MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Đại dịch COVID-19 MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Đại dịch COVID-19 MOC.md"
+              }
             }
           }
         ]
@@ -134,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "90548ed00ab4066d",
+  "active": "f3624c5c990440f3",
   "lastOpenFiles": [
+    "Đại dịch COVID-19 MOC.md",
+    "Hai Hormone tuyến giáp T3, T4 làm tăng BMR.md",
+    "Mỗi người có năng lượng chuyển hóa cơ bản khác nhauMỗi người có năng lượng chuyển hóa cơ bản khác nhau.md",
+    "BMR được cơ thể điều chỉnh theo lượng thức ăn hàng ngày.md",
+    "Nutrition MOC.md",
+    "Carbohydrate.md",
+    "Cơ thể người muốn hấp thụ disacharide hoặc polysacharide, phân tách thành monosacharide.md",
+    "Phân loại carbonhyrate.md",
     "@ Kim Dung, Lộc Đỉnh Ký.md",
-    "Lộc Đỉnh Ký.md",
-    "Tuyết sơn phi hồ.md",
-    "Lý Tự Thành được hư cấu hóa trong các tiểu thuyết Kim Dung.md",
-    "Untitled.md",
-    "Lý Tự Thành.md",
-    "Sự kiện lịch sử từ Nhà minh tới nhà Thanh.md",
-    "Nhà Thanh.md",
-    "Nhà Thanh là triều đại cuối cùng trong lịch sử Trung Quốc.md",
-    "Nhà Minh.md"
+    "Lộc Đỉnh Ký.md"
   ]
 }
