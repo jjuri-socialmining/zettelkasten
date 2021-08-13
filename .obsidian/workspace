@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Đại dịch COVID-19 MOC.md",
+            "file": "Vi khuẩn.md",
             "mode": "source"
           }
         }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Đại dịch COVID-19 MOC.md",
+                "file": "Vi khuẩn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Đại dịch COVID-19 MOC.md",
+                "file": "Vi khuẩn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Đại dịch COVID-19 MOC.md"
+                "file": "Vi khuẩn.md"
               }
             }
           }
@@ -140,6 +140,7 @@
   },
   "active": "f3624c5c990440f3",
   "lastOpenFiles": [
+    "Vi khuẩn.md",
     "Đại dịch COVID-19 MOC.md",
     "Hai Hormone tuyến giáp T3, T4 làm tăng BMR.md",
     "Mỗi người có năng lượng chuyển hóa cơ bản khác nhauMỗi người có năng lượng chuyển hóa cơ bản khác nhau.md",
@@ -148,7 +149,6 @@
     "Carbohydrate.md",
     "Cơ thể người muốn hấp thụ disacharide hoặc polysacharide, phân tách thành monosacharide.md",
     "Phân loại carbonhyrate.md",
-    "@ Kim Dung, Lộc Đỉnh Ký.md",
-    "Lộc Đỉnh Ký.md"
+    "@ Kim Dung, Lộc Đỉnh Ký.md"
   ]
 }
