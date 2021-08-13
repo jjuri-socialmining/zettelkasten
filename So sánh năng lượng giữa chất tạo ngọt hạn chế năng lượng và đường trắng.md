@@ -5,4 +5,4 @@ Notion tags: #notion, #created/2021/Aug/13
 zet type: #permanent/fact
 
 [[1g chất tạo ngọt hạn chế năng lượng cung cấp 2kcal]] 
-[[1g đường trắng cung cấp 4kcal]]
+[[1g đường cát trắng cung cấp 4kcal]]

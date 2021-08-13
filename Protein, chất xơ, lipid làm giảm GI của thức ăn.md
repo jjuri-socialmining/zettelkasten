@@ -3,3 +3,5 @@
 Created: August 13, 2021 6:06 PM
 Notion tags: #notion, #created/2021/Aug/13
 zet type: #permanent/fact
+
+[[Protein]], [[Chất xơ]], [[Lipid]] làm giảm [[Chỉ số GI - Glycemic Index]] của thức ăn

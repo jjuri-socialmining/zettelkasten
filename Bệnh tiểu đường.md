@@ -4,4 +4,11 @@ Created: August 13, 2021 5:07 PM
 Notion tags: #notion, #created/2021/Aug/13
 zet type: #permanet/concept
 
+
 [[Đái tháo đường type 2]]
+[[Insuline]]
+[[Đường huyết]]
+[[Chất tạo ngọt không năng lượng]]
+[[Bột mì nguyên cám]]
+[[Gạo lức]]
+[[Amylose]]

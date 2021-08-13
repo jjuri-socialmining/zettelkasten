@@ -64,7 +64,7 @@ Hình trên là 2 phân tử đường sucrose và lactose, tương ứng với 
 
 [[Liên kết giữa hai phân tử đường đơn trong sucrose là liên kết alpha]] 
 [[Liên kết giữa hai phân tử đường đơn trong lactose là liên kết beta]] 
-[[Cơ thể người chỉ hấp thu monosacharide]] 
+[[Trong các carbohydrate, cơ thể người chỉ hấp thu monosacharide]] 
 [[Cơ thể người muốn hấp thụ disacharide hoặc polysacharide, phân tách thành monosacharide]] 
 [[Để phá vỡ liên kết alpha và beta trong lactose và sucrose, cơ thể người cần enzym chuyên biệt]] 
 

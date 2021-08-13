@@ -1,5 +1,19 @@
 # Đường huyết
 
-Created: August 13, 2021 5:44 PM
-Notion tags: #notion, #created/2021/Aug/13
-zet type: #permanet/concept
+- metadata
+	- UID: P-210813-2340
+	- Notion tags: #notion, #created/2021/Aug/13
+	- zet type: #permanet/concept
+
+## Notes
+
+
+## Questions & thoughts:
+- [ ] [[Glucose]]
+
+## Related:
+```dataview
+list
+from [[Đường huyết]]
+sort file.name asc
+```
