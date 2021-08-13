@@ -2,7 +2,7 @@
   "collapse-filter": false,
   "search": "",
   "showTags": false,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
@@ -18,14 +18,21 @@
       "query": "file:@",
       "color": {
         "a": 1,
-        "rgb": 1630804
+        "rgb": 45854
       }
     },
     {
       "query": "tag:#MOC",
       "color": {
         "a": 1,
-        "rgb": 15317782
+        "rgb": 13085696
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
       }
     }
   ],
@@ -39,6 +46,6 @@
   "repelStrength": 7.88235294117647,
   "linkStrength": 0.529411764705882,
   "linkDistance": 141,
-  "scale": 0.11660891579459005,
+  "scale": 0.16348370567223033,
   "close": false
 }

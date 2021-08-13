@@ -6,7 +6,7 @@ zet type: #permanent/fact
 
 Sự khác nhau giữa [[Amylose]] và [[Amylose pectin]] 
 
-![[Untitled]]
+![[su_khac_nhau.png]]
 
 - [[Amylose]] : không trương nở trong nước nóng, không hóa gel, được hấp thu chậm
 - [[Amylose pectin]] : trương nở, hóa gel, được hấp thu nhanh

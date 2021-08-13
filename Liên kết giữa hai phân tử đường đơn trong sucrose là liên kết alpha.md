@@ -5,4 +5,4 @@ Notion tags: #notion, #created/2021/Aug/12
 
 Liên kết giữa hai phân tử đường đơn trong sucrose là liên kết alpha
 
-![[Untitled]]
+![[sucrose.png]]

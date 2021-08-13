@@ -21,7 +21,7 @@ Thực vật dự trữ glucose không ở dạng đơn thuần mà ở dạng p
 [[Amylose pectin]] 
 [[Tinh bột có hai dạng là amylose và amylose pectin]] 
 
-![[@%20mrquangchanh%20blogspot%20com,%20Carbohydrate%20=%20Glucid%20b268dd46e66b4e9e9f1067f0e7990fbc Chem-005-F07-1-1-1.jpg]]
+![[Chem-005-F07-1-1-1.jpg]]
 
 Amylose: chỉ là một chuỗi các glucose nối với nhau, không có nhánh. Trong khi đó, amylose pectin với cấu trúc có nhánh, chính cấu trúc nhánh này làm tăng diện tích tiếp xúc với dịch tiêu hóa nên amylopectin được hấp thu rất nhanh, làm tốc độ gây tăng đường huyết của nó nhanh hơn so với amylose.
 
@@ -29,7 +29,7 @@ Amylose: chỉ là một chuỗi các glucose nối với nhau, không có nhán
 [[Amylose pectin là chuỗi glucose phân nhánh]] 
 [[Cấu trúc phân nhánh khiến amylose pectin tăng đường huyết nhanh hơn amylose]] 
 
-![[@%20mrquangchanh%20blogspot%20com,%20Carbohydrate%20=%20Glucid%20b268dd46e66b4e9e9f1067f0e7990fbc Slide52.gif]]
+![[Slide52.gif]]
 
 Do sự khác biệt về cấu trúc, đã tạo nên sự khác biệt ở:
 
@@ -52,7 +52,7 @@ Chính vì đặc tính bị hấp thu chậm và ít, nên amylose còn đượ
 
 **2. Glycogen**
 
-![[@%20mrquangchanh%20blogspot%20com,%20Carbohydrate%20=%20Glucid%20b268dd46e66b4e9e9f1067f0e7990fbc zimmerman-fig04_003.jpg]]
+![[zimmerman-fig04_003.jpg]]
 
 Cũng nằm trong gia đình polysacharide, glycogen có cấu tạo giống tinh bột, cũng là sự ghép nối các phân tử đường glucose. Ở thực vật thì có tinh bột để dự trữ glucose, còn ở động vật thì đó là glycogen, bao gồm cả con người. Glycogen được dự trữ ở gan và cơ của các loài động vật. Khi cơ thể đói, glycogen sẽ được chuyển thành đường glucose, tạo năng lượng cho cơ thể hoạt động.
 
@@ -71,7 +71,7 @@ Chúng ta sẽ tìm hiểu sâu hơn về glycogen ở các bài sau.
 
 **3. Chất xơ**
 
-![[@%20mrquangchanh%20blogspot%20com,%20Carbohydrate%20=%20Glucid%20b268dd46e66b4e9e9f1067f0e7990fbc 219_Three_Important_Polysaccharides-01.jpg]]
+![[219_Three_Important_Polysaccharides-01.jpg]]
 
 [[Chất xơ]] 
 [[Fiber]] 
@@ -82,7 +82,7 @@ Hình ảnh phía trên là chất xơ (fiber = cellose), là những phân tử
 [[Cơ thể không có enzym để phá hủy liên kết trong chất xơ]] 
 [[Chất xơ không cung cấp năng lượng]] 
 
-![[@%20mrquangchanh%20blogspot%20com,%20Carbohydrate%20=%20Glucid%20b268dd46e66b4e9e9f1067f0e7990fbc cells-31-638.jpg]]
+![[cells-31-638.jpg]]
 
 [[Chất xơ hòa tan]] 
 [[Chất xơ không hòa tan]] 
@@ -92,7 +92,7 @@ Nếu xét về tính chất vât lý và hóa học, ta chia chất xơ làm 2 
 
 **a. Chất xơ hòa tan**
 
-![[@%20mrquangchanh%20blogspot%20com,%20Carbohydrate%20=%20Glucid%20b268dd46e66b4e9e9f1067f0e7990fbc Soluble-fiber-foods.jpg]]
+![[Soluble-fiber-foods.jpg]]
 
 Nghĩa là có thể bị hòa tan trong nước và tạo thành dạng gel, dễ bị lên men bởi vi khuẩn trong ruột. Chúng được tìm thấy trong các trái họ cam quýt, các loại đậu.
 
@@ -111,7 +111,7 @@ Những nghiên cứu gần đây cho thấy, tiêu thụ nhiều chất xơ hò
 
 **b.Chất xơ không hòa tan**
 
-![[@%20mrquangchanh%20blogspot%20com,%20Carbohydrate%20=%20Glucid%20b268dd46e66b4e9e9f1067f0e7990fbc Insoluble-fiber-foods.jpg]]
+![[Insoluble-fiber-foods.jpg]]
 
 Chúng không bị hòa tan trong nước để tạo nên dạng gel, chúng cũng không bị lên men bởi vi khuẩn trong ruột già. Được tìm thấy trong: lúa mì, gạo lức, gạo huyết rồng, các loại rau cải. Chúng không liên quan tới việc làm giảm cholesterol, nhưng có tác dụng làm tăng nhu động ruột, giảm táo bón...
 

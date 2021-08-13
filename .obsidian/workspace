@@ -14,13 +14,13 @@
         }
       },
       {
-        "id": "f3624c5c990440f3",
+        "id": "1143cccfbbddb602",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vi khuẩn.md",
-            "mode": "source"
+            "file": "Glycemic Load - Chỉ số GL.md",
+            "mode": "preview"
           }
         }
       }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vi khuẩn.md",
+                "file": "Glycemic Load - Chỉ số GL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vi khuẩn.md",
+                "file": "Glycemic Load - Chỉ số GL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vi khuẩn.md"
+                "file": "Glycemic Load - Chỉ số GL.md"
               }
             }
           }
@@ -138,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f3624c5c990440f3",
+  "active": "1143cccfbbddb602",
   "lastOpenFiles": [
-    "Vi khuẩn.md",
-    "Đại dịch COVID-19 MOC.md",
-    "Hai Hormone tuyến giáp T3, T4 làm tăng BMR.md",
-    "Mỗi người có năng lượng chuyển hóa cơ bản khác nhauMỗi người có năng lượng chuyển hóa cơ bản khác nhau.md",
-    "BMR được cơ thể điều chỉnh theo lượng thức ăn hàng ngày.md",
-    "Nutrition MOC.md",
-    "Carbohydrate.md",
-    "Cơ thể người muốn hấp thụ disacharide hoặc polysacharide, phân tách thành monosacharide.md",
-    "Phân loại carbonhyrate.md",
-    "@ Kim Dung, Lộc Đỉnh Ký.md"
+    "Glycemic Load - Chỉ số GL.md",
+    "Liên kết giữa hai phân tử đường đơn tr - 0syysgde03r/Untitled.png",
+    "Liên kết giữa hai phân tử đường đơn trong lactose là liên kết beta.md",
+    "Liên kết giữa hai phân tử đường đơn tr/Untitled.png",
+    "Liên kết giữa hai phân tử đường đơn trong sucrose là liên kết alpha.md",
+    "Mô hình phương pháp Sandbox/Untitled.png",
+    "Mô hình phương pháp Sandbox.md",
+    "Thermic Effect of Food - TEF.md",
+    "Sự khác nhau giữa amylose và amylose pectin/Untitled.png",
+    "Sự khác nhau giữa amylose và amylose pectin.md"
   ]
 }

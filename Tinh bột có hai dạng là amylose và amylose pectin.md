@@ -6,4 +6,4 @@ zet type: #permanet/concept
 
 [[Tinh bột]]  có hai dạng là [[Amylose]] và [[Amylose pectin]] 
 
-![[Untitled]]
+![[amylose_and_pectin.png]]

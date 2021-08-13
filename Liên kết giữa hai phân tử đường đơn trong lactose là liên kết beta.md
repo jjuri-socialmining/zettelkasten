@@ -5,4 +5,4 @@ Notion tags: #notion, #created/2021/Aug/12
 
 Liên kết giữa hai phân tử đường đơn trong [[Lactose]] là liên kết beta
 
-![[Untitled]]
+![[lactose.png]]

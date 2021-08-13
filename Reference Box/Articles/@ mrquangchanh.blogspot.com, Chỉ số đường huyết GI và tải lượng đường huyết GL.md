@@ -31,7 +31,7 @@ Tại vì khi uống nó vào, nó được hấp thu ngay vì glucose là dạn
 [[Insuline]]  
 [[Insuline là chất được tiết ra để giảm đường huyết]] 
 
-![[@%20mrquangchanh%20blogspot%20com,%20Chi%CC%89%20so%CC%82%CC%81%20%C4%91u%CC%9Bo%CC%9B%CC%80ng%20hu%203a7f034e42204c4683b97f37ce481f66 Glycemic-index-1024x543.jpg]]
+![[Glycemic-index-1024x543.jpg]]
 
 [[Maltose có chỉ số GI cao hơn cả glucose]] 
 
@@ -51,7 +51,7 @@ White bread (bánh mì trắng) GI hơi cao! Bạn nghĩ nên chuyển sang bán
 
 Không thể phủ nhận rằng whole wheat (lúa mì còn nguyên chưa xay xát) có nhiều lợi ích vì vẫn còn giữ được chất xơ, vitamin ở lớp vỏ ngoài. Nhưng khi đem chúng tạo nên bánh mì, chúng ta phải nghiền chúng ra và thêm vào cát loại bột nở được tinh chế...Chính việc nghiền và sự hiện diện của các thứ khác đã cho nó một GI như thế.
 
-![[@%20mrquangchanh%20blogspot%20com,%20Chi%CC%89%20so%CC%82%CC%81%20%C4%91u%CC%9Bo%CC%9B%CC%80ng%20hu%203a7f034e42204c4683b97f37ce481f66 4e51c263f955f3f60d5da3d6f51cbaf5.jpg]]
+![[4e51c263f955f3f60d5da3d6f51cbaf5.jpg]]
 
 Khi nói tới bánh mì đen, đừng chỉ nhớ tới lúa mì nguyên cám mà hãy nhớ thêm rằng, nó bị xay ra và còn có thể được cho thêm những thành phần khác.Như thế, để chúng ta không bị ngộ nhận về giá trị dinh dưỡng của nó. Và ăn hay không, là do quyết định của chúng ta.
 
@@ -68,17 +68,17 @@ GL là một chỉ số cho biết đường huyết sẽ tăng BAO NHIÊU (nhi
 
 Tính bằng công thức sau:
 
-![[@%20mrquangchanh%20blogspot%20com,%20Chi%CC%89%20so%CC%82%CC%81%20%C4%91u%CC%9Bo%CC%9B%CC%80ng%20hu%203a7f034e42204c4683b97f37ce481f66 GLformula.gif]]
+![[GLformula.gif]]
 
 Carbohydrate content: lượng carbohydrate có trong thực phẩm đó (ớ 1 khối lượng nhất định.)
 
 @.@ thật khó hiểu phải không?
 
-![[@%20mrquangchanh%20blogspot%20com,%20Chi%CC%89%20so%CC%82%CC%81%20%C4%91u%CC%9Bo%CC%9B%CC%80ng%20hu%203a7f034e42204c4683b97f37ce481f66 combine_images.jpg]]
+![[combine_images.jpg]]
 
 Lấy dưa hấu và chuối làm ví dụ.
 
-![[@%20mrquangchanh%20blogspot%20com,%20Chi%CC%89%20so%CC%82%CC%81%20%C4%91u%CC%9Bo%CC%9B%CC%80ng%20hu%203a7f034e42204c4683b97f37ce481f66 1.jpg]]
+![[GL_GI.jpg]]
 
 Ta thấy GI dưa hấu = 72, GI chuối = 52. Điều này có nghĩa là dưa hấu làm tăng đường huyết nhanh hơn chuối, nhưng vì dưa hấu đa phần là nước, lượng carbohydrate ít hơn chuối nên dù đường huyết có tăng nhanh nhưng tăng không đáng kể . GL dưa hấu = 4;
 
@@ -86,7 +86,7 @@ Trong khi đó, GI chuối thấp hơn, đường huyết sẽ tăng chậm hơn
 
 Chú ý: cả 2 loại trái này cùng được ăn 1 lượng giống nhau 120 gram.
 
-![[@%20mrquangchanh%20blogspot%20com,%20Chi%CC%89%20so%CC%82%CC%81%20%C4%91u%CC%9Bo%CC%9B%CC%80ng%20hu%203a7f034e42204c4683b97f37ce481f66 tE1BAA3ixuE1BB91ng28229.jpg]]
+![[tE1BAA3ixuE1BB91ng28229.jpg]]
 
 Hãy xét carrot với khoai tây.
 
@@ -102,7 +102,7 @@ Nghĩa là khoai tây mặc dù làm tăng đường huyết chậm hơn so vớ
 
 Từ đầu tới giờ, chúng ta cứ nói GI này cao, GL này thấp. Vậy cao thấp dựa vào đâu. Vào đây:
 
-![[@%20mrquangchanh%20blogspot%20com,%20Chi%CC%89%20so%CC%82%CC%81%20%C4%91u%CC%9Bo%CC%9B%CC%80ng%20hu%203a7f034e42204c4683b97f37ce481f66 GL_and_GI-Chart.gif]]
+![[GL_and_GI-Chart.gif]]
 
 Bảng phân loại mức độ của GI và GL
 
