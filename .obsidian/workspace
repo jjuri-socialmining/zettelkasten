@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "@ Kim Dung, Lộc Đỉnh Ký.md",
+            "file": "Writings MOC.md",
             "mode": "source"
           }
         },
@@ -31,7 +31,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "@ Kim Dung, Lộc Đỉnh Ký.md",
+            "file": "Writings MOC.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@ Kim Dung, Lộc Đỉnh Ký.md",
+                "file": "Writings MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@ Kim Dung, Lộc Đỉnh Ký.md",
+                "file": "Writings MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@ Kim Dung, Lộc Đỉnh Ký.md"
+                "file": "Writings MOC.md"
               }
             }
           }
@@ -172,10 +172,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "8e83a09f6f823dd6",
+  "active": "5985044ff926d555",
   "lastOpenFiles": [
+    "Writings MOC.md",
     "@ Kim Dung, Lộc Đỉnh Ký.md",
     "Lộc Đỉnh Ký.md",
     "Tuyết sơn phi hồ.md",
@@ -184,7 +186,6 @@
     "Lý Tự Thành.md",
     "Sự kiện lịch sử từ Nhà minh tới nhà Thanh.md",
     "Nhà Thanh.md",
-    "Nhà Thanh là triều đại cuối cùng trong lịch sử Trung Quốc.md",
-    "Nhà Minh.md"
+    "Nhà Thanh là triều đại cuối cùng trong lịch sử Trung Quốc.md"
   ]
 }
