@@ -15,8 +15,8 @@ Vào năm 1979, một quyển sách ra đời đánh đánh dấu môt bước c
 
 Như ta biết, fructose là một dạng đường đơn như glucose nhưng có chỉ số đường huyết thấp hơn, cụ thể là 15. Với một GI thấp như thế, nó sẽ ít kích thích cơ thể tạo nồng độ insulin quá cao và sẽ tránh được những tác dụng không mong muốn của insulin.
 
-[[~Insuline]]
-[[Thực phẩm GI thấp ít kích thích cơ thể tạo insuline]]
+[[~Insulin]]
+[[Thực phẩm GI thấp ít kích thích cơ thể tạo insulin]]
 [[Fructose là đường đơn như glucose nhưng GI thấp]]
 [[Chỉ số GI của Fructose là 15]]
 

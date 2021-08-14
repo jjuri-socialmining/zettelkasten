@@ -1,4 +1,4 @@
-# Insuline làm tăng tổng hợp cholesterol
+# Insulin làm tăng tổng hợp cholesterol
 
 - metadata
 	- UID: P-210814-1415
@@ -6,13 +6,13 @@
 	- source: 
 
 ## Notes
-[[~Insuline]] làm tăng tổng hợp [[Cholesterol]] trong [[Gan]]
+[[~Insulin]] làm tăng tổng hợp [[Cholesterol]] trong [[Gan]]
 
 ## Questions & thoughts:
 
 ## Related:
 ```dataview
 list
-from [[Insuline làm tăng tổng hợp cholesterol]]
+from [[Insulin làm tăng tổng hợp cholesterol]]
 sort file.name asc
 ```

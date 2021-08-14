@@ -28,8 +28,8 @@ Glucose có tốc độ tăng đường huyết rất nhanh là 100, tức GI 
 
 Tại vì khi uống nó vào, nó được hấp thu ngay vì glucose là dạng cơ bản nhất, nó không cần tốn thời gian để tiêu hóa nữa. Glucose được hấp thu ngay và liền. Nên nó đi vào máu lập tức, làm tăng đường huyết đột ngột, và insuline cũng được cơ thể tiết ra ngay lúc đó để hạ đường huyết xuống.
 
-[[~Insuline]]  
-[[Insuline là chất được tiết ra để giảm đường huyết]] 
+[[~Insulin]]  
+[[Insulin là chất được tiết ra để giảm đường huyết]] 
 
 ![[Glycemic-index-1024x543.jpg]]
 

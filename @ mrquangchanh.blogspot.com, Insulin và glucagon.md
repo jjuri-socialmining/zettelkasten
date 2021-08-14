@@ -7,11 +7,11 @@
 	- source: http://mrquangchanh.blogspot.com/2016/02/16-insulin-va-glucagon.html
 
 ## Summary
-[[~Insuline]]
+[[~Insulin]]
 [[Glucagon]]
-[[Insuline kích hoạt hai quá trình để giảm đường huyết]]
-- [[Insuline đưa glucose vào tế bào để sử dụng năng lượng]]
-- [[Insuline đưa glucose vào tế bào gan để dự trữ năng lượng]]
+[[Insulin kích hoạt hai quá trình để giảm đường huyết]]
+- [[Insulin đưa glucose vào tế bào để sử dụng năng lượng]]
+- [[Insulin đưa glucose vào tế bào gan để dự trữ năng lượng]]
 [[Glucagon là chìa khóa lấy glycogen từ gan đi nuôi cơ thể]]
 [[! Gan là tủ lạnh đặc biệt cần hai chìa khóa]]
 

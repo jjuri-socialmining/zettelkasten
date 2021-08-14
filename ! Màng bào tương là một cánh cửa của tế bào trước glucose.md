@@ -1,4 +1,4 @@
-# ! Màng tương bào là một cánh cửa của tế bào trước glucose
+# ! Màng bào tương là một cánh cửa của tế bào trước glucose
 
 - metadata
 	- UID: P-210814-1352
@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[Màng tương bào]] là một cánh cửa của tế bào trước glucose. Để [[~Glucose]] đi được vào tế bào, phải được màng bào tương cho phép.
+[[Màng bào tương]] là một cánh cửa của tế bào trước glucose. Để [[~Glucose]] đi được vào tế bào, phải được màng bào tương cho phép.
 
 ## Questions & thoughts:
 

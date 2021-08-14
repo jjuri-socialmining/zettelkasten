@@ -1,4 +1,4 @@
-# Insuline làm tăng hấp thụ nước ở thận
+# Insulin làm tăng hấp thụ nước ở thận
 
 - metadata
 	- UID: P-210814-1436
@@ -6,13 +6,13 @@
 	- source: 
 
 ## Notes
-[[~Insuline]] làm tăng hấp thụ nước ở [[Thận]]
+[[~Insulin]] làm tăng hấp thụ nước ở [[Thận]]
 
 ## Questions & thoughts:
 
 ## Related:
 ```dataview
 list
-from [[Insuline làm tăng hấp thụ nước ở thận]]
+from [[Insulin làm tăng hấp thụ nước ở thận]]
 sort file.name asc
 ```

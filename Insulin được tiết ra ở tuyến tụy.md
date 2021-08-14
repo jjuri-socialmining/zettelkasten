@@ -1,4 +1,4 @@
-# Insuline giúp mở màng tương bào của tế bào
+# Insulin được tiết ra ở tuyến tụy
 
 - metadata
 	- UID: P-210814-1408
@@ -6,13 +6,13 @@
 	- source: 
 
 ## Notes
-[[~Insuline]] giúp mở màng tương bào của tế bào
+[[~Insulin]] được tiết ra ở [[Tuyến tụy]]
 
 ## Questions & thoughts:
 
 ## Related:
 ```dataview
 list
-from [[Insuline giúp mở màng bào tương của tế bào]]
+from [[Insulin được tiết ra ở tuyến tụy]]
 sort file.name asc
 ```

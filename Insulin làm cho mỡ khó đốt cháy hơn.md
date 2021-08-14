@@ -1,4 +1,4 @@
-# Insuline làm cho mỡ khó đốt cháy hơn
+# Insulin làm cho mỡ khó đốt cháy hơn
 
 - metadata
 	- UID: P-210814-1409
@@ -6,13 +6,13 @@
 	- source: 
 
 ## Notes
-[[~Insuline]] làm cho mỡ khó đốt cháy hơn
+[[~Insulin]] làm cho mỡ khó đốt cháy hơn
 
 ## Questions & thoughts:
 
 ## Related:
 ```dataview
 list
-from [[Insuline làm cho mỡ khó đốt cháy hơn]]
+from [[Insulin làm cho mỡ khó đốt cháy hơn]]
 sort file.name asc
 ```

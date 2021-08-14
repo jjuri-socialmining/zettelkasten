@@ -1,4 +1,4 @@
-# Insuline là một hormone tăng trưởng
+# Insulin là một hormone tăng trưởng
 
 - metadata
 	- UID: P-210814-1436
@@ -6,13 +6,13 @@
 	- source: 
 
 ## Notes
-[[~Insuline]] là một [[~Hormone]] tăng trưởng
+[[~Insulin]] là một [[~Hormone]] tăng trưởng
 
 ## Questions & thoughts:
 
 ## Related:
 ```dataview
 list
-from [[Insuline là một hormone tăng trưởng]]
+from [[Insulin là một hormone tăng trưởng]]
 sort file.name asc
 ```

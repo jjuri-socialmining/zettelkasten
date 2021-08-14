@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[Insuline làm cơ thành mạch máu dày lên]] khiến tăng huyết áp. Điều này lí giải tạo sao tăng huyết áp là một nguy cơ của xơ vữa động mạch
+[[Insulin làm cơ thành mạch máu dày lên]] khiến tăng huyết áp. Điều này lí giải tạo sao tăng huyết áp là một nguy cơ của xơ vữa động mạch
 
 ## Questions & thoughts:
 

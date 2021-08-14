@@ -1,4 +1,4 @@
-# Insuline
+# Insulin
 
 Created: August 13, 2021 5:44 PM
 Notion tags: #notion, #created/2021/Aug/13

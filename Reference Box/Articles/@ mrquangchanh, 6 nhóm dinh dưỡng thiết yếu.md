@@ -50,7 +50,7 @@ Hiểu nôm na là: nếu bạn ăn 100g lipid và 100g carbohydrate thì 100g l
 
 Ngoài ra, màng bào tương của hàng tỉ tế bào trong cơ thể bạn, cũng là do lipid tạo nên.
 
-[[Màng tương bào của tế bào cấu tạo từ lipid]] 
+[[Màng bào tương của tế bào cấu tạo từ lipid]] 
 
 Điều đó có nghĩa là mỡ, không phải lúc nào cũng đi đôi với bệnh tật, nó là thành phần cấu tạo nên bạn, các hormon (testosterol hormon thể hiện sự menly của chúng ta là do cơ thể tạo ra từ lipid đấy). Chúng ta cần chúng, tất nhiên là ở một mức độ thích hợp.
 
