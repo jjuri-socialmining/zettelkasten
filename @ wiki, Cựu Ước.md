@@ -24,7 +24,7 @@
 - [[Brauch Spinoza cho rằng Moise không phải tác giả Ngũ Kinh]]
 - [[Spinoza khởi xướng việc đọc và phê bình Kinh thánh]]
 ### Tên gọi
-- [[Cựu Ước]]
+- [[~Cựu Ước]]
 - [[Kito Giáo cho rằng Thiên Chúa đã thực hiện hai giao ước với loài người]]
 
 ### Ứng Dụng

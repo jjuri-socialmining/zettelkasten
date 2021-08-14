@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Kinh thánh [[Cựu Ước]] của [[Tin Lành]] thì bao gồm toàn bộ sách [[Tanakh]] của [[Do Thái Giáo]], tuy nhiên có sự khác biệt giữa thứ tự và số lượng. Một số sách cựu ước người Do thái nhập thành một quyển còn Tinh Lành thì không.
+Kinh thánh [[~Cựu Ước]] của [[Tin Lành]] thì bao gồm toàn bộ sách [[Tanakh]] của [[Do Thái Giáo]], tuy nhiên có sự khác biệt giữa thứ tự và số lượng. Một số sách cựu ước người Do thái nhập thành một quyển còn Tinh Lành thì không.
 
 ## Questions & thoughts:
 

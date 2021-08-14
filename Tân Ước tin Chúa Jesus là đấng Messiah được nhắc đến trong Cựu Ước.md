@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[Đức Jesus]] thường được [[Tân Ước]] nhắc đến là [[Đấng Messiah]] được loan báo từ các tiên tri trong [[Cựu Ước]]
+[[Đức Jesus]] thường được [[Tân Ước]] nhắc đến là [[Đấng Messiah]] được loan báo từ các tiên tri trong [[~Cựu Ước]]
 
 ## Questions & thoughts:
 

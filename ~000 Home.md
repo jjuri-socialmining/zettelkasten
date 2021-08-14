@@ -15,7 +15,7 @@ This is your launchpad and homebase. Your personal North Star. That's here. That
 	- 05 - [[Sources MOC]]
 	- 06 - [[People MOC]]
 - Personal Management
-	- 07 - [[Health MOC]]
+	- 07 - [[~Health]]
 	- 08 - [[Goals MOC]]
 	- 09 - [[Projects MOC]]
 	- 10 - [[PKM MOC]]

@@ -7,6 +7,6 @@
 	- previous note:
 
 ## Notes
-[[Phật giáo]] nguyên thủy thì duy lý và vô thần, hướng con người đến việc nhận thức được chân lý 
+[[~Phật Giáo]] nguyên thủy thì duy lý và vô thần, hướng con người đến việc nhận thức được chân lý 
 ## Questions & thoughts:
 

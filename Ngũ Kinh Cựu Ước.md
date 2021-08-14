@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Ngũ kinh [[Cựu Ước]] là năm sách đầu tiên trong cựu ước, tương đương với [[Torah]] của [[Do Thái Giáo]]
+Ngũ kinh [[~Cựu Ước]] là năm sách đầu tiên trong cựu ước, tương đương với [[Torah]] của [[Do Thái Giáo]]
 
 ## Questions & thoughts:
 

@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[Harry S. Truman]] được nhắc đến trong [[Ông già trăm tuổi trèo qua cửa sổ và biến mất]]
+[[Harry S. Truman]] được nhắc đến trong [[@ Jonas Jonasson, Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất]]
 
 ## Questions & thoughts:
 

@@ -9,7 +9,7 @@
 
 ### Kinh thánh
 #### Cựu ước
-- [[Cựu Ước]]
+- [[~Cựu Ước]]
 	- [[Ngũ Kinh Cựu Ước]]
 
 #### Tân ước

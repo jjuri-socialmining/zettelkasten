@@ -7,7 +7,7 @@
 
 ## Notes
 Khi ở Anh, [[Mahatma Gandhi]] giữ chay theo tâm nguyện của mẹ mình, ông không ăn thịt và uống rượu. 
-Không chỉ ăn chay về thể xác, ông còn ăn chay về mặt tinh thần. Ông gia nhập "Hội ăn chay" nơi ông gặp những người thuộc hội [[Thần Trí học]]. Những người này nghiên cứu kinh điển của [[Phật Giáo]] và [[~Ấn Độ giáo]]. [[Gandhi được thành viên Thần Trí học khuyên đọc Chí tôn ca]]. Từ đó, ông bắt đầu nghiên cứu cả những tôn giáo khác.
+Không chỉ ăn chay về thể xác, ông còn ăn chay về mặt tinh thần. Ông gia nhập "Hội ăn chay" nơi ông gặp những người thuộc hội [[Thần Trí học]]. Những người này nghiên cứu kinh điển của [[~Phật Giáo]] và [[~Ấn Độ giáo]]. [[Gandhi được thành viên Thần Trí học khuyên đọc Chí tôn ca]]. Từ đó, ông bắt đầu nghiên cứu cả những tôn giáo khác.
 
 ## Questions & thoughts:
 

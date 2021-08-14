@@ -18,7 +18,7 @@
 
 ## Các chỉ số dinh dưỡng
 Hệ thống [[DRIs]]
-- [[]]
+
 
 ## Related:
 ```dataview

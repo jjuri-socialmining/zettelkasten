@@ -6,6 +6,7 @@ tags: #MOC
 # Health MOC
 This is for areas of physical health, wellness, training, and exercise.
 
+[[Hệ tiêu hóa]]
 [[Hệ miễn dịch]]
 [[Huyết tương MOC]]
 [[Neuron]]
