@@ -1,0 +1,9 @@
+# Chất xơ
+
+Created: August 13, 2021 3:37 PM
+Notion tags: #notion, #created/2021/Aug/13
+zet type: #permanet/concept
+
+Chất sơ hay còn gọi là [[Fiber]] hay [[Cellose]]
+- [[Chất xơ hòa tan]]
+- [[Chất xơ không hòa tan]]

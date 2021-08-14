@@ -9,7 +9,7 @@ This is for areas of physical health, wellness, training, and exercise.
 [[Hệ miễn dịch]]
 [[Huyết tương MOC]]
 [[Neuron]]
-[[Hormone]]
+[[~Hormone]]
 
 ### Nutrition
 * [[Nutrition MOC]]
@@ -23,3 +23,6 @@ This is for areas of physical health, wellness, training, and exercise.
 ### Các loại bệnh tật
 - [[Cảm cúm]]
 - [[Đại dịch COVID-19 MOC]]
+- [[Bệnh tiểu đường]]
+- [[Táo bón]]
+- [[Bệnh tim mạch]]

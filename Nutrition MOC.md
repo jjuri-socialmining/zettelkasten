@@ -7,10 +7,14 @@
 
 ## Note
 [[4 nhóm chất dinh dưỡng thiết yếu]]
-* [[Carbohydrate]]
-* [[Protein MOC]]
+* [[~Carbohydrate]]
+	* [[~Glucose]]
+	* [[Tinh bột]]
+* [[~Protein]]
 * [[Lipid]]
-* [[Vitamins MOC]]
+* [[~Vitamin]]
+
+* [[Chất xơ]]
 
 ## Các chỉ số dinh dưỡng
 Hệ thống [[DRIs]]
