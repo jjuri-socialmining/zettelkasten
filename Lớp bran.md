@@ -1,8 +1,8 @@
-# Hormone
+# Lớp bran
 
 - metadata
-	- UID: P-210810-2144
-	- tags: #created/2021/Aug/10, #permanent/concept 
+	- UID: P-210814-1613
+	- tags: #created/2021/Aug/14, #permanent/concept 
 	- source: 
 
 ## Notes
@@ -14,6 +14,6 @@
 ## Related:
 ```dataview
 list
-from [[Hormone]]
+from [[Lớp bran]]
 sort file.name asc
 ```

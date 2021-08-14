@@ -5,4 +5,4 @@ Notion tags: #notion, #created/2021/Aug/13
 zet type: #permanent/fact
 
 ## Notes
-[[Protein]], [[Chất xơ]], [[Lipid]] ngăn trở sự hấp thu [[Glucose]]
+[[~Protein]], [[Chất xơ]], [[Lipid]] ngăn trở sự hấp thu [[~Glucose]]

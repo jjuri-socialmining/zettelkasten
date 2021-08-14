@@ -36,7 +36,7 @@ Vì tạo năng lượng chỉ có 3 chất này, nên nếu bạn nghe ai nói 
 
 Trong 3 chất trên, carbohydrate là nguồn tạo năng lượng chủ yếu cho cơ thể. Vì thế, trong khâu phần ăn hằng ngày, chúng ta thường ăn nhiều hơn so với lipid (mỡ) và protein (thịt cá)
 
-[[carbohydrate cần nhiều nhất trong khẩu phần ăn hàng ngày]] 
+[[Carbohydrate cần nhiều nhất trong khẩu phần ăn hàng ngày]] 
 
 Carbo: nghĩa là carbon, hydrate là nước. Bạn sẽ dễ dàng nhớ, trong thành phần của nó sẽ có: C, H, O.
 
@@ -44,7 +44,7 @@ Carbo: nghĩa là carbon, hydrate là nước. Bạn sẽ dễ dàng nhớ, tron
 
 Cũng là 1 chất tạo năng lượng quan trọng. Nó không tan trong nước. Đặc điểm đáng lưu ý là: khi cơ thể đốt cháy lipid, nó sẽ tạo ra nhiều năng lượng nhất.
 
-[[Trên cùng một khối lượng, mỡ tạo nhiều năng lượng hơn so với carbonhydrate]] 
+[[Trên cùng một khối lượng, mỡ tạo nhiều năng lượng hơn so với carbohydrate]] 
 
 Hiểu nôm na là: nếu bạn ăn 100g lipid và 100g carbohydrate thì 100g lipid đó sẽ giúp bạn tạo ra nhiều năng lượng để hoạt đông hơn 100g carbohydrate đó.
 

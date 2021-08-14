@@ -6,10 +6,10 @@
 	- tags: #created/2021/Aug/12, #MOC 
 %%
 
-* [[Carbohydrate]]
+* [[~Carbohydrate]]
 	* [[Phân loại carbonhyrate]]
 		* [[Monosacharide]]
-			* [[Glucose]]
+			* [[~Glucose]]
 			* [[Fructose]]
 			* [[Galactose]]
 		* [[Disacharide]]
@@ -17,7 +17,7 @@
 			* [[Lactose]]
 			* [[Sucrose]]
 		* [[Polysaccharides]]
-			* [[Glycogen]]
+			* [[~Glycogen]]
 
 
 ## Related:

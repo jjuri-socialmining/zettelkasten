@@ -9,7 +9,7 @@ This is for areas of physical health, wellness, training, and exercise.
 [[Hệ miễn dịch]]
 [[Huyết tương MOC]]
 [[Neuron]]
-[[Hormone]]
+[[~Hormone]]
 
 ### Nutrition
 * [[Nutrition MOC]]

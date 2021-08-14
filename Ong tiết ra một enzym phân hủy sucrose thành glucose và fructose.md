@@ -3,4 +3,4 @@
 Created: August 12, 2021 9:57 PM
 Notion tags: #notion, #created/2021/Aug/12
 
-Ong tiết ra trong [[Mật ong]] một [[Enzym]] phân hủy [[Sucrose]] thành [[Glucose]] và [[Fructose]]
+Ong tiết ra trong [[Mật ong]] một [[Enzym]] phân hủy [[Sucrose]] thành [[~Glucose]] và [[Fructose]]

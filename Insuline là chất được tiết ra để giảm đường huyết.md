@@ -4,4 +4,4 @@ Created: August 13, 2021 5:43 PM
 Notion tags: #notion, #created/2021/Aug/13
 zet type: #permanent/fact
 
-[[Insuline]] là chất được tiết ra để giảm [[Đường huyết]]
+[[Insuline giúp mở màng bào tương của tế bào]]. [[~Insuline]] là chất được tiết ra để giảm [[Đường huyết]]
