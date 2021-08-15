@@ -13,4 +13,4 @@ Phương pháp đọc Barbell gồm 2 bước:
 ## Questions & thoughts:
 
 
-[^1]: [[Sascha, The Barbell Method of Reading#quote 1]]
+[^1]: [[@ Sascha, The Barbell Method of Reading#quote 1]]

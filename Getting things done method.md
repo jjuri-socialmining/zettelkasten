@@ -8,7 +8,7 @@
 
 ### Tóm tắt
 Getting things done (viết tắt [[GTD]]) là một phương pháp giúp bạn hoàn thành những công việc bạn muốn làm, thích làm một cách rõ ràng bằng lịch trình cụ thể!?
-Phương pháp được xây dựng bởi [[David Allen]] - tác giả của quyển sách cùng tên nổi tiếng [[@ David Allen, Getting Things Done]].
+Phương pháp được xây dựng bởi [[David Allen]] - tác giả của quyển sách cùng tên nổi tiếng [[@ David Allen, Getting Things Done 1]].
 
 Để thực hiện phương pháp này, bạn cần phải trải qua 5 bước
 Bước 1 Stockpile (Thu thập)

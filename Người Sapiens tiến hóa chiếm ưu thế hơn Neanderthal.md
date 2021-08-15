@@ -6,7 +6,7 @@
 	- previous note: [[Homo Sapiens]]
 
 ## Notes
-Trong phần đầu quyển [[Yuval N. Harari, Sapiens lược sử loài người]], tác giả quyến sách [[Yuval N. Harari]] nhận định rằng, người [[Homo Sapiens]] và [[Homo Neanderthal]] có một khoảng thời gian dài cùng tồn tại trên Trái Đất. Ban đầu, người Neanderthal có thể đã chiếm ưu thế, nhưng sau này, người Sapiens tiến hóa vượt trội và lấn lướt Neanderthal. Có giả thuyết rằng người Sapiens đã đẩy Neanderthal, và cả nhưng loài Homo khác đến bờ của sự tuyệt chủng.
+Trong phần đầu quyển [[@ Yuval N. Harari, Sapiens lược sử loài người]], tác giả quyến sách [[Yuval N. Harari]] nhận định rằng, người [[Homo Sapiens]] và [[Homo Neanderthal]] có một khoảng thời gian dài cùng tồn tại trên Trái Đất. Ban đầu, người Neanderthal có thể đã chiếm ưu thế, nhưng sau này, người Sapiens tiến hóa vượt trội và lấn lướt Neanderthal. Có giả thuyết rằng người Sapiens đã đẩy Neanderthal, và cả nhưng loài Homo khác đến bờ của sự tuyệt chủng.
 
 ## Questions & thoughts:
 - Lý giải tại sao người Sapiens đẩy người Neanderthal đến bờ tuyệt chủng?

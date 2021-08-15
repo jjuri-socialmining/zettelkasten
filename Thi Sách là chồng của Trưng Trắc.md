@@ -9,4 +9,4 @@
 [[Thi Sách]] là chồng của [[Trưng Trắc]]
 
 ## Questions & thoughts:
-[^1]:[[Lịch sử Việt Nam từ nguồn gốc đến giữa thế kỷ XX#p 102]]
+[^1]:[[@ Lịch sử Việt Nam từ nguồn gốc đến giữa thế kỷ XX#p 102]]

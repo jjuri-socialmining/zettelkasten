@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[Harry S. Truman]] được nhắc đến trong [[@ Jonas Jonasson, Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất]]
+[[Harry S. Truman]] được nhắc đến trong [[@ Jonas Jonasson, Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất 1]]
 
 ## Questions & thoughts:
 

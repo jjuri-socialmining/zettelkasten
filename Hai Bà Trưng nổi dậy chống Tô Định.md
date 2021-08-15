@@ -12,4 +12,4 @@
 - Trưng Trắc cùng với em là [[Trưng Nhị]] tập hợp lực lượng đánh Liên Lâu, nơi Tô Định trấn giữ.
 - [[Hai Bà Trưng]]
 ## Questions & thoughts:
-[^1]:[[Lịch sử Việt Nam từ nguồn gốc đến giữa thế kỷ XX#p 102]]
+[^1]:[[@ Lịch sử Việt Nam từ nguồn gốc đến giữa thế kỷ XX#p 102]]

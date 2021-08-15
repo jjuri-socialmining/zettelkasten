@@ -9,4 +9,4 @@ Trong **ngụy thư Mattheu** bổ sung thêm, thánh Giuse có từ chối Thư
 
 Tham khảo:
 
-[[vi.wikipedia.org, Ngụy thư Giacobe]]
+[[@ vi.wikipedia.org, Ngụy thư Giacobe]]
