@@ -1,3 +1,7 @@
+---
+cards-deck: Default
+---
+
 # Math MOC
 
 %% 
@@ -6,8 +10,10 @@
 %%
 
 ## Các nhà toán học
-[[Thales]]
+
+Ai đây : [[Thales]] #card 
 [[Pythagoras]]
+^1628998802599
 
 ## Các định lý 
 [[Định lý Thales]]
