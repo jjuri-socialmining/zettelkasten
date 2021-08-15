@@ -3,11 +3,18 @@ title: {{title}}
 UID: {{date:YYMMDDHHmmss}}
 tags:
   - '#created/{{date:YYYY/MMM/DD}}'
-  - '#task/todo'
+  - '#permanent/reference'
+  - '#flashcards'
 ---
 # {{title}}
 
+## Notes
 
-## Works to finished
-- [ ] Do something
+
+## Ideas & thoughts:
+
+
+## Questions:
+
+
 
