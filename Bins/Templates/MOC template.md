@@ -1,9 +1,14 @@
+---
+title: {{title}}
+UID: {{date:YYMMDDHHmmss}}
+tags:
+  - '#created/{{date:YYYY/MMM/DD}}'
+  - '#MOC'
+aliases: [{{title}}]
+---
 # {{title}}
 
-%% 
-- metadata:
-	- tags: #created/{{date:YYYY/MMM/DD}}, #MOC 
-%%
+## Notes
 
 ## Related:
 ```dataview

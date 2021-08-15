@@ -1,14 +1,21 @@
+---
+title: {{title}}
+UID: {{date:YYMMDDHHmmss}}
+tags:
+  - '#created/{{date:YYYY/MMM/DD}}'
+  - '#permanent/fact'
+  - '#flashcards'
+---
 # {{title}}
-
-- metadata
-	- UID: P-{{date}}
-	- tags: #created/{{date:YYYY/MMM/DD}}, #permanent/fact 
-	- source: 
 
 ## Notes
 
 
-## Questions & thoughts:
+## Ideas & thoughts:
+
+
+## Questions:
+
 
 ## Related:
 ```dataview

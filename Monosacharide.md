@@ -1,7 +1,23 @@
+---
+title: Monosacharide
+UID: 210815150349
+tags:
+  - '#created/2021/Aug/15'
+  - '#permanent/concept'
+aliases: [đường đơn]
+---
 # Monosacharide
 
-Created: August 12, 2021 9:16 PM
-Notion tags: #notion, #created/2021/Aug/12
 
 ## Notes
 Monosacharide là phân tử đường đơn
+
+## Questions & thoughts:
+
+
+## Related:
+```dataview
+list
+from [[Monosacharide]]
+sort file.name asc
+```

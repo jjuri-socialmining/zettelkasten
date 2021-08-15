@@ -10,10 +10,8 @@ cards-deck: Default
 %%
 
 ## Các nhà toán học
-
-Ai đây : [[Thales]] #card 
+[[Thales]] 
 [[Pythagoras]]
-^1628998802599
 
 ## Các định lý 
 [[Định lý Thales]]

@@ -1,4 +1,23 @@
+---
+title: Lactose
+UID: 210815151646
+tags:
+  - '#created/2021/Aug/12'
+  - '#permanent/concept'
+  - '#notion'
+aliases: [Lactose]
+---
 # Lactose
 
-Created: August 12, 2021 9:17 PM
-Notion tags: #notion, #created/2021/Aug/12
+## Notes
+
+
+## Questions & thoughts:
+
+
+## Related:
+```dataview
+list
+from [[Lactose]]
+sort file.name asc
+```

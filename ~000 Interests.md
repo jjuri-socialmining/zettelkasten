@@ -1,7 +1,7 @@
 [[~000 Home]]
 %% - metadata:
 	- tags: #MOC %% 
-# Interests MOC #flashcard 
+# Interests MOC 
 Navigate your "library" with a classification system modified for PKM. #MOC
 
 ---

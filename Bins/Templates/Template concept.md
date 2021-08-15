@@ -1,14 +1,21 @@
+---
+title: {{title}}
+UID: {{date:YYMMDDHHmmss}}
+tags:
+  - '#created/{{date:YYYY/MMM/DD}}'
+  - '#permanent/concept'
+  - '#flashcards'
+aliases: [{{title}}]
+---
 # {{title}}
 
-- metadata
-	- UID: P-{{date}}
-	- tags: #created/{{date:YYYY/MMM/DD}}, #permanent/concept 
-	- source: 
-
-## Notes
+## Definition
 
 
-## Questions & thoughts:
+## Ideas & thoughts:
+
+
+## Questions:
 
 
 ## Related:

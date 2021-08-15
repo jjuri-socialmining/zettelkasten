@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Khi đói, nên chọn một loại thực phẩm có [[Chỉ số GI - Glycemic Index]] thấp để [[Đường huyết]] tránh tăng đột ngột làm tác động xấu đến quá trình tạo [[~Insulin]]
+Khi đói, nên chọn một loại thực phẩm có [[Glycemic Index]] thấp để [[Đường huyết]] tránh tăng đột ngột làm tác động xấu đến quá trình tạo [[~Insulin]]
 
 ## Questions & thoughts:
 

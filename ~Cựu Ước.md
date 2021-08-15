@@ -14,7 +14,7 @@ Sau đó Thiên Chúa tạo dựng [[Adam]] và [[Eva]] theo hình ảnh ngườ
 Adam và Eva sinh được 2 người con là [[Cain]] và [[Abel]].
 [[Cain là anh Abel]]. [[Cain làm nghề trồng trọt]]. [[Abel làm nghề chăn nuôi súc vật]]. Khi hiến tế của lễ cho Thiên Chúa, Ngài lại thích lễ vật của Abel hơn của Cain. 
 [[Cain sinh lòng đố kị và ghen ghét Abel]]
-[[Cain sát hại Abel]]
+[[Cain sát hại Abel]]. 
 
 ## Questions & thoughts:
 

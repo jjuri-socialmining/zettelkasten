@@ -11,8 +11,8 @@ Iberia là một bán đảo nằm ở miền nam Châu Âu. Diện tích Iberia
 ![[Iberia.png]]
 
 ## Questions & thoughts:
-
-
+[[❓ Bán đảo Iberia nằm ở đâu]]
+[[❓ Hai nước nằm trên bán đảo Iberia]]
 ## Related:
 ```dataview
 list

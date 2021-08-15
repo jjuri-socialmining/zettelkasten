@@ -5,4 +5,4 @@ Notion tags: #notion, #created/2021/Aug/13
 zet type: #permanent/fact
 
 ## Notes
-Cách chế biến thực phẩm ảnh hưởng nhiều lên [[Chỉ số GI - Glycemic Index]] của thực phẩm
+Cách chế biến thực phẩm ảnh hưởng nhiều lên [[Glycemic Index]] của thực phẩm

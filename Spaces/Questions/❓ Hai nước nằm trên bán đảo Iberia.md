@@ -1,0 +1,22 @@
+---
+title: ❓ Hai nước nằm trên bán đảo Iberia
+UID: 210815164210
+tags:
+  - '#created/2021/Aug/15'
+  - '#question❓'
+---
+## card content:
+---
+
+Question: ❓ Hai nước nằm trên bán đảo Iberia?
+?
+Answer: Tây Ban Nha và Bồ Đào Nha
+<!--SR:!2021-08-18,3,250-->
+
+---
+## Tham khảo:
+```dataview
+list
+from [[❓ Hai nước nằm trên bán đảo Iberia]]
+sort file.name asc
+```

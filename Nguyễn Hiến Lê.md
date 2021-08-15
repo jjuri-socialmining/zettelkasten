@@ -1,3 +1,8 @@
+---
+tags: '#people'
+Birthday: 2021-10-03
+aliases: [Nguyễn Hiến Lê, cụ Lê, bác Lê]
+---
 # Nguyễn Hiến Lê
 
 - metadata

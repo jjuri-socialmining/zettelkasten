@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Thực phẩm [[Chỉ số GI - Glycemic Index]] thấp ít kích thích cơ thể tạo [[~Insulin]]. Vì khi đường huyết tăng cao, Insulin sẽ được tiết ra để điều tiết nồng độ đường huyết.
+Thực phẩm [[Glycemic Index]] thấp ít kích thích cơ thể tạo [[~Insulin]]. Vì khi đường huyết tăng cao, Insulin sẽ được tiết ra để điều tiết nồng độ đường huyết.
 
 ## Questions & thoughts:
 

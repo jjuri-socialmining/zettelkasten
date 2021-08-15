@@ -15,6 +15,6 @@ Notion tags: #notion, #created/2021/Aug/12
             - [[Sucrose]]
 
     - Phức tạp là [[Polysaccharides]]
-        - Starches
-        - Fibers
+        - [[Tinh bột]]
+        - [[Chất xơ]]
         - [[~Glycogen]]
