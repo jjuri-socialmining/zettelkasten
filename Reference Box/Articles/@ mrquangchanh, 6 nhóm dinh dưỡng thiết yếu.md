@@ -25,7 +25,7 @@ Khi chúng ta thưởng thức một món ăn, ta thường chú ý đến màu 
 *Đường, đạm, mỡ*, **CHỈ 3 CHẤT NÀY CÓ THỂ TẠO NĂNG LƯỢNG.**
 Chúng sẽ bị phá hủy thành những phần nhỏ hơn, tương tự như nhiên liệu, những phần nhỏ đó là nền tảng cho các hoạt động chức năng. Chúng còn có tên khác là macronutrients. Macro có nghĩa là "lớn": vì chúng là những phân tử lớn, và chúng ta cũng cần chúng với 1 lượng khá lớn.
 
-[[Macronutrients]] 
+[[Macronutrient]] 
 [[Chất dinh dưỡng đa lượng]] 
 
 Vì tạo năng lượng chỉ có 3 chất này, nên nếu bạn nghe ai nói "hãy uống 1 cốc nước (lọc..) cho đỡ đói rồi làm tiếp công việc của chúng ta". Nước có thể xua tan cơn khát, làm chúng ta giảm cảm giác cồn cào vì nó hòa loãng acid trong dạ dày, và làm căng thành dạ dày để mang cảm giác no. Nhưng thực tế, năng lượng chúng ta vẫn đang cạn kiệt.

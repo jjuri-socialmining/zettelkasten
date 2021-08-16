@@ -9,7 +9,7 @@
 - [[Đạo Giáo]]
 
 ### Top Philosophers
-- [[Jean Paul Sartre|Jean Paul Sartre]]
+- [[Jean Paul Sartre]]
 - [[Friedrich Nietzsche|Friedrich Wilhelm Nietzsche]]
 
 ### Chronological 

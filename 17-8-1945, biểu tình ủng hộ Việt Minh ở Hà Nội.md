@@ -9,6 +9,7 @@
 17/8/1945, người dân ra đường biểu tình tại Hà Nội ủng hộ [[Việt Minh]]. Cuộc khởi nghĩa nhanh chóng lan ra các tỉnh thành.
 
 ## Questions & thoughts:
+[[❓210815-2201]]
 
 ## Related:
 ```dataview

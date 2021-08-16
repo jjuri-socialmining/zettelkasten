@@ -1,8 +1,8 @@
 ---
 title: Monosacharide
-UID: 210815150349
+UID: 
 tags:
-  - '#created/2021/Aug/15'
+  - '#created/2021/Aug'
   - '#permanent/concept'
 aliases: [đường đơn]
 ---

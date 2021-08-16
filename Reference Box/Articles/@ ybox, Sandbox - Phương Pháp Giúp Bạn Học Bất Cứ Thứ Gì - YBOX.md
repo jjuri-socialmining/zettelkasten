@@ -23,7 +23,7 @@ Việc đầu tiên sẽ là thay đổi tư duy về cách chúng ta nên học
 
 **Chúng ta học như thế nào**
 
-![[@%20ybox,%20Sandbox%20-%20Phu%CC%9Bo%CC%9Bng%20Pha%CC%81p%20Giu%CC%81p%20Ba%CC%A3n%20Ho%CC%A3c%20B%20aa19f6af3c514259ab0db82a5c91e370 1597241581363-90e45ae02bcf11e99abfa5419820281d.jpg]]
+![[1597241581363-90e45ae02bcf11e99abfa5419820281d.jpg]]
 
 Ở trung học, đại học và hầu hết các bậc học cao hơn (ít nhất là ở Hoa Kỳ), mô hình đào tạo sẽ định hình cho chúng ta tư duy chờ đợi để được tiếp nhận thông tin và ngừng suy nghĩ để tìm ra cách giải quyết vấn đề.
 
@@ -35,7 +35,7 @@ Nhưng ở thế giới thực, việc học không diễn ra như thế. Nếu 
 
 **Cách chúng ta được dạy để học :**
 
-![[@ ybox, Sandbox - Phu%CC%9Bo%CC%9Bng Pha%CC%81p Giu%CC%81p Ba%CC%A3n Ho%CC%A3c B/1597242871454-5b2b0a4dbf9f8023934117c9_Bad-learning-method.png]]
+![[5b2b0a4dbf9f8023934117c9_Bad-learning-method.png]]
 
 1. Tiếp nhận giải pháp
 
@@ -45,7 +45,7 @@ Nhưng ở thế giới thực, việc học không diễn ra như thế. Nếu 
 
 **Cách bạn học trong đời thực :**
 
-![[@ ybox, Sandbox - Phu%CC%9Bo%CC%9Bng Pha%CC%81p Giu%CC%81p Ba%CC%A3n Ho%CC%A3c B/1597242897784-5b2b0a59357109b69c0b8262_Good-learning-method.png]]
+![[B/1597242897784-5b2b0a59357109b69c0b8262_Good-learning-method.png]]
 
 1. Tiếp nhận vấn đề
 
@@ -67,7 +67,7 @@ Nhưng vì đã quen với việc được mớm kiến thức suốt nhiều n�
 
 **Áp phương pháp Sandbox cho việc tự học**
 
-![[@%20ybox,%20Sandbox%20-%20Phu%CC%9Bo%CC%9Bng%20Pha%CC%81p%20Giu%CC%81p%20Ba%CC%A3n%20Ho%CC%A3c%20B%20aa19f6af3c514259ab0db82a5c91e370 1597241769767-90241631_3077593075598307_6075421292494848000_o.jpg]]
+![[1597241769767-90241631_3077593075598307_6075421292494848000_o.jpg]]
 
 [[Mô hình phương pháp Sandbox]] 
 
@@ -109,7 +109,7 @@ Khi vùng thử đã sẵn sàng, giờ bạn có thể bắt đầu nghiên c�
 
 **BƯỚC 2: NGHIÊN CỨU**
 
-![[@ ybox, Sandbox - Phu%CC%9Bo%CC%9Bng Pha%CC%81p Giu%CC%81p Ba%CC%A3n Ho%CC%A3c B/1597241991085-63-learning-01.png]]
+![[B/1597241991085-63-learning-01.png]]
 
 Để tiếp tục mở rộng đường biên của vùng thử, gia tăng mức độ kỹ năng mà bạn có thể thực hành và áp dụng, bạn sẽ cần có sự đầu tư nhất định cho việc nghiên cứu. Các tài nguyên trực tuyến luôn có sẵn để dạy bạn bất cứ điều gì bạn muốn học, vấn đề ở đây là cần tìm ra những gì đáng đọc, đáng xem và/hoặc đáng nghe.
 
@@ -129,7 +129,7 @@ Dù bạn đang cố gắng học bất cứ cái gì đi nữa, sách luôn lu�
 
 **Blog và tài nguyên trực tuyến**
 
-![[@%20ybox,%20Sandbox%20-%20Phu%CC%9Bo%CC%9Bng%20Pha%CC%81p%20Giu%CC%81p%20Ba%CC%A3n%20Ho%CC%A3c%20B%20aa19f6af3c514259ab0db82a5c91e370 1597242234144-anhminhhoa_6-Ways-To-Turn-Your-Blog-Into-A-Money-Maker.jpg]]
+![[1597242234144-anhminhhoa_6-Ways-To-Turn-Your-Blog-Into-A-Money-Maker.jpg]]
 
 Bên cạnh sách, có rất nhiều nội dung trực tuyến mà bạn có thể sử dụng cho việc tự học. Một số người đã viết hẳn các bài blog về cách [[tự học marketing]], [[tự học thiết kế]], [[học JavaScript]], và nếu bạn chịu khó tìm kiếm, bạn có thể tìm thấy các bài hướng dẫn được viết rất tốt để học về bất cứ điều gì.
 
@@ -147,7 +147,7 @@ Một số khóa học trong danh sách kể trên có thể đắt tiền, như
 
 **Và hãy ghi chú!**
 
-![[@%20ybox,%20Sandbox%20-%20Phu%CC%9Bo%CC%9Bng%20Pha%CC%81p%20Giu%CC%81p%20Ba%CC%A3n%20Ho%CC%A3c%20B%20aa19f6af3c514259ab0db82a5c91e370 1597242365984-dpamesjphmvwzfqv6pcej2lp8kjqbvf8dynprj0cyg62atfogqctoctkgsmsabxb-.jpg]]
+![[1597242365984-dpamesjphmvwzfqv6pcej2lp8kjqbvf8dynprj0cyg62atfogqctoctkgsmsabxb-.jpg]]
 
 Khi bạn học, hãy ghi chú lại mọi thứ để có thể tham khảo lại sau này. Tôi thích sử dụng Evernote và thường ghi chú rất chi tiết, vì nó giúp tôi dễ dàng rà soát lại được những thứ mình đã học được trong quá khứ và nguồn kiến thức. Nó cũng giúp bạn [[ghi nhớ tất cả mọi thứ]], bằng cách xây dựng một “trang wiki cá nhân” trực tuyến – [[theo lời của Andy Hunt]].
 
@@ -184,7 +184,7 @@ Tìm kiếm sự phản hồi sẽ là phần cuối cùng của hệ thống t�
 
 Khi bạn đã thực hành một cách có chủ đích trong vùng thử của mình và tiếp tục nghiên cứu để lấp đầy các lỗ hổng kiến thức, mảnh cuối cùng (nhưng rất cần thiết) trong quá trình tự học đó là tìm kiếm sự phản hồi.
 
-![[@ ybox, Sandbox - Phu%CC%9Bo%CC%9Bng Pha%CC%81p Giu%CC%81p Ba%CC%A3n Ho%CC%A3c B/1597242639364-upgrade-individual-responses.png]]
+![[1597242639364-upgrade-individual-responses.png]]
 
 Nếu bạn đang muốn cải thiện bản thân trong việc tập tạ, thật khó để biết liệu form người của bạn có tốt hay không khi không có huấn luyện viên kèm cặp để chỉ chỗ sai cho bạn. Khi bạn học một ngôn ngữ mới, khá là khó để biết liệu bạn có đang phát âm đúng hay không khi không có người nhận xét và chỉ lỗi sai của bạn. Bạn có thể học rất nhiều một mình, nhưng không có huấn luyện viên, một người thầy, hoặc công cụ để cho phản hồi và nhận xét, cuối cùng bạn sẽ không thể tiến xa hơn nữa. Hoặc tệ hơn là, bạn tiếp tục thực hiện các kỹ thuật xấu, khiến cho việc bỏ chúng đi khó hơn sau này.
 

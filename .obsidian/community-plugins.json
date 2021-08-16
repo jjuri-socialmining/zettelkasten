@@ -9,9 +9,9 @@
   "obsidian-git",
   "sliding-panes-obsidian",
   "obsidian-spaced-repetition",
-  "tag-wrangler",
   "obsidian-icons-plugin",
-  "find-unlinked-files",
   "obsidian-emoji-toolbar",
-  "obsidian-admonition"
+  "obsidian-admonition",
+  "find-unlinked-files",
+  "tag-wrangler"
 ]

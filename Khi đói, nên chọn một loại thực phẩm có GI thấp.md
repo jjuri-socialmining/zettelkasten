@@ -9,6 +9,7 @@
 Khi đói, nên chọn một loại thực phẩm có [[Glycemic Index]] thấp để [[Đường huyết]] tránh tăng đột ngột làm tác động xấu đến quá trình tạo [[~Insulin]]
 
 ## Questions & thoughts:
+[[❓210815-2047]]
 
 ## Related:
 ```dataview

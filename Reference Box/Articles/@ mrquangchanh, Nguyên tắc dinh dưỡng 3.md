@@ -10,7 +10,7 @@ Bất cứ ai trong chúng ta cũng đã từng ăn một món nào đó, nhi�
 
 [[Cơ chế chán ăn một món lặp lại có lợi cho cơ thể]] 
 
-![[@%20mrquangchanh,%20Nguye%CC%82n%20ta%CC%86%CC%81c%20dinh%20du%CC%9Bo%CC%9B%CC%83ng%203%20da23048d29c84fb7bf294fa426c9b547 nutrition.jpg]]
+![[nutrition.jpg]]
 
 Để tránh rơi vào vấn đề tương tự thì
 
@@ -29,9 +29,9 @@ Tóm lại, với ba nguyên tắc trên: **ĐA DẠNG, ĐIỀU ĐỘ và CÂN B
 2. [[www.nutritionbyeve.wordpress.com/2009/09/22/moderation-variety-balance-adequacy/]]
 3. [[www.livestrong.com/article/520921-the-6-basic-principles-of-diet-planning/]]
 
-![[@%20mrquangchanh,%20Nguye%CC%82n%20ta%CC%86%CC%81c%20dinh%20du%CC%9Bo%CC%9B%CC%83ng%203%20da23048d29c84fb7bf294fa426c9b547 proper-nutrition.jpg]]
+![[proper-nutrition.jpg]]
 
-![[@%20mrquangchanh,%20Nguye%CC%82n%20ta%CC%86%CC%81c%20dinh%20du%CC%9Bo%CC%9B%CC%83ng%203%20da23048d29c84fb7bf294fa426c9b547 nutrition-101.jpg]]
+![[nutrition-101.jpg]]
 
 ### Không có nhận xét nào:
 

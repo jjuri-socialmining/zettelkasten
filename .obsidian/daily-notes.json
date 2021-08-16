@@ -1,1 +1,5 @@
-{"format":"YYMMDD-HHmm","folder":"Spaces/Daily","template":"Bins/Templates/Daily Note Template"}
+{
+  "format": "❓YYMMDD-HHmm",
+  "folder": "Spaces/Daily",
+  "template": "Bins/Templates/Daily Note Template"
+}

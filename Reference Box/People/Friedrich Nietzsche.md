@@ -1,4 +1,14 @@
-# Friedrich-Nietzsche
+---
+title: Friedrich Nietzsche
+UID: 210815204255
+tags:
+  - '#created/2020/Oct/22'
+  - '#permanent/concept'
+  - '#flashcards'
+aliases: [Nietzsche, Friedrich Wilhelm Nietzsche]
+---
+
+# Friedrich Nietzsche
 
 - metadata
 	- created: Oct 22, 2020 5:49 AM

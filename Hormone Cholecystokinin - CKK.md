@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Hormone Cholecystokinin viết tắt là [[Hormone CKK]], là [[~Hormone]] [[Peptide]] có chức năng kích tiêu hóa chất béo [[Lipid]] và [[~Protein]].
+Hormone Cholecystokinin viết tắt là [[Hormone CKK]], là [[~Hormone]] [[Peptide]] có chức năng kích tiêu hóa [[Lipid|chất béo]] và [[~Protein]].
 
 
 ## Questions & thoughts:

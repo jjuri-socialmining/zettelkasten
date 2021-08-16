@@ -9,6 +9,7 @@
 Năm 19 tuổi, [[Mahatma Gandhi]] theo học ngành luật tại Anh. 
 
 ## Questions & thoughts:
+[[❓210815-2137]]
 
 ## Related:
 ```dataview

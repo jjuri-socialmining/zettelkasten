@@ -7,7 +7,7 @@ URL: https://www.nateliason.com/blog/self-education
 
 ---
 
-![[@%20nateliason,%20Self-Education%20Teach%20Yourself%20Anythi%20d3a69582a2304ea0a1129146d88f207b 5b2b09ec80c333007693b870_kevin-horstmann-253675.jpg]]
+![[5b2b09ec80c333007693b870_kevin-horstmann-253675.jpg]]
 
 *“It is better to know how to learn than to know.” –* Dr. Seuss
 
@@ -41,7 +41,7 @@ There are no classes where the professor shows up and says “*figure out how to
 
 **The way you really learn:**
 
-![[@ nateliason, Self-Education Teach Yourself Anythi/5b2b0a59357109b69c0b8262_Good-learning-method.png]]
+![[Anythi/5b2b0a59357109b69c0b8262_Good-learning-method.png]]
 
 If this sounds like “guess and check,” the process that some teacher probably told you was “bad” at some point, that’s because it *is* guess and check. And it’s a magnitudes better method than expecting to know the solution to your problems beforehand.
 

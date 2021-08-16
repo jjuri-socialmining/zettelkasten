@@ -6,7 +6,7 @@ URL: http://mrquangchanh.blogspot.com/2015/12/1-dinh-duong-va-su-boi-roi.html
 
 Ăn uống là một trong những hoạt động căn bản nhất để duy trì cơ thể sống. Hãy xét con người chúng ta như một ví dụ, chúng ta làm điều đó nhiều lần trong ngày, ngày này qua ngày khác, suốt cuộc đời...Có bao giờ bạn cắn một miếng bánh và tự hỏi rằng: "Nó có cung cấp gì cho chúng ta? Nó có lợi hay có hại?"... Và có ai trong chúng ta đã từng đọc một tin đại loại như: " Uống cafe có tác dụng ngăn ngừa đái tháo đường type 2 và các bệnh tim mạch khác". Chúng ta bắt đầu uống, nhưng vài ngày sau đó, chúng ta lại đọc một tin trên một tờ báo khác " Uống cafe có thể gây loãng xương". Chuyện gì đã xảy ra? Tại sao cafe có lợi hôm qua và trở nên độc hại vào ngày hôm sau.
 
-![[@ mrquangchanh, Dinh du%CC%9Bo%CC%9B%CC%83ng va%CC%80 su%CC%9B%CC%A3 bo%CC%82%CC%81i ro%CC%82%CC%81i/tE1BAA3ixuE1BB91ng.png]]
+![[tE1BAA3ixuE1BB91ng.png]]
 
 Thật khó để lựa chọn một thực phẩm an toàn khi mà các hình thức thông tin ngày càng phát triển làm bạn luôn phân vân. Tôi và bạn ngập ngụa trong bể thông tin và cố gắng thẩm thấu mọi thứ mà không biết đâu là sự chính xác. Vậy cơ sở nào để giúp chúng ta lựa chọn?
 

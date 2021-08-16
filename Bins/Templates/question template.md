@@ -5,15 +5,18 @@ tags:
   - '#created/{{date:YYYY/MMM/DD}}'
   - '#question❓'
 ---
-## card content:
+
+## Cards content:
 ---
 
-Question: {{title}}?
-?
-Answer: 
-<!--SR:!2021-08-19,4,270-->
+{{title}}
+
 
 ---
+%%
+[[Obsidian Spaced Repetition Plugin]]
+%%
+
 ## Tham khảo:
 ```dataview
 list

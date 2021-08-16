@@ -24,7 +24,7 @@ Có 2 nhóm chính
 
 **1. Chất làm ngọt hạn chế năng lượng = đường gốc rượu = polyols = sugar alcohol**
 
-![[@%20mrquangchanh%20blogspot%20com,%20Ngu%CC%9Bo%CC%9B%CC%80i%20em%20cu%CC%89a%20%C4%91u%CC%9Bo%20bb65bbc976f14884b986b34d85eadff7 XLR-00101-7.jpg]]
+![[XLR-00101-7.jpg]]
 
 [[Chất tạo ngọt hạn chế năng lượng]] 
 
@@ -54,7 +54,7 @@ Không gây sâu răng do vi khuẩn không sử dụng chúng làm thức ăn: 
 
 Đại diện là: sacharin, aspartame, acesulfame-K, neotame, advantame, sucraclose...
 
-![[@%20mrquangchanh%20blogspot%20com,%20Ngu%CC%9Bo%CC%9B%CC%80i%20em%20cu%CC%89a%20%C4%91u%CC%9Bo%20bb65bbc976f14884b986b34d85eadff7 Artificial-Sweeteners.jpg]]
+![[Artificial-Sweeteners.jpg]]
 
 Điều tuyệt vời là chúng không hề cung cấp năng lượng nhưng vẫn thỏa mãn được đầu lưỡi của bạn.
 

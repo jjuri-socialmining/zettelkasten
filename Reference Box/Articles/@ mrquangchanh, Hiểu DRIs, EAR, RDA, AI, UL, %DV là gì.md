@@ -4,7 +4,7 @@ URL: http://mrquangchanh.blogspot.com/2015/12/4-hieu-dris-ear-rda-ai-ul-dv-la-gi
 
 # #4: Hiểu DRIs, EAR, RDA, AI, UL, %DV là gì?
 
-![[@%20mrquangchanh,%20Hie%CC%82%CC%89u%20DRIs,%20EAR,%20RDA,%20AI,%20UL,%20%25DV%2085540327cbd643299ad2b323776eda63 confused-lost-puzzled-signpost-16903019.jpg]]
+![[confused-lost-puzzled-signpost-16903019.jpg]]
 
 Trong quá trình đọc và tìm hiểu các vấn đề dinh dưỡng, bạn sẽ rất hay bắt gặp các thuật ngữ khó hiểu và đôi khi chúng trùng lắp lên nhau, cái mà luôn làm chúng ta bối rối. Hy vọng bài viết này sẽ giúp các bạn phần nào.
 
@@ -22,7 +22,7 @@ Tác dụng của DRIs là cung cấp thông tin đầy đủ: cho biết với 
 
 Dưới đây DRIs của vitamin D cho nam nữ với từng độ tuổi với 4 mục con:
 
-![[@%20mrquangchanh,%20Hie%CC%82%CC%89u%20DRIs,%20EAR,%20RDA,%20AI,%20UL,%20%25DV%2085540327cbd643299ad2b323776eda63 IOM_Vit_D_DRI.jpg]]
+![[IOM_Vit_D_DRI.jpg]]
 
 Ta sẽ lần lượt tìm hiểu ý nghĩa các mục con của nó.
 
@@ -62,7 +62,7 @@ Hãy chú ý bảng trên, khi có EAR, RDA thì ô AI sẽ bỏ trống. Do AI 
 
 vì bảng DRIs rất chi tiết, nhiều thông tin: tuổi, giới, hàm lượng... Nó tạo ra khó khăn cho việc in lên các nhãn sản phẫm. Nên DV đã ra đời
 
-![[@%20mrquangchanh,%20Hie%CC%82%CC%89u%20DRIs,%20EAR,%20RDA,%20AI,%20UL,%20%25DV%2085540327cbd643299ad2b323776eda63 Candadian2BDV2Byogurt2Bexample.gif]]
+![[Candadian2BDV2Byogurt2Bexample.gif]]
 
 Nhằm khắc phục sự rườm rà của DRIs, nó chỉ là những con số phần trăm được in trên các túi bánh bạn mua
 
