@@ -13,6 +13,6 @@
 ## Related:
 ```dataview
 list
-from [[! Màng bào tương là một cánh cửa của tế bào trước glucose]]
+from [[❕ Màng bào tương là một cánh cửa của tế bào trước glucose]]
 sort file.name asc
 ```

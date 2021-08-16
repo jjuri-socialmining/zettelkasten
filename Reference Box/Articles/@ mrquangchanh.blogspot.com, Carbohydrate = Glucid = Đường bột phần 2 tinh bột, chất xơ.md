@@ -98,7 +98,7 @@ Nghĩa là có thể bị hòa tan trong nước và tạo thành dạng gel, d�
 
 [[Chất xơ hòa tan dễ bị lên men bởi vi khuẩn trong ruột]] 
 [[Chất xơ hòa tan có nhiều họ cam quýt và các loại đậu]] 
-[[! Khoai lang chứa nhiều chất xơ hòa tan, nên ăn dễ đánh rắm]] 
+[[❕ Khoai lang chứa nhiều chất xơ hòa tan, nên ăn dễ đánh rắm]] 
 
 Những nghiên cứu gần đây cho thấy, tiêu thụ nhiều chất xơ hòa tan sẽ làm giảm nguy cơ mắc , đái tháo đường type 2, hạ cholesterol máu, ổn định đường huyết. (Đọc thêm [[ở đây]])
 

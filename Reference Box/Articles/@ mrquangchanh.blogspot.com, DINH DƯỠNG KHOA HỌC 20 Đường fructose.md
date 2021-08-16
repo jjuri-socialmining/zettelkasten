@@ -36,8 +36,8 @@ Chính vì nó được hấp thu thụ động, chậm chạp nên fructose s�
 
 [[Fructose sẽ khuếch tán vào máu và hút nước vào lòng ruột]]
 [[Ăn quá nhiều Fructose có thể gây tiêu chảy]]
-[[! Ăn nhiều trái cây giúp trị táo bón]]
-[[! Fructose có TEF là 0 nên xét lại không tốt cho giảm cân so với glucose]]
+[[❕ Ăn nhiều trái cây giúp trị táo bón]]
+[[❕ Fructose có TEF là 0 nên xét lại không tốt cho giảm cân so với glucose]]
 
 Glucose có thể được gan biến thành mỡ, fructose cũng không ngoại lệ. Tuy nhiên, tốc độ chuyển hóa thành mỡ của fructose nhanh hơn (vì có sự nhảy bước glycolysis PKK).
 

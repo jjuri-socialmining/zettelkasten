@@ -19,6 +19,7 @@ Thường được ký hiệu bằng `CI/CD`, là hai công đoạn tự động
 - [[Travis CI]]
 
 ## Questions & thoughts:
+[[❓210816-2248]]
 
 ## Related:
 ```dataview

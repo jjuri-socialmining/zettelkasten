@@ -13,6 +13,6 @@ Tín hữu [[Do Thái Giáo]] không công nhận [[Tân Ước]] (New Testament
 ## Related:
 ```dataview
 list
-from [[! Không nên gọi là Cựu Ước để nói về Tanakh với tín hữu Do thái giáo]]
+from [[❕ Không nên gọi là Cựu Ước để nói về Tanakh với tín hữu Do thái giáo]]
 sort file.name asc
 ```

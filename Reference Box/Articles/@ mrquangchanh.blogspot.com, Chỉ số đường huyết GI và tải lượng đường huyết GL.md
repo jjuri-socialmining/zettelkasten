@@ -59,7 +59,7 @@ Khi nói tới bánh mì đen, đừng chỉ nhớ tới lúa mì nguyên cám m
 
 Khi dùng GI để lựa chọn 1 thực phẩm cho sức khỏe thì vẫn chưa có 1 cái nhìn đầy đủ. GI nói lên tốc độ tăng đường huyết còn việc tăng như thế nào (nhiều hay ít) nó chưa thực sự phản ánh 1 cách đầy đủ. Do đó, ta cần sử dụng một chỉ số tiếp theo của thực phẩm. Đó là:
 
-[[Glycemic Load - Chỉ số GL]] 
+[[Chỉ số GL]] 
 [[Tải lượng đường huyết]] 
 
 2. Tải lượng đường huyết = Glycemic Load (GL)

@@ -1,4 +1,4 @@
-# ! Cơ chế tiến hóa của con người tạo ra Insulin
+# ❕ Cơ chế tiến hóa của con người tạo ra Insulin
 
 - metadata
 	- UID: P-210814-1411
@@ -13,6 +13,6 @@ Lịch sử loài người luôn phải đối mặt với sự thiếu hụt n�
 ## Related:
 ```dataview
 list
-from [[! Cơ chế tiến hóa của con người tạo ra Insulin]]
+from [[❕ Cơ chế tiến hóa của con người tạo ra Insulin]]
 sort file.name asc
 ```

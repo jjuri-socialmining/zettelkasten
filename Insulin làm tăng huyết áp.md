@@ -10,6 +10,7 @@
 - Về lâu về dài, [[Insulin làm cơ thành mạch máu dày lên]], lòng mạch máu cũng bị thu hẹp khiến huyết áp tăng
 - 
 ## Questions & thoughts:
+[[❓210816-2242]]
 
 ## Related:
 ```dataview

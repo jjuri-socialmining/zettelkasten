@@ -11,7 +11,7 @@ Benjamin Franklin (1706-1790) là một nhà chính trị gia, nhà khoa học g
 ![[Benjamin_Franklin_by_Joseph_Duplessis_1778.jpg]]
 
 ## Questions & thoughts:
-- [ ] [[! Benjamin Franklin không phải tổng thống Mỹ]]
+- [ ] [[❕ Benjamin Franklin không phải tổng thống Mỹ]]
 - [ ] [[Mặc dù Benjamin Franklin không phỈ tổng thống nhưng vẫn có mặt trên đồng tiền 100 USD]]
 - [ ] 
 ## Related:

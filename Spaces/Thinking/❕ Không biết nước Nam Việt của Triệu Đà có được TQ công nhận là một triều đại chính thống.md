@@ -13,6 +13,6 @@ Không biết nước [[Nam Việt]] của [[Triệu Đà]] có được [[~Lị
 ## Related:
 ```dataview
 list
-from [[! Không biết nước Nam Việt của Triệu Đà có được TQ công nhận là một triều đại chính thống]]
+from [[❕ Không biết nước Nam Việt của Triệu Đà có được TQ công nhận là một triều đại chính thống]]
 sort file.name asc
 ```

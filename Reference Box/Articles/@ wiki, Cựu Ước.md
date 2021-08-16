@@ -11,7 +11,7 @@
 - [[Kinh thánh Cựu ước có nguồn gốc từ kinh Tanakh của Do Thái Giáo]]
 - Cựu ước bao gồm các sách: Luật lệ, lịch sử, thi ca và tiên tri.
 - [[Sách Cựu ước được viết trước thời Chúa Jesus sinh ra]]
-- [[! Không nên gọi là Cựu Ước để nói về Tanakh với tín hữu Do thái giáo]]
+- [[❕ Không nên gọi là Cựu Ước để nói về Tanakh với tín hữu Do thái giáo]]
 - Cựu ước được xem là lời Thiên Chúa dạy
 
 ### Quy Điển

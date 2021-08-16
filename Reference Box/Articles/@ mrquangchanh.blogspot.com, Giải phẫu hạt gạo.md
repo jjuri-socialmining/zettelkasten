@@ -31,8 +31,8 @@
 [[Gạo chưa qua chế biến gọi lại whole grain]]
 [[Gạo qua chế biến có màu trắng tinh gọi là refined grain]]
 [[Whole Grain vs White Grain]]
-[[! Điểm yếu của Whole grain là về mặt bảo quản và chế biến]]
-[[! Whole grain vượt trội với gạo tinh chế về mặt dinh dưỡng và lợi ích sức khỏe]]
+[[❕ Điểm yếu của Whole grain là về mặt bảo quản và chế biến]]
+[[❕ Whole grain vượt trội với gạo tinh chế về mặt dinh dưỡng và lợi ích sức khỏe]]
 
 
 

@@ -13,6 +13,6 @@
 ## Related:
 ```dataview
 list
-from [[! Gan là tủ lạnh đặc biệt cần hai chìa khóa]]
+from [[❕ Gan là tủ lạnh đặc biệt cần hai chìa khóa]]
 sort file.name asc
 ```

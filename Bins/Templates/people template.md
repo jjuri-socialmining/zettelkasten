@@ -5,6 +5,9 @@ tags:
   - '#created/{{date:YYYY/MMM/DD}}'
   - '#permanent/people'
   - '#flashcards'
+dates:
+  - birth:
+  - die:
 ---
 # {{title}}
 

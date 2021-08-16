@@ -13,6 +13,6 @@
 ## Related:
 ```dataview
 list
-from [[! Điểm yếu của Whole grain là về mặt bảo quản và chế biến]]
+from [[❕ Điểm yếu của Whole grain là về mặt bảo quản và chế biến]]
 sort file.name asc
 ```

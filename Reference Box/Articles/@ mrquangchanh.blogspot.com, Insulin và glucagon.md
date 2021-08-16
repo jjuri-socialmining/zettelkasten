@@ -13,7 +13,7 @@
 - [[Insulin đưa glucose vào tế bào để sử dụng năng lượng]]
 - [[Insulin đưa glucose vào tế bào gan để dự trữ năng lượng]]
 [[Glucagon là chìa khóa lấy glycogen từ gan đi nuôi cơ thể]]
-[[! Gan là tủ lạnh đặc biệt cần hai chìa khóa]]
+[[❕ Gan là tủ lạnh đặc biệt cần hai chìa khóa]]
 
 ## Questions and thoughts
 

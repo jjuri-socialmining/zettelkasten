@@ -1,3 +1,11 @@
+---
+title: ~Âu Lạc
+UID: 210816205659
+tags:
+  - '#created/2021/Aug/16'
+  - '#permanent/concept'
+aliases: [Âu Lạc]
+---
 # Âu Lạc
 
 - metadata

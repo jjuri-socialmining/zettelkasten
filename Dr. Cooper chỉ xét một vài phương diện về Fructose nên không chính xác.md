@@ -12,7 +12,7 @@ Trong [[@ Dr. Cooper, Dr. Cooper's Fabulous fructose diet]], [[Dr. Cooper cho r�
 Nếu xét tổng thể:
 - [[Fructose không kích hoạt sự no]], khiến cơ thể không biết điểm dừng. Cũng chính vì điều này, mặc dù [[Fructose ngọt hơn Glucose]] khiến vị giác thỏa mãn với lượng nhỏ nhưng không có nghĩa là số lần sử dụng sẽ bớt đi.
 - [[Fructose chuyển hóa thành mỡ nhanh hơn glucose]]
-- [[! Fructose có TEF là 0 nên xét lại không tốt cho giảm cân so với glucose]]
+- [[❕ Fructose có TEF là 0 nên xét lại không tốt cho giảm cân so với glucose]]
 
 ## Questions & thoughts:
 

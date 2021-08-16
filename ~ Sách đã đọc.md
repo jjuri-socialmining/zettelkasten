@@ -18,7 +18,7 @@
 - [[@ Matthew Walker, Why we sleep 1]]
 - [[@ Nguyễn Duy Cần, Tôi Tự Học 1]]
 - [[@ Hermann Hesse, Demian 1]]
-- [[@ Kim Dung, Thiên Long Bát Bộ 1]]
+- [[@ Kim Dung, Thiên Long Bát Bộ]]
 - [[@ Laura Archera Huxley, Xây dựng hạnh phúc 1]]
 - [[@ Aldous Huxley, Brave New World,]]
 - [[@ Thomas Nagel, What Does It All Mean - A Very Short Introduction to Philosophy]]

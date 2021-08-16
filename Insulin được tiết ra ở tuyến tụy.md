@@ -9,6 +9,7 @@
 [[~Insulin]] được tiết ra ở [[Tuyến tụy]]
 
 ## Questions & thoughts:
+[[❓210816-2240]]
 
 ## Related:
 ```dataview

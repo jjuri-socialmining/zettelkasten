@@ -9,7 +9,7 @@ URL: http://mrquangchanh.blogspot.com/2016/04/21nguoi-em-cua-uong-sugar.html
 
 Cơ thể chúng ta được tiến hóa theo cách tăng khả năng phát hiện vị ngọt và giảm ngưỡng chịu đựng vị đắng. Bài học này được tự nhiên mặc định trên đầu lưỡi và não bộ : vị ngọt luôn giàu năng lượng, vị đắng là khả năng độc hại cao. Từ loài linh trưởng luôn cố tìm những chiếc lá non thay vì những chiếc lá già để ăn đến con người chúng ta luôn dùng món tráng miệng với vị ngọt trong các buổi tiệc. Không thể phủ nhận rằng: ngọt là một trong những vị tạo ra cảm giác dễ chịu khó cưỡng nhất.
 
-[[! Cơ thể tiến hóa xu hướng tăng phát hiện vị ngọt và giảm chịu đựng vị đắng]] 
+[[❕ Cơ thể tiến hóa xu hướng tăng phát hiện vị ngọt và giảm chịu đựng vị đắng]] 
 
 Vâng, chúng ta thích ngọt, thích ngọt theo cả nghĩa đen lẫn nghĩa bóng. Sự nhạy cảm với vị ngọt giúp tổ tiên ta tìm ra nguồn thức ăn giàu năng lượng nhất trong điều kiện khan hiếm ngày xưa. Và giờ chúng ta vẫn thế! Vẫn yêu những thứ ngọt ngào. Nhưng hương vị đó giờ đây dễ kiếm hơn bao giờ, từ một thứ mà ta gọi là ĐƯỜNG. Nó hiện diện trong mỗi ngụm nước, mỗi bữa ăn... và đẩy sức khỏe của chúng ta đến miệng vực.
 

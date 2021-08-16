@@ -13,6 +13,6 @@
 ## Related:
 ```dataview
 list
-from [[! Fructose có TEF là 0 nên xét lại không tốt cho giảm cân so với glucose]]
+from [[❕ Fructose có TEF là 0 nên xét lại không tốt cho giảm cân so với glucose]]
 sort file.name asc
 ```
