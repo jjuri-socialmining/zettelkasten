@@ -1,11 +1,12 @@
 ---
-title: @ Kim Dung, Thiên Long Bát Bộ
 UID: 210816221258
 tags:
   - '#created/2021/Aug/16'
-  - '#permanent/concept'
+  - '#permanent/book'
   - '#flashcards'
-aliases: [Thiên Long Bát Bộ]
+aliases:
+  - "@ Kim Dung, Thiên Long Bát Bộ"
+  - Thiên Long Bát Bộ
 ---
 # @ Kim Dung, Thiên Long Bát Bộ
 

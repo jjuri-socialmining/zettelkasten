@@ -8,6 +8,8 @@ tags:
 dates:
   - birth:
   - die:
+aliases:
+  - {{title}}
 ---
 # {{title}}
 

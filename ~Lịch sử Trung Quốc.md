@@ -18,6 +18,8 @@
 [[Nhà Đường]]
 [[Tây Thục]]
 [[Đông Ngô]]
+[[Nhà Nguyên]]
+[[Nhà Đại Lý]]
 [[Nhà Thanh]]
 [[Thái Bình Thiên Quốc]]
 

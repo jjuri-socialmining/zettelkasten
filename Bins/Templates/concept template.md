@@ -5,7 +5,8 @@ tags:
   - '#created/{{date:YYYY/MMM/DD}}'
   - '#permanent/concept'
   - '#flashcards'
-aliases: [{{title}}]
+aliases: 
+  - "{{title}}"
 ---
 # {{title}}
 

@@ -13,5 +13,8 @@
   "obsidian-emoji-toolbar",
   "obsidian-admonition",
   "find-unlinked-files",
-  "tag-wrangler"
+  "tag-wrangler",
+  "calendar",
+  "note-refactor-obsidian",
+  "templater-obsidian"
 ]

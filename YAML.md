@@ -5,7 +5,8 @@ tags:
   - '#created/2021/Aug/15'
   - '#permanent/concept'
   - '#flashcards'
-aliases: [YAML]
+aliases: 
+  - YAML
 ---
 # YAML
 

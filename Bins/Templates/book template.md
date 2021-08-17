@@ -4,7 +4,8 @@ tags:
 - '#created/{{date:YYYY/MMM/DD}}'
 - '#source/book'  
 source: 
-aliases:[{{title}}]
+aliases:
+  - {{title}}
 ---
 
 # {{title}}
