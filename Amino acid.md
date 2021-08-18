@@ -1,3 +1,15 @@
+---
+title: "Amino acid"
+UID: 210818085155
+tags:
+  - '#created/2021/Aug/18'
+  - '#permanent/concept'
+  - '#flashcards'
+aliases: 
+  - "Amino acid"
+  - Acid Amin
+---
+
 # Amino acid
 
 - metadata
@@ -6,7 +18,7 @@
 	- source: 
 
 ## Notes
-Amino acid hay còn được gọi là [[Acid Amin]]
+Amino acid hay còn được gọi là Acid Amin
 Amino acid là hợp chất hữu cơ chứa nhóm [[Amin -NH2]] và nhóm [[Carboxyl -COOH]] và một mạch bên R tương ứng với mỗi acid amin nhất định.
 ![[Amino-Acid-Structure.jpg]]
 

@@ -22,6 +22,8 @@
 [[Nhà Đại Lý]]
 [[Nhà Thanh]]
 [[Thái Bình Thiên Quốc]]
+[[Nhà Kim]]
+[[Nhà Liêu]]
 
 ## Các tướng lĩnh, nhân vật lịch sử
 ### Liên quan tới Lịch sử Việt Nam

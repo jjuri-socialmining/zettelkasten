@@ -11,7 +11,7 @@ The [[PKM MOC]] shows the best practices of [[Knowledge Management]]. I use the 
 ### Personal Management
 The [[Mindsets MOC]] can galvanize my attention; the [[Concepts MOC]] can flavor it; and the [[Habits MOC]] speaks about how to direct it. 
 
-Others: [[Posture MOC]] and [[Hormesis MOC]] and [[Breathing Exercises MOC]]. [[~ Sách đã đọc]]
+Others: [[Posture MOC]] and [[Hormesis MOC]] and [[Breathing Exercises MOC]]. [[~Sách đã đọc]]
 
 ### Philosophy 🤔 & Psychology 🧠; Spirituality 🙏 & Religion ㊪
 [[~002 Triết học]] | [[Stoicism - Chủ nghĩa khắc kỷ]] | [[Confucianism MOC]] |

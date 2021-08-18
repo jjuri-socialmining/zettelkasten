@@ -1,6 +1,6 @@
 # 201027_whywesleep_q2
 
-Book: [[@ Matthew Walker, Why we sleep 1]]
+Book: [[@ Matthew Walker, Why we sleep]]
 Descrip: Ngủ trái ngược với tiến hóa
 Page: 13
 Tag: #Note

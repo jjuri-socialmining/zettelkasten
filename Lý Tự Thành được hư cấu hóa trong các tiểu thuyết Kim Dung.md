@@ -8,7 +8,7 @@
 ## Notes
 [[Lý Tự Thành]] được hư cấu hóa trong các tiểu thuyết [[Kim Dung]]
 - [[Bích Huyết Kiếm]]
-- [[@ Kim Dung, Lộc Đỉnh Ký 1]]
+- [[@ Kim Dung, Lộc Đỉnh Ký]]
 - [[Tuyết sơn phi hồ]]: 
 
 ## Questions & thoughts:

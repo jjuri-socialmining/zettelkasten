@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Tác giả quyển [[@ Hermann Hesse, Demian 1]]
+Tác giả quyển [[@ Hermann Hesse, Demian]]
 
 
 ## Questions & thoughts:

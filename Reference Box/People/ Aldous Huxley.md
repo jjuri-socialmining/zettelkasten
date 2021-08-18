@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Tác giả quyển [[@ George Orwell, 1984 1]]
+Tác giả quyển [[@ George Orwell, 1984]]
 
 ## Questions & thoughts:
 
