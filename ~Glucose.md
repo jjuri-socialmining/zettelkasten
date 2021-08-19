@@ -11,6 +11,8 @@ aliases: [Glucose]
 
 ## Notes
 
+^ee4021
+
 ## Related:
 ```dataview
 list

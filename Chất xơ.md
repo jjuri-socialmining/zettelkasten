@@ -14,14 +14,14 @@ aliases: [Chất xơ, Fiber, Cellose]
 Chất sơ hay còn gọi là ==[[Fiber]]== hay ==[[Cellose]]==
 - [[Chất xơ hòa tan]]
 - [[Chất xơ không hòa tan]]
-<!--SR:!2021-08-18,3,250!2021-08-18,3,250-->
+<!--SR:!2021-08-21,2,230!2021-08-21,2,230-->
 
 ## Questions & thoughts:
 
 
 ## Spaced Repetition
 Chất xơ tên tiếng Anh là gì?::Fiber hoặc Cellose
-<!--SR:!2021-08-18,3,250-->
+<!--SR:!2021-08-21,2,230-->
 
 ## Related:
 ```dataview

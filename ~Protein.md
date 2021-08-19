@@ -16,6 +16,6 @@ Thành phần Protein bao gồm C, H, O giống [[~Carbohydrate]] còn có thêm
 ## Related:
 ```dataview
 list
-from [[Protein MOC]]
+from [[~Protein]]
 sort file.name asc
 ```
