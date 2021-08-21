@@ -49,10 +49,11 @@
     "Chất xơ.md": {
       "totalCards": 3,
       "hasNewCards": false,
-      "nextDueDate": "2021-08-21",
-      "lastUpdated": 1629390185000,
+      "nextDueDate": "2021-08-26",
+      "lastUpdated": 1629500365000,
       "dueDatesFlashcards": {
-        "0": 3
+        "5": 2,
+        "6": 1
       }
     },
     "Glycemic Index.md": {
@@ -3766,13 +3767,6 @@
       "dueDatesFlashcards": {}
     },
     "Chỉ số GI lấy glucose làm chuẩn.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1629390185000,
-      "dueDatesFlashcards": {}
-    },
-    "Chất xơ hòa tan giúp ổn định đường huyết.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
@@ -10273,11 +10267,11 @@
     "Spaces/Daily/❓210815-2035.md": {
       "totalCards": 4,
       "hasNewCards": false,
-      "nextDueDate": "2021-08-21",
-      "lastUpdated": 1629390185000,
+      "nextDueDate": "2021-08-23",
+      "lastUpdated": 1629500335000,
       "dueDatesFlashcards": {
-        "0": 1,
         "2": 1,
+        "5": 1,
         "7": 1,
         "9": 1
       }
@@ -10303,10 +10297,10 @@
     "Spaces/Daily/❓210815-2024.md": {
       "totalCards": 3,
       "hasNewCards": false,
-      "nextDueDate": "2021-08-21",
-      "lastUpdated": 1629390185000,
+      "nextDueDate": "2021-08-22",
+      "lastUpdated": 1629500324000,
       "dueDatesFlashcards": {
-        "0": 1,
+        "1": 1,
         "9": 1,
         "11": 1
       }
@@ -10828,6 +10822,13 @@
       "dueDatesFlashcards": {}
     },
     "Các Đại Hãn Mông Cổ.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1629390185000,
+      "dueDatesFlashcards": {}
+    },
+    "No file.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
