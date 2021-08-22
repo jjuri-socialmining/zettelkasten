@@ -10,6 +10,7 @@
 
 ## Questions & thoughts:
 - [ ] Một nhân vật lịch sử dưới thời [[~Nhà Triệu]]
+- [ ] Lữ Gia giết vua [[Triệu Ai Vương]], vua đời thứ 4 của [[Nam Việt]]
 ## Related:
 ```dataview
 list

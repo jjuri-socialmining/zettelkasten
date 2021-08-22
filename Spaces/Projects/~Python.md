@@ -1,3 +1,14 @@
+---
+title: "~Python"
+UID: 210822231715
+tags:
+  - '#created/2021/Aug/22'
+  - '#permanent/concept'
+  - '#flashcards'
+aliases: 
+  - "Python"
+---
+
 # ~Python~
 
 %% 
