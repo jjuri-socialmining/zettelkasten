@@ -7,15 +7,14 @@
   "table-editor-obsidian",
   "advanced-toolbar",
   "obsidian-git",
-  "sliding-panes-obsidian",
   "obsidian-spaced-repetition",
   "obsidian-icons-plugin",
   "obsidian-emoji-toolbar",
   "obsidian-admonition",
-  "find-unlinked-files",
   "tag-wrangler",
   "calendar",
-  "note-refactor-obsidian",
   "templater-obsidian",
-  "workbench-obsidian"
+  "workbench-obsidian",
+  "quickadd",
+  "obsidian-kanban"
 ]

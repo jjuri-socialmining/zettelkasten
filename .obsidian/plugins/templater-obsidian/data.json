@@ -1,0 +1,15 @@
+{
+  "command_timeout": 5,
+  "template_folder": "Bins/Templates/Templater",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "script_folder": "",
+  "syntax_highlighting": true
+}

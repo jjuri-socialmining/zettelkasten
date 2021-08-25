@@ -32,7 +32,7 @@
     "maxLinkFactor": 1,
     "logLevel": 1
   },
-  "buryDate": "2021-08-23",
+  "buryDate": "2021-08-25",
   "buryList": [],
   "cache": {
     "Test neura cache.md": {
@@ -165,21 +165,21 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1628944853604,
+      "lastUpdated": 1629894361415,
       "dueDatesFlashcards": {}
     },
     "~Cựu Ước.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1629023707000,
+      "lastUpdated": 1629894361403,
       "dueDatesFlashcards": {}
     },
     "~CI & CD.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1629128903013,
+      "lastUpdated": 1629894361367,
       "dueDatesFlashcards": {}
     },
     "White grain.md": {
@@ -1453,7 +1453,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1627182584289,
+      "lastUpdated": 1629894361431,
       "dueDatesFlashcards": {}
     },
     "Zettelkasten Workflow.md": {
@@ -2692,7 +2692,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1627178084654,
+      "lastUpdated": 1629894361293,
       "dueDatesFlashcards": {}
     },
     "Một lý do khiến ta buồn ngủ sau khi ăn no là Insulin.md": {
@@ -4603,7 +4603,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1629122241537,
+      "lastUpdated": 1629894361504,
       "dueDatesFlashcards": {}
     },
     "~Zettelkasten.md": {
@@ -4890,7 +4890,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1629503128992,
+      "lastUpdated": 1629894361303,
       "dueDatesFlashcards": {}
     },
     "z_chat dan truyen than kinh.md": {
@@ -9636,7 +9636,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1629041170560,
+      "lastUpdated": 1629894361096,
       "dueDatesFlashcards": {}
     },
     "Bins/Notion-to-Obsidian-Converter/README.md": {
@@ -9965,7 +9965,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1629034908488,
+      "lastUpdated": 1629894361209,
       "dueDatesFlashcards": {}
     },
     "Obsidian Spaced Repetition Plugin.md": {
@@ -9974,7 +9974,7 @@
       "nextDueDate": "2021-08-23",
       "lastUpdated": 1629503128941,
       "dueDatesFlashcards": {
-        "0": 4
+        "-2": 4
       }
     },
     "Reference Box/People/Trần Thị Ngọc Diệp.md": {
@@ -10212,42 +10212,42 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1629024710293,
+      "lastUpdated": 1629894361277,
       "dueDatesFlashcards": {}
     },
     "Bins/Templates/reference template.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1629024766861,
+      "lastUpdated": 1629894361209,
       "dueDatesFlashcards": {}
     },
     "Bins/Templates/people template.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1629209917377,
+      "lastUpdated": 1629894361198,
       "dueDatesFlashcards": {}
     },
     "Bins/Templates/linking template.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1629024684382,
+      "lastUpdated": 1629894361197,
       "dueDatesFlashcards": {}
     },
     "Bins/Templates/fact template.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1629017353324,
+      "lastUpdated": 1629894361190,
       "dueDatesFlashcards": {}
     },
     "Bins/Templates/concept template.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1629209685189,
+      "lastUpdated": 1629894361161,
       "dueDatesFlashcards": {}
     },
     "Reference Box/People/Lão Tử.md": {
@@ -10261,7 +10261,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1629209707054,
+      "lastUpdated": 1629894361293,
       "dueDatesFlashcards": {}
     },
     "Spaces/Daily/❓210815-2035.md": {
@@ -10270,10 +10270,10 @@
       "nextDueDate": "2021-08-23",
       "lastUpdated": 1629503128962,
       "dueDatesFlashcards": {
-        "0": 1,
+        "1": 1,
         "3": 1,
         "5": 1,
-        "7": 1
+        "-2": 1
       }
     },
     "Spaces/Daily/❓210815-1602.md": {
@@ -10300,9 +10300,9 @@
       "nextDueDate": "2021-08-22",
       "lastUpdated": 1629503128962,
       "dueDatesFlashcards": {
+        "5": 1,
         "7": 1,
-        "9": 1,
-        "-1": 1
+        "-3": 1
       }
     },
     "Spaces/Daily/❓210815-2137.md": {
@@ -10329,8 +10329,8 @@
       "nextDueDate": "2021-08-22",
       "lastUpdated": 1629503128965,
       "dueDatesFlashcards": {
-        "7": 1,
-        "-1": 1
+        "5": 1,
+        "-3": 1
       }
     },
     "Spaces/Daily/❓210815-2157.md": {
@@ -10349,7 +10349,7 @@
       "nextDueDate": "2021-08-25",
       "lastUpdated": 1629503128964,
       "dueDatesFlashcards": {
-        "3": 1
+        "0": 1
       }
     },
     "Spaces/Daily/❓210815-2047.md": {
@@ -10430,8 +10430,8 @@
       "nextDueDate": "2021-08-25",
       "lastUpdated": 1629503128966,
       "dueDatesFlashcards": {
-        "3": 1,
-        "10": 1
+        "0": 1,
+        "7": 1
       }
     },
     "Spaces/Daily/❓210815-2216.md": {
@@ -10505,7 +10505,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1629210139261,
+      "lastUpdated": 1629894361506,
       "dueDatesFlashcards": {}
     },
     "Đại Việt.md": {
@@ -10669,7 +10669,7 @@
       "nextDueDate": "2021-08-22",
       "lastUpdated": 1629503128970,
       "dueDatesFlashcards": {
-        "-1": 1
+        "-3": 1
       }
     },
     "Spaces/Daily/❓210816-2240.md": {
@@ -10916,14 +10916,140 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1629649650163,
+      "lastUpdated": 1629894361249,
       "dueDatesFlashcards": {}
     },
     "Bins/Templates/seed concept template.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
+      "lastUpdated": 1629894361225,
+      "dueDatesFlashcards": {}
+    },
+    "Bins/Templates/Core/❕ Nhờ có Đại Việt mà quân Nguyên không thể mở rộng xuống vùng Đông Nam Á được.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1629210139261,
+      "dueDatesFlashcards": {}
+    },
+    "Bins/Templates/Core/~Âu Lạc.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1629122241537,
+      "dueDatesFlashcards": {}
+    },
+    "Bins/Templates/Core/~Nhà Triệu.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1627182584289,
+      "dueDatesFlashcards": {}
+    },
+    "Bins/Templates/Core/~Hormone.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1628944853604,
+      "dueDatesFlashcards": {}
+    },
+    "Bins/Templates/Core/~Cựu Ước.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1629023707000,
+      "dueDatesFlashcards": {}
+    },
+    "Bins/Templates/Core/~CI & CD.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1629128903013,
+      "dueDatesFlashcards": {}
+    },
+    "Bins/Templates/Core/~000 Home.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1629503128992,
+      "dueDatesFlashcards": {}
+    },
+    "Bins/Templates/Core/yaml template.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1629209707054,
+      "dueDatesFlashcards": {}
+    },
+    "Bins/Templates/Core/thinking template.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1629024710293,
+      "dueDatesFlashcards": {}
+    },
+    "Bins/Templates/Core/seed fact template.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1629649650163,
+      "dueDatesFlashcards": {}
+    },
+    "Bins/Templates/Core/seed concept template.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
       "lastUpdated": 1629649466419,
+      "dueDatesFlashcards": {}
+    },
+    "Bins/Templates/Core/reference template.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1629024766861,
+      "dueDatesFlashcards": {}
+    },
+    "Bins/Templates/Core/question template.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1629034908488,
+      "dueDatesFlashcards": {}
+    },
+    "Bins/Templates/Core/people template.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1629209917377,
+      "dueDatesFlashcards": {}
+    },
+    "Bins/Templates/Core/linking template.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1629024684382,
+      "dueDatesFlashcards": {}
+    },
+    "Bins/Templates/Core/fact template.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1629017353324,
+      "dueDatesFlashcards": {}
+    },
+    "Bins/Templates/Core/Daily Note Template.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1629041170560,
+      "dueDatesFlashcards": {}
+    },
+    "Bins/Templates/Core/concept template.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1629209685189,
       "dueDatesFlashcards": {}
     }
   }

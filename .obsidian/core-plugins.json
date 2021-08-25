@@ -8,16 +8,12 @@
   "tag-pane",
   "page-preview",
   "daily-notes",
-  "templates",
   "note-composer",
   "command-palette",
   "starred",
   "random-note",
   "outline",
-  "slides",
   "open-with-default-app",
   "workspaces",
-  "file-recovery",
-  "publish",
-  "sync"
+  "file-recovery"
 ]
