@@ -3,7 +3,13 @@
   
   if (title.startsWith("Untitled")) {
     title = tp.date.now("📝YYMMDD");
-    await tp.file.rename(title);
+	if (tp.file.exists(title)) {
+      await tp.system.prompt("!!! The file name" + title + " is exist");
+	  return;
+    }
+	else {
+	  await tp.file.rename(title);
+	}
   }
 
   note_type = await tp.system.suggester(["Routine", "Private"], ["#daily/routine", "#daily/private"]);
