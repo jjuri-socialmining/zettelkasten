@@ -1,8 +1,8 @@
-[[~000 Home]]
-%% - metadata:
-	- tags: #MOC %% 
-# Interests MOC 
-Navigate your "library" with a classification system modified for PKM. #MOC
+---
+tags: '#MOC'
+alias:
+---
+# Interests 
 
 ---
 ### Knowledge Management
@@ -14,8 +14,10 @@ The [[Mindsets MOC]] can galvanize my attention; the [[Concepts MOC]] can flavor
 Others: [[Posture MOC]] and [[Hormesis MOC]] and [[Breathing Exercises MOC]]. [[~Sách đã đọc]]
 
 ### Philosophy 🤔 & Psychology 🧠; Spirituality 🙏 & Religion ㊪
-[[~002 Triết học]] | [[Stoicism - Chủ nghĩa khắc kỷ]] | [[Confucianism MOC]] |
-[[~Religion]] | [[~006 Psychology]]
+[[~002 Triết học|Triết học]] 
+[[Stoicism - Chủ nghĩa khắc kỷ]] 
+[[~Religion]] 
+[[~006 Psychology]]
 [[~Self Improvement]]
 
 ### Social Sciences 👥

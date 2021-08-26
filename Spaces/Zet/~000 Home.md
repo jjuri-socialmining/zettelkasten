@@ -1,32 +1,5 @@
-# Nutrition MOC
-
-%% 
-- metadata:
-	- tags: #created/2021/Aug/10, #MOC 
-%%
-
-## Note
-[[4 nhóm chất dinh dưỡng thiết yếu]]
-* [[~Carbohydrate]]
-	* [[~Glucose]]
-	* ![[Tinh bột]]
-* ![[~Protein]]
-* [[Lipid]]
-* [[~Vitamin]]
-
-* [[Chất xơ]]
-
-## Các chỉ số dinh dưỡng
-Hệ thống [[DRIs]]
-
-
-## Related:
-```dataview
-list
-from [[Nutrition MOC]]
-sort file.name asc
-```
 ---
+tags: '#MOC'
 alias: ["000", "Home"]
 ---
 # Home
@@ -49,7 +22,7 @@ This is your launchpad and homebase. Your personal North Star. That's here. That
 	- 10 - [[PKM MOC]]
 
 ---
-| #question❓ |   [[Finances MOC|Finance]] | [[Commonplace MOC|Commonplace]] | [[I want to...]] 
+| #question❓ |   [[Commonplace MOC|Commonplace]] | [[I want to...]] 
 
 `#project/active` | `#project/slowburn`
 `#project/idea` | `#project/idle` | `#project/archive` 
@@ -63,4 +36,3 @@ Search Strings
 - `#pp OR #bb` - For building blocks of achieved, added, thought
 
 ---
-![[Pale Blue Dot 4K Banner.png]]
