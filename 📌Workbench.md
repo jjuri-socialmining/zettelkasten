@@ -1,4 +1,3 @@
-
 [[210822-2259]]
 [[18 đời vua Hùng là con số ước lệ]]
 [[Hùng triều ngọc phả nói rằng họ Hồng Bàng bao gồm 18 đời vua]]
@@ -6,3 +5,5 @@
 [[Triệu Đà truyền ngôi cho con của Trọng Thủy]]
 [[Thời Hậu Lê, vua Lê Thánh Tông được xem là thành công nhất trong việc cai trị và phát triển đất nước]]
 [[Sử Trung Quốc có 2 nhà Hán cách nhau một thời gian ngắn]]
+
+---

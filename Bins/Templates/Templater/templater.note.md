@@ -5,7 +5,7 @@
     await tp.file.rename(title);
   }
 
-  note_process = await tp.system.suggester(["Seed", "Seeding", "Evergreen", "Garden"], ["#🥜", "#🌱","#🌲", "#🏡"]);
+  note_process = await tp.system.suggester(["Seed", "Seeding", "Evergreen", "Garden"], ["#seed🥜", "#seeding🌱","#evergreen🌲", "#garden🏡"]);
 
   note_type = await tp.system.suggester(["concept", "fact", "people", "think", "link"], ["#permanent/concept", "#permanent/fact", "#permanent/people", "#permanent/think", "#permanent/link"]);
   
@@ -15,7 +15,7 @@
 	await tp.file.move("/Spaces/Zet/Thinking/" + title);
   }
   else if (note_type == "#permanent/people"){
-    await tp.file.move("/Spaces/Zet/People" + title);
+    await tp.file.move("/Spaces/Zet/People/" + title);
   }
   else {
     await tp.file.move("/Spaces/Zet/" + title);

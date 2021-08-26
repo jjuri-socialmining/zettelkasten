@@ -5,7 +5,7 @@ tags:
 - '#source/book'  
 source: 
 aliases:
-  - Thế thứ các triều vua Việt Nam
+  - '@ Thế thứ các triều vua Việt Nam'
 ---
 
 # @ Nguyễn Khắc Thuần, Thế thứ các triều vua Việt Nam
