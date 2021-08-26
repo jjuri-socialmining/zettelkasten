@@ -18,9 +18,9 @@
     await tp.file.move("/Spaces/Zet/" + title);
   }
 
-  alias_txt = ""
+  alias_txt = ''
   if (note_type == "#permanent/concept") {
-    alias_txt = "'"+title+"'"
+    alias_txt = title
   }
    
   tR += "---"

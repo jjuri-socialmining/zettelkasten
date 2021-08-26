@@ -3,20 +3,11 @@ title: {{title}}
 UID: {{date:YYMMDDHHmmss}}
 tags:
   - '#created/{{date:YYYY/MMM/DD}}'
-  - '#question❓'
   - '#daily'
 ---
 
-## Cards content:
----
+## Notes:
 
-{{title}}
-
-
----
-%%
-[[Obsidian Spaced Repetition Plugin]]
-%%
 
 ## Tham khảo:
 ```dataview
