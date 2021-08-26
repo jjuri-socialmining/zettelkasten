@@ -7,7 +7,7 @@ URL: https://www.nateliason.com/blog/deliberate-practice-examples
 
 ![[@ nateliason, 45 Deliberate Practice Examples for /5b2f8a35390136b41d3dc75d_Painting.png]]
 
-[[Deliberate practice]] is by far the most effective method for rapidly improving your abilities at any skill. If you’re lucky enough to have a good coach, they’ll take care of the planning and feedback necessary for effective deliberate practice. But when you’re learning on your own, you have to get creative in how you challenge yourself and assess your abilities.
+[[Deliberate Practice]] is by far the most effective method for rapidly improving your abilities at any skill. If you’re lucky enough to have a good coach, they’ll take care of the planning and feedback necessary for effective deliberate practice. But when you’re learning on your own, you have to get creative in how you challenge yourself and assess your abilities.
 
 Out of my own interest in self-education, I’m collecting as many examples as I can find for ways you can independently challenge your abilities and get feedback in different fields. Each of these methods targets part of the deliberate practice roadmap and provide ways to take advantage of it without a dedicated coach.
 
