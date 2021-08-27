@@ -45,7 +45,7 @@ Nhưng ở thế giới thực, việc học không diễn ra như thế. Nếu 
 
 **Cách bạn học trong đời thực :**
 
-![[B/1597242897784-5b2b0a59357109b69c0b8262_Good-learning-method.png]]
+![[1597242897784-5b2b0a59357109b69c0b8262_Good-learning-method.png]]
 
 1. Tiếp nhận vấn đề
 
@@ -109,7 +109,7 @@ Khi vùng thử đã sẵn sàng, giờ bạn có thể bắt đầu nghiên c�
 
 **BƯỚC 2: NGHIÊN CỨU**
 
-![[B/1597241991085-63-learning-01.png]]
+![[1597241991085-63-learning-01.png]]
 
 Để tiếp tục mở rộng đường biên của vùng thử, gia tăng mức độ kỹ năng mà bạn có thể thực hành và áp dụng, bạn sẽ cần có sự đầu tư nhất định cho việc nghiên cứu. Các tài nguyên trực tuyến luôn có sẵn để dạy bạn bất cứ điều gì bạn muốn học, vấn đề ở đây là cần tìm ra những gì đáng đọc, đáng xem và/hoặc đáng nghe.
 

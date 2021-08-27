@@ -68,7 +68,7 @@ GL là một chỉ số cho biết đường huyết sẽ tăng BAO NHIÊU (nhi
 
 Tính bằng công thức sau:
 
-![[GLformula.gif]]
+![[Reference_Box/Articles/@ mrquangchanh blogspot com, Chỉ số đường hu/GLformula.gif]]
 
 Carbohydrate content: lượng carbohydrate có trong thực phẩm đó (ớ 1 khối lượng nhất định.)
 

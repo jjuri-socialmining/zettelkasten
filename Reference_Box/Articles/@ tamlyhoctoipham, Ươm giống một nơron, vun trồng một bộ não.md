@@ -49,7 +49,7 @@ Trong một nghiên cứu của Henriette van Praag và đồng nghiệp, c
 
 Kết quả cho thấy những con chuột chạy thể dục có số nơron mới - những chấm đen trên ảnh - nhiều gấp đôi những con sống đời lười biếng, nhiều hơn cả những con chỉ học hành và những con có cơ hội bơi lội. Không những thế, bọn chuột chạy thể dục sau đó còn học cách tìm đường nhanh hơn, nghĩa là nơron sản sinh mới khiến đầu óc chúng trở nên sáng sủa thông minh hơn (hình 2).
 
-[[Untitled]]
+[[untitled]]
 
 Nhưng như vậy hóa ra chỉ chạy bộ mới làm não sản sinh nơron mới hay sao? Với bọn chuột thì là vậy, còn với người, chúng ta chưa có nhiều nghiên cứu cụ thể vì ta không thể mổ óc người sau khi cho họ tập các môn thể dục khác nhau để so sánh như ta làm với chuột.
 

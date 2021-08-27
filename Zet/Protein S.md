@@ -11,7 +11,7 @@ Protein S là một protein huyết tương được tạo ra trong gan. Protein
 Để thực hiện chức năng của mình, Protein S phụ thuộc vào [[Vitamin K]]
 
 ## Questions & thoughts:
-- [[Protein huyết tương]] là gì? #question❓ 
+- [[Protein huyết tương]] là gì? 
 - [[Huyết tương MOC]] là gì?
 - 
 

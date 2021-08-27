@@ -12,12 +12,18 @@
 |           | [[Nhà Hán]] |
 |           |             |
 
+[[Nhà Hạ]]
+[[Nhà Thương]]
+[[Nhà Chu]]
+
 [[Đông Hán]]
 [[Nhà Lương]]
 [[Nhà Tùy]]
 [[Nhà Đường]]
 [[Tây Thục]]
 [[Đông Ngô]]
+[[Nhà Tấn]]
+[[Nhà Tống]]
 [[Nhà Nguyên]]
 [[Nhà Đại Lý]]
 [[Nhà Thanh]]

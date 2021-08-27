@@ -11,8 +11,9 @@ aliases:
 # Enter the garden
 
 ## Tools:
-[[📌Workbench]]
-[[⏩Quick note]]
+[[📌 Workbench]]
+[[⏩ Quick note]]
+[[📑 Bookmark]]
 
 ## Favor
 [[~Lịch Sử Việt Nam]]

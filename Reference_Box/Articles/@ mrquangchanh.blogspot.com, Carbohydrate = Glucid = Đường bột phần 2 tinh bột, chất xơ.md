@@ -9,7 +9,7 @@ URL: http://mrquangchanh.blogspot.com/2016/02/14-carbohydrate-glucid-uong-bot-ph
 
 Như đã nói ở phần trước, con người không thể tự tổng hợp nên năng lượng cho riêng mình từ ánh sáng, không khí mà phải thông qua một mắt xích trung gian là thực vật. Các đơn vị đường cơ bản được tạo thành đầu tiên là các monosacharide. Hai monosacharide kết hợp với nhau để tạo thành disacharide.... Nếu quá trình như thế cứ tiêp diễn sẽ có sự hiện hiện của polysacharide (poly: nghĩa là "nhiều"), một dạng carbohydrate phức tạp.
 
-![[@ mrquangchanh blogspot com, Carbohydrate = Glucid/ed929503f6e47180eb307d29ab220c8628129.png]]
+![[ed929503f6e47180eb307d29ab220c8628129.png]]
 
 **1. Tinh bột (starches)**
 
@@ -33,7 +33,7 @@ Amylose: chỉ là một chuỗi các glucose nối với nhau, không có nhán
 
 Do sự khác biệt về cấu trúc, đã tạo nên sự khác biệt ở:
 
-![[@ mrquangchanh blogspot com, Carbohydrate = Glucid/amylose.png]]
+![[amylose.png]]
 
 [[Sự khác nhau giữa amylose và amylose pectin]] 
 

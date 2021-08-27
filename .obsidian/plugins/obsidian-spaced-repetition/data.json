@@ -32,23 +32,9 @@
     "maxLinkFactor": 1,
     "logLevel": 1
   },
-  "buryDate": "2021-08-26",
+  "buryDate": "2021-08-27",
   "buryList": [],
   "cache": {
-    "~000 Interests.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1629002746442,
-      "dueDatesFlashcards": {}
-    },
-    "~000 Home.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1629980585120,
-      "dueDatesFlashcards": {}
-    },
     "Spaces/Projects/~Python.md": {
       "totalCards": 0,
       "hasNewCards": false,
@@ -110,293 +96,6 @@
       "hasNewCards": false,
       "nextDueDate": "",
       "lastUpdated": 1626529328194,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/Sample of Generate Liturature note.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1625405364575,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/Articles/Zotero best practices - Knowledge management.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1625499232009,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/Articles/ybox.vn, Hiểu Về Vô Thức Tập Thể (The Collective Unconscious) Theo Quan Điểm Của Nhà Tâm Lý Học Carl Jung.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1625917206701,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/Articles/legiomariaevn.com, Tìm hiểu các ngụy thư.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1625917206686,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/Articles/leananki.com, Zettelkasten Method How to Take Smart Notes for Knowledge Management.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1625917206686,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/Articles/ichi.pro, Chủ nghĩa hiện sinh vs Chủ nghĩa hư vô.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1625917206686,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/Articles/huemed-univ.edu.vn, Đặc điểm virus của Coronavirus và chủng Sars-Cov-2.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1626098351470,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/Articles/benhnhietdoi.vn, Đại cương về Coronavirus.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1625917206686,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/Articles/@ ybox, Sandbox - Phương Pháp Giúp Bạn Học Bất Cứ Thứ Gì - YBOX.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1628603766831,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/Articles/@ tamlyhoctoipham, Ươm giống một nơron, vun trồng một bộ não.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1628605079988,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/Articles/@ puratosgrandplace.com, Bánh mì nguyên cám - Xu hướng bánh mì dinh dưỡng ngày nay.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1628944853297,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/Articles/@ nateliason, Self-Education Teach Yourself Anything with the Sandbox Method - Nat Eliason.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1628603766816,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/Articles/@ nateliason, 45 Deliberate Practice Examples for Rapidly Improving Your Skills - Nat Eliason.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1628604441923,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/Articles/@ mrquangchanh.blogspot.com, Năng lượng - các yếu tố ảnh hưởng chuyển hóa cơ bản phần 4.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1628944853296,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/Articles/@ mrquangchanh.blogspot.com, Người em của đường (sugar).md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1628944853296,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/Articles/@ mrquangchanh.blogspot.com, Chỉ số đường huyết GI và tải lượng đường huyết GL.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1629015727286,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/Articles/@ mrquangchanh.blogspot.com, Carbohydrate = Glucid = Đường bột phần 2 tinh bột, chất xơ.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1628944853295,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/Articles/@ mrquangchanh.blogspot.com, Carbohydrate = Glucid = Đường bột phần 1.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1629015727244,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/Articles/@ mrquangchanh, Nguyên tắc dinh dưỡng 3.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1628603766800,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/Articles/@ mrquangchanh, Hiểu DRIs, EAR, RDA, AI, UL, %DV là gì.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1628603766742,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/Articles/@ mrquangchanh, Dinh dưỡng và sự bối rối.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1628603766742,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/Articles/@ mrquangchanh, 6 nhóm dinh dưỡng thiết yếu.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1628944853294,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/Articles/@ How to Use Deliberate Practice to Reach the Top 1% of Your Field - Nat Eliason.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1628603766742,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/201025_Ego_8.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1628990879744,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/200920-5n-1.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1628688954604,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/200906-5n-1.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1625405190488,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/200905_whywesleep_q1.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1628688760237,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/200905_5n2.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1628953618462,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/200905_5n1.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1628953616009,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/0-Ref-Chu-nghia-hu-vo.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1624984550573,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/0-Nguy thu.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1628689689281,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/0-Marc-Aurele-Qo-1.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1628701013336,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/0-LearnHowToLearn_Qo_4.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1625405181132,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/0-LearnHowToLearn_Qo_3.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1625405174988,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/0-LearnHowToLearn_Qo_2.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1628690040994,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/0-LearnHowToLearn_Qo_1.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1628689294390,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/0-Goethe nói về đam mê.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1625069651700,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/Articles/@ wiki, Cựu Ước.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1629125940152,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/Articles/@ wiki, Bảo Đại.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1629021799517,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/Articles/@ wiki, Bản bảy mươi.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1629023519892,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/Articles/@ vi.wikipedia.org, Ngụy thư Giacobe.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1625924217791,
       "dueDatesFlashcards": {}
     },
     "Bins/Templates/Core/yaml template.md": {
@@ -474,27 +173,6 @@
       "hasNewCards": false,
       "nextDueDate": "",
       "lastUpdated": 1629894361161,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/Books/@ Kim Dung, Thiên Long Bát Bộ.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1629209554745,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/Books/@ Kim Dung, Lộc Đỉnh Ký.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1629503128957,
-      "dueDatesFlashcards": {}
-    },
-    "Reference Box/Books/@ Benjamin Franklin, Tự Truyện của Benjamin Franklin.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1629023519836,
       "dueDatesFlashcards": {}
     },
     "Spaces/Zet/~Nhà Triệu.md": {
@@ -1315,9 +993,9 @@
       "nextDueDate": "2021-08-26",
       "lastUpdated": 1629503128974,
       "dueDatesFlashcards": {
-        "0": 1,
-        "3": 1,
-        "5": 1
+        "2": 1,
+        "4": 1,
+        "-1": 1
       }
     },
     "Spaces/Zet/Tây Sơn tam kiệt.md": {
@@ -1904,10 +1582,13 @@
     "Spaces/Zet/Obsidian Spaced Repetition Plugin.md": {
       "totalCards": 4,
       "hasNewCards": false,
-      "nextDueDate": "2021-08-23",
-      "lastUpdated": 1629503128941,
+      "nextDueDate": "2021-09-22",
+      "lastUpdated": 1630079662382,
       "dueDatesFlashcards": {
-        "-3": 4
+        "26": 1,
+        "27": 1,
+        "28": 1,
+        "30": 1
       }
     },
     "Spaces/Zet/Obsidian Dataview plugin.md": {
@@ -4307,11 +3988,12 @@
     "Spaces/Zet/Chất xơ.md": {
       "totalCards": 3,
       "hasNewCards": false,
-      "nextDueDate": "2021-08-26",
-      "lastUpdated": 1629503128937,
+      "nextDueDate": "2021-09-14",
+      "lastUpdated": 1630079675351,
       "dueDatesFlashcards": {
-        "0": 2,
-        "1": 1
+        "18": 1,
+        "19": 1,
+        "20": 1
       }
     },
     "Spaces/Zet/Chất tạo ngọt nhân tạo khiến vị giác cảm thấy vị ngọt.md": {
@@ -4808,7 +4490,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1629021270969,
+      "lastUpdated": 1630078620853,
       "dueDatesFlashcards": {}
     },
     "Spaces/Zet/Bách gia Chư tử.md": {
@@ -5525,13 +5207,6 @@
       "lastUpdated": 1629503128942,
       "dueDatesFlashcards": {}
     },
-    "Spaces/Daily/Questions/❓210826-2039.md": {
-      "totalCards": 1,
-      "hasNewCards": true,
-      "nextDueDate": "",
-      "lastUpdated": 1629985205289,
-      "dueDatesFlashcards": {}
-    },
     "Spaces/Daily/Questions/❓210816-2248.md": {
       "totalCards": 2,
       "hasNewCards": false,
@@ -5605,9 +5280,9 @@
       "totalCards": 1,
       "hasNewCards": false,
       "nextDueDate": "2021-08-27",
-      "lastUpdated": 1629503128968,
+      "lastUpdated": 1630079720255,
       "dueDatesFlashcards": {
-        "1": 1
+        "0": 1
       }
     },
     "Spaces/Daily/Questions/❓210815-2248.md": {
@@ -5616,8 +5291,8 @@
       "nextDueDate": "2021-08-27",
       "lastUpdated": 1629503128968,
       "dueDatesFlashcards": {
-        "1": 1,
-        "6": 1
+        "0": 1,
+        "5": 1
       }
     },
     "Spaces/Daily/Questions/❓210815-2245.md": {
@@ -5694,34 +5369,34 @@
     "Spaces/Daily/Questions/❓210815-2137.md": {
       "totalCards": 3,
       "hasNewCards": false,
-      "nextDueDate": "2021-08-26",
-      "lastUpdated": 1629503128963,
+      "nextDueDate": "2021-08-28",
+      "lastUpdated": 1629985252896,
       "dueDatesFlashcards": {
-        "0": 1,
+        "1": 1,
         "2": 1,
-        "3": 1
+        "15": 1
       }
     },
     "Spaces/Daily/Questions/❓210815-2047.md": {
       "totalCards": 2,
       "hasNewCards": false,
-      "nextDueDate": "2021-08-27",
-      "lastUpdated": 1629503128963,
+      "nextDueDate": "2021-09-01",
+      "lastUpdated": 1630079684732,
       "dueDatesFlashcards": {
-        "1": 1,
-        "6": 1
+        "5": 1,
+        "25": 1
       }
     },
     "Spaces/Daily/Questions/❓210815-2035.md": {
       "totalCards": 4,
       "hasNewCards": false,
-      "nextDueDate": "2021-08-26",
-      "lastUpdated": 1629939362245,
+      "nextDueDate": "2021-08-28",
+      "lastUpdated": 1629985247735,
       "dueDatesFlashcards": {
-        "0": 1,
-        "2": 1,
-        "4": 1,
-        "12": 1
+        "1": 1,
+        "3": 1,
+        "11": 1,
+        "17": 1
       }
     },
     "Spaces/Daily/Questions/❓210815-2024.md": {
@@ -5747,11 +5422,158 @@
     "Spaces/Daily/Questions/❓210815-1602.md": {
       "totalCards": 1,
       "hasNewCards": false,
-      "nextDueDate": "2021-08-26",
-      "lastUpdated": 1629909229048,
+      "nextDueDate": "2021-09-20",
+      "lastUpdated": 1629985236553,
       "dueDatesFlashcards": {
-        "0": 1
+        "24": 1
       }
+    },
+    "🏡 Enter the garden.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630071320682,
+      "dueDatesFlashcards": {}
+    },
+    "Spaces/Zet/~000 Home.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1629980585120,
+      "dueDatesFlashcards": {}
+    },
+    "Spaces/Zet/People/Arpad Elo.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1629987881482,
+      "dueDatesFlashcards": {}
+    },
+    "Spaces/Zet/People/Magnus Carlsen.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1629989676486,
+      "dueDatesFlashcards": {}
+    },
+    "Spaces/Zet/Người sáng lập ra hệ số Elo là một đại kiện tướng cờ vua.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1629987966557,
+      "dueDatesFlashcards": {}
+    },
+    "Spaces/Zet/Magnus Carlsen đang giữ kỷ lục người từng đạt được điểm số ELO cao nhất.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1629989719637,
+      "dueDatesFlashcards": {}
+    },
+    "Spaces/Zet/Magnus Carlsen yêu thích giai đoạn trung cuộc của môt ván cờ.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1629990005650,
+      "dueDatesFlashcards": {}
+    },
+    "Spaces/Zet/Hệ số ELO.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1629989709196,
+      "dueDatesFlashcards": {}
+    },
+    "Spaces/Zet/Cờ Vua.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1629989820324,
+      "dueDatesFlashcards": {}
+    },
+    "Spaces/Zet/Cách tính toán hệ số ELO.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1629989322378,
+      "dueDatesFlashcards": {}
+    },
+    "Spaces/Zet/18 đời vua Hùng là con số ước lệ.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1629987196006,
+      "dueDatesFlashcards": {}
+    },
+    "Reference_Box/Books/@ Kim Dung, Thiên Long Bát Bộ.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1629209554745,
+      "dueDatesFlashcards": {}
+    },
+    "Reference_Box/Books/@ Kim Dung, Lộc Đỉnh Ký.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1629503128957,
+      "dueDatesFlashcards": {}
+    },
+    "Reference_Box/Books/@ Benjamin Franklin, Tự Truyện của Benjamin Franklin.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1629023519836,
+      "dueDatesFlashcards": {}
+    },
+    "Reference_Box/Articles/@ wiki, Cựu Ước.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1629125940152,
+      "dueDatesFlashcards": {}
+    },
+    "Reference_Box/Articles/@ wiki, Bảo Đại.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1629021799517,
+      "dueDatesFlashcards": {}
+    },
+    "Reference_Box/Articles/@ wiki, Bản bảy mươi.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1629023519892,
+      "dueDatesFlashcards": {}
+    },
+    "Reference_Box/Articles/@ vi.wikipedia.org, Ngụy thư Giacobe.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1625924217791,
+      "dueDatesFlashcards": {}
+    },
+    "Spaces/Zet/Nhà Tấn.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630079510879,
+      "dueDatesFlashcards": {}
+    },
+    "Spaces/Zet/Vạn Lý Trường Thành.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630078464105,
+      "dueDatesFlashcards": {}
+    },
+    "Spaces/Zet/Khương Tử Nha là một tướng dưới thời Chu Vũ Vương.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630072451480,
+      "dueDatesFlashcards": {}
     }
   }
 }

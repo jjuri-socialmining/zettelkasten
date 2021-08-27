@@ -9,4 +9,4 @@ Thermic Effect of Food - TEF của [[~Carbohydrate]] và [[~Protein]] cao hơn  
 
 Thermic Effect of Food - TEF chiếm khoảng 6-15% năng lượng hàng ngày.
 
-![[Calorieoutputpiechart.jpg]]
+![[Bins/Images/Calorieoutputpiechart.jpg]]

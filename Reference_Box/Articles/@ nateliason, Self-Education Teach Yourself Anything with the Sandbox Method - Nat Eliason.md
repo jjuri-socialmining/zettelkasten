@@ -37,11 +37,11 @@ There are no classes where the professor shows up and says “*figure out how to
 
 **The way we’re taught to learn:**
 
-![[@ nateliason, Self-Education Teach Yourself Anythi/5b2b0a4dbf9f8023934117c9_Bad-learning-method.png]]
+![[5b2b0a4dbf9f8023934117c9_Bad-learning-method.png]]
 
 **The way you really learn:**
 
-![[Anythi/5b2b0a59357109b69c0b8262_Good-learning-method.png]]
+![[5b2b0a59357109b69c0b8262_Good-learning-method.png]]
 
 If this sounds like “guess and check,” the process that some teacher probably told you was “bad” at some point, that’s because it *is* guess and check. And it’s a magnitudes better method than expecting to know the solution to your problems beforehand.
 
@@ -172,7 +172,7 @@ When you reach a learning goal, or feel like you’ve become comfortable with an
 
 This creates **the self-education loop**. A perpetual cycle of constant learning and improvement, where you never have to stop improving your abilities or stagnate at a learning plateau:
 
-![[@ nateliason, Self-Education Teach Yourself Anythi/5b2b0a7d8998dc205c5a23ee_pasted-image-0-25.png]]
+![[5b2b0a7d8998dc205c5a23ee_pasted-image-0-25.png]]
 
 ## Troubleshooting
 
