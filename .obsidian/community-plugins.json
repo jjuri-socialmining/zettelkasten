@@ -16,5 +16,8 @@
   "templater-obsidian",
   "workbench-obsidian",
   "quickadd",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "markdown-prettifier",
+  "obsidian-extract-pdf-highlights",
+  "obsidian-journey-plugin"
 ]

@@ -6,7 +6,7 @@ let firstOrLastLine = 'last';
 
 //Name of the Quick Capture file. Do NOT include extension '.md'
 //let qcFileName = tp.date.now("📝YYMMDD");
-let qcFileName = "⏩Quick note";
+let qcFileName = "⏩ Quick note";
 
 //Leave this blank if you want to use the default file path location (set to '/' to use root of vault)
 //let folderOverride = '/Spaces/Daily/';

@@ -2,7 +2,7 @@
 title: Cách tính toán hệ số ELO
 UID: 210826213627
 tags:
-  - '#created/2021/08/26'
+  - '#created/2021/Aug/26'
   - '#🌱'
   - '#permanent/concept'
 aliases:

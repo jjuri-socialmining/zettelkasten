@@ -7,15 +7,12 @@
 
   note_process = await tp.system.suggester(["🥜Seed", "🌱Seeding", "🌲Evergreen", "🏡Garden"], ["#seed🥜", "#seeding🌱","#evergreen🌲", "#garden🏡"]);
 
-  note_type = await tp.system.suggester(["concept", "fact", "people 🤵", "think", "place", "nation"], ["#permanent/concept", "#permanent/fact", "#permanent/people", "#permanent/think", "#permanent/place", "#permanent/nation"]);
+  note_type = await tp.system.suggester(["concept", "fact", "think", "place", "nation"], ["#permanent/concept", "#permanent/fact",, "#permanent/think", "#permanent/place", "#permanent/nation"]);
   
   if (note_type == "#permanent/think") {
     title = "❕ " + title;
     await tp.file.rename(title);
 	await tp.file.move("/Zet/Thinking/" + title);
-  }
-  else if (note_type == "#permanent/people"){
-    await tp.file.move("/Zet/People/" + title);
   }
   else {
     await tp.file.move("/Zet/" + title);

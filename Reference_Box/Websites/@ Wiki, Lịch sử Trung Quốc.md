@@ -21,7 +21,7 @@ Vua đầu tiên của [[Nhà Hạ]] là [[Hạ Vũ]]
 Nhà Thương tồn tại khoảng 600 năm trước khi sụp đổ.
 
 [[Nhà Chu]]
-[[Chu Vũ Vương]] đánh [[Nhà Thương]], đứng đầu [[Trụ Vương]]. [[Trận Mục Dã]] hay còn gọi là [[Vũ Vương phạt Trụ]]
+[[Chu Vũ Vương]] đánh [[Nhà Thương]], đứng đầu [[Đế Tân]]. [[Trận Mục Dã]] hay còn gọi là [[Vũ Vương phạt Trụ]]
 
 Vua [[Chu Vũ Vương]] thành lập [[Nhà Chu]], khái niệm [[Thiên Mệnh]] bắt đầu xuất hiện từ thời nhà Chu, vua là Thiên tử. 
 
@@ -87,7 +87,7 @@ Nhà Nguyên tuy cai trị Trung Quốc, nhưng họ vừa nói ngôn ngữ khá
 
 Một cách gọi khác về giai đoạn lịch sử Trung Quốc
 - [[Tam Đại]]: [[Nhà Hạ]], [[Nhà Thương]], [[Nhà Chu]]
-- Tiên Tần: Giai đoạn trước khi [[Nhà Tần]] thành lập
+- [[Tiên Tần]]: Giai đoạn trước khi [[Nhà Tần]] thành lập
 - Lưỡng Hán: [[Nhà Tiền Hán|Nhà Tây Hán]] và [[Nhà Hậu Hán|Nhà Đông Hán]]
 - Lưỡng Tấn: [[Tây Tấn]] và [[Đông Tấn]]
 - Lục Triều:

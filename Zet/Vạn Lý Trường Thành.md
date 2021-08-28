@@ -2,7 +2,7 @@
 title: Vạn Lý Trường Thành
 UID: 210827223423
 tags:
-  - '#created/2021/08/27'
+  - '#created/2021/Aug/27'
   - '#seed🥜'
   - '#permanent/place'
 aliases:

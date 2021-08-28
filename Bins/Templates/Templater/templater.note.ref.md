@@ -22,7 +22,7 @@
 title: <%* tR += title %>
 UID: <% tp.date.now("YYMMDDHHmmss") %>
 tags:
-  - '#created/<% tp.date.now("YYYY/MM/DD") %>'
+  - '#created/<% tp.date.now("YYYY/MMM/DD") %>'
   - '<%* tR += note_process %>'
   - '<%* tR += note_type %>'
 aliases:

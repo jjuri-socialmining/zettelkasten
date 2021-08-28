@@ -7,7 +7,7 @@ tags:
   - '#seed🥜'
   - '#flashcards'
 aliases: 
-  - "Nhà Đông Hán"
+  - "Đông Hán"
 ---
 # Nhà Hậu Hán
 

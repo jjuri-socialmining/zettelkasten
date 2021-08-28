@@ -2,7 +2,7 @@
 title: Nhà Tấn
 UID: 210827225150
 tags:
-  - '#created/2021/08/27'
+  - '#created/2021/Aug/27'
   - '#seed🥜'
   - '#permanent/nation'
 aliases:
