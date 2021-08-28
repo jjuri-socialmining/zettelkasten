@@ -1,6 +1,7 @@
 ---
 title: @ Wiki, Lịch sử Trung Quốc
 UID: 210827223923
+URL: https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD_Trung_Qu%E1%BB%91c
 tags:
   - '#created/2021/08/27'
   - '#seed🥜'
@@ -67,12 +68,21 @@ Thời kỳ này trong sử sách Trung Quốc là thời Tam Quốc.
 [[Nhà Ngụy]] đánh chiếm [[Nhà Thục]] 263. Sau đó vua Ngụy bị quan Tư Mã thao túng quyền lực và soắn ngôi năm 265, lập ra [[Nhà Tấn]].
 268, [[Nhà Tấn]] đánh dẹp nước Ngô.
 
-[[📑 Bookmark]]
+
 [[Nhà Tùy]]
 [[Nhà Đường]]
+Nhà Đường thời [[Đường Cao Tông]] thì nhu nhược, người thiếp của Cao Tông là [[Võ Tắc Thiên]] lên sức ép bắt ông đưa mình lên thay Hoàng Hậu. Sau đó, [[Võ Tắc Thiên]] bắt đầy và bức hại nhiều quan nhà Đường. Võ Tắc Thiên đưa người trong họ Võ vào cung giữ các vị trí quan trọng. Võ Tắc Thiên trừ khử những quan họ Lý. Võ Tắc Thiên phế truất người con mình [[Lý Đán]] để xưng vương.
+Võ Tắc Thiên là vị vữ vương duy nhất của Trung Quốc.
+[[Dương Quý Phi]]
+
 [[Nhà Tống]]
 [[Nhà Nguyên]]
+Nhà Nguyên tuy cai trị Trung Quốc, nhưng họ vừa nói ngôn ngữ khác, văn hóa khác với người Hán. Nhà Nguyên vẫn bị coi là ngoại bang xâm lược.
+
 [[Nhà Minh]]
+[[Chu Nguyên Chương]] giải phóng Trung Quốc khỏi tay Nhà Nguyên, thành lập Nhà Minh
+
+[[📑 Bookmark]]
 [[Nhà Thanh]]
 
 Một cách gọi khác về giai đoạn lịch sử Trung Quốc
