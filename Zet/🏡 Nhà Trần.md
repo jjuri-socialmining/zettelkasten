@@ -1,13 +1,20 @@
 
-# Nhà Trần MOC
+---
+title: Nhà Trần
+tags:
+  - '#created/2021/Jul/09'
+  - '#garden🏡'
+  - '#permanent/place'
+aliases:
+  - Nhà Trần
+---
+# Nhà Trần
 
-%% 
-- metadata:
-	- tags: #created/2021/Jul/09, #MOC 
-%%
+## Sơ lược
+Tiền thân là [[~Nhà Lý]], kế tục là nhà [[~Nhà Hồ]]
+[[Trần Cảnh]] được [[Trần Thủ Độ]] đưa vào cung, và ép [[Lý Chiêu Hoàng]] nhường ngôi, lập ra nhà Trần, chấm dứt [[~Nhà Lý]]
 
 ## Các đời vua
-[[Trần Cảnh]] được [[Trần Thủ Độ]] đưa vào cung, và ép [[Lý Chiêu Hoàng]] nhường ngôi, lập ra nhà Trần, chấm dứt [[~Nhà Tiền Lê]]
 
 ### Trần Thái Tông 1225-1258
 - Trần Cảnh lên ngôi [[Trần Thái Tông]] Trần Thái Tông]]
@@ -52,4 +59,11 @@ Sau khi đem quân xâm chiếm lần 1 thất bại, may mắn thoát chết, n
 Các trận đánh lớn:
 - [[Trận Vân Đồn - Trần khánh Dư cướp lương của quân Nguyên]]
 - [[Trận Bạch Đằng]]
-- 
+
+
+## Tham khảo:
+```dataview
+list
+from [[🏡 Nhà Trần]]
+sort file.name asc
+```

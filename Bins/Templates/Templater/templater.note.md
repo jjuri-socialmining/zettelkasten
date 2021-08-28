@@ -7,7 +7,7 @@
 
   note_process = await tp.system.suggester(["🥜Seed", "🌱Seeding", "🌲Evergreen", "🏡Garden"], ["#seed🥜", "#seeding🌱","#evergreen🌲", "#garden🏡"]);
 
-  note_type = await tp.system.suggester(["concept", "fact", "think", "place", "nation"], ["#permanent/concept", "#permanent/fact",, "#permanent/think", "#permanent/place", "#permanent/nation"]);
+  note_type = await tp.system.suggester(["concept", "fact", "think", "place", "nation"], ["#permanent/concept", "#permanent/fact", "#permanent/think", "#permanent/place", "#permanent/nation"]);
   
   if (note_type == "#permanent/think") {
     title = "❕ " + title;
