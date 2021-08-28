@@ -4,7 +4,7 @@ from notion.client import NotionClient
 client = NotionClient(token_v2="f969bce40b512d89812546f29318b3575d25694bb16cfe9430f609c92dd595c91a8dfe48796d23601d626791143f5f89408d59b644e02d09cb55b703eeed519cc8a136bb50f5c9a37855eee110be")
 
 # Replace this URL with the URL of the page you want to edit
-page = client.get_block("https://www.notion.so/fdbbc13f54fe4d88b5824d5f072af111")
+page = client.get_block("https://www.notion.so/560f8008018a4e9cb86ffee45ebb2d23")
 
 print("The old title is:", page.title)
 
