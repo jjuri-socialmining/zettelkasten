@@ -6,6 +6,7 @@ import frontmatter
 from notion.client import NotionClient
 from notion.block import TodoBlock
 from notion.block import TextBlock
+from re import compile, search
 
 client = NotionClient(token_v2="f969bce40b512d89812546f29318b3575d25694bb16cfe9430f609c92dd595c91a8dfe48796d23601d626791143f5f89408d59b644e02d09cb55b703eeed519cc8a136bb50f5c9a37855eee110be")
 
@@ -101,21 +102,81 @@ def get_note_content_md(mdFile):
 
   return note_content
 
+regexfileUID = compile("(\.md)")
 
 def scan_md_zip():
+  title_erros = []
   for filename in zf.namelist():
+
+    match = regexfileUID.search(filename)
+    if not match:
+      continue
 
     with zf.open(filename, "r") as mdFile:
       content = zf.read(filename)
-      post = frontmatter.loads(content)
-      new_title = post["title"]
-      uid = post["Notion_UID"]
+      print(filename)
+      try:
+        post = frontmatter.loads(content)
+        if 'title' not in post.keys():
+          continue
+        if 'notion_url' not in post.keys():
+          continue
+        new_title = post["title"]
+        uid = post["notion_url"]
+      except:
+        print("ERROR")
+        continue
 
-      page = client.get_block("https://www.notion.so/" + uid)
+      if new_title is None:
+        title_erros.append(uid)
+
+      page = client.get_block(uid)
+      if page._type == "image" or page._type == "pdf":
+        continue
+
       if (page.title != new_title):
-        rename.append("https://www.notion.so/" + uid + " : oldtitle = " + page.title)
-      
-      content = get_note_content_md(mdFile)
-      update_note(page, content)
+        rename.append(uid + " : oldtitle = " + page.title)
+        print("old: ", page.title)
+        print("new: ", new_title)
+        #page.title = new_title
+  print("------------------------------")
+  print("------------------------------")
+
+  print(rename)
+
+def sample():
+
+  string = "%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F".split("%")
+  print(string)
+  string = ["0x"+string[i] for i in range(len(string))]
+  print(string)
+  bytes_unicode = bytes([int(string[i],0) for i in range(len(string))])
+  print(bytes_unicode.decode('utf-8'))
+  unicode_str = str(bytes_unicode, 'utf-8')
+  print(unicode_str)
+
+  b = ["â".encode('utf-8'), "b".encode('utf-8')]
+  print(b)
+  some = "something"
+  print(some.encode('utf-8'))
+
+def string_test(notion_mix_decoded_string):
+
+  regexSpecialUtf8 = compile("%([A-F0-9][A-F0-9])")
+  string = notion_mix_decoded_string
+  encoded_str = []
+  convert = ""
+  while range(len(string)):
+    special_utf8_match = regexSpecialUtf8.search(string[0:3])
+    if (special_utf8_match):
+      code = regexSpecialUtf8.sub("0x"+string[1:3], string[0:3])
+      encoded_str.append(bytes([int(code, 0)]))
+      string = string[3:]
+    else:
+      encoded_str.append(string[0].encode('utf-8'))
+      string = string[1:]
+
+  print(encoded_str)
+  print(b''.join(encoded_str).decode('utf-8'))
 
 scan_md_zip()
