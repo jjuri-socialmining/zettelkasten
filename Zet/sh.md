@@ -2,7 +2,7 @@
 title: sh
 UID: 210830224552
 tags:
-  - '#created/2021/08/30'
+  - '#created/2021/Aug/30'
   - '#seed🥜'
   - '#permanent/concept'
 aliases:

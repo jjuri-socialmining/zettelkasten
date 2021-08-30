@@ -2,7 +2,7 @@
 title: Khởi Nghĩa khăn vàng
 UID: 210828132150
 tags:
-  - '#created/2021/08/28'
+  - '#created/2021/Aug/28'
   - '#seed🥜'
   - '#permanent/concept'
 aliases:

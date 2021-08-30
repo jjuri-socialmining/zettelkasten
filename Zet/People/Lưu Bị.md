@@ -2,7 +2,7 @@
 title: Lưu Bị
 UID: 210828121239
 tags:
-  - '#created/2021/08/28'
+  - '#created/2021/Aug/28'
   - '#seed🥜'
   - '#permanent/people'
 birth: 161

@@ -2,7 +2,7 @@
 title: Xích Thố
 UID: 210828140126
 tags:
-  - '#created/2021/08/28'
+  - '#created/2021/Aug/28'
   - '#seed🥜'
   - '#permanent/concept'
 aliases:

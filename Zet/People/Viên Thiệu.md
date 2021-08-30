@@ -2,7 +2,7 @@
 title: Viên Thiệu
 UID: 210828113954
 tags:
-  - '#created/2021/08/28'
+  - '#created/2021/Aug/28'
   - '#seed🥜'
   - '#permanent/people'
 aliases:

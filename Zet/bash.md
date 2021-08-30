@@ -2,7 +2,7 @@
 title: bash
 UID: 210830215513
 tags:
-  - '#created/2021/08/30'
+  - '#created/2021/Aug/30'
   - '#seed🥜'
   - '#permanent/concept'
 aliases:

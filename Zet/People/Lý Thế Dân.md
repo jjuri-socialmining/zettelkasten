@@ -2,7 +2,7 @@
 title: Lý Thế Dân
 UID: 210828135532
 tags:
-  - '#created/2021/08/28'
+  - '#created/2021/Aug/28'
   - '#seed🥜'
   - '#permanent/people'
 birth: 0900-01-28

@@ -2,7 +2,7 @@
 title: Ỷ thiên đồ long ký
 UID: 210828141120
 tags:
-  - '#created/2021/08/28'
+  - '#created/2021/Aug/28'
   - '#seed🥜'
   - '#permanent/concept'
 aliases:

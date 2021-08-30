@@ -2,7 +2,7 @@
 title: stackoverflow.com
 UID: 210830224916
 tags:
-  - '#created/2021/08/30'
+  - '#created/2021/Aug/30'
   - '#seed🥜'
   - '#permanent/concept'
 aliases:

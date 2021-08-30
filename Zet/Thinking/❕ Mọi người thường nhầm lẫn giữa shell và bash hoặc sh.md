@@ -2,7 +2,7 @@
 title: ❕ Mọi người thường nhầm lẫn giữa shell và bash
 UID: 210830220136
 tags:
-  - '#created/2021/08/30'
+  - '#created/2021/Aug/30'
   - '#seed🥜'
   - '#permanent/think'
 aliases:

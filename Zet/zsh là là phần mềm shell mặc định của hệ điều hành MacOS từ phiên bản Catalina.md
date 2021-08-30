@@ -2,7 +2,7 @@
 title: zsh là là phần mềm shell mặc định của hệ điều hành macOS từ phiên bản Catalina
 UID: 210830222854
 tags:
-  - '#created/2021/08/30'
+  - '#created/2021/Aug/30'
   - '#seed🥜'
   - '#permanent/fact'
 aliases:
