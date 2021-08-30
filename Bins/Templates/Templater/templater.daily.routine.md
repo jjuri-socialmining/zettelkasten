@@ -30,7 +30,7 @@ UID: <% tp.date.now("YYMMDDHHmmss") %>
 tags:
   - '#created/<% tp.date.now("YYYY/MMM/DD") %>'
   - '#daily/routine⏰'
-wakup: <%* tR += wakeup %>
+wakeup: <%* tR += wakeup %>
 sleep: <%* tR += sleep %>
 drink: <%* tR += drink %>
 ---
