@@ -10,7 +10,7 @@ let qcFileName = tp.date.now("❓YYMMDD-HHmm");
 
 //Leave this blank if you want to use the default file path location (set to '/' to use root of vault)
 //let folderOverride = '/Spaces/Daily/';
-let folderOverride = '/Spaces/Daily/Questions/';
+let folderOverride = '/Spaces/Questions/';
 
 //Add a header for each day to nest the quick capture notes under (only works when firstOrLastLine = 'first')
 let bAddHeader = false;

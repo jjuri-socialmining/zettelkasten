@@ -32,7 +32,7 @@
     "maxLinkFactor": 1,
     "logLevel": 1
   },
-  "buryDate": "2021-08-29",
+  "buryDate": "2021-08-30",
   "buryList": [],
   "cache": {
     "Spaces/Projects/~Python.md": {
@@ -82,20 +82,6 @@
       "hasNewCards": false,
       "nextDueDate": "",
       "lastUpdated": 1627178084670,
-      "dueDatesFlashcards": {}
-    },
-    "Spaces/Daily/T-210707-2358 Xem python roadmap overview and take note.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1625881134175,
-      "dueDatesFlashcards": {}
-    },
-    "Spaces/Daily/T-210707-2345 Cách để cài đặt một thư viện từ PyPi.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1626529328194,
       "dueDatesFlashcards": {}
     },
     "Bins/Templates/Core/yaml template.md": {
@@ -1455,9 +1441,9 @@
       "nextDueDate": "2021-08-26",
       "lastUpdated": 1630080650965,
       "dueDatesFlashcards": {
-        "0": 1,
-        "2": 1,
-        "-3": 1
+        "1": 1,
+        "-1": 1,
+        "-4": 1
       }
     },
     "Zet/Taxonomy.md": {
@@ -2052,7 +2038,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630080585285,
+      "lastUpdated": 1630333776819,
       "dueDatesFlashcards": {}
     },
     "Zet/People/Saladin.md": {
@@ -2736,7 +2722,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630080585528,
+      "lastUpdated": 1630333550754,
       "dueDatesFlashcards": {}
     },
     "Zet/Nguyễn Gia Kiểng đánh giá cao công lao Nguyễn Hoàng trong lịch sử VN.md": {
@@ -5343,11 +5329,11 @@
     "Spaces/Questions/❓210816-2248.md": {
       "totalCards": 2,
       "hasNewCards": false,
-      "nextDueDate": "2021-08-29",
-      "lastUpdated": 1630080586706,
+      "nextDueDate": "2021-09-05",
+      "lastUpdated": 1630255658990,
       "dueDatesFlashcards": {
-        "0": 1,
-        "7": 1
+        "6": 1,
+        "23": 1
       }
     },
     "Spaces/Questions/❓210816-2246.md": {
@@ -5381,22 +5367,22 @@
     "Spaces/Questions/❓210816-2240.md": {
       "totalCards": 1,
       "hasNewCards": false,
-      "nextDueDate": "2021-08-30",
-      "lastUpdated": 1630080586721,
+      "nextDueDate": "2021-10-05",
+      "lastUpdated": 1630338788910,
       "dueDatesFlashcards": {
-        "1": 1
+        "36": 1
       }
     },
     "Spaces/Questions/❓210815-2255.md": {
       "totalCards": 4,
       "hasNewCards": false,
-      "nextDueDate": "2021-08-29",
-      "lastUpdated": 1630080586724,
+      "nextDueDate": "2021-08-31",
+      "lastUpdated": 1630338784423,
       "dueDatesFlashcards": {
-        "0": 1,
         "1": 1,
-        "2": 1,
-        "4": 1
+        "3": 1,
+        "20": 1,
+        "35": 1
       }
     },
     "Spaces/Questions/❓210815-2252.md": {
@@ -5441,12 +5427,12 @@
     "Spaces/Questions/❓210815-2237.md": {
       "totalCards": 4,
       "hasNewCards": false,
-      "nextDueDate": "2021-08-29",
-      "lastUpdated": 1630080586968,
+      "nextDueDate": "2021-09-02",
+      "lastUpdated": 1630255662410,
       "dueDatesFlashcards": {
-        "0": 1,
-        "4": 2,
-        "7": 1
+        "3": 2,
+        "6": 1,
+        "37": 1
       }
     },
     "Spaces/Questions/❓210815-2224.md": {
@@ -5462,22 +5448,22 @@
     "Spaces/Questions/❓210815-2216.md": {
       "totalCards": 3,
       "hasNewCards": false,
-      "nextDueDate": "2021-08-30",
-      "lastUpdated": 1630080586969,
+      "nextDueDate": "2021-08-31",
+      "lastUpdated": 1630338775918,
       "dueDatesFlashcards": {
         "1": 1,
         "2": 1,
-        "3": 1
+        "38": 1
       }
     },
     "Spaces/Questions/❓210815-2201.md": {
       "totalCards": 2,
       "hasNewCards": false,
-      "nextDueDate": "2021-08-30",
-      "lastUpdated": 1630080586970,
+      "nextDueDate": "2021-09-02",
+      "lastUpdated": 1630338772104,
       "dueDatesFlashcards": {
-        "1": 1,
-        "4": 1
+        "3": 1,
+        "41": 1
       }
     },
     "Spaces/Questions/❓210815-2157.md": {
@@ -5502,12 +5488,12 @@
     "Spaces/Questions/❓210815-2137.md": {
       "totalCards": 3,
       "hasNewCards": false,
-      "nextDueDate": "2021-08-28",
-      "lastUpdated": 1630080586973,
+      "nextDueDate": "2021-09-11",
+      "lastUpdated": 1630255688971,
       "dueDatesFlashcards": {
-        "0": 1,
-        "13": 1,
-        "-1": 1
+        "12": 1,
+        "33": 1,
+        "34": 1
       }
     },
     "Spaces/Questions/❓210815-2047.md": {
@@ -5523,33 +5509,33 @@
     "Spaces/Questions/❓210815-2035.md": {
       "totalCards": 4,
       "hasNewCards": false,
-      "nextDueDate": "2021-08-28",
-      "lastUpdated": 1630080587117,
+      "nextDueDate": "2021-09-07",
+      "lastUpdated": 1630338797870,
       "dueDatesFlashcards": {
-        "1": 1,
-        "9": 1,
-        "15": 1,
-        "-1": 1
+        "8": 1,
+        "14": 1,
+        "31": 1,
+        "40": 1
       }
     },
     "Spaces/Questions/❓210815-2024.md": {
       "totalCards": 3,
       "hasNewCards": false,
-      "nextDueDate": "2021-08-29",
-      "lastUpdated": 1630080587118,
+      "nextDueDate": "2021-08-31",
+      "lastUpdated": 1630338780326,
       "dueDatesFlashcards": {
-        "0": 1,
         "1": 1,
-        "3": 1
+        "2": 1,
+        "39": 1
       }
     },
     "Spaces/Questions/❓210815-1642.md": {
       "totalCards": 1,
       "hasNewCards": false,
-      "nextDueDate": "2021-08-28",
-      "lastUpdated": 1630080587119,
+      "nextDueDate": "2021-09-29",
+      "lastUpdated": 1630255673007,
       "dueDatesFlashcards": {
-        "-1": 1
+        "30": 1
       }
     },
     "Spaces/Questions/❓210815-1602.md": {
@@ -5810,7 +5796,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630149357748,
+      "lastUpdated": 1630333664094,
       "dueDatesFlashcards": {}
     },
     "Zet/People/Lý Bí.md": {
@@ -5839,6 +5825,104 @@
       "hasNewCards": false,
       "nextDueDate": "",
       "lastUpdated": 1630149357685,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/stackoverflow.com.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630338631973,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/sh.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630338437351,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/sh đơn giản và gọn nhẹ hơn bash.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630338904677,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Hệ điều hành macOS.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630337528277,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/macOS Catalina.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630337514091,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/zsh là là phần mềm shell mặc định của hệ điều hành MacOS từ phiên bản Catalina.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630337421540,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/zsh.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630337325158,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Shellshock.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630337213989,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Ngôn ngữ bash được cải tiến dựa trên nền tảng của sh.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630338898308,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Shell.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630337795556,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/bash.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630338316306,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Thinking/❕ Khái niệm shell tương ứng với phần mềm terminal, console.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630337985577,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Thinking/❕ Mọi người thường nhầm lẫn giữa shell và bash hoặc sh.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630337795515,
+      "dueDatesFlashcards": {}
+    },
+    "Spaces/Questions/❓210830-2253.md": {
+      "totalCards": 1,
+      "hasNewCards": true,
+      "nextDueDate": "",
+      "lastUpdated": 1630338874704,
       "dueDatesFlashcards": {}
     }
   }

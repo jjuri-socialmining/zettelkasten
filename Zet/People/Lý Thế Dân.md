@@ -5,8 +5,8 @@ tags:
   - '#created/2021/08/28'
   - '#seed🥜'
   - '#permanent/people'
-birth: 598-01-28
-death: 649-07-10
+birth: 0900-01-28
+death: '649-07-10'
 aliases:
   - Đường Thái Tông
 ---

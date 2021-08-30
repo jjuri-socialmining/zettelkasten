@@ -1,6 +1,6 @@
 ---
 tags: '#people'
-Birthday: 2021-10-03
+birth: 1000-10
 aliases: [Nguyễn Hiến Lê, cụ Lê, bác Lê]
 ---
 # Nguyễn Hiến Lê

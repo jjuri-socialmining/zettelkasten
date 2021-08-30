@@ -31,3 +31,11 @@
 [[Quan Vũ]]
 [[Trương Phi]]
 [[Lý Thế Dân]]
+
+---
+
+[[bash]]
+[[❕ Mọi người thường nhầm lẫn giữa shell và bash hoặc sh]]
+[[Apple]]
+[[Hệ điều hành macOS]]
+[[stackoverflow.com]]
