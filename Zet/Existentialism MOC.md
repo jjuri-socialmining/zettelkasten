@@ -3,7 +3,7 @@
 	- tags: #MOC %% 
 
 ### Định Nghĩa
-[[Existentialism - Chủ Nghĩa Hiện Sinh]]
+[[Chủ Nghĩa Hiện Sinh]]
 
 ### Các Nhà tư tưởng chính
 - Søren Kierkegaard

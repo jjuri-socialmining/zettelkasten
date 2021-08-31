@@ -32,7 +32,7 @@
     "maxLinkFactor": 1,
     "logLevel": 1
   },
-  "buryDate": "2021-08-30",
+  "buryDate": "2021-08-31",
   "buryList": [],
   "cache": {
     "Spaces/Projects/~Python.md": {
@@ -165,7 +165,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630080581252,
+      "lastUpdated": 1630340641136,
       "dueDatesFlashcards": {}
     },
     "Reference_Box/Books/@ Kim Dung, Thiên Long Bát Bộ.md": {
@@ -1441,9 +1441,9 @@
       "nextDueDate": "2021-08-26",
       "lastUpdated": 1630080650965,
       "dueDatesFlashcards": {
-        "1": 1,
-        "-1": 1,
-        "-4": 1
+        "0": 1,
+        "-2": 1,
+        "-5": 1
       }
     },
     "Zet/Taxonomy.md": {
@@ -2157,7 +2157,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630080585301,
+      "lastUpdated": 1630423760448,
       "dueDatesFlashcards": {}
     },
     "Zet/People/Friedrich Nietzsche.md": {
@@ -2199,7 +2199,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630080585305,
+      "lastUpdated": 1630423760416,
       "dueDatesFlashcards": {}
     },
     "Zet/People/Adolf Hitler.md": {
@@ -2722,7 +2722,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630333550754,
+      "lastUpdated": 1630339429043,
       "dueDatesFlashcards": {}
     },
     "Zet/Nguyễn Gia Kiểng đánh giá cao công lao Nguyễn Hoàng trong lịch sử VN.md": {
@@ -5351,8 +5351,8 @@
       "nextDueDate": "2021-08-31",
       "lastUpdated": 1630080586712,
       "dueDatesFlashcards": {
-        "2": 1,
-        "8": 1
+        "0": 1,
+        "6": 1
       }
     },
     "Spaces/Questions/❓210816-2242.md": {
@@ -5379,10 +5379,10 @@
       "nextDueDate": "2021-08-31",
       "lastUpdated": 1630338784423,
       "dueDatesFlashcards": {
-        "1": 1,
-        "3": 1,
-        "20": 1,
-        "35": 1
+        "0": 1,
+        "2": 1,
+        "19": 1,
+        "34": 1
       }
     },
     "Spaces/Questions/❓210815-2252.md": {
@@ -5391,8 +5391,8 @@
       "nextDueDate": "2021-08-31",
       "lastUpdated": 1630080586727,
       "dueDatesFlashcards": {
-        "2": 1,
-        "6": 1
+        "0": 1,
+        "4": 1
       }
     },
     "Spaces/Questions/❓210815-2249.md": {
@@ -5451,9 +5451,9 @@
       "nextDueDate": "2021-08-31",
       "lastUpdated": 1630338775918,
       "dueDatesFlashcards": {
+        "0": 1,
         "1": 1,
-        "2": 1,
-        "38": 1
+        "37": 1
       }
     },
     "Spaces/Questions/❓210815-2201.md": {
@@ -5472,8 +5472,8 @@
       "nextDueDate": "2021-08-31",
       "lastUpdated": 1630080586971,
       "dueDatesFlashcards": {
-        "2": 1,
-        "5": 1
+        "0": 1,
+        "3": 1
       }
     },
     "Spaces/Questions/❓210815-2154.md": {
@@ -5524,9 +5524,9 @@
       "nextDueDate": "2021-08-31",
       "lastUpdated": 1630338780326,
       "dueDatesFlashcards": {
+        "0": 1,
         "1": 1,
-        "2": 1,
-        "39": 1
+        "38": 1
       }
     },
     "Spaces/Questions/❓210815-1642.md": {
@@ -5551,7 +5551,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630149357810,
+      "lastUpdated": 1630340329784,
       "dueDatesFlashcards": {}
     },
     "Zet/Tiểu thuyết Phong thần diễn nghĩa được viết thời nhà Minh.md": {
@@ -5565,14 +5565,14 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630149357779,
+      "lastUpdated": 1630340628291,
       "dueDatesFlashcards": {}
     },
     "Zet/Thục Hán.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630149357779,
+      "lastUpdated": 1630340608484,
       "dueDatesFlashcards": {}
     },
     "Zet/Thinking/❕ Vấn đề thiên mệnh thời Nhà Chu.md": {
@@ -5621,7 +5621,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630149357748,
+      "lastUpdated": 1630340340356,
       "dueDatesFlashcards": {}
     },
     "Zet/People/Đế Tân.md": {
@@ -5635,7 +5635,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630149357748,
+      "lastUpdated": 1630340617207,
       "dueDatesFlashcards": {}
     },
     "Zet/People/Tần Thủy Hoàng.md": {
@@ -5656,21 +5656,21 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630149357748,
+      "lastUpdated": 1630340345407,
       "dueDatesFlashcards": {}
     },
     "Zet/People/Lã Bố.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630149357732,
+      "lastUpdated": 1630340342951,
       "dueDatesFlashcards": {}
     },
     "Zet/People/Khương Tử Nha.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630149357732,
+      "lastUpdated": 1630340337620,
       "dueDatesFlashcards": {}
     },
     "Zet/Nhà Thương.md": {
@@ -5733,70 +5733,70 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630149357810,
+      "lastUpdated": 1630340632322,
       "dueDatesFlashcards": {}
     },
     "Zet/Xích Thố.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630149357794,
+      "lastUpdated": 1630340625272,
       "dueDatesFlashcards": {}
     },
     "Zet/Tứ đại mỹ nhân Trung Hoa.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630149357779,
+      "lastUpdated": 1630340611739,
       "dueDatesFlashcards": {}
     },
     "Zet/Sử Trung Quốc trong tiểu thuyết của Kim Dung.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630149357748,
+      "lastUpdated": 1630340602733,
       "dueDatesFlashcards": {}
     },
     "Zet/People/Điêu Thuyền.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630149357748,
+      "lastUpdated": 1630340326287,
       "dueDatesFlashcards": {}
     },
     "Zet/People/Võ Tắc Thiên.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630149357748,
+      "lastUpdated": 1630340621396,
       "dueDatesFlashcards": {}
     },
     "Zet/People/Tào Tháo.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630149357748,
+      "lastUpdated": 1630340605893,
       "dueDatesFlashcards": {}
     },
     "Zet/People/Trương Phi.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630149357748,
+      "lastUpdated": 1630340614472,
       "dueDatesFlashcards": {}
     },
     "Zet/People/Quan Vũ.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630149357748,
+      "lastUpdated": 1630340597537,
       "dueDatesFlashcards": {}
     },
     "Zet/People/Lý Thế Dân.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630333664094,
+      "lastUpdated": 1630340480076,
       "dueDatesFlashcards": {}
     },
     "Zet/People/Lý Bí.md": {
@@ -5810,119 +5810,254 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630149357732,
+      "lastUpdated": 1630340323601,
       "dueDatesFlashcards": {}
     },
     "Zet/Ngũ hổ tướng.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630149357701,
+      "lastUpdated": 1630340587561,
       "dueDatesFlashcards": {}
     },
     "Zet/Khởi Nghĩa khăn vàng.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630149357685,
+      "lastUpdated": 1630340333708,
       "dueDatesFlashcards": {}
     },
     "Zet/stackoverflow.com.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630338631973,
+      "lastUpdated": 1630340305967,
       "dueDatesFlashcards": {}
     },
     "Zet/sh.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630338437351,
+      "lastUpdated": 1630340312667,
       "dueDatesFlashcards": {}
     },
     "Zet/sh đơn giản và gọn nhẹ hơn bash.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630338904677,
+      "lastUpdated": 1630340294416,
       "dueDatesFlashcards": {}
     },
     "Zet/Hệ điều hành macOS.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630337528277,
+      "lastUpdated": 1630340278333,
       "dueDatesFlashcards": {}
     },
     "Zet/macOS Catalina.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630337514091,
+      "lastUpdated": 1630340285641,
       "dueDatesFlashcards": {}
     },
     "Zet/zsh là là phần mềm shell mặc định của hệ điều hành MacOS từ phiên bản Catalina.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630337421540,
+      "lastUpdated": 1630340303329,
       "dueDatesFlashcards": {}
     },
     "Zet/zsh.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630337325158,
+      "lastUpdated": 1630340309270,
       "dueDatesFlashcards": {}
     },
     "Zet/Shellshock.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630337213989,
+      "lastUpdated": 1630340300356,
       "dueDatesFlashcards": {}
     },
     "Zet/Ngôn ngữ bash được cải tiến dựa trên nền tảng của sh.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630338898308,
+      "lastUpdated": 1630340290106,
       "dueDatesFlashcards": {}
     },
     "Zet/Shell.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630337795556,
+      "lastUpdated": 1630340297343,
       "dueDatesFlashcards": {}
     },
     "Zet/bash.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630338316306,
+      "lastUpdated": 1630340275551,
       "dueDatesFlashcards": {}
     },
     "Zet/Thinking/❕ Khái niệm shell tương ứng với phần mềm terminal, console.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630337985577,
+      "lastUpdated": 1630340254008,
       "dueDatesFlashcards": {}
     },
     "Zet/Thinking/❕ Mọi người thường nhầm lẫn giữa shell và bash hoặc sh.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630337795515,
+      "lastUpdated": 1630340271859,
       "dueDatesFlashcards": {}
     },
     "Spaces/Questions/❓210830-2253.md": {
       "totalCards": 1,
-      "hasNewCards": true,
+      "hasNewCards": false,
+      "nextDueDate": "2021-08-31",
+      "lastUpdated": 1630338926582,
+      "dueDatesFlashcards": {
+        "0": 1
+      }
+    },
+    "Zet/Jupyter Notebook.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630338874704,
+      "lastUpdated": 1630340281355,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Khủng hoảng hiện sinh.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630426478530,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Chủ Nghĩa Hiện Sinh.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630424249239,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Chủ nghĩa Hư vô.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630424314655,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Phông chữ Sans Serif.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630421615327,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Phông chữ kiểu Serif.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630421438047,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Times New Roman.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630421050398,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Uper case, lower case bắt nguồn từ việc sắp chữ bảng in.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630419389056,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Phông chữ.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630419138009,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Phông chữ Unicode phổ biến hỗ trợ tiếng Việt.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630418873923,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/UTF-8.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630418531443,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/ASCII.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630417657937,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Unicode.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630418843263,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/UTF.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630417120645,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Thinking/❕ Sống một lần là một sự giải thoát cho con người.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630426323823,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Thinking/❕ Ý nghĩa cuộc sống.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630425649954,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Thinking/❕ Chủ nghĩa hiện sinh chú trọng đến cuộc đời cá nhân.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630424444911,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Thinking/❕ Chủ nghĩa hư vô và chủ nghĩa hiện sinh.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630424287249,
+      "dueDatesFlashcards": {}
+    },
+    "Spaces/Daily/❕ Chúng ta chọn cuộc sống mà chúng ta không dùng tự do của mình để làm những việc ta muốn thì ta đang sống trong bad faith.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630425791055,
       "dueDatesFlashcards": {}
     }
   }

@@ -6,7 +6,7 @@ alias:
 # Triết học
 
 - [[Existentialism MOC]]
-- [[Nihilism - Chủ nghĩa Hư vô]]
+- [[Chủ nghĩa Hư vô]]
 - [[Absurdism - Chủ nghĩa phi lý]]
 - [[~Chủ nghĩa khắc kỷ]]
 - [[Đạo Giáo]]
