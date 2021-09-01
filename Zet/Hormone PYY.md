@@ -12,7 +12,7 @@ Hai dạng chính của PYY là
 - [[PPY 1-36]]
 - [[PYY 3-36]]
 
-[[~Hormone]]
+[[Hormone]]
 
 ## Questions & thoughts:
 

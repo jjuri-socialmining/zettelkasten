@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[~Insulin]] là một [[~Hormone]] tăng trưởng
+[[~Insulin]] là một [[Hormone]] tăng trưởng
 
 ## Questions & thoughts:
 

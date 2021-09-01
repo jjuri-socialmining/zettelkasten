@@ -14,6 +14,6 @@
 ## Related:
 ```dataview
 list
-from [[~Hormone]]
+from [[Hormone]]
 sort file.name asc
 ```
