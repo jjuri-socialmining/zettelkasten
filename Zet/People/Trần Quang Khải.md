@@ -16,6 +16,7 @@ aliases:
 
 
 ## Ideas & thoughts:
+Có mối bất hòa với [[Trần Quốc Tuấn]]
 
 ## Questions:
 
