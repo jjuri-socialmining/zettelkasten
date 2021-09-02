@@ -44,7 +44,7 @@ Trần Thiếu Đế (1398 - 1400)
 
 ## Chống giặc ngoại xâm
 ### Chống quân Nguyên lần 1
- - Quân Nguyên qua xâm lược lần 1 sau khi nghe tin [[Trần Thánh Tông]] nhường ngôi cho Thái tử Khâm
+ - Quân Nguyên qua xâm lược lần 1 sau khi nghe tin [[Trần Thánh Tông]] nhường ngôi cho Thái tử Khâm [[Trần Hưng Đạo|Trần Hưng Đạo]]
  -  Các tướng soái [[Trần Hưng Đạo]], Trần Nhật Duật, [[Trần Quang Khải]], [[Phạm Ngũ Lão]], [[Trần Quốc Toản]]
  
  Các trận đánh lớn:

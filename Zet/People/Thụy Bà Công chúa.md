@@ -1,6 +1,6 @@
 ---
-title: Trần Quốc Tuấn
-UID: 210902131110
+title: Thụy Bà
+UID: 210902162936
 tags:
   - '#created/2021/Sep/02'
   - '#seed🥜'
@@ -8,10 +8,9 @@ tags:
 birth: 
 death: 
 aliases:
-  - Hưng Đạo Vương
-  - Trần Hưng Đạo
+  - 
 ---
-# Trần Quốc Tuấn
+# Thụy Bà Công chúa
 
 ## Notes:
 
@@ -19,11 +18,11 @@ aliases:
 ## Ideas & thoughts:
 
 ## Questions:
-
+[[Thụy Bà Công chúa nhận Trần Hưng Đạo làm con nuôi]]
 
 ## Tham khảo:
 ```dataview
 list
-from [[Trần Quốc Tuấn]]
+from [[Thụy Bà Công chúa]]
 sort file.name asc
 ```

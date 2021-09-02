@@ -40,7 +40,7 @@
 - [[Hồ Quý Ly]]
 - [[Lê Lợi]]
 - [[Lê Hoàn]]
-- [[Trần Hưng Đạo]]
+- [[Trần Hưng Đạo|Trần Hưng Đạo]]
 - [[Trần Quang Khải]]
 - [[Phạm Ngũ Lão]]
 - [[Lê Thánh Tông]]

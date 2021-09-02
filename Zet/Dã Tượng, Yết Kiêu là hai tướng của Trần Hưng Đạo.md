@@ -11,7 +11,7 @@ aliases:
 # Dã Tượng, Yết Kiêu là hai tướng của Trần Hưng Đạo
 
 ## Notes:
-[[Dã Tượng]], [[Yết Kiêu]] là hai tướng của [[Trần Quốc Tuấn|Trần Hưng Đạo]]
+[[Dã Tượng]], [[Yết Kiêu]] là hai tướng của [[Trần Hưng Đạo|Trần Hưng Đạo]]
 
 ## Ideas & thoughts:
 [[Trần Hưng Đạo đã từng đem lời khuyên của cha mình ra bàn với  Dã Tượng, Yết Kiêu]]

@@ -16,7 +16,8 @@ aliases:
 
 
 ## Ideas & thoughts:
-Có mối bất hòa với [[Trần Quốc Tuấn]]
+[[Trần Hưng Đạo và Trần Quang Khải là hai anh em họ]]
+Có mối bất hòa với [[Trần Hưng Đạo]]
 
 ## Questions:
 
