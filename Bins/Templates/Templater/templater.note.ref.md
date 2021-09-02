@@ -6,17 +6,16 @@
   }
 
   note_type = await tp.system.suggester(["book📚", "website"], ["#source/book", "#source/website"]);
-  
-  sub_dir = ""
+	
+  let sub_dir = ""
   if (note_type == "#source/book") {
     sub_dir = "Books/"
   }
   else if (note_type == "#source/website") {
     sub_dir = "Websites/"
   }
-  
+
   await tp.file.move("/Reference_Box/" + sub_dir + title);
-   
   tR += "---"
 %>
 title: <%* tR += title %>

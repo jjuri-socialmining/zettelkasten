@@ -10,5 +10,5 @@ Albert Camus là nhà văn, nhà soạn kịch và triết gia người Pháp. N
 Gia đình ông sống ở thủ đo Alger, cha ông mất sớm do chiến tranh. Thời đi học, ông tìm hiểu [[Friedrich Nietzsche]].
 Sau đó, ông chuyển đến Paris làm việc trong một tờ báo. Tại đây, ông cho ra đời nhiều tiểu thuyết mang lại danh tiếng cho ông như [[Người xa lại]], [[Sisyphe]], [[Dịch hạch]]
 ## Questions & thoughts:
-- Albert Camus góp phần mở khai sinh [[Absurdism - Chủ nghĩa phi lý]], nhằm phản bác lại  [[Chủ nghĩa Hư vô]]
+- Albert Camus góp phần mở khai sinh [[Chủ nghĩa phi lý]], nhằm phản bác lại  [[Chủ nghĩa Hư vô]]
 

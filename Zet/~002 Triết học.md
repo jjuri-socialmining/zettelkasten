@@ -7,7 +7,7 @@ alias:
 
 - [[Existentialism MOC]]
 - [[Chủ nghĩa Hư vô]]
-- [[Absurdism - Chủ nghĩa phi lý]]
+- [[Chủ nghĩa phi lý]]
 - [[~Chủ nghĩa khắc kỷ]]
 - [[Đạo Giáo]]
 
