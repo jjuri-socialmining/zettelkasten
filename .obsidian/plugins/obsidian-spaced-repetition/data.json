@@ -165,7 +165,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630508525836,
+      "lastUpdated": 1630554495313,
       "dueDatesFlashcards": {}
     },
     "Reference_Box/Books/@ Kim Dung, Thiên Long Bát Bộ.md": {
@@ -5882,7 +5882,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630509351811,
+      "lastUpdated": 1630556585943,
       "dueDatesFlashcards": {}
     },
     "Zet/Đồng hồ sinh học.md": {
@@ -5925,6 +5925,356 @@
       "hasNewCards": false,
       "nextDueDate": "",
       "lastUpdated": 1630512266440,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/zsh.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630508525834,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/zsh là là phần mềm shell mặc định của hệ điều hành MacOS từ phiên bản Catalina.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630508525834,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Visa.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630554998059,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Uper case, lower case bắt nguồn từ việc sắp chữ bảng in.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630508525828,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/UTF.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630508525827,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/utf-8.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630508525833,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Unicode.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630508525827,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Trải nghiệm những hiệu ứng sau khi dùng LSD, Nấm được gọi là trip.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630553245995,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Times New Roman.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630508525823,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Thinking/❕ Sống một lần là một sự giải thoát cho con người.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630508525821,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Thinking/❕ Ý nghĩa cuộc sống.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630508525822,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Thinking/❕ Mọi người thường nhầm lẫn giữa shell và bash hoặc sh.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630508525820,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Thinking/❕ Khái niệm shell tương ứng với phần mềm terminal, console.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630508525819,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Thinking/❕ Chủ nghĩa hư vô và chủ nghĩa hiện sinh.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630508525818,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Thinking/❕ Chủ nghĩa hiện sinh chú trọng đến cuộc đời cá nhân.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630508525817,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/stackoverflow.com.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630508525833,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/sh.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630508525833,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Shellshock.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630508525812,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Shell.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630508525812,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/sh đơn giản và gọn nhẹ hơn bash.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630508525832,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Sau khi đánh đuổi nhà Hán, Hai Bà Trưng lập tên nước là Lĩnh Nam.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630550176809,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Sartre cho rằng hiện hữu có trước bản chất.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630551037223,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Phông chữ.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630508525810,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Phông chữ Unicode phổ biến hỗ trợ tiếng Việt.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630508525520,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Phông chữ Sans Serif.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630508525520,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Phông chữ kiểu Serif.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630508525520,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/People/Trần Thánh Tông.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630564059340,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/People/Trần Quốc Tuấn.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630563076848,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/People/Trần Quang Khải.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630564944083,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/People/Trần Liễu.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630563063548,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/People/Trần Cảnh.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630562687639,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/People/Thuận Thiên công chúa.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630564376011,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/People/Lý Chiêu Hoàng.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630563256948,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/People/Linh Từ Quốc mẫu.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630563840259,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Nấm.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630552018869,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Nấm được sinh sản bằng bào tử.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630552448397,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Nấm Psilocybe.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630553206716,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Nấm không phải thực vật.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630552329834,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Mũ nấm là cơ quan sinh sản của nấm.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630552361000,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/macOS Catalina.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630508525832,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Lĩnh Nam.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630550278316,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/LSD.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630552873955,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/LSD trip.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630553339837,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Hộ chiếu.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630554714962,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Garden state.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630562499206,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Các loài nấm giúp con người thay đổi nhận thức được gọi là Nấm Psilocybe.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630552586904,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Con người dự trữ năng lượng dưới dạng glycogen ở gan, một phần ở cơ bắp.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630552097048,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Chất dự trữ trong tế bào nấm là glycogen.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630552120784,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/bash.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630508525832,
+      "dueDatesFlashcards": {}
+    },
+    "Spaces/Daily/❕ Chúng ta chọn cuộc sống mà chúng ta không dùng tự do của mình để làm những việc ta muốn thì ta đang sống trong bad faith.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630508524905,
       "dueDatesFlashcards": {}
     }
   }

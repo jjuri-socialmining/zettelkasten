@@ -9,6 +9,7 @@ birth:
 death: 
 aliases:
   - Hưng Đạo Vương
+  - Trần Hưng Đạo
 ---
 # Trần Quốc Tuấn
 
