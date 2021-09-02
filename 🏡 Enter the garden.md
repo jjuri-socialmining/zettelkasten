@@ -15,7 +15,10 @@ aliases:
 [[⏩ Quick note]]
 [[📑 Bookmark]]
 
-## Favor
+## Entertainment
+[[🏡 Phim hay]]
+
+## Research
 [[~Lịch Sử Việt Nam]]
 [[~Lịch sử Trung Quốc]]
 [[~Health]]

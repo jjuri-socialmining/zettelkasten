@@ -1,6 +1,6 @@
 
 
-
+[[🏡 Enter the garden]]
 
 
 ```dataview

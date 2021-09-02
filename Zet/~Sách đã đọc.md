@@ -20,7 +20,7 @@
 - [[@ Hermann Hesse, Demian]]
 - [[@ Kim Dung, Thiên Long Bát Bộ]]
 - [[@ Laura Archera Huxley, Xây dựng hạnh phúc]]
-- [[@ Aldous Huxley, Brave New World,]]
+- [[@ Aldous Huxley, Brave New World]]
 - [[@ Thomas Nagel, What Does It All Mean - A Very Short Introduction to Philosophy]]
 - [[@ Haruki Murakami, Tôi Nói Gì Khi Nói Về Chạy Bộ]]
 - [[@ Nguyễn Hiến Lê, Lịch sử thế giới]]

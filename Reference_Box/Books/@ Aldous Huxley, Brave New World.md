@@ -1,4 +1,4 @@
-# @ Aldous Huxley, Brave New World,
+# @ Aldous Huxley, Brave New World
 
 
 - metadata
@@ -15,6 +15,6 @@ Tác giả: [[Aldous Huxley]]
 ## Related:
 ```dataview
 list
-from [[@ Aldous Huxley, Brave New World,]]
+from [[@ Aldous Huxley, Brave New World]]
 sort file.name asc
 ```
