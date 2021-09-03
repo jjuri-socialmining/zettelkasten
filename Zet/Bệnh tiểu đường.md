@@ -5,7 +5,7 @@ Notion tags: #notion, #created/2021/Aug/13
 zet type: #permanet/concept
 
 
-[[Đái tháo đường type 2]]
+[[Bệnh đái tháo đường type 2]]
 [[Insulin]]
 [[Đường huyết]]
 [[Chất tạo ngọt không năng lượng]]

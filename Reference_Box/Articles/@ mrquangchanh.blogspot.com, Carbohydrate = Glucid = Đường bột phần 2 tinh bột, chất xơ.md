@@ -104,7 +104,7 @@ Những nghiên cứu gần đây cho thấy, tiêu thụ nhiều chất xơ hò
 
 [[Cholesterol]] 
 [[No file]] 
-[[Đái tháo đường type 2]] 
+[[Bệnh đái tháo đường type 2]] 
 [[Ăn nhiều chất xơ hòa tan giảm nguy cơ mắc nhiều bệnh]] 
 [[Bệnh tim mạch]] 
 [[Chất xơ hòa tan giúp hạ cholesterol máu]] 

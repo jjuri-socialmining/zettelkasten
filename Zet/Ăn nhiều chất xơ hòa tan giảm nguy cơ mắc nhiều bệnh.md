@@ -6,5 +6,5 @@ zet type: #permanent/fact
 
 Ăn nhiều [[Chất xơ hòa tan]]  giảm nguy cơ mắc nhiều bệnh:
 
-[[Đái tháo đường type 2]] 
+[[Bệnh đái tháo đường type 2]] 
 [[Bệnh tim mạch]]

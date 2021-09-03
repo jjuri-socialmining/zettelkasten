@@ -21,7 +21,7 @@ aliases:
 
 Lợi ích đối với sức khỏe:
 - Giúp [[Giảm cân]]
-- Giảm [[Insulin resistance|Đề kháng Insulin]], giảm [[Đường huyết]]
+- Giảm [[Insulin resistance|kháng Insulin]], giảm [[Đường huyết]]
 - Giảm [[LDL cholesterol]]
 - Tăng [[BDNF hormone]] hỗ trợ sự phát triển của [[Tế bào thần kinh]] mới, ngăn ngừa  [[Bệnh Alzheimer]]
 - [[Chống lão hóa]]

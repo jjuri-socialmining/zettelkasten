@@ -3,7 +3,7 @@ title: ❕ Hạnh phúc của người hiện sinh không phụ thuộc vào k�
 UID: 210902215242
 tags:
   - '#created/2021/Sep/02'
-  - '#garden🏡'
+  - '#seed🥜'
   - '#permanent/think'
 aliases:
   - 

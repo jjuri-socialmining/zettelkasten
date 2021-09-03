@@ -1,4 +1,4 @@
-# Insulin giúp mở màng tương bào của tế bào
+# Insulin kích thích tế bào mở màng bào tương
 
 - metadata
 	- UID: P-210814-1408
@@ -13,6 +13,6 @@
 ## Related:
 ```dataview
 list
-from [[Insulin giúp mở màng bào tương của tế bào]]
+from [[Insulin kích thích tế bào mở màng bào tương]]
 sort file.name asc
 ```

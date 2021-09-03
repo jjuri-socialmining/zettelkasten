@@ -9,7 +9,7 @@
 ## Summary
 [[Insulin]]
 [[Insulin được tiết ra ở tuyến tụy]]
-[[Insulin giúp mở màng bào tương của tế bào]]
+[[Insulin kích thích tế bào mở màng bào tương]]
 [[❕ Màng bào tương là một cánh cửa của tế bào trước glucose]]
 [[Mục đích của việc glucose đi vào tế bào]]
 [[Đường huyết quá cao sẽ làm tổn hại đến các cơ quan]]
