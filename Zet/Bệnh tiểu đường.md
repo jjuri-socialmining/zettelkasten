@@ -6,7 +6,7 @@ zet type: #permanet/concept
 
 
 [[Đái tháo đường type 2]]
-[[~Insulin]]
+[[Insulin]]
 [[Đường huyết]]
 [[Chất tạo ngọt không năng lượng]]
 [[Bột mì nguyên cám]]

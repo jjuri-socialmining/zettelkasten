@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[~Insulin]] được tiết ra ở [[Tuyến tụy]]
+[[Insulin]] được tiết ra ở [[Tuyến tụy]]
 
 ## Questions & thoughts:
 [[❓210816-2240]]

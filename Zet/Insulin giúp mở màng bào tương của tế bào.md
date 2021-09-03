@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[~Insulin]] giúp mở màng tương bào của tế bào
+[[Insulin]] giúp mở màng tương bào của tế bào
 
 ## Questions & thoughts:
 

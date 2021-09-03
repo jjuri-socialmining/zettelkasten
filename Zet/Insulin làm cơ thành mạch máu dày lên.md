@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[Insulin là một hormone tăng trưởng]]. [[~Insulin]] làm cơ thành mạch máu dày lên
+[[Insulin là một hormone tăng trưởng]]. [[Insulin]] làm cơ thành mạch máu dày lên
 
 ## Questions & thoughts:
 

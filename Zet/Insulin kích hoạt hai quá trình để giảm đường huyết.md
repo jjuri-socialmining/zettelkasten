@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[~Insulin]] kích hoạt hai quá trình để giảm [[Đường huyết]]
+[[Insulin]] kích hoạt hai quá trình để giảm [[Đường huyết]]
 - [[Insulin đưa glucose vào tế bào để sử dụng năng lượng]]
 - [[Insulin đưa glucose vào tế bào gan để dự trữ năng lượng]]
 - 

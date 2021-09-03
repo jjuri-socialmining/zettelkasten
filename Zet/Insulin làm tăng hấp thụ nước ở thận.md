@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[~Insulin]] làm tăng hấp thụ nước ở [[Thận]]
+[[Insulin]] làm tăng hấp thụ nước ở [[Thận]]
 
 ## Questions & thoughts:
 

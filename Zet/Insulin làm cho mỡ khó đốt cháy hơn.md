@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[~Insulin]] làm cho mỡ khó đốt cháy hơn
+[[Insulin]] làm cho mỡ khó đốt cháy hơn
 
 ## Questions & thoughts:
 

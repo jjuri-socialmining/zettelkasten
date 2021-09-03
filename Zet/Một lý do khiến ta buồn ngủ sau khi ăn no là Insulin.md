@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Một lý do khiến ta buồn ngủ sau khi ăn no là [[~Insulin]]. Vì sau khi ăn, đường huyết tăng khiến cơ thể tiết ra Insulin để giảm đường huyết. Mà [[Insulin làm chậm các quá trình chuyển hóa của cơ thể]]
+Một lý do khiến ta buồn ngủ sau khi ăn no là [[Insulin]]. Vì sau khi ăn, đường huyết tăng khiến cơ thể tiết ra Insulin để giảm đường huyết. Mà [[Insulin làm chậm các quá trình chuyển hóa của cơ thể]]
 
 ## Questions & thoughts:
 

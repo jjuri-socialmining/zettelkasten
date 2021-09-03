@@ -10,7 +10,7 @@
 
 ## Questions & thoughts:
 - [ ] [[~Glucose]]
-- [ ] [[~Insulin]]
+- [ ] [[Insulin]]
 
 ## Related:
 ```dataview

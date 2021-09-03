@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-nồng độ[[~Insulin]] cao trong máu thường xuyên dẫn đến [[Cholesterol]] trong máu cao. Đây là nguyên nhân gây ra [[Bệnh máu nhiễm mỡ]]
+nồng độ[[Insulin]] cao trong máu thường xuyên dẫn đến [[Cholesterol]] trong máu cao. Đây là nguyên nhân gây ra [[Bệnh máu nhiễm mỡ]]
 
 ## Questions & thoughts:
 

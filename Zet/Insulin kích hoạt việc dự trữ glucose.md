@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[~Insulin]] kích hoạt việc dự trữ [[~Glucose]] trong cơ thể. Glucose có thể tích lũy đưới dạng [[~Glycogen]] và cả [[Lipid]]
+[[Insulin]] kích hoạt việc dự trữ [[~Glucose]] trong cơ thể. Glucose có thể tích lũy đưới dạng [[~Glycogen]] và cả [[Lipid]]
 
 ## Questions & thoughts:
 

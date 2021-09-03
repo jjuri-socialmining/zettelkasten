@@ -7,7 +7,7 @@
 	- source: 
 
 ## Summary
-[[~Insulin]]
+[[Insulin]]
 [[Insulin được tiết ra ở tuyến tụy]]
 [[Insulin giúp mở màng bào tương của tế bào]]
 [[❕ Màng bào tương là một cánh cửa của tế bào trước glucose]]

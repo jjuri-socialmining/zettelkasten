@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[~Insulin]] làm tăng tổng hợp [[Cholesterol]] trong [[Gan]]
+[[Insulin]] làm tăng tổng hợp [[Cholesterol]] trong [[Gan]]
 
 ## Questions & thoughts:
 

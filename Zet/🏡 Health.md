@@ -1,10 +1,16 @@
-[[~000 Home]]
-%% 
-###### Metadata
-tags: #MOC 
-%% 
-# Health MOC
-This is for areas of physical health, wellness, training, and exercise.
+---
+title: 🏡 Health
+UID: 210903101749
+tags:
+  - '#created/2021/Sep/03'
+  - '#garden🏡'
+  - '#permanent/concept'
+aliases:
+  - 
+---
+# 🏡 Health
+
+## Notes:
 
 [[Hệ tiêu hóa]]
 [[Hệ miễn dịch]]
@@ -27,3 +33,15 @@ This is for areas of physical health, wellness, training, and exercise.
 - [[Bệnh tiểu đường]]
 - [[Táo bón]]
 - [[Bệnh tim mạch]]
+
+### Others
+- [[🏡 Các chế độ nhịn ăn]]
+- [[Intermittent Fasting]]
+
+
+## Tham khảo:
+```dataview
+list
+from [[🏡 Health]]
+sort file.name asc
+```

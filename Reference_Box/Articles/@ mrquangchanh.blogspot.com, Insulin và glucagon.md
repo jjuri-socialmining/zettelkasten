@@ -7,7 +7,7 @@
 	- source: http://mrquangchanh.blogspot.com/2016/02/16-insulin-va-glucagon.html
 
 ## Summary
-[[~Insulin]]
+[[Insulin]]
 [[Glucagon]]
 [[Insulin kích hoạt hai quá trình để giảm đường huyết]]
 - [[Insulin đưa glucose vào tế bào để sử dụng năng lượng]]
