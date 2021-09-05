@@ -12,7 +12,7 @@ aliases:
 # Thương Ưởng
 
 ## Notes:
-Thương Ưởng (khoảng 390 TCN-338 TCN) gốc từ họ Cơ con cháu của [[Chu Văn Vương]]. Cơ tức là họ của [[Cơ Xương]], [[Chu Vũ Vương|Cơ Phát]]
+Thương Ưởng (khoảng 390 TCN-338 TCN) gốc từ họ Cơ con cháu của [[Cơ Xương]]. Cơ tức là họ của [[Cơ Xương]], [[Chu Vũ Vương|Cơ Phát]]
 Ông là chính trị gia, thừa tướng [[Nhà Tần]]. Ông trú tại [[Nước Vệ]]. Vì thế, ông còn được gọi là Vệ Ưởng.[^1]
 
 ## Ideas & thoughts:

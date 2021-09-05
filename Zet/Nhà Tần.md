@@ -19,7 +19,7 @@ Tiền thân là [[Nhà Chu]], kế tục là [[Nhà Hán]], [[Nam Việt]] và 
 - [ ] [[Tần Thủy Hoàng]]
 - [ ] Nhà Tần là một trong 7 chư hầu mạnh nhất dưới thời nhà Chu
 - [ ] Nhà Tần là một thế lực mạnh nhờ cải cách của [[Thương Ưởng]]
-- [ ] [[Thương Ưởng]] gốc từ họ Cơ con cháu của [[Chu Văn Vương]]. Cơ tức là là họ của [[Cơ Xương]], [[Chu Vũ Vương|Cơ Phát]]
+- [ ] [[Thương Ưởng]] gốc từ họ Cơ con cháu của [[Cơ Xương]]. Cơ tức là là họ của [[Cơ Xương]], [[Chu Vũ Vương|Cơ Phát]]
 
 ## Related:
 ```dataview

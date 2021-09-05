@@ -13,5 +13,6 @@
   "calendar",
   "templater-obsidian",
   "workbench-obsidian",
-  "obsidian-annotator"
+  "obsidian-annotator",
+  "sliding-panes-obsidian"
 ]

@@ -10,7 +10,7 @@
 Bách gia Chư tử là những tư tưởng triết lý ở Trung Quốc thời kỳ [[Xuân Thu]] [[Chiến Quốc]] từ thế kỷ thứ VI đến năm 221 TCN.
 
 Các trường phái lớn trong thời kỳ này:
-- [[Khổng Tử]] với [[~Nho Giáo]]
+- [[Khổng Tử]] với [[Nho giáo]]
 - [[Lão Tử]] với [[Đạo Giáo]]
 - [[Mặc Tử]]
 - [[Pháp Gia]]

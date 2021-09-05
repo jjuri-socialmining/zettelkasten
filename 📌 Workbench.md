@@ -19,3 +19,15 @@
 [[Chủ nghĩa hiện sinh]]
 [[💥 Khủng hoảng hiện sinh tốt hay xấu]]
 [[❕ Những câu hỏi hiện sinh giúp ta thức tỉnh trong cuộc sống thực tại]]
+[[Phục Hi]]
+[[Khuất Nguyên]]
+
+[[Ngũ đế Trung Hoa]]
+[[Tam Hoàng Trung Hoa]]
+[[Tam Vương Trung Hoa]]
+[[Ngũ Đế]]
+[[Đế Nghiêu]]
+[[Đế Thuấn]]
+[[Hạ Vũ]]
+
+[[Bàn Cổ]]

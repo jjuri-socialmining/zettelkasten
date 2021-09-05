@@ -8,7 +8,7 @@
 
 ## Notes
 
-[[Mạnh Tử]] (372 TCN - 289 TCN) là người theo chủ nghĩa duy tâm _"Nhân chi sơ tính bản thiện"_ (Con người ta mới sinh ra tính vốn tốt lành)
+[[Mạnh Tử]] (372 TCN - 289 TCN) là người theo [[Chủ nghĩa duy tâm]] _"Nhân chi sơ tính bản thiện"_ (Con người ta mới sinh ra tính vốn tốt lành)
 
 ## Questions & thoughts:
 

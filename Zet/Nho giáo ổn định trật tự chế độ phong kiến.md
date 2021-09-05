@@ -7,7 +7,7 @@
 	- previous note:
 
 ## Notes
-Lễ nghi [[~Nho Giáo]] dẫn đến [[Chủ nghĩa quy phạm]], phục tùng quân vương, người cai trị. Điều này dẫn đến trật tự xã hội phong kiến được ổn định
+Lễ nghi [[Nho giáo]] dẫn đến [[Chủ nghĩa quy phạm]], phục tùng quân vương, người cai trị. Điều này dẫn đến trật tự xã hội phong kiến được ổn định
 
 ## Questions & thoughts:
 
