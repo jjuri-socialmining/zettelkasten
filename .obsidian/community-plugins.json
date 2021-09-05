@@ -8,16 +8,10 @@
   "advanced-toolbar",
   "obsidian-git",
   "obsidian-spaced-repetition",
-  "obsidian-icons-plugin",
   "obsidian-emoji-toolbar",
-  "obsidian-admonition",
   "tag-wrangler",
   "calendar",
   "templater-obsidian",
   "workbench-obsidian",
-  "quickadd",
-  "obsidian-kanban",
-  "obsidian-extract-pdf-highlights",
-  "obsidian-journey-plugin",
-  "sliding-panes-obsidian"
+  "obsidian-annotator"
 ]
