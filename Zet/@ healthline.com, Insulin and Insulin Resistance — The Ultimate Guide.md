@@ -9,7 +9,7 @@ URL: https://www.healthline.com/nutrition/insulin-and-insulin-resistance
 # Insulin and Insulin Resistance — The Ultimate Guide
 
 
-![[Insulin and Insulin Resistance — The Ultimate Guid/Male_Phone_Fence_732x549-thumbnail.jpg]]
+![[Male_Phone_Fence_732x549-thumbnail.jpg]]
 
 Insulin is a hormone secreted by your pancreas.
 

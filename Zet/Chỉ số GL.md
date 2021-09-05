@@ -15,4 +15,4 @@ zet type: #permanet/concept
 
 Glycemic Load, hay Chỉ số GL, có thể dịch là [[Tải lượng đường huyết]] cho biết [[Đường huyết]] sẽ tăng bao nhiêu ("tải lượng") khi sử dụng một loại thực phẩm. GL được tính dựa trên [[Glycemic Index]] 
 
-![[Bins/Images/GLformula.gif]]
+![[Zet/Images/GLformula.gif]]
