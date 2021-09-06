@@ -14,7 +14,7 @@
 
   note_type = await tp.system.suggester(["Routine", "Private"], ["#daily/routine", "#daily/private"]);
   
-  await tp.file.move("/Spaces/Daily/" + title);
+  await tp.file.move("/Spaces/Daily/Journal/" + title);
   tR += "---"
 %>
 title: <%* tR += title %>

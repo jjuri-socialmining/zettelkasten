@@ -15,6 +15,7 @@ Thập nhị tứ hiếu là một tác phẩm văn học mang tính giáo dục
 [[Thập nhị tứ hiếu kể về 24 sự tích tấm gương hiếu thảo]]
 
 ## Ideas & thoughts:
+Gương hiếu thảo [[Đế Thuấn]]
 
 ## Questions:
 

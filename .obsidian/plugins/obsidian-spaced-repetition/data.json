@@ -32,7 +32,7 @@
     "maxLinkFactor": 1,
     "logLevel": 1
   },
-  "buryDate": "2021-09-05",
+  "buryDate": "2021-09-06",
   "buryList": [],
   "cache": {
     "Spaces/Projects/~Python.md": {
@@ -1434,9 +1434,9 @@
       "nextDueDate": "2021-08-26",
       "lastUpdated": 1630080650965,
       "dueDatesFlashcards": {
-        "-7": 1,
-        "-10": 1,
-        "-5": 1
+        "-8": 1,
+        "-11": 1,
+        "-6": 1
       }
     },
     "Zet/Taxonomy.md": {
@@ -4451,7 +4451,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630080585996,
+      "lastUpdated": 1630859518232,
       "dueDatesFlashcards": {}
     },
     "Zet/Chỉ số GI lấy glucose làm chuẩn.md": {
@@ -5308,20 +5308,20 @@
     "Spaces/Questions/❓210816-2248.md": {
       "totalCards": 2,
       "hasNewCards": false,
-      "nextDueDate": "2021-09-05",
-      "lastUpdated": 1630255658990,
+      "nextDueDate": "2021-09-22",
+      "lastUpdated": 1630858340012,
       "dueDatesFlashcards": {
-        "0": 1,
-        "17": 1
+        "16": 1,
+        "59": 1
       }
     },
     "Spaces/Questions/❓210816-2246.md": {
       "totalCards": 1,
       "hasNewCards": false,
-      "nextDueDate": "2021-09-03",
-      "lastUpdated": 1630080586709,
+      "nextDueDate": "2021-11-05",
+      "lastUpdated": 1630858354913,
       "dueDatesFlashcards": {
-        "-2": 1
+        "60": 1
       }
     },
     "Spaces/Questions/❓210816-2244.md": {
@@ -5330,17 +5330,17 @@
       "nextDueDate": "2021-09-06",
       "lastUpdated": 1630426534070,
       "dueDatesFlashcards": {
-        "2": 1,
-        "38": 1
+        "0": 1,
+        "36": 1
       }
     },
     "Spaces/Questions/❓210816-2242.md": {
       "totalCards": 1,
       "hasNewCards": false,
-      "nextDueDate": "2021-09-03",
-      "lastUpdated": 1630080586718,
+      "nextDueDate": "2021-10-05",
+      "lastUpdated": 1630858383991,
       "dueDatesFlashcards": {
-        "-2": 1
+        "29": 1
       }
     },
     "Spaces/Questions/❓210816-2240.md": {
@@ -5355,23 +5355,23 @@
     "Spaces/Questions/❓210815-2255.md": {
       "totalCards": 4,
       "hasNewCards": false,
-      "nextDueDate": "2021-09-02",
-      "lastUpdated": 1630426547327,
+      "nextDueDate": "2021-09-19",
+      "lastUpdated": 1630858330121,
       "dueDatesFlashcards": {
-        "14": 1,
-        "29": 1,
-        "38": 1,
-        "-3": 1
+        "13": 1,
+        "28": 1,
+        "37": 1,
+        "38": 1
       }
     },
     "Spaces/Questions/❓210815-2252.md": {
       "totalCards": 2,
       "hasNewCards": false,
-      "nextDueDate": "2021-09-04",
-      "lastUpdated": 1630426523177,
+      "nextDueDate": "2021-10-09",
+      "lastUpdated": 1630858319244,
       "dueDatesFlashcards": {
-        "34": 1,
-        "-1": 1
+        "33": 1,
+        "63": 1
       }
     },
     "Spaces/Questions/❓210815-2249.md": {
@@ -5396,22 +5396,23 @@
     "Spaces/Questions/❓210815-2245.md": {
       "totalCards": 2,
       "hasNewCards": false,
-      "nextDueDate": "2021-09-03",
-      "lastUpdated": 1630589228555,
+      "nextDueDate": "2021-10-03",
+      "lastUpdated": 1630858398849,
       "dueDatesFlashcards": {
-        "28": 1,
-        "-2": 1
+        "27": 1,
+        "43": 1
       }
     },
     "Spaces/Questions/❓210815-2237.md": {
       "totalCards": 4,
       "hasNewCards": false,
-      "nextDueDate": "2021-09-02",
-      "lastUpdated": 1630255662410,
+      "nextDueDate": "2021-10-06",
+      "lastUpdated": 1630858411858,
       "dueDatesFlashcards": {
-        "0": 1,
-        "31": 1,
-        "-3": 2
+        "30": 1,
+        "35": 1,
+        "36": 1,
+        "42": 1
       }
     },
     "Spaces/Questions/❓210815-2224.md": {
@@ -5438,21 +5439,21 @@
     "Spaces/Questions/❓210815-2201.md": {
       "totalCards": 2,
       "hasNewCards": false,
-      "nextDueDate": "2021-09-02",
-      "lastUpdated": 1630338772104,
+      "nextDueDate": "2021-09-25",
+      "lastUpdated": 1630858408103,
       "dueDatesFlashcards": {
-        "35": 1,
-        "-3": 1
+        "19": 1,
+        "34": 1
       }
     },
     "Spaces/Questions/❓210815-2157.md": {
       "totalCards": 2,
       "hasNewCards": false,
-      "nextDueDate": "2021-09-03",
-      "lastUpdated": 1630426543366,
+      "nextDueDate": "2021-10-15",
+      "lastUpdated": 1630858394994,
       "dueDatesFlashcards": {
-        "40": 1,
-        "-2": 1
+        "39": 1,
+        "68": 1
       }
     },
     "Spaces/Questions/❓210815-2154.md": {
@@ -5500,12 +5501,12 @@
     "Spaces/Questions/❓210815-2024.md": {
       "totalCards": 3,
       "hasNewCards": false,
-      "nextDueDate": "2021-09-04",
-      "lastUpdated": 1630589228553,
+      "nextDueDate": "2021-09-18",
+      "lastUpdated": 1630858324429,
       "dueDatesFlashcards": {
-        "31": 1,
-        "33": 1,
-        "-1": 1
+        "12": 1,
+        "30": 1,
+        "32": 1
       }
     },
     "Spaces/Questions/❓210815-1642.md": {
@@ -5900,10 +5901,10 @@
     "Spaces/Questions/❓210830-2253.md": {
       "totalCards": 1,
       "hasNewCards": false,
-      "nextDueDate": "2021-09-03",
-      "lastUpdated": 1630426528559,
+      "nextDueDate": "2021-09-13",
+      "lastUpdated": 1630858335433,
       "dueDatesFlashcards": {
-        "-2": 1
+        "7": 1
       }
     },
     "Zet/Jupyter Notebook.md": {
@@ -6023,13 +6024,6 @@
       "hasNewCards": false,
       "nextDueDate": "",
       "lastUpdated": 1630424287249,
-      "dueDatesFlashcards": {}
-    },
-    "Spaces/Daily/❕ Chúng ta chọn cuộc sống mà chúng ta không dùng tự do của mình để làm những việc ta muốn thì ta đang sống trong bad faith.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1630425791055,
       "dueDatesFlashcards": {}
     },
     "Zet/🏡 Phim hay.md": {
@@ -7255,6 +7249,13 @@
       "hasNewCards": false,
       "nextDueDate": "",
       "lastUpdated": 1630852122468,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/❕ Chúng ta chọn cuộc sống mà chúng ta không dùng tự do của mình để làm những việc ta muốn thì ta đang sống trong bad faith.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1630425791055,
       "dueDatesFlashcards": {}
     }
   }
