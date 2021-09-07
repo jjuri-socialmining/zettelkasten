@@ -1,6 +1,6 @@
 ---
-title: Trần Thị Ngọc Diệp
-UID: 210907225946
+title: Trần Quang Duy
+UID: 210907230627
 tags:
   - '#created/2021/Sep/07'
   - '#seed🥜'
@@ -8,16 +8,18 @@ tags:
 birth: 
 death: 
 aliases:
-  - chị Diệp
+  - 
 ---
-# Trần Thị Ngọc Diệp
+# Trần Quang Duy
 
 ## Notes:
+[[Trần Thị Vương Đan]]
+[[Trần Thiên Ân]]
 
 
 ## Tham khảo:
 ```dataview
 list
-from [[Trần Thị Ngọc Diệp]]
+from [[Trần Quang Duy]]
 sort file.name asc
 ```

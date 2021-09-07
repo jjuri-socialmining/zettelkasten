@@ -1,6 +1,6 @@
 ---
-title: Trần Thị Ngọc Diệp
-UID: 210907225946
+title: Trần Thiên Ân
+UID: 210907225809
 tags:
   - '#created/2021/Sep/07'
   - '#seed🥜'
@@ -8,16 +8,17 @@ tags:
 birth: 
 death: 
 aliases:
-  - chị Diệp
+  - 
 ---
-# Trần Thị Ngọc Diệp
+# Trần Thiên Ân
 
 ## Notes:
+
 
 
 ## Tham khảo:
 ```dataview
 list
-from [[Trần Thị Ngọc Diệp]]
+from [[Trần Thiên Ân]]
 sort file.name asc
 ```

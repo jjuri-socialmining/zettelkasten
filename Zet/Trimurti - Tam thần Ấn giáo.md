@@ -7,7 +7,7 @@
 	- previous note: [[Brahma - Phạm Thiên]]
 
 ## Notes
-Trimurti - Tam thần Ấn giáo là 3 vị thần tối cao trong [[Hindu - Ấn Độ giáo]] bao gồm:
+Trimurti - Tam thần Ấn giáo là 3 vị thần tối cao trong [[Ấn Độ giáo]] bao gồm:
 - [[Brahma - Phạm Thiên]] là đấng tạo hóa.
 - [[Thần Vishnu]] là đấng bảo hộ.
 - [[Thần Shiva]] là đấng hủy diệt.

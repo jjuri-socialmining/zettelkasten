@@ -14,7 +14,7 @@ aliases:
 # Trần Huyền Trang
 
 ## Notes:
-
+Trần Huyền Trang là một nhà sư thời [[Nhà Đường]], ông có công dịch sách kinh từ [[Tiếng Sanskrit]] sang tiếng Hán
 
 ## Ideas & thoughts:
 

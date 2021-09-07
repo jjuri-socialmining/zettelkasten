@@ -7,3 +7,4 @@
 
 [[SARS-COV-2]]
 [[Các loại Vaccine COVID]]
+[[COVID 19]]

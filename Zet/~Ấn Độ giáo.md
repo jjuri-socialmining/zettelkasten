@@ -3,7 +3,7 @@
 	- tags: #MOC %%
 
 ### Khái niệm
-[[Hindu - Ấn Độ giáo]]
+[[Ấn Độ giáo]]
 
 ### Các vị thần
 - [[Trimurti - Tam thần Ấn giáo]]

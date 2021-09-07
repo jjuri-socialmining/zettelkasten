@@ -20,6 +20,7 @@
 [[Nhà Lương]]
 [[Nhà Tùy]]
 [[Nhà Đường]]
+[[Nhà Võ Chu]]
 [[Tây Thục]]
 [[Đông Ngô]]
 [[Nhà Tấn]]
@@ -39,7 +40,31 @@
 |             |                                                |
 - 
 ###
+[[Phục Hi]]
+[[Nữ Oa]]
+[[Thần Nông]]
+[[Đế Nghiêu]]
+[[Đế Thuấn]]
+[[Hạ Vũ]]
+[[Thành Thang]]
+[[Chu Vũ Vương]]
+[[Cơ Xương]]
+[[Khương Tử Nha]]
+[[Đế Tân]]
 [[Tần Thủy Hoàng]]
+[[Thương Ưởng]]
+[[Hán Lưu Bang]]
+[[Tào Tháo]]
+[[Đổng Trác]]
+[[Viên Thiệu]]
+[[Quan Vũ]]
+[[Lưu Bị]]
+[[Vương Mãng]]
+[[Võ Tắc Thiên]]
+[[Lý Thế Dân]]
+[[Lý Tự Thành]]
+[[Từ Hi Thái Hậu]]
+[[Hồng Tú Toàn]]
 
 ## Related:
 ```dataview

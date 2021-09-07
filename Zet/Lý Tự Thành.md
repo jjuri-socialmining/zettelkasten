@@ -9,6 +9,7 @@
 
 
 ## Questions & thoughts:
+Khi rút quân, [[Lý Tự Thành]] đã phóng hỏa đốt [[Tử Cấm Thành]]
 
 ## Related:
 ```dataview
