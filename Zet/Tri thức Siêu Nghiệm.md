@@ -1,7 +1,28 @@
-# 027 Tri thức Siêu Nghiệm
-
+---
+title: Tri thức Siêu Nghiệm
+UID: 210908202327
 created: Nov 05, 2020 9:16 PM
-tags: #created/2020/Nov/05
-Description: Tri thức Siêu Nghiệm
+tags:
+  - '#created/2020/Nov/05'
+  - '#seed🥜'
+  - '#permanent/concept'
+aliases:
+  - transzendental
+---
+# Tri thức Siêu Nghiệm
 
+## Notes:
 Tri thức Siêu nghiệm (transzendental) là một loại giả định, viễn tưởng về tri thức thế giới "vật-tự-nó"
+
+## Ideas & thoughts:
+[[~002 Triết học|Triết học]]
+
+## Questions:
+
+
+## Tham khảo:
+```dataview
+list
+from [[Tri thức Siêu Nghiệm]]
+sort file.name asc
+```

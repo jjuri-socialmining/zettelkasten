@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[Hormone PYY]] còn được tạo thành từ sự phân hủy [[~Protein]] bởi [[enzym]] có trong ruột
+[[Hormone PYY]] còn được tạo thành từ sự phân hủy [[Protein]] bởi [[enzym]] có trong ruột
 
 ## Questions & thoughts:
 

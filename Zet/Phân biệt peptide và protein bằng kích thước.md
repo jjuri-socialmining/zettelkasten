@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Người ta phân biệt [[Peptide]] với [[~Protein]] dựa trên kích thước. Các peptide được quy ước bằng hoặc ít hơn 50 [[Amino acid]]
+Người ta phân biệt [[Peptide]] với [[Protein]] dựa trên kích thước. Các peptide được quy ước bằng hoặc ít hơn 50 [[Amino acid]]
 
 ## Questions & thoughts:
 

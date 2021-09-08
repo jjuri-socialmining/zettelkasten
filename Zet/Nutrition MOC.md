@@ -7,12 +7,12 @@
 
 ## Note
 [[4 nhóm chất dinh dưỡng thiết yếu]]
-* [[~Carbohydrate]]
+* [[Carbohydrate]]
 	* [[~Glucose]]
 	* [[Tinh bột]]
-* [[~Protein]]
+* [[Protein]]
 * [[Lipid]]
-* [[~Vitamin]]
+* [[Vitamin]]
 
 * [[Chất xơ]]
 

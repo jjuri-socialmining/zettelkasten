@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Các chính sách phân biệt tôn giáo của chính phủ [[Ngô Đình Diệm]] gây ra mâu thuẫn trầm trọng với [[~Phật Giáo]] miền nam, gây ra nhiều cuộc biểu tình lớn ở nam Việt Nam.
+Các chính sách phân biệt tôn giáo của chính phủ [[Ngô Đình Diệm]] gây ra mâu thuẫn trầm trọng với [[Phật Giáo]] miền nam, gây ra nhiều cuộc biểu tình lớn ở nam Việt Nam.
 
 ## Questions & thoughts:
 

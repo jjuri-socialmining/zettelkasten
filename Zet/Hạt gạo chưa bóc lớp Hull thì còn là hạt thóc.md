@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[Hạt gạo]] chưa bóc [[Lớp Hull - vỏ chấu]] thì còn là hạt thóc
+[[Hạt gạo]] chưa bóc [[Lớp Hull]] thì còn là hạt thóc
 
 
 ## Questions & thoughts:

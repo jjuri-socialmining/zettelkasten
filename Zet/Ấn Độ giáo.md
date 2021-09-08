@@ -8,11 +8,20 @@ tags:
 aliases:
   - Đạo Hindu
   - Hindu
+  - Hindu giáo
 ---
 # Ấn Độ giáo
 
 ## Notes:
 Hindu giáo, hay còn gọi là Ấn Độ giáo.
+
+### Các vị thần
+- [[Trimurti - Tam thần Ấn giáo]]
+	- [[Brahma - Phạm Thiên]]
+	- [[Thần Vishnu]]
+	- [[Thần Shiva]]
+
+### Giáo lý
 
 ## Ideas & thoughts:
 

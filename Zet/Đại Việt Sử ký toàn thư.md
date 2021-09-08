@@ -7,7 +7,7 @@
 	- related: 
 
 ## Notes
-Đại Việt Sử ký toàn thư là bộc chính sử Việt Nam được bắt đầu viết bởi [[Ngô Sĩ Liên]] dưới thời [[~Nhà Hậu Lê]]
+Đại Việt Sử ký toàn thư là bộc chính sử Việt Nam được bắt đầu viết bởi [[Ngô Sĩ Liên]] dưới thời [[Nhà Hậu Lê]]
 
 ## Questions & thoughts:
 

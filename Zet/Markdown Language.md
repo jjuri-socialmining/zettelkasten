@@ -8,7 +8,7 @@
 
 ## Notes
 
-Markdown là một ngôn ngữ đánh dấu - [[Markup Language - Ngôn ngữ đánh dấu]], được tạo ra vào năm 2004 bởi [[John Gruber]] với mục đích dễ viết và dễ chuyển qua định dạng [[HTML Language]]. Một văn bản được viết bằng Markdown bao gồm nội dung và các thông tin đánh dấu như tô đậm, chữ nghiêng, tiêu đề...
+Markdown là một ngôn ngữ đánh dấu - [[Markup Language]], được tạo ra vào năm 2004 bởi [[John Gruber]] với mục đích dễ viết và dễ chuyển qua định dạng [[HTML Language]]. Một văn bản được viết bằng Markdown bao gồm nội dung và các thông tin đánh dấu như tô đậm, chữ nghiêng, tiêu đề...
 
 Markdown là một văn bản thô plaintext nhưng các đánh dấu cho phép các phầm mềm hỗ trợ hiển thị ở định dạng rich text.
 

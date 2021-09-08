@@ -10,7 +10,7 @@
 [[Nguyễn Tường Bách]]
 [[~002 Triết học]]
 [[Vật lý]]
-[[~Phật Giáo]]
+[[Phật Giáo]]
 
 ## Questions and thoughts
 

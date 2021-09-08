@@ -6,6 +6,6 @@
 	- previous note:
 
 ## Notes
-Slipbox là một từ tiếng Anh, có nghĩa là ngăn kéo trượt. Nó chính là [[~Zettelkasten]] trong hệ thống ghi chú theo phương pháp của Luhman.
+Slipbox là một từ tiếng Anh, có nghĩa là ngăn kéo trượt. Nó chính là [[~Zettelkasten]] trong hệ thống ghi chú theo phương pháp của [[Niklas Luhmann]].
 
 ## Questions & thoughts:

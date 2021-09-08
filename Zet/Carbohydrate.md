@@ -6,7 +6,7 @@
 	- tags: #created/2021/Aug/12, #MOC 
 %%
 
-* [[~Carbohydrate]]
+* [[Carbohydrate]]
 	* [[Phân loại carbonhyrate]]
 		* [[Monosacharide]]
 			* [[~Glucose]]

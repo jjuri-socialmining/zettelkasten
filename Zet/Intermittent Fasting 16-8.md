@@ -8,6 +8,7 @@ tags:
 aliases:
   - Intermittent Fasting 16-8
   - Phương pháp Leangains
+  - Nhịn ăn 16-8
 ---
 # Intermittent Fasting 16-8
 

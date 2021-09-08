@@ -9,7 +9,7 @@
 ## Notes
 Tam giáo là một tên gọi để chỉ 3 truyền thống tôn giáo triết học thời cổ đại ở Trung Hoa bao gồm 
 - [[Nho giáo]]
-- [[~Phật Giáo]]
+- [[Phật Giáo]]
 - [[Đạo Giáo]]
 
 ## Questions & thoughts:

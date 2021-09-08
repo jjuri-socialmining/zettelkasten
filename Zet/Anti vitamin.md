@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Anti vitamin là hợp chất ức chế hấp thụ hay hoạt động của các [[~Vitamin]] trong cơ thể.
+Anti vitamin là hợp chất ức chế hấp thụ hay hoạt động của các [[Vitamin]] trong cơ thể.
 Ví dụ một protein trong lòng trắng trứng sống ức chế [[Vitamin H]]
 ## Questions & thoughts:
 

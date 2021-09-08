@@ -6,7 +6,7 @@
 	- source: [[@ wiki, Lịch sử Việt Nam]]
 
 ## Notes
-[[Vĩ tuyến 17]] chỉ là ranh giới quy ước tạm thời, người dân được tự do đi lại 2 miền và tự do chọn nơi cư trú. Trong thời gian này, khoảng 1 triệu người chủ yếu là đồng bào theo đạo [[~Công Giáo]] di cư vào nam. Người ta thường gọi những người này là [[Bắc 54]].
+[[Vĩ tuyến 17]] chỉ là ranh giới quy ước tạm thời, người dân được tự do đi lại 2 miền và tự do chọn nơi cư trú. Trong thời gian này, khoảng 1 triệu người chủ yếu là đồng bào theo đạo [[Công Giáo]] di cư vào nam. Người ta thường gọi những người này là [[Bắc 54]].
 
 ## Questions & thoughts:
 

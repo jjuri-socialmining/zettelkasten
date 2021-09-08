@@ -11,7 +11,7 @@ aliases:
 # Nồng độ Insuline máu giảm giúp cơ thể dễ sử dụng chất béo hơn
 
 ## Notes:
-Nồng độ Insuline máu giảm giúp cơ thể dễ sử dụng chất béo hơn. 
+Nồng độ [[Insulin]] máu giảm giúp cơ thể dễ sử dụng chất béo hơn. 
 
 ## Ideas & thoughts:
 

@@ -7,7 +7,7 @@
 	- source: 
 
 ## Notes
-Tam quốc là một thời kỳ lịch sử Trung Hoa, đất nước được chia thành 3 quốc gia: [[Bắc Ngụy]], [[Tây Thục]] và [[Đông Ngô]].
+Tam quốc là một thời kỳ lịch sử [[Trung Quốc]], đất nước được chia thành 3 quốc gia: [[Bắc Ngụy]], [[Tây Thục]] và [[Đông Ngô]].
 
 ## Questions & thoughts:
 

@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Damasus I (305-384) là giáo hoàng thứ 37 của [[~Công Giáo]]
+Damasus I (305-384) là giáo hoàng thứ 37 của [[Công Giáo]]
 
 ## Questions & thoughts:
 

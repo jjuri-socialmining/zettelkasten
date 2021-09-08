@@ -10,7 +10,7 @@
 [[Hạt gạo]]
 [[Hạt thóc]]
 [[Cấu tạo hạt thóc gồm 4 lớp]]
-[[Lớp Hull - vỏ chấu]]
+[[Lớp Hull]]
 [[Hạt gạo chưa bóc lớp Hull thì còn là hạt thóc]]
 [[Lớp bran]]
 [[Lớp bran thường có màu đỏ, nâu đen]]

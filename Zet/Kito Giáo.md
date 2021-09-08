@@ -14,7 +14,7 @@
 Về từ ngữ, Kitô trong tiếng Hy Lạp là _Khristos_, nghĩa là "Đấng được xức dầu". "Đấng được xức dầu" là danh hiệu của đấng [[Đấng Messiah]] trong tiếng [[Hebrew]]
 
 - Các tôn giáo: 
-	- [[~Công Giáo]]
+	- [[Công Giáo]]
 	- [[Chính thống giáo Đông Phương]]
 	- [[Anh giáo]]
 	- [[Tin Lành]]

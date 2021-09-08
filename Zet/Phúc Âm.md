@@ -9,7 +9,7 @@
 
 
 ## Questions & thoughts:
-- [ ] [[Kinh thánh]] của [[~Công Giáo]]
+- [ ] [[Kinh thánh]] của [[Công Giáo]]
 
 ## Related:
 ```dataview

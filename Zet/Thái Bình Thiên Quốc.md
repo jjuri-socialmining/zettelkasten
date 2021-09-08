@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Thái Bình Thiên Quốc là nhà nước theo Thiên Chúa giáo ở Trung Quốc đầu thế kỷ 19. Người đứng đầu Thái Bình Thiên Quốc là [[Hồng Tú Toàn]]
+Thái Bình Thiên Quốc là nhà nước theo [[Thiên Chúa giáo]] ở Trung Quốc đầu thế kỷ 19. Người đứng đầu Thái Bình Thiên Quốc là [[Hồng Tú Toàn]]
 
 ## Questions & thoughts:
 

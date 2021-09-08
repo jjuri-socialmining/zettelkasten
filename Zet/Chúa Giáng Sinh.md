@@ -7,7 +7,7 @@
 	- source: 
 
 ## Notes
-Chúa Giáng Sinh là sự kiện Đức Giê Su được sinh ra, được giáo hội [[~Công Giáo]] kỷ niệm vào 25 tháng 12 hàng năm.
+Chúa Giáng Sinh là sự kiện Đức Giê Su được sinh ra, được giáo hội [[Công Giáo]] kỷ niệm vào 25 tháng 12 hàng năm.
 
 Lễ Chúa Giáng sinh hay còn được gọi là [[Lễ Giáng Sinh]], [[Noel]], [[Christmas]]
 

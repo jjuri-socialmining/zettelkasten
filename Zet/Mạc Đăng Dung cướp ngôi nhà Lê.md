@@ -7,7 +7,7 @@
 	- source: 
 
 ## Notes
-Năm 1527, [[Mạc Đăng Dung]] cướp ngôi [[~Nhà Hậu Lê]] lập ra nhà Mạc.
+Năm 1527, [[Mạc Đăng Dung]] cướp ngôi [[Nhà Hậu Lê]] lập ra nhà Mạc.
 
 ## Questions & thoughts:
 

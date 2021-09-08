@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[~Vitamin]]
+[[Vitamin]]
 
 ## Questions & thoughts:
 

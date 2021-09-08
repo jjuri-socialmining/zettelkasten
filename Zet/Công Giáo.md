@@ -1,12 +1,12 @@
 ---
-title: ~Công Giáo
+title: Công Giáo
 UID: 210815151214
 tags:
   - '#created/2020/Dec/25'
   - '#MOC/1st'
-aliases: [~Công Giáo, Công Giáo, Công giáo Roma, Giáo Hội Công Giáo]
+aliases: [Công giáo Roma, Giáo Hội Công Giáo, Catholic]
 ---
-# ~Công Giáo
+# Công Giáo
 
 ### Định nghĩa
 **Công giáo** hay còn gọi là Công giáo Roma, là nhánh lớn nhất của Kito giáo. Giáo Hội công giáo được xem là giáo hội duy nhất cho Chúa Jesus thiết lập, Đức Giáo Hoàng là người kế vị tông đồ Phero.
@@ -27,6 +27,8 @@ aliases: [~Công Giáo, Công Giáo, Công giáo Roma, Giáo Hội Công Giáo]
 [[Thánh Phê Rô]]
 [[Thánh Phaolo]]
 [[Thánh Phanxico-Assisi]]
+[[Đức Maria]]
+[[Thánh Cả Giuse]]
 
 ### Các thời kỳ lịch sử
 - 50 - 600 - [[Giáo Hội thời các Tông Đồ và các Giáo Phụ MOC]]
@@ -36,12 +38,14 @@ aliases: [~Công Giáo, Công Giáo, Công giáo Roma, Giáo Hội Công Giáo]
 - 
 
 ### 
-- [[~Công Giáo]]
 - [[Thập Tự Chinh]]
 - [[Chính thống giáo Đông Phương]]
 - [[Anh giáo]]
-
+- [[Zet/People/Đức Giáo Hoàng]]
+- 
 ## Related:
+- [[Đức Jesus|Chúa Giêsu]]
+
 ```dataview
 list
 from [[~Công Giáo]]

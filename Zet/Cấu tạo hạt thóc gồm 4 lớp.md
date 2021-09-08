@@ -7,7 +7,7 @@
 
 ## Notes
 Cấu tạo [[Hạt thóc]] gồm 4 lớp
-[[Lớp Hull - vỏ chấu]]
+[[Lớp Hull]]
 [[Lớp bran]]
 [[Lớp Germ]]
 [[Lớp white rice]]

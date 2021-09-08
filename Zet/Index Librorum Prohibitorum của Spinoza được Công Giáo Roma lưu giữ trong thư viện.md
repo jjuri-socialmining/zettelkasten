@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Quyển [[Index Librorum Prohibitorum]] của [[Baruch Spinoza]] được [[~Công Giáo]] Roma dùng làm kinh điển và được lưu giữ trong thư viện
+Quyển [[Index Librorum Prohibitorum]] của [[Baruch Spinoza]] được [[Công Giáo]] Roma dùng làm kinh điển và được lưu giữ trong thư viện
 
 ## Questions & thoughts:
 

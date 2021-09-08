@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[~Protein]] bao gồm một hoặc nhiều [[Polypeptide]] liên kết với nhau
+[[Protein]] bao gồm một hoặc nhiều [[Polypeptide]] liên kết với nhau
 
 ## Questions & thoughts:
 

@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[Lớp white rice]] thành phần chủ yếu [[Tinh bột]]. Còn lại rất ít là [[Lipid]], [[~Vitamin]], khoáng, [[Chất xơ]]
+[[Lớp white rice]] thành phần chủ yếu [[Tinh bột]]. Còn lại rất ít là [[Lipid]], [[Vitamin]], khoáng, [[Chất xơ]]
 
 ## Questions & thoughts:
 

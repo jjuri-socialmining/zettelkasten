@@ -13,7 +13,6 @@ aliases:
 ## Notes:
 Phông chữ Unicode hỗ trợ tiếng việt phổ biến [[Times New Roman]] hay [[Tahoma]] hay [[Arial]].
 
-
 [[Unicode]]
 
 ## Ideas & thoughts:

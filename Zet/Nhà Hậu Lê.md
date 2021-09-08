@@ -1,11 +1,16 @@
-# Nhà Hậu Lê MOC
+---
+title: Nhà Hậu Lê
+UID: 
+tags:
+  - '#created/2021/Jul/12'
+  - '#seed🥜'
+  - '#permanent/concept'
+aliases:
+  - Hậu Lê
+---
+# Nhà Hậu Lê
 
-%% 
-- metadata:
-	- tags: #created/2021/Jul/12, #MOC 
-%%
-
-## Notes
+## Notes:
 Nhà Hậu Lê là một triều đại kéo dài từ 1428-1789 do [[Lê Lợi]] gây dựng lên.
 
 [[Nhà Hậu Lê gồm giai đoạn Lê Sơ và Lê trung hưng]]
@@ -15,5 +20,16 @@ Nhà Hậu Lê là một triều đại kéo dài từ 1428-1789 do [[Lê Lợi]
 - [[Mạc Đăng Dung]] cướp ngôi lập ra [[Nhà Mạc]]
 - [[Nguyễn Kim]] phò tá nhà Lê chống lại Nhà Mạc, sau khi Nguyễn Kim mất, [[Trịnh Kiểm]] tiếp tục lãnh đạo quân đội. Thời kỳ hai nhà Lê Mạc đánh nhau còn gọi là [[Nam Bắc Triều]].
 
-## Questions & thoughts:
+
+## Ideas & thoughts:
+
+## Questions:
+
+
+## Tham khảo:
+```dataview
+list
+from [[Nhà Hậu Lê]]
+sort file.name asc
+```
 

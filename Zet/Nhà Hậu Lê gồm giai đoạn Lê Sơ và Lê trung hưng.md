@@ -7,7 +7,7 @@
 	- source: 
 
 ## Notes
-Nhà [[~Nhà Hậu Lê]] gồm giai đoạn là [[Thời Lê sơ]] và [[Thời Lê trung hưng]]. 
+Nhà [[Nhà Hậu Lê]] gồm giai đoạn là [[Thời Lê sơ]] và [[Thời Lê trung hưng]]. 
 
 ## Questions & thoughts:
 [[❓210815-2237]]

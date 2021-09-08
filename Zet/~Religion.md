@@ -5,7 +5,7 @@
 
 ## Thiên Chúa Giáo
 ### Nhánh Kito giáo
-- [[~Công Giáo]]
+- [[Công Giáo]]
 - [[Anh giáo]]
 - [[Chính thống giáo Đông Phương]]
 - [[Tin Lành]]
@@ -15,6 +15,6 @@
 - [[Do Thái Giáo]]
 
 ## Tôn giáo khác
-- [[~Phật Giáo]]
-- [[~Ấn Độ giáo]]
+- [[Phật Giáo]]
+- [[Ấn Độ giáo]]
 
