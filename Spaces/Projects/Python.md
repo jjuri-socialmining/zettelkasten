@@ -1,15 +1,15 @@
 ---
-title: "~Python"
+title: "Python"
 UID: 210822231715
 tags:
   - '#created/2021/Aug/22'
   - '#permanent/concept'
   - '#flashcards'
 aliases: 
-  - "Python"
+  - 
 ---
 
-# ~Python~
+# Python
 
 %% 
 - metadata:
@@ -44,7 +44,7 @@ Collection Module, Map and Filter
 [[Python - Inheritance]]
 Advanced Class behavior
 - Dunder Methods: double underscore methods like `__init__`
-[[PIP - Python package manager]]
+[[Python Package Manager]]
 [[Python Environment]]
 [[Python - Module Creation]]
 Async IO

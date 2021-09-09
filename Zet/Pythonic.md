@@ -5,7 +5,7 @@
 	- tags: #created/2021/Jul/07
 	- previous note: 
 	- source: 
-	- related: [[~Python]]
+	- related: [[Python]]
 
 ## Notes
 Pythonic là một đoạn code tối ưu cho một mục đích.

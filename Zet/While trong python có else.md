@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-`While` trong [[~Python]] có `else`, từ khóa này giúp bắt được điều kiện code thực thi thoát khỏi vòng while.
+`While` trong [[Python]] có `else`, từ khóa này giúp bắt được điều kiện code thực thi thoát khỏi vòng while.
 
 ## Questions & thoughts:
 

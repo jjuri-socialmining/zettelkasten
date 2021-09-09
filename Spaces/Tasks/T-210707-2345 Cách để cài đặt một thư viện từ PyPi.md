@@ -3,7 +3,7 @@
 - metadata
 	- UID: P-210707-2345
 	- tags: #created/2021/Jul/07, #task/todo 
-	- previous note: [[~Python]]
+	- previous note: [[Python]]
 	- source: 
 
 ## Notes

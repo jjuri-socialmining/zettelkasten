@@ -24,7 +24,8 @@ tags:
   - '#📅'
   - '<%* tR += note_type %>'
 ---
-# <%* tR += title %>
+<% "[[" + tp.date.yesterday("📝YYMMDD") + "|Yesterday]] -> Today -> [[" + tp.date.tomorrow("📝YYMMDD")  + "|Tomorrow]]" %>
+# <% tp.date.now("dddd, MMM D, YYYY") %>
 
 ## Notes:
 <% tp.file.cursor() %>

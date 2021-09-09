@@ -11,7 +11,7 @@
 
 ## Programming languages
 [[C Programming]]
-[[~Python]]
+[[Python]]
 [[Nodejs]]
 
 ## Related:

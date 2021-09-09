@@ -7,6 +7,6 @@
 	- source: 
 
 ## Notes
-Practice/research basic [[~Python]]
+Practice/research basic [[Python]]
 
 
