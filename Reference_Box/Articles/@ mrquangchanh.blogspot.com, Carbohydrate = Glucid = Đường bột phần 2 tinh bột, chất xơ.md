@@ -56,7 +56,7 @@ Chính vì đặc tính bị hấp thu chậm và ít, nên amylose còn đượ
 
 Cũng nằm trong gia đình polysacharide, glycogen có cấu tạo giống tinh bột, cũng là sự ghép nối các phân tử đường glucose. Ở thực vật thì có tinh bột để dự trữ glucose, còn ở động vật thì đó là glycogen, bao gồm cả con người. Glycogen được dự trữ ở gan và cơ của các loài động vật. Khi cơ thể đói, glycogen sẽ được chuyển thành đường glucose, tạo năng lượng cho cơ thể hoạt động.
 
-[[~Glycogen]] 
+[[Glycogen]] 
 [[Thực vật dùng tinh bột để dự trữ glucose]] 
 [[Động vật dùng glycogen để dự trữ glucose]] 
 [[Glycogen được dự trữ ở gan và cơ động vật]] 

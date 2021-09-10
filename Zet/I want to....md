@@ -1,6 +1,6 @@
-[[~000 Home]]
+[[000 Home]]
 # I want to... 
-- I want to get my bearings. Click [[~000 Home]].
+- I want to get my bearings. Click [[000 Home]].
 - I want to journal in a new daily note.
 	- Click on "Open today's note". Tag it with #my/journal
 - I want to process new #source material, adding my own commentary.
@@ -13,7 +13,7 @@
 - I want to further tidy up valuable, but messy notes.
 	- Click #state/tidy
 - I want to navigate my existing spatial constellation of ideas. 
-	- Either go to: [[~000 Interests]] or "Open graph view"
+	- Either go to: [[000 Interests]] or "Open graph view"
 - I just want to browse around and have fun. Same as above.
 - I want to review my timestamped notes 
 	- (If you have hotkeys set up, you can go from day to day with a click. It's pretty awesome.)

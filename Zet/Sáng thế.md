@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Sáng thế là quyển sách mở đầu [[~Cựu Ước]]
+Sáng thế là quyển sách mở đầu [[Cựu Ước]]
 
 ## Questions & thoughts:
 

@@ -10,7 +10,7 @@
 
 ## Questions & thoughts:
 [[Nam Việt]]
-[[~Nhà Triệu]]
+[[Nhà Triệu]]
 
 ## Related:
 - [[Triệu Vũ Đế]]

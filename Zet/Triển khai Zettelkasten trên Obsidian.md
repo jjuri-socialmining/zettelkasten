@@ -3,7 +3,7 @@
 - metadata
 	- created: June 27, 2021 09:07 PM
 	- tags: #created/2021/Jun/27,
-	- previous note: [[Slipbox Software]], [[~Zettelkasten]]
+	- previous note: [[Slipbox Software]], [[Zettelkasten]]
 
 ## Template
 ### File name

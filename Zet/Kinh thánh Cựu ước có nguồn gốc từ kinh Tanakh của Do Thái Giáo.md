@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[Kinh thánh]] [[~Cựu Ước]] có nguồn gốc từ kinh [[Tanakh]] của [[Do Thái Giáo]]
+[[Kinh thánh]] [[Cựu Ước]] có nguồn gốc từ kinh [[Tanakh]] của [[Do Thái Giáo]]
 
 ## Questions & thoughts:
 

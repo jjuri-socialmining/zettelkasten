@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Theo kinh thánh [[~Cựu Ước]], Adam là tên người đàn ông đầu tiên được Thiên Chúa tạo dựng, sống trong vườn địa đàng cùng [[Eva]]
+Theo kinh thánh [[Cựu Ước]], Adam là tên người đàn ông đầu tiên được Thiên Chúa tạo dựng, sống trong vườn địa đàng cùng [[Eva]]
 
 ## Questions & thoughts:
 

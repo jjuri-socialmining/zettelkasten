@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
- Trong bài viết trên mrquangchanh.blogspot.com, gan được ví von là một cái tủ lạnh để dự trữ [[~Glucose]], điều đặc biệt là phải dùng hai chìa khóa. Muốn cất đồ ăn vào tủ lạnh này cần có chìa khóa [[Insulin]]. Nhưng để lấy ra thì cần một chìa khóa khác, đó là [[Glucagon]].
+ Trong bài viết trên mrquangchanh.blogspot.com, gan được ví von là một cái tủ lạnh để dự trữ [[Glucose]], điều đặc biệt là phải dùng hai chìa khóa. Muốn cất đồ ăn vào tủ lạnh này cần có chìa khóa [[Insulin]]. Nhưng để lấy ra thì cần một chìa khóa khác, đó là [[Glucagon]].
 
 ## Questions & thoughts:
 

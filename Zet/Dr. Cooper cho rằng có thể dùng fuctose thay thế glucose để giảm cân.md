@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[Dr. Cooper]]cho rằng thay thế [[Fructose]] thay thế [[~Glucose]] để giảm cân. 
+[[Dr. Cooper]]cho rằng thay thế [[Fructose]] thay thế [[Glucose]] để giảm cân. 
 
 ## Questions & thoughts:
 

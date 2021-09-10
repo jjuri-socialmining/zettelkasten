@@ -1,6 +1,3 @@
----
-birth
----
 # Simone de Beauvoir
 
 - metadata

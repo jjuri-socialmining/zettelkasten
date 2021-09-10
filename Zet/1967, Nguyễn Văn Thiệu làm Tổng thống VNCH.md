@@ -6,7 +6,7 @@
 	- source: [[@ wiki, Lịch sử Việt Nam]]
 
 ## Notes
-1967, [[Nguyễn Văn Thiệu]] lên làm Tổng thống [[~Việt Nam Cộng Hòa]]
+1967, [[Nguyễn Văn Thiệu]] lên làm Tổng thống [[Việt Nam Cộng Hòa]]
 
 ## Questions & thoughts:
 

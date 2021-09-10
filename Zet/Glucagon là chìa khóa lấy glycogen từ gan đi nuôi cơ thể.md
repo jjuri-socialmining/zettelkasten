@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[Glucagon]] là chìa khóa lấy [[~Glycogen]] từ gan đi nuôi cơ thể
+[[Glucagon]] là chìa khóa lấy [[Glycogen]] từ gan đi nuôi cơ thể
 
 ## Questions & thoughts:
 

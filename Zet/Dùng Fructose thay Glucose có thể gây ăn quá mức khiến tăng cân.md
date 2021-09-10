@@ -7,7 +7,7 @@
 
 ## Notes
 [[Glucose có thể đi qua được hàng rào máu não|Khác với Glucose]], [[Fructose không thể đi qua được hàng rào máu não]]
-Dùng [[Fructose]] thay [[~Glucose]] có thể gây ăn quá mức khiến tăng cân. [[Fructose ngọt hơn Glucose]] sẽ khiến ta ăn ít đi mỗi lần, nhưng không hề khiến số lần ăn sẽ giảm.
+Dùng [[Fructose]] thay [[Glucose]] có thể gây ăn quá mức khiến tăng cân. [[Fructose ngọt hơn Glucose]] sẽ khiến ta ăn ít đi mỗi lần, nhưng không hề khiến số lần ăn sẽ giảm.
 
 ## Questions & thoughts:
 

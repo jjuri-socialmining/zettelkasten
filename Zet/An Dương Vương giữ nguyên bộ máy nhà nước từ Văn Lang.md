@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Hệ thống cai trị [[~Âu Lạc]] không thay đổi nhiều so với [[~Văn Lang]] thời các [[Vua Hùng]], bộ máy nhà nước vẫn bao gồm Vua và các lạc hầu, lạc tướng.
+Hệ thống cai trị [[Âu Lạc]] không thay đổi nhiều so với [[Văn Lang]] thời các [[Vua Hùng]], bộ máy nhà nước vẫn bao gồm Vua và các lạc hầu, lạc tướng.
 
 ## Questions & thoughts:
 

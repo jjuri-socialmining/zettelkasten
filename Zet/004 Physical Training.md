@@ -1,7 +1,7 @@
 %% - metadata:
 	- tags: #MOC %%
 
-- [[~Chạy bộ]]
+- [[Chạy bộ]]
 
 ### Workout
 - [[Tabata interval HIIT]]

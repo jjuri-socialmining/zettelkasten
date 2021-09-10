@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[Quá trình hấp thụ Fructose không mất năng lượng]]. Hay nói cách khác Fructose có [[Thermic Effect of Food - TEF]] là 0. Nên về tổng thể việc giảm cân, ăn [[Fructose]] không hề tốt hơn so với [[~Glucose]].
+[[Quá trình hấp thụ Fructose không mất năng lượng]]. Hay nói cách khác Fructose có [[Thermic Effect of Food - TEF]] là 0. Nên về tổng thể việc giảm cân, ăn [[Fructose]] không hề tốt hơn so với [[Glucose]].
 
 ## Questions & thoughts:
 

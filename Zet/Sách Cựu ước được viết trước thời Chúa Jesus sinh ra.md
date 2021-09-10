@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Sách [[~Cựu Ước]] được viết trước thời [[Đức Jesus]] được sinh ra.
+Sách [[Cựu Ước]] được viết trước thời [[Đức Jesus]] được sinh ra.
 
 ## Questions & thoughts:
 

@@ -7,7 +7,7 @@
 	- source: [[@ Trần Trọng Kim, Việt Nam sử lược]]
 
 ## Notes
-[[Trần Thủ Độ]] diệt tôn thất [[~Nhà Lý]]
+[[Trần Thủ Độ]] diệt tôn thất [[Nhà Lý]]
 
 ## Questions & thoughts:
 

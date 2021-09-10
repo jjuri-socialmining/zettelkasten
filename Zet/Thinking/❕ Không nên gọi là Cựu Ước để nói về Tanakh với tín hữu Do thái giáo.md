@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Tín hữu [[Do Thái Giáo]] không công nhận [[Tân Ước]] (New Testament), vì thế cũng không nên dùng tên gọi [[~Cựu Ước]] (Old Testament) để nói về các sách này của họ. [[Người Do Thái]] dùng tên gọi [[Tanakh]] để gọi tên bộ sách này bên tôn giáo của họ.
+Tín hữu [[Do Thái Giáo]] không công nhận [[Tân Ước]] (New Testament), vì thế cũng không nên dùng tên gọi [[Cựu Ước]] (Old Testament) để nói về các sách này của họ. [[Người Do Thái]] dùng tên gọi [[Tanakh]] để gọi tên bộ sách này bên tôn giáo của họ.
 
 ## Questions & thoughts:
 

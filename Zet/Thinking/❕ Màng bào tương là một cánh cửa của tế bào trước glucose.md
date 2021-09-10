@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[Màng bào tương]] là một cánh cửa của tế bào trước glucose. Để [[~Glucose]] đi được vào tế bào, phải được màng bào tương cho phép.
+[[Màng bào tương]] là một cánh cửa của tế bào trước glucose. Để [[Glucose]] đi được vào tế bào, phải được màng bào tương cho phép.
 
 ## Questions & thoughts:
 

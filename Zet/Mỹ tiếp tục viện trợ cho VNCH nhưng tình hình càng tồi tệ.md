@@ -6,7 +6,7 @@
 	- source: [[@ wiki, Lịch sử Việt Nam]]
 
 ## Notes
-Chính phủ Mỹ tăng cường viện trợ cho [[~Việt Nam Cộng Hòa]]. Tuy nhiên, tình hình không trở nên khả quan hơn.
+Chính phủ Mỹ tăng cường viện trợ cho [[Việt Nam Cộng Hòa]]. Tuy nhiên, tình hình không trở nên khả quan hơn.
 
 ## Questions & thoughts:
 

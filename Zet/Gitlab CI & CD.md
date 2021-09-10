@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
- Gitlab CI & CD là công cụ [[~CI & CD|CI/CD]] tích hợp sẵn trên [[Gitlab]]
+ Gitlab CI & CD là công cụ [[CI & CD|CI/CD]] tích hợp sẵn trên [[Gitlab]]
 
 ## Questions & thoughts:
 

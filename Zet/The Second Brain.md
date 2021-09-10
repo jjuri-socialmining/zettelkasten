@@ -3,7 +3,7 @@
 - metadata
 	- created: Oct 21, 2020 10:23 PM #created/2020/Oct/21,
 	- tags:
-	- previous note: [[~Zettelkasten]]
+	- previous note: [[Zettelkasten]]
 
 ## Notes
 

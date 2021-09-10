@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[~Cựu Ước]] của [[Công Giáo]] và [[Chính thống giáo Đông Phương]] thì bao gồm [[Tanakh]] của [[Do Thái Giáo]] và có thêm vào một số sách, gọi là [[Thứ kinh]]
+[[Cựu Ước]] của [[Công Giáo]] và [[Chính thống giáo Đông Phương]] thì bao gồm [[Tanakh]] của [[Do Thái Giáo]] và có thêm vào một số sách, gọi là [[Thứ kinh]]
 
 ## Questions & thoughts:
 

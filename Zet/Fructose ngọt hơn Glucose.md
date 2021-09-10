@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Độ ngọt của [[Fructose]] cao hơn độ ngọt của [[~Glucose]]
+Độ ngọt của [[Fructose]] cao hơn độ ngọt của [[Glucose]]
 
 ## Questions & thoughts:
 

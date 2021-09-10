@@ -11,7 +11,7 @@ aliases:
 # Chất dự trữ trong tế bào nấm là glycogen
 
 ## Notes:
-Chất dự trữ trong tế bào [[Nấm]] là [[~Glycogen]], giống con người.
+Chất dự trữ trong tế bào [[Nấm]] là [[Glycogen]], giống con người.
 [[Con người dự trữ năng lượng dưới dạng glycogen ở gan, một phần ở cơ bắp]]
 
 ## Ideas & thoughts:

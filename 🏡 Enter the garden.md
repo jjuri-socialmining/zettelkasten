@@ -20,6 +20,6 @@ aliases:
 
 ## Research
 [[❕ Topics to research]]
-[[~Lịch Sử Việt Nam]]
-[[~Lịch sử Trung Quốc]]
+[[Lịch Sử Việt Nam]]
+[[Lịch sử Trung Quốc]]
 [[🏡 Health]]

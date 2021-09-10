@@ -1,4 +1,4 @@
-# ~Văn Lang
+# Văn Lang
 
 %% 
 - metadata:
@@ -11,6 +11,6 @@
 ## Related:
 ```dataview
 list
-from [[~Văn Lang]]
+from [[Văn Lang]]
 sort file.name asc
 ```

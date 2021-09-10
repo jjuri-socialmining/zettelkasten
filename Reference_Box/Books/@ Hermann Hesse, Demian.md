@@ -11,7 +11,7 @@ Demian là một quyển tiểu thuyết, bản dịch tiếng Việt có tên l
 
 
 ## Questions and thoughts
-- [ ] Trong quyển tiểu thuyết có nhắc đến câu truyện [[Cain]] và [[Abel]] trong [[~Cựu Ước]], dấu ấn của [[Emil Sinclair]]
+- [ ] Trong quyển tiểu thuyết có nhắc đến câu truyện [[Cain]] và [[Abel]] trong [[Cựu Ước]], dấu ấn của [[Emil Sinclair]]
 - [ ] 
 
 ## Related:

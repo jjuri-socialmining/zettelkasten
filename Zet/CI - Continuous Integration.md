@@ -4,7 +4,7 @@
 	- UID: P-210717-0811
 	- tags: #created/2021/Jul/17, #permanent/concept 
 	- source: 
-	- related: [[~CI & CD]], [[CD - Continuous Delivery]]
+	- related: [[CI & CD]], [[CD - Continuous Delivery]]
 
 ## Notes
 CI - Continuous Integration nghĩa là tích hợp liên tục là một quá trình tự động trong việc phát triển ứng dụng, ngắn ngọn công dụng của CI là build và test tự đông. CI giúp phát hiện ra những lỗi ngay từ giai đoạn đầu của quả trình tích hợp đối với nhà phát triển phần mềm:

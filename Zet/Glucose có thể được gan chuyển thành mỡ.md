@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[~Glucose]] có thể được [[Gan]] chuyển thành mỡ
+[[Glucose]] có thể được [[Gan]] chuyển thành mỡ
 
 ## Questions & thoughts:
 

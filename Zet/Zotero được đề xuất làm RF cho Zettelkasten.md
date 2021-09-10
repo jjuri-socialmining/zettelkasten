@@ -6,7 +6,7 @@
 	- previous note:
 
 ## Notes
-[[Zotero]] được nhắc nhiều trong việc quản lý tài liệu tham khảo trong phương pháp [[~Zettelkasten]]  của [[Niklas Luhmann]]. Zotero được chính trang https://takesmartnotes.com/ đề xuất cho phương pháp này.
+[[Zotero]] được nhắc nhiều trong việc quản lý tài liệu tham khảo trong phương pháp [[Zettelkasten]]  của [[Niklas Luhmann]]. Zotero được chính trang https://takesmartnotes.com/ đề xuất cho phương pháp này.
 
 ## Questions & thoughts:
 

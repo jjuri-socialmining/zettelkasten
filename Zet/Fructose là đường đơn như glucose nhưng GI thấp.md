@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[Cơ thể hấp thu Fructose vào máu thụ động]]. Vì thế, mặc dù [[Fructose]] cùng là đường đơn như [[~Glucose]] nhưng chỉ số [[Glycemic Index]] của [[Fructose]] rất thấp. [[Chỉ số GI của Fructose là 15]]
+[[Cơ thể hấp thu Fructose vào máu thụ động]]. Vì thế, mặc dù [[Fructose]] cùng là đường đơn như [[Glucose]] nhưng chỉ số [[Glycemic Index]] của [[Fructose]] rất thấp. [[Chỉ số GI của Fructose là 15]]
 
 ## Questions & thoughts:
 [[❓210815-2249]]

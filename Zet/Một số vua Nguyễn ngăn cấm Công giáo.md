@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Một số vua [[~Nhà Nguyễn]] như vua [[Minh Mạng]], [[Thiệu Trị]] và [[Tự Đức]] ngăn cấm và bắt bớ [[Công Giáo]]. Họ coi là tả đạo
+Một số vua [[Nhà Nguyễn]] như vua [[Minh Mạng]], [[Thiệu Trị]] và [[Tự Đức]] ngăn cấm và bắt bớ [[Công Giáo]]. Họ coi là tả đạo
 
 ## Questions & thoughts:
 

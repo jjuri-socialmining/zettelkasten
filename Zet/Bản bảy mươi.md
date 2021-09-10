@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Bản bảy mươi hay còn gọi là bản dịch [[Septuaginta]], bản dịch [[~Cựu Ước]] bằng tiếng Hy Lạp của [[Kinh thánh Hebrew]]
+Bản bảy mươi hay còn gọi là bản dịch [[Septuaginta]], bản dịch [[Cựu Ước]] bằng tiếng Hy Lạp của [[Kinh thánh Hebrew]]
 
 ## Questions & thoughts:
 

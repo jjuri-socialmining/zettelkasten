@@ -15,7 +15,7 @@ aliases: [Công giáo Roma, Giáo Hội Công Giáo, Catholic]
 
 ### Kinh thánh
 #### Cựu ước
-- [[~Cựu Ước]]
+- [[Cựu Ước]]
 	- [[Ngũ Kinh Cựu Ước]]
 
 #### Tân ước

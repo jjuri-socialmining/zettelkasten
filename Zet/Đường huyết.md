@@ -9,7 +9,7 @@
 
 
 ## Questions & thoughts:
-- [ ] [[~Glucose]]
+- [ ] [[Glucose]]
 - [ ] [[Insulin]]
 
 ## Related:

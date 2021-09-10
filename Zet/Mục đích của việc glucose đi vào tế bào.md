@@ -6,8 +6,8 @@
 	- source: 
 
 ## Notes
-Mục đích của việc [[~Glucose]] đi vào tế bào
-- Tế bào lấy năng lượng từ [[~Glucose|glucose]]
+Mục đích của việc [[Glucose]] đi vào tế bào
+- Tế bào lấy năng lượng từ [[Glucose|glucose]]
 - [[Đường huyết quá cao sẽ làm tổn hại đến các cơ quan]]. [[Insulin]] giúp đẩy đường vào tế bào.
 
 ## Questions & thoughts:

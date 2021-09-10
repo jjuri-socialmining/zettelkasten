@@ -22,7 +22,7 @@ aliases:
 * [[Nutrition MOC]]
 
 ### Physical Training
-- [[~004 Physical Training]] - Anything exercise-related, but no workouts 
+- [[004 Physical Training]] - Anything exercise-related, but no workouts 
 - [[Workouts MOC]] - Details kinds of workouts (not specific ones)
 - [[Injury Tracker MOC]] - Tracking injuries and ailments over time
 - Body Quirks Tracker

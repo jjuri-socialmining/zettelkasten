@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[~Glucose]] có thể đi qua được [[Hàng rào máu não]]
+[[Glucose]] có thể đi qua được [[Hàng rào máu não]]
 
 ## Questions & thoughts:
 

@@ -7,7 +7,7 @@
 	- source: 
 
 ## Summary
-[[~Chạy bộ]]
+[[Chạy bộ]]
 Tác giả [[Haruki Murakami]]
 
 ## Questions and thoughts

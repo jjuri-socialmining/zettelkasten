@@ -11,7 +11,7 @@ This is your launchpad and homebase. Your personal North Star. That's here. That
 	- 02 - [[Writings MOC]] 
  - Things
 	- 03 - [[Concepts MOC]]
-	- 04 - [[~000 Interests]]
+	- 04 - [[000 Interests]]
 - Outer-led Sense-making
 	- 05 - [[Sources MOC]]
 	- 06 - [[People MOC]]

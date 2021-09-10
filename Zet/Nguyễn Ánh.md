@@ -15,7 +15,7 @@ aliases:
 
 
 ## Notes
-Nguyễn Ánh (1762-1820) là [[Chúa Nguyễn]] cuối cùng. Ông chạy thoát sau khi tập đoàn phong kiến vua Lê - [[Chúa Trịnh]], Chúa Nguyễn bị nhà Tây Sơn Lật đổ. Nhưng sau đó, ông là người đánh đổ [[~Nhà Tây Sơn]] lập ra [[~Nhà Nguyễn]], lấy niên hiệu là Gia Long
+Nguyễn Ánh (1762-1820) là [[Chúa Nguyễn]] cuối cùng. Ông chạy thoát sau khi tập đoàn phong kiến vua Lê - [[Chúa Trịnh]], Chúa Nguyễn bị nhà Tây Sơn Lật đổ. Nhưng sau đó, ông là người đánh đổ [[Nhà Tây Sơn]] lập ra [[Nhà Nguyễn]], lấy niên hiệu là Gia Long
 
 Các tên gọi khác:
 - Tên thật là Nguyễn Phúc Ánh

@@ -13,7 +13,7 @@
 [[Phương pháp ghi chú Cornell]]
 [[MOOC - Các khóa học trực tuyến]]
 [[FlowCreation MOC]]
-[[~Zettelkasten]]
+[[Zettelkasten]]
 [[Incremental Reading]]
 [[Cung điện ký ức]]
 [[Phương pháp con vịt cao su]]

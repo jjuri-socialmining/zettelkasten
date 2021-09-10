@@ -6,7 +6,7 @@
 	- source: [Lữ Gia – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/L%E1%BB%AF_Gia)
 
 ## Notes
-[[Lữ Gia]] là thừa tướng ba đời vua [[~Nhà Triệu]]
+[[Lữ Gia]] là thừa tướng ba đời vua [[Nhà Triệu]]
 
 ## Questions & thoughts:
 

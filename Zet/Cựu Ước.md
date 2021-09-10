@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[~Cựu Ước]] tiếng Latinh là _Vetus Testamentum_ nghĩa là Giao Ước cũ. Tức là một giao ước giữa [[Thiên Chúa]] và dân ngài chọn trước khi Người thực hiện một giao ước mới thông qua [[Đức Jesus]].
+[[Cựu Ước]] tiếng Latinh là _Vetus Testamentum_ nghĩa là Giao Ước cũ. Tức là một giao ước giữa [[Thiên Chúa]] và dân ngài chọn trước khi Người thực hiện một giao ước mới thông qua [[Đức Jesus]].
 
 ## Tóm tắt cựu ước
 Mở đầu cựu ước là sách [[Sáng thế]], [[Thiên Chúa]] tạo dựng trời đất cỏ cây trong bảy ngày.

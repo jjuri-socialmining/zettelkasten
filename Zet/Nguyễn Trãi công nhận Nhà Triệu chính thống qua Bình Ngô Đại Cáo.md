@@ -10,12 +10,12 @@ Trong [[Bình Ngô Đại Cáo]] có đoạn:
 > Tự Triệu, Đinh, Lý, Trần chi triệu tạo ngã quốc,
 > Dữ Hán, Đường, Tống, Nguyên nhi các đế nhất phương.
 
-Triệu ở đây ý nói [[~Nhà Triệu]] ([[Nam Việt]]) của [[Triệu Đà]]. [[Nguyễn Trãi]] gián tiếp công nhận công nhận [[Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN|sự chính thống Nhà Triệu]] thông qua câu trên của Bình Ngô Đại Cáo.
+Triệu ở đây ý nói [[Nhà Triệu]] ([[Nam Việt]]) của [[Triệu Đà]]. [[Nguyễn Trãi]] gián tiếp công nhận công nhận [[Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN|sự chính thống Nhà Triệu]] thông qua câu trên của Bình Ngô Đại Cáo.
 
 Note: có người cho rằng Triệu là [[Triệu Việt Vương]] ([[Triệu Quang Phục]]), tuy nhiên điều này hoàn toàn không hợp lý:
 - Không tương ứng với thời đại bên Trung Quốc như: 
-	- [[~Nhà Đinh]] - [[Nhà Đường]]
-	- [[~Nhà Lý]] - [[Nhà Tống]]
+	- [[Nhà Đinh]] - [[Nhà Đường]]
+	- [[Nhà Lý]] - [[Nhà Tống]]
 	- [[🏡 Nhà Trần]]-[[Nhà Nguyên]]
 - Thời [[Triệu Việt Vương]] không đủ tự chủ về lãnh thổ, binh lực nên cũng không thể so sánh với [[Nhà Hán]]
 

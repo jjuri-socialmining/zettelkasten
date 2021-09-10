@@ -6,7 +6,7 @@
 	- source: https://vi.wikipedia.org/wiki/Gi%C3%AAr%C3%B4nim%C3%B4
 
 ## Notes
-[[Thánh Jerome]] là người đầu tiên dịch [[~Cựu Ước]] từ tiếng Hy Lạp sang tiếng Latinh. Bản tiếng Hy Lạp là ông dùng là [[Bản bảy mươi]].
+[[Thánh Jerome]] là người đầu tiên dịch [[Cựu Ước]] từ tiếng Hy Lạp sang tiếng Latinh. Bản tiếng Hy Lạp là ông dùng là [[Bản bảy mươi]].
 
 ## Questions & thoughts:
 

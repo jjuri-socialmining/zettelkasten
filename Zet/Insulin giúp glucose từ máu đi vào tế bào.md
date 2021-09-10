@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[Insulin kích thích tế bào mở màng bào tương]]. vì thế, [[Insulin]] giúp [[~Glucose]] từ máu đi vào tế bào
+[[Insulin kích thích tế bào mở màng bào tương]]. vì thế, [[Insulin]] giúp [[Glucose]] từ máu đi vào tế bào
 
 ## Questions & thoughts:
 

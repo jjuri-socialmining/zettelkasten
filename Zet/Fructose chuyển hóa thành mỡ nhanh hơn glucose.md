@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[Fructose]] chuyển hóa thành mỡ nhanh hơn [[~Glucose]] ([[Sự nhảy bước glycolysis PKK]])
+[[Fructose]] chuyển hóa thành mỡ nhanh hơn [[Glucose]] ([[Sự nhảy bước glycolysis PKK]])
 
 ## Questions & thoughts:
 

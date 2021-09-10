@@ -6,7 +6,7 @@ Notion tags: #notion, #created/2021/Aug/12
 - [[Carbohydrate]] gồm 2 loại là đơn giản và phức tạp
     - Đơn giản bao gồm:
         - [[Monosacharide]]
-            - [[~Glucose]]
+            - [[Glucose]]
             - [[Fructose]]
             - [[Galactose]]
         - [[Disacharide]]
@@ -17,4 +17,4 @@ Notion tags: #notion, #created/2021/Aug/12
     - Phức tạp là [[Polysaccharides]]
         - [[Tinh bột]]
         - [[Chất xơ]]
-        - [[~Glycogen]]
+        - [[Glycogen]]

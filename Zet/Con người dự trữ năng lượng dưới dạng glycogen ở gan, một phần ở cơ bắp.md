@@ -11,7 +11,7 @@ aliases:
 # Con người dự trữ năng lượng dưới dạng glycogen ở gan, một phần ở cơ bắp
 
 ## Notes:
-Con người dự trữ năng lượng dưới dạng [[~Glycogen]] ở gan, một phần ở cơ bắp
+Con người dự trữ năng lượng dưới dạng [[Glycogen]] ở gan, một phần ở cơ bắp
 
 ## Ideas & thoughts:
 

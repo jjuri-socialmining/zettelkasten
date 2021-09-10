@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[Ở Bethlehem, Jerome dùng toàn bộ thời gian nghiên cứu Kinh Thánh]]. Ở đây, thánh nhân bắt đầu dịch [[~Cựu Ước]] từ tiếng Hippri và Aram. Bản dịch này được gọi là [[Bản dịch Vulgate]].
+[[Ở Bethlehem, Jerome dùng toàn bộ thời gian nghiên cứu Kinh Thánh]]. Ở đây, thánh nhân bắt đầu dịch [[Cựu Ước]] từ tiếng Hippri và Aram. Bản dịch này được gọi là [[Bản dịch Vulgate]].
 
 ## Questions & thoughts:
 

@@ -10,4 +10,4 @@ Người có học phải biết lưu trữ những thông tin và biết cách 
 Ví dụ:
 - Hệ thống đơn giản nhất là các sổ ghi chép cá nhân
 - Các phầm mềm quản lý ghi chú/công việc: [[Notion]], [[Evernote]], [[OneNote]]
-- Hệ thống ghi chú [[~Zettelkasten]] bằng phương pháp thẻ ghi chú và thể hiện được liên kết bằng số..
+- Hệ thống ghi chú [[Zettelkasten]] bằng phương pháp thẻ ghi chú và thể hiện được liên kết bằng số..

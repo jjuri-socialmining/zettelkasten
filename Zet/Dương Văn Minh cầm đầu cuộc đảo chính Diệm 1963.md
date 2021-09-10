@@ -11,7 +11,7 @@ Tướng [[Dương Văn Minh]] cầm đầu cuộc đảo chính ám sát [[Ngô
 ## Questions & thoughts:
 
 ## Related:
-- [[~Việt Nam Cộng Hòa]]
+- [[Việt Nam Cộng Hòa]]
 ```dataview
 list
 from [[Dương Văn Minh cầm đầu cuộc đảo chính Diệm 1963]]

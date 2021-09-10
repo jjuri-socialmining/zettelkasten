@@ -8,7 +8,7 @@ alias:
 - [[Existentialism MOC]]
 - [[Chủ nghĩa Hư vô]]
 - [[Chủ nghĩa phi lý]]
-- [[~Chủ nghĩa khắc kỷ]]
+- [[Chủ nghĩa khắc kỷ]]
 - [[Đạo Giáo]]
 
 ### Top Philosophers

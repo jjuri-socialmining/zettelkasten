@@ -7,7 +7,7 @@
 	- source: 
 
 ## Summary
-[[~Chạy bộ]]
+[[Chạy bộ]]
 
 ## Questions and thoughts
 

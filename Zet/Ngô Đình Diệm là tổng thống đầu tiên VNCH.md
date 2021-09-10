@@ -6,7 +6,7 @@
 	- source: [[@ wiki, Việt Nam Cộng Hòa]]
 
 ## Notes
-[[Ngô Đình Diệm]] là tổng thống đầu tiên của [[~Việt Nam Cộng Hòa]]
+[[Ngô Đình Diệm]] là tổng thống đầu tiên của [[Việt Nam Cộng Hòa]]
 
 ## Questions & thoughts:
 
