@@ -50,10 +50,13 @@ You can now view gatsby in the browser.
 ```
 ### Generate website from markdown
 https://www.digitalocean.com/community/tutorials/how-to-generate-pages-from-markdown-in-gatsby
+install 2 plugin ở dưới đây vào folder cần tạo website từ markdown.
 ```
 npm install gatsby-source-filesystem gatsby-transformer-remark
 ```
+sau khi cài xong thì mở file `gatsby-config.js` để sửa theo đúng format của markdown file
 
+rối quá, chắc tìm hiều cơ bản [[Gatsby tutorial]]
 ## Ideas & thoughts:
 
 ## Questions:

@@ -32,16 +32,9 @@
     "maxLinkFactor": 1,
     "logLevel": 1
   },
-  "buryDate": "2021-09-09",
+  "buryDate": "2021-09-10",
   "buryList": [],
   "cache": {
-    "Spaces/Projects/~Python.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1629649040240,
-      "dueDatesFlashcards": {}
-    },
     "Spaces/Projects/Markdown for Obsidian MOC.md": {
       "totalCards": 0,
       "hasNewCards": false,
@@ -578,7 +571,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630080584798,
+      "lastUpdated": 1631201921896,
       "dueDatesFlashcards": {}
     },
     "Zet/Vụ án Lệ Chi Viên.md": {
@@ -1427,9 +1420,9 @@
       "nextDueDate": "2021-08-26",
       "lastUpdated": 1630080650965,
       "dueDatesFlashcards": {
-        "-11": 1,
-        "-14": 1,
-        "-9": 1
+        "-12": 1,
+        "-15": 1,
+        "-10": 1
       }
     },
     "Zet/Taxonomy.md": {
@@ -1793,7 +1786,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630080585189,
+      "lastUpdated": 1631201921745,
       "dueDatesFlashcards": {}
     },
     "Zet/Pythagore cho rằng mọi thứ đều là số.md": {
@@ -1968,7 +1961,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630080585322,
+      "lastUpdated": 1631201921526,
       "dueDatesFlashcards": {}
     },
     "Zet/People MOC.md": {
@@ -2358,7 +2351,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630080585469,
+      "lastUpdated": 1631201921181,
       "dueDatesFlashcards": {}
     },
     "Zet/No file.md": {
@@ -3464,7 +3457,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630080585738,
+      "lastUpdated": 1631201920946,
       "dueDatesFlashcards": {}
     },
     "Zet/Hội Junto.md": {
@@ -5379,8 +5372,8 @@
       "nextDueDate": "2021-09-09",
       "lastUpdated": 1630589228555,
       "dueDatesFlashcards": {
-        "0": 1,
-        "37": 1
+        "36": 1,
+        "-1": 1
       }
     },
     "Spaces/Questions/❓210815-2216.md": {
@@ -5420,7 +5413,7 @@
       "nextDueDate": "2021-09-08",
       "lastUpdated": 1630080586972,
       "dueDatesFlashcards": {
-        "-1": 1
+        "-2": 1
       }
     },
     "Spaces/Questions/❓210815-2137.md": {
@@ -7872,6 +7865,62 @@
       "hasNewCards": false,
       "nextDueDate": "",
       "lastUpdated": 1631111119677,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Thinking/❕ Node package manager cũng giống như python package manager.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1631202462276,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Python Package Manager.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1631202387428,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/npm tích hợp sẵn trong gói cài của Nodejs.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1631202693220,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Node package manager.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1631202455631,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Jekyll generator.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1631201340672,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Hệ điều hành Windows.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1631202001285,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Gatsby website generator.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1631204478812,
+      "dueDatesFlashcards": {}
+    },
+    "Spaces/Projects/Python.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1631202371247,
       "dueDatesFlashcards": {}
     }
   }
