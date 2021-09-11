@@ -27,6 +27,7 @@
 %>
 title: <%* tR += title %>
 UID: <% tp.date.now("YYMMDDHHmmss") %>
+created: <% tp.date.now("YYYY/MMM/DD") %>
 tags:
   - '#created/<% tp.date.now("YYYY/MMM/DD") %>'
   - '<%* tR += note_process %>'
