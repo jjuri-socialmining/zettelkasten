@@ -7,6 +7,7 @@ tags:
   - '#permanent/place'
 aliases:
   - Nhà Trần
+publish: True
 ---
 # Nhà Trần
 

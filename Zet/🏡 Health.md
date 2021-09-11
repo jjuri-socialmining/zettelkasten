@@ -7,6 +7,7 @@ tags:
   - '#permanent/concept'
 aliases:
   - 
+publish: True
 ---
 # 🏡 Health
 

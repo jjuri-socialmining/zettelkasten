@@ -1,15 +1,15 @@
 ---
-title: Bắc Tống
-UID: 210906230839
+title: Thời Lê sơ
+UID: 210908203418
 tags:
-  - '#created/2021/Sep/06'
+  - '#created/2021/Sep/08'
   - '#seed🥜'
-  - '#permanent/nation'
+  - '#permanent/concept'
 aliases:
-  - 
+  - Thời Lê sơ
 publish: True
 ---
-# Bắc Tống
+# Thời Lê sơ
 
 ## Notes:
 
@@ -22,6 +22,6 @@ publish: True
 ## Tham khảo:
 ```dataview
 list
-from [[Bắc Tống]]
+from [[Thời Lê sơ]]
 sort file.name asc
 ```

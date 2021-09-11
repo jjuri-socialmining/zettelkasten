@@ -7,7 +7,7 @@
 	- source: 
 
 ## Summary
-[[006 Psychology]]
+[[Psychology]]
 [[Alfred Adler]]
 [[Tâm lý học Adler]]
 

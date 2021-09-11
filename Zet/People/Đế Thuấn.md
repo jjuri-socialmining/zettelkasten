@@ -10,6 +10,7 @@ death:
 aliases:
   - Ngu Thuấn
   - Trọng Hoa
+publish: True
 ---
 # Đế Thuấn
 

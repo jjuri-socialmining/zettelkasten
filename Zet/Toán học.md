@@ -1,6 +1,18 @@
 ---
-cards-deck: Default
+title: Toán học
+UID: 
+created: 
+tags:
+  - '#created/2021/Jul/10'
+  - '#garden🏡'
+  - '#permanent/concept'
+aliases:
+  - Toán học
+publish: True
 ---
+# Toán học
+
+
 
 # Math MOC
 

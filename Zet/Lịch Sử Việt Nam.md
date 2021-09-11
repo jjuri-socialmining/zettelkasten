@@ -1,9 +1,16 @@
+---
+title: Lịch Sử Việt Nam
+UID: 
+created: 
+tags:
+  - '#created/2021/Jun/22'
+  - '#garden🏡'
+  - '#permanent/concept'
+aliases:
+  - Lịch Sử Việt Nam
+publish: True
+---
 # Lịch Sử Việt Nam
-
-%% 
-- metadata:
-	- tags: #created/2021/Jun/22, #MOC/1st
-%%
 
 ## Thời kỳ lịch sử
 | Thời gian   | Thời kỳ                |     |

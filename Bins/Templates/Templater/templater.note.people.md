@@ -23,6 +23,7 @@ tags:
 <%* tR += death %>
 aliases:
   - <%* tR += alias_txt %>
+publish: False
 ---
 # <%* tR += title %>
 
@@ -34,9 +35,4 @@ aliases:
 ## Questions:
 
 
-## Tham khảo:
-```dataview
-list
-from [[<%* tR += title %>]]
-sort file.name asc
-```
+## Related:

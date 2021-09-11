@@ -7,6 +7,7 @@ tags:
   - '#permanent/nation'
 aliases:
   - Nước Tần
+publish: True
 ---
 # Nhà Tần
 
@@ -22,8 +23,3 @@ Tiền thân là [[Nhà Chu]], kế tục là [[Nhà Hán]], [[Nam Việt]] và 
 - [ ] [[Thương Ưởng]] gốc từ họ Cơ con cháu của [[Cơ Xương]]. Cơ tức là là họ của [[Cơ Xương]], [[Chu Vũ Vương|Cơ Phát]]
 
 ## Related:
-```dataview
-list
-from [[Nhà Tần]]
-sort file.name asc
-```

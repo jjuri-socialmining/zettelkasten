@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Không biết nước [[Nam Việt]] của [[Triệu Đà]] có được [[Lịch sử Trung Quốc]] công nhận là một triều đại chính thống. Chứ thấy các quan điểm lịch sử VN hiện đại là không công nhận triều đại trong [[Lịch Sử Việt Nam]] rồi đó.
+Không biết nước [[Nam Việt]] của [[Triệu Đà]] có được [[🏡 Lịch sử Trung Quốc]] công nhận là một triều đại chính thống. Chứ thấy các quan điểm lịch sử VN hiện đại là không công nhận triều đại trong [[Lịch Sử Việt Nam]] rồi đó.
 
 ## Questions & thoughts:
 

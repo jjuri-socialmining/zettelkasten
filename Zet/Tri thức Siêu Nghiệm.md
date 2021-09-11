@@ -15,7 +15,7 @@ aliases:
 Tri thức Siêu nghiệm (transzendental) là một loại giả định, viễn tưởng về tri thức thế giới "vật-tự-nó"
 
 ## Ideas & thoughts:
-[[002 Triết học|Triết học]]
+[[Triết học|Triết học]]
 
 ## Questions:
 

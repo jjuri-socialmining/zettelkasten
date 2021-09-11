@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[Nhà Thanh]] là triều đại cuối cùng trong [[Lịch sử Trung Quốc]]
+[[Nhà Thanh]] là triều đại cuối cùng trong [[🏡 Lịch sử Trung Quốc]]
 
 ## Questions & thoughts:
 

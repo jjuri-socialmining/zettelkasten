@@ -34,15 +34,8 @@ tags:
   - '<%* tR += note_type %>'
 aliases:
   - <%* tR += alias_txt %>
-publish: False
+publish: True
 ---
 # <%* tR += title %>
-
-## Notes:
 <% tp.file.cursor() %>
 
-## Ideas & thoughts:
-
-## Questions:
-
-## Related:

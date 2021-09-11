@@ -9,7 +9,8 @@ aliases:
   - "Nhà Nguyên"
   - Quân Nguyên
   - Bắc Nguyên
-  - Triều Nguyê
+  - Triều Nguyên
+publish: True
 ---
 # Nhà Nguyên
 

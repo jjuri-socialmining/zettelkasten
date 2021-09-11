@@ -7,6 +7,7 @@ tags:
   - '#permanent/people'
 aliases:
   - 
+publish: True
 ---
 # Đổng Trác
 

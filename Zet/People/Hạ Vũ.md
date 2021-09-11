@@ -10,6 +10,7 @@ death: 2198 TCN
 aliases:
   - Hạ Tử Thành
   - Hạ Đại Vũ
+publish: True
 ---
 # Hạ Vũ
 

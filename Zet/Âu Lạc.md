@@ -1,17 +1,13 @@
 ---
 title: ~Âu Lạc
-UID: 210816205659
+UID: P-210724-0921
 tags:
-  - '#created/2021/Aug/16'
+  - '#created/2021/Jul/24'
   - '#permanent/concept'
 aliases: [Âu Lạc]
+publish: True
 ---
 # Âu Lạc
-
-- metadata
-	- UID: P-210724-0921
-	- tags: #created/2021/Jul/24, #MOC 
-	- source: 
 
 ## Notes
 
@@ -20,8 +16,3 @@ aliases: [Âu Lạc]
 
 ## Related:
 - [[An Dương Vương]]
-```dataview
-list
-from [[Âu Lạc]]
-sort file.name asc
-```

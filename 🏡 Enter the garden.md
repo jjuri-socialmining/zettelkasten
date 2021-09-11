@@ -7,6 +7,7 @@ tags:
   - '#permanent/concept'
 aliases:
   - Enter the garden
+publish: True
 ---
 # Enter the garden
 
@@ -21,5 +22,5 @@ aliases:
 ## Research
 [[❕ Topics to research]]
 [[Lịch Sử Việt Nam]]
-[[Lịch sử Trung Quốc]]
+[[🏡 Lịch sử Trung Quốc]]
 [[🏡 Health]]

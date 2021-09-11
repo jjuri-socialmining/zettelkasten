@@ -1,9 +1,16 @@
-# ~Lịch sử Trung Quốc
-
-%% 
-- metadata:
-	- tags: #created/2021/Jul/24, #MOC 
-%%
+---
+title: 🏡 Lịch sử Trung Quốc
+UID: 
+created: 
+tags:
+  - '#created/2021/Jul/24'
+  - '#garden🏡'
+  - '#permanent/concept'
+aliases:
+  - 🏡 Lịch sử Trung Quốc
+publish: False
+---
+# Lịch sử Trung Quốc
 
 ## Các triều đại
 | Thời Gian | Triều Đại   |

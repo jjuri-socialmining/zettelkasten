@@ -8,6 +8,7 @@ tags:
 aliases: 
   - "Vườn không nhà trống"
   - Tiêu Thổ
+publish: True
 ---
 # Vườn không nhà trống
 
@@ -23,8 +24,3 @@ Trái ngược với chiến thuật [[Lấy chiến tranh nuôi chiến tranh]]
 
 
 ## Related:
-```dataview
-list
-from [[Vườn không nhà trống]]
-sort file.name asc
-```

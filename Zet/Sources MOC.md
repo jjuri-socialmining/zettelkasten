@@ -1,4 +1,4 @@
-[[000 Home]]
+[[Home]]
 %% - metadata:
 	- tags: #MOC %% 
 # Sources MOC

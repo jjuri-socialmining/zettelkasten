@@ -1,4 +1,4 @@
-[[000 Interests]]
+[[Interests]]
 %% - metadata:
 	- tags: #MOC #on/travel %%
 # Places MOC

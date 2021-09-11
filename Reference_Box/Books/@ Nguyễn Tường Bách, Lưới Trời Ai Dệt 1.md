@@ -8,7 +8,7 @@
 
 ## Summary
 [[Nguyễn Tường Bách]]
-[[002 Triết học]]
+[[Triết học]]
 [[Vật lý]]
 [[Phật Giáo]]
 

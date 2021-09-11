@@ -1,15 +1,21 @@
+---
+title: Chúa Nguyễn
+UID: P-210714-0826
+created: 
+tags:
+  - '#created/2021/Jul/14'
+  - '#seed🥜'
+  - '#permanent/concept'
+aliases:
+  - Chúa Nguyễn
+publish: True
+---
 # Chúa Nguyễn
-
-- metadata
-	- UID: P-210714-0826
-	- tags: #created/2021/Jul/14, #permanent/concept 
-	- previous note: [[Đàng Trong]]
-	- source: 
 
 ## Notes
 Chúa Nguyễn là tên gọi người/dòng họ cai trị xứ [[Đàng Trong]] khởi đầu từ từ thời [[Thời Lê trung hưng]] đến [[Nhà Tây Sơn]]. Người có công khởi dựng sự nghiệp Chúa Nguyễn là [[Nguyễn Hoàng]]. Ông đã có công dẫn người vào khai phá mở rộng lãnh thổ về phía nam.
 
-## Questions & thoughts:
+## Ideas & thoughts:
 - [x] Chúa nguyễn tên người đứng đầu [[Đàng Trong]]
 - [x] Chúa Nguyễn là đối trọng quyền lực với Vua Lê - [[Chúa Trịnh]] ở [[Đàng Ngoài]]
 - [x] [[Chúa Nguyễn]] khởi đầu từ đời [[Nguyễn Hoàng]] có công khai phá miền Nam bây giờ

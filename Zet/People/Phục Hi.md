@@ -9,6 +9,7 @@ birth:
 death: 
 aliases:
   - 
+publish: True
 ---
 # Phục Hi
 
