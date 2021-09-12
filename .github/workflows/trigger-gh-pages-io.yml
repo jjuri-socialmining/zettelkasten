@@ -14,25 +14,26 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Clone github.io
-        run: |
-          git clone https://github.com/omegakid1902/omegakid1902.github.io.git
+#      - name: Clone github.io
+#        run: |
+#          git clone https://github.com/omegakid1902/omegakid1902.github.io.git
          
       - name: Commit files
         run: |
-          cd omegakid1902.github.io
+          git remote set-url origin https://github.com/omegakid1902/omegakid1902.github.io.git
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          
+          git fetch
           git checkout lyz-code/blue-book
           echo date +%s >> report.txt
           git add report.txt
           git commit -m "trigger from zettelkasten #${{ github.run_number }}"
+          git push origin lyz-code/blue-book
 
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: lyz-code/blue-book
-          directory: ./omegakid1902.github.io
-          repository: omegakid1902/omegakid1902.github.io
+          #directory: ./omegakid1902.github.io
+          #repository: omegakid1902/omegakid1902.github.io
