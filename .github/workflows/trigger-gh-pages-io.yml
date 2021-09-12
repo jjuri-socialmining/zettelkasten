@@ -21,8 +21,8 @@ jobs:
       - name: Commit files
         run: |
           git init
-          #git remote add origin https://github.com/omegakid1902/omegakid1902.github.io.git
-          git remote add origin git@github.com:omegakid1902/omegakid1902.github.io.git
+          git remote add origin https://github.com/omegakid1902/omegakid1902.github.io.git
+          #git remote add origin git@github.com:omegakid1902/omegakid1902.github.io.git
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git fetch
@@ -30,7 +30,7 @@ jobs:
           echo date +%s >> report.txt
           git add report.txt
           git commit -m "trigger from zettelkasten #${{ github.run_number }}"
-          git push origin lyz-code/blue-book
+          #git push origin lyz-code/blue-book
 
       - name: Push changes
         uses: ad-m/github-push-action@master
