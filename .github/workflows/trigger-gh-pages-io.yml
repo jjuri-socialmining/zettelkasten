@@ -38,4 +38,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: lyz-code/blue-book
           #directory: ./omegakid1902.github.io
-          #repository: omegakid1902/omegakid1902.github.io
+          repository: omegakid1902/omegakid1902.github.io
