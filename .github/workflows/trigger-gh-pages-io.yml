@@ -25,6 +25,7 @@ jobs:
         run: |
           #git init
           git clone https://github.com/omegakid1902/omegakid1902.github.io.git
+          cd omegakid1902.github.io
           #git remote add origin git@github.com:omegakid1902/omegakid1902.github.io.git
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
