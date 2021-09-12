@@ -16,8 +16,6 @@ jobs:
     steps:
       - name: Clone github.io
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
           git clone https://github.com/omegakid1902/omegakid1902.github.io.git
 
       - name: commit trigger
