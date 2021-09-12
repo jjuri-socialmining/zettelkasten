@@ -32,10 +32,20 @@ jobs:
           git commit -m "trigger from zettelkasten #${{ github.run_number }}"
           #git push origin lyz-code/blue-book
 
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+#      - name: Push changes
+#        uses: ad-m/github-push-action@master
+#        with:
+#          github_token: ${{ secrets.GITHUB_TOKEN }}
+#          branch: lyz-code/blue-book
+#          #directory: ./omegakid1902.github.io
+#          repository: omegakid1902/omegakid1902.github.io
+
+      - name: Pushes to another repository
+        uses: cpina/github-action-push-to-another-repository@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.GITHUB_TOKEN }}
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: lyz-code/blue-book
-          #directory: ./omegakid1902.github.io
-          repository: omegakid1902/omegakid1902.github.io
+          destination-github-username: 'omegakid1902'
+          destination-repository-name: 'omegakid1902.github.io'
+          user-email: 41898282+github-actions[bot]@users.noreply.github.com
+          target-branch: lyz-code/blue-book
