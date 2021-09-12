@@ -18,18 +18,21 @@ jobs:
 #        run: |
 #          git clone https://github.com/omegakid1902/omegakid1902.github.io.git
 
-#      - name: Commit files
-#        run: |
-#          git init
-#          git remote add origin https://github.com/omegakid1902/omegakid1902.github.io.git
-#          #git remote add origin git@github.com:omegakid1902/omegakid1902.github.io.git
-#          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-#          git config --local user.name "github-actions[bot]"
-#          git fetch
-#          git checkout lyz-code/blue-book
-#          echo date +%s >> report.txt
-#          git add report.txt
-#          git commit -m "trigger from zettelkasten #${{ github.run_number }}"
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Commit files
+        run: |
+          #git init
+          git clone https://github.com/omegakid1902/omegakid1902.github.io.git
+          #git remote add origin git@github.com:omegakid1902/omegakid1902.github.io.git
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git fetch
+          git checkout lyz-code/blue-book
+          echo date +%s >> report.txt
+          git add report.txt
+          git commit -m "trigger from zettelkasten #${{ github.run_number }}"
 #          #git push origin lyz-code/blue-book
 
 #      - name: Push changes
@@ -39,15 +42,13 @@ jobs:
 #          branch: lyz-code/blue-book
 #          #directory: ./omegakid1902.github.io
 #          repository: omegakid1902/omegakid1902.github.io
-
-      - name: Checkout
-        uses: actions/checkout@v2
       
       - name: Pushes to another repository
         uses: cpina/github-action-push-to-another-repository@main
         env:
           API_TOKEN_GITHUB: ${{ secrets.GITHUB_TOKEN }}
         with:
+          source-directory: 'omegakid1902.github.io.git'
           destination-github-username: 'omegakid1902'
           destination-repository-name: 'omegakid1902.github.io'
           user-email: 41898282+github-actions[bot]@users.noreply.github.com
