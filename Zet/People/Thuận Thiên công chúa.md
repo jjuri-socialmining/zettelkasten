@@ -9,6 +9,7 @@ birth:
 death: 
 aliases:
   - Lý Oánh
+publish: True
 ---
 # Thuận Thiên công chúa
 
@@ -24,9 +25,4 @@ Sau khi làm hoàng hậu của Trần Cảnh, bà sinh được hai người co
 ## Questions:
 
 
-## Tham khảo:
-```dataview
-list
-from [[Thuận Thiên công chúa]]
-sort file.name asc
-```
+## Related:
