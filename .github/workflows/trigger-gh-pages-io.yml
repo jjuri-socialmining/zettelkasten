@@ -49,7 +49,7 @@ jobs:
         env:
           API_TOKEN_GITHUB: ${{ secrets.GITHUB_TOKEN }}
         with:
-          #source-directory: 'omegakid1902.github.io.git'
+          source-directory: '.'
           destination-github-username: 'omegakid1902'
           destination-repository-name: 'omegakid1902.github.io'
           user-email: 41898282+github-actions[bot]@users.noreply.github.com
