@@ -17,16 +17,7 @@ jobs:
       - name: Clone github.io
         run: |
           git clone https://github.com/omegakid1902/omegakid1902.github.io.git
-
-      - name: commit trigger
-        run: |
-          cd omegakid1902.github.io
-          git checkout lyz-code/blue-book
-          echo date +%s >> report.txt
-          git add report.txt
-          git commit -m "gh-pages build number #${{ github.run_number }}"
-          git push origin lyz-code/blue-book
-          
+         
       - name: Commit files
         run: |
           cd omegakid1902.github.io
@@ -42,4 +33,4 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+          branch: lyz-code/blue-book
