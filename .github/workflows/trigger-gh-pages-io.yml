@@ -12,7 +12,7 @@ jobs:
     steps:
       - name: Alert repository_dispatch to github.io repo
         uses: mvasigh/dispatch-action@main
-        with
+        with:
           token: ${{ secrets.ZET_ACCESS_TOKEN }}
           repo: omegakid1902.github.io
           owner: omegakid1902
