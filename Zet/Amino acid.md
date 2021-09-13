@@ -8,6 +8,7 @@ tags:
 aliases: 
   - "Amino acid"
   - Acid Amin
+publish: True
 ---
 
 # Amino acid
