@@ -1,3 +1,6 @@
+---
+publish: True
+---
 # Bán đảo Scandinavie
 
 - metadata
