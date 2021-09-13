@@ -1,3 +1,6 @@
+---
+publish: True
+---
 # COVID 19
 
 - metadata
