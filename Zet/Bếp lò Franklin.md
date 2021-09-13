@@ -1,3 +1,6 @@
+---
+publish: True
+---
 # Bếp lò Franklin
 
 - metadata
