@@ -26,7 +26,7 @@ Chào mừng bạn đã đến với khu vườn ghi chú.
 ## Nghiên cứu
 [[❕ Topics to research]]
 
-[[🏡 Lịch Sử Việt Nam]]
+[[Lịch Sử Việt Nam]]
 
 [[🏡 Lịch sử Trung Quốc]]
 

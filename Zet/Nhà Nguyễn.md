@@ -1,9 +1,16 @@
+---
+title: Nhà Nguyễn
+UID: 
+created: 
+tags:
+  - '#created/2021/Jul/15'
+  - '#garden🏡'
+  - '#permanent/nation'
+aliases:
+  - 
+publish: True
+---
 # Nhà Nguyễn
-
-%% 
-- metadata:
-	- tags: #created/2021/Jul/15, #MOC 
-%%
 
 ## Note
 [[Nhà Nguyễn là triều đại phong kiến cuối cùng ở VN]]. Nhà Nguyễn được lập bởi [[Chúa Nguyễn]] - [[Nguyễn Ánh]] khi ông lật đổ [[Nhà Tây Sơn]] và lên ngôi hoàng đế, lấy hiệu là [[Gia Long]] vào năm 1802 và kết thúc 1945 khi vua [[Bảo Đại]] thoái vị.
