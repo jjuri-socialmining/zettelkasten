@@ -36,7 +36,7 @@ publish: True
 - [[Bệnh tim mạch]]
 
 ### Others
-- [[🏡 Các chế độ nhịn ăn]]
+- [[Các chế độ nhịn ăn]]
 - [[Intermittent Fasting]]
 
 

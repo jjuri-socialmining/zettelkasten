@@ -16,7 +16,7 @@ Note: có người cho rằng Triệu là [[Triệu Việt Vương]] ([[Triệu 
 - Không tương ứng với thời đại bên Trung Quốc như: 
 	- [[Nhà Đinh]] - [[Nhà Đường]]
 	- [[Nhà Lý]] - [[Nhà Tống]]
-	- [[🏡 Nhà Trần]]-[[Nhà Nguyên]]
+	- [[Nhà Trần]]-[[Nhà Nguyên]]
 - Thời [[Triệu Việt Vương]] không đủ tự chủ về lãnh thổ, binh lực nên cũng không thể so sánh với [[Nhà Hán]]
 
 ## Questions & thoughts:
