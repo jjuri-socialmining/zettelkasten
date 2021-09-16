@@ -24,7 +24,8 @@ jobs:
           token: ${{ secrets.ZET_ACCESS_TOKEN }}
           repo: gatsby-garden
           owner: omegakid1902
-          
+          event_type: update_zettelkasten
+
       - name: Alert repository_dispatch to jekyll-garden repo
         uses: mvasigh/dispatch-action@main
         with:
