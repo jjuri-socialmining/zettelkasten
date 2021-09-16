@@ -20,6 +20,10 @@ repo github
 https://github.com/mathieudutour/gatsby-digital-garden
 
 [[Tạo website từ markdown]]
+Implement theo 3 template sau đây =)
+https://github.com/omegakid1902/gatsby-garden
+https://github.com/omegakid1902/blue-book-garden
+https://github.com/omegakid1902/jekyll-garden
 
 tool to gen website
 https://nanoc.app/

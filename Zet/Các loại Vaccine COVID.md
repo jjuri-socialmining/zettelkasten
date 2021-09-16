@@ -10,7 +10,7 @@
 Vaccin COVID-19 được chia làm 3 loại theo công nghệ sản xuất
 - [[Vaccine mRNA]]
 	- [[Vaccine Pfizer]]
-	- [[Vaccine Moderna - mRNA-1273]]
+	- [[Vaccine Moderna]]
 - [[Vaccine tiểu đơn vị protein - Protein subunit vaccine]]
 	- [[Vaccine Novavax - NVX-CoV2373]]
 - [[Vaccine Vector]]
