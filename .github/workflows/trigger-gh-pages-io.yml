@@ -1,4 +1,4 @@
-name: Alert github.io build
+name: Alert Some Repos to build
 
 on:
   push:
@@ -10,10 +10,41 @@ jobs:
     name: Dispatch to other repo
     runs-on: ubuntu-latest
     steps:
-      - name: Alert repository_dispatch to github.io repo
+      - name: Alert repository_dispatch to omegakid1902.github.io repo
         uses: mvasigh/dispatch-action@main
         with:
           token: ${{ secrets.ZET_ACCESS_TOKEN }}
           repo: omegakid1902.github.io
+          owner: omegakid1902
+          event_type: update_zettelkasten
+          
+      - name: Alert repository_dispatch to gatsby-garden repo
+        uses: mvasigh/dispatch-action@main
+        with:
+          token: ${{ secrets.ZET_ACCESS_TOKEN }}
+          repo: gatsby-garden
+          owner: omegakid1902
+          
+      - name: Alert repository_dispatch to jekyll-garden repo
+        uses: mvasigh/dispatch-action@main
+        with:
+          token: ${{ secrets.ZET_ACCESS_TOKEN }}
+          repo: jekyll-garden
+          owner: omegakid1902
+          event_type: update_zettelkasten
+          
+      - name: Alert repository_dispatch to mkdocs-garden repo
+        uses: mvasigh/dispatch-action@main
+        with:
+          token: ${{ secrets.ZET_ACCESS_TOKEN }}
+          repo: mkdocs-garden
+          owner: omegakid1902
+          event_type: update_zettelkasten
+          
+      - name: Alert repository_dispatch to blue-book-garden repo
+        uses: mvasigh/dispatch-action@main
+        with:
+          token: ${{ secrets.ZET_ACCESS_TOKEN }}
+          repo: blue-book-garden
           owner: omegakid1902
           event_type: update_zettelkasten
