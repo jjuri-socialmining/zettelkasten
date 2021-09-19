@@ -32,8 +32,6 @@ tags:
   - '#created/<% tp.date.now("YYYY/MMM/DD") %>'
   - '<%* tR += note_process %>'
   - '<%* tR += note_type %>'
-aliases:
-  - <%* tR += alias_txt %>
 publish: False
 ---
 # <%* tR += title %>

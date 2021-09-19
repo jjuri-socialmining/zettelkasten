@@ -2,7 +2,7 @@
   let title = tp.file.title;
   
   if (title.startsWith("Untitled")) {
-    title = tp.date.now("📝YYMMDD");
+    title = tp.date.now("📝YY-MM-DD");
 	if (tp.file.exists(title)) {
       await tp.system.prompt("!!! The file name" + title + " is exist");
 	  return;
@@ -25,8 +25,18 @@ tags:
   - '#📅'
   - '<%* tR += note_type %>'
 ---
-<% "[[" + tp.date.yesterday("📝YYMMDD") + "|Yesterday]] -> Today -> [[" + tp.date.tomorrow("📝YYMMDD")  + "|Tomorrow]]" %>
+<% "[[" + tp.date.yesterday("📝YY-MM-DD") + "|Yesterday]] -> Today -> [[" + tp.date.tomorrow("📝YY-MM-DD")  + "|Tomorrow]]" %>
 # <% tp.date.now("dddd, MMM D, YYYY") %>
 
 ## Notes:
 <% tp.file.cursor() %>
+
+<%* if (tp.date.now("ddd") == "Sun" ) { %>
+## Weekly review:
+[[<% tp.date.now("📝YY-MM-DD", -6) %>|Mon]]
+[[<% tp.date.now("📝YY-MM-DD", -5) %>|Tue]]
+[[<% tp.date.now("📝YY-MM-DD", -4) %>|Wed]]
+[[<% tp.date.now("📝YY-MM-DD", -3) %>|Thu]]
+[[<% tp.date.now("📝YY-MM-DD", -2) %>|Fri]]
+[[<% tp.date.now("📝YY-MM-DD", -1) %>|Sat]]
+<%* } %>

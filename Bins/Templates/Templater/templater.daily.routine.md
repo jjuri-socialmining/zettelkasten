@@ -2,7 +2,7 @@
   let title = tp.file.title;
   
   if (title.startsWith("Untitled")) {
-    title = tp.date.now("⏰YYMMDD");
+    title = tp.date.now("⏰YY-MM-DD");
 	if (tp.file.exists(title)) {
       await tp.system.prompt("!!! The file name" + title + " is exist");
 	  return;
