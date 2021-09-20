@@ -1,4 +1,21 @@
-# 054c-Cong-Dong-Nicea (325)
+---
+title: Công Đồng Nicea 325
+tags:
+  - ' #created/2021/Jan/01'
+  - '#seed🥜'
+  - '#permanent/fact'
+aliases:
+  - Counsil of Nicaea
+publish: False
+---
+# Công Đồng Nicea 325
 
-created: Jan 01, 2021 10:45 AM
-tags: #created/2021/Jan/01
+## Notes:
+
+
+## Ideas & thoughts:
+- [[QAnon map]] có liệt kê sự kiện này
+## Questions:
+
+## Related:
+- 

@@ -17,9 +17,9 @@ Sử Trung Quốc trong tiểu thuyết của [[Kim Dung]]
 
 - [[Xuân Thu]]: [[Việt nữ kiếm]]
 
-- [[Nam Tống]] -> [[Nhà Nguyên]]:
+- [[Nam Tống]] -> [[Nhà Nguyên-Mông]]:
 	- [[Thần điêu hiệp lữ]] bối cảnh [[Mông Cổ]] đang chuẩn bị chiến tranh xâm lược [[Nam Tống]]
-	- [[Ỷ thiên đồ long ký]] lấy bối cảnh [[Nhà Nguyên]] cai trị Trung Quốc được 100 năm
+	- [[Ỷ thiên đồ long ký]] lấy bối cảnh [[Nhà Nguyên-Mông]] cai trị Trung Quốc được 100 năm
 
 - Sau [[Nhà Đường]]: [[Bạch mã khiếu tây phong]]
 

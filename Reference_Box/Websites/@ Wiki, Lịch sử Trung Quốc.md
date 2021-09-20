@@ -76,7 +76,7 @@ Võ Tắc Thiên là vị vữ vương duy nhất của Trung Quốc.
 [[Dương Quý Phi]]
 
 [[Nhà Tống]]
-[[Nhà Nguyên]]
+[[Nhà Nguyên-Mông]]
 Nhà Nguyên tuy cai trị Trung Quốc, nhưng họ vừa nói ngôn ngữ khác, văn hóa khác với người Hán. Nhà Nguyên vẫn bị coi là ngoại bang xâm lược.
 
 [[Nhà Minh]]

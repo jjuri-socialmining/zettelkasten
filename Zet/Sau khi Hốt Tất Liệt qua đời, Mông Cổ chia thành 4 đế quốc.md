@@ -13,7 +13,7 @@ Sau khi [[Hốt Tất Liệt]] qua đời, Mông Cổ chia thành 4 đế quốc
 - Hãn quốc Kim Trướng ở phía Tây Bắc
 - Hãn quốc Sát Hợp Đài ở Trung Á
 - Hãn quốc Y Nhi ở phía Tây Nam
-- [[Nhà Nguyên]] ở phía Đông.
+- [[Nhà Nguyên-Mông]] ở phía Đông.
 - 
 
 ## Ideas & thoughts:

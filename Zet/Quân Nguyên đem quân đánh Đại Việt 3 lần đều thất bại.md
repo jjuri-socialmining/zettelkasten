@@ -9,7 +9,7 @@ tags:
 # Quân Nguyên đem quân đánh Đại Việt 3 lần đều thất bại
 
 ## Notes
-[[Nhà Nguyên|Quân Nguyên]] đem quân đánh [[Đại Việt]] 3 lần đều thất bại:
+[[Nhà Nguyên-Mông|Quân Nguyên]] đem quân đánh [[Đại Việt]] 3 lần đều thất bại:
 - [[Chiến tranh Nguyên Mông - Đại Việt lần 1]]
 - [[Chiến tranh Đại Việt - Mông Nguyên lần 2]]
 - [[Chiến tranh Đại Việt - Mông Nguyên lần 3]]
