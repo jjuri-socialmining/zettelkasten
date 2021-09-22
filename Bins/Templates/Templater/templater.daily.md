@@ -25,7 +25,7 @@ tags:
   - '#📅'
   - '<%* tR += note_type %>'
 ---
-<% "[[" + tp.date.yesterday("📝YY-MM-DD") + "|Yesterday]] -> Today -> [[" + tp.date.tomorrow("📝YY-MM-DD")  + "|Tomorrow]]" %>
+<% "[[" + tp.date.yesterday("📝YY-MM-DD") + "|<- Yesterday]] | [[" + tp.date.tomorrow("📝YY-MM-DD")  + "|Tomorrow ->]]" %>
 # <% tp.date.now("dddd, MMM D, YYYY") %>
 
 ## Notes:
