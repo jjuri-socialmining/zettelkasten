@@ -49,3 +49,11 @@ jobs:
           repo: blue-book-garden
           owner: omegakid1902
           event_type: update_zettelkasten
+          
+      - name: Alert repository_dispatch to blue-book-garden repo
+        uses: mvasigh/dispatch-action@main
+        with:
+          token: ${{ secrets.ZET_ACCESS_TOKEN }}
+          repo: obsidian-mkdocs-from-scratch
+          owner: omegakid1902
+          event_type: update_zettelkasten
