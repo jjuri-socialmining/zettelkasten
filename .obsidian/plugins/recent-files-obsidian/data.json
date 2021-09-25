@@ -1,28 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "Eugenics",
-      "path": "Zet/Eugenics.md"
-    },
-    {
-      "basename": "📝21-09-24",
-      "path": "Spaces/Daily/Journal/📝21-09-24.md"
-    },
-    {
       "basename": "📝21-09-25",
       "path": "Spaces/Daily/Journal/📝21-09-25.md"
-    },
-    {
-      "basename": "Lịch sử Trung Quốc",
-      "path": "Zet/Lịch sử Trung Quốc.md"
     },
     {
       "basename": "📌 Workbench",
       "path": "📌 Workbench.md"
     },
     {
+      "basename": "⏩ Quick note",
+      "path": "⏩ Quick note.md"
+    },
+    {
+      "basename": "Enter the garden",
+      "path": "Enter the garden.md"
+    },
+    {
+      "basename": "📑 Bookmark",
+      "path": "📑 Bookmark.md"
+    },
+    {
+      "basename": "templater.quick.note",
+      "path": "Bins/Templates/Templater/templater.quick.note.md"
+    },
+    {
+      "basename": "Quick note",
+      "path": "Quick note.md"
+    },
+    {
+      "basename": "github-deloy-server",
+      "path": "Zet/Images/github-deloy-server.png"
+    },
+    {
+      "basename": "📝21-09-21",
+      "path": "Spaces/Daily/Journal/📝21-09-21.md"
+    },
+    {
+      "basename": "chien-tranh-thien-dang",
+      "path": "Zet/Images/chien-tranh-thien-dang.png"
+    },
+    {
+      "basename": "total_commander_rename",
+      "path": "Zet/Images/total_commander_rename.png"
+    },
+    {
+      "basename": "setup_server_nodejs_20210909230735",
+      "path": "Zet/Images/setup_server_nodejs_20210909230735.png"
+    },
+    {
+      "basename": "thien-than-Michael",
+      "path": "Zet/Images/thien-than-Michael.png"
+    },
+    {
       "basename": "🛠️210924-Build mkdocs from scratch",
       "path": "Spaces/Tasks/🛠️210924-Build mkdocs from scratch.md"
+    },
+    {
+      "basename": "Mkdocs Feature checking",
+      "path": "Spaces/Projects/Mkdocs Feature checking.md"
+    },
+    {
+      "basename": "Eugenics",
+      "path": "Zet/Eugenics.md"
+    },
+    {
+      "basename": "🛠️210924-Build mkdocs from scratch",
+      "path": "Spaces/Projects/Build Obsidian Mkdocs site/🛠️210924-Build mkdocs from scratch.md"
+    },
+    {
+      "basename": "📝21-09-24",
+      "path": "Spaces/Daily/Journal/📝21-09-24.md"
+    },
+    {
+      "basename": "Lịch sử Trung Quốc",
+      "path": "Zet/Lịch sử Trung Quốc.md"
     },
     {
       "basename": "YAML",
@@ -67,10 +119,6 @@
     {
       "basename": "📝21-09-22",
       "path": "Spaces/Daily/Journal/📝21-09-22.md"
-    },
-    {
-      "basename": "📝21-09-21",
-      "path": "Spaces/Daily/Journal/📝21-09-21.md"
     },
     {
       "basename": "Gen-05",
@@ -151,54 +199,6 @@
     {
       "basename": "Tower of Babel",
       "path": "Spaces/Projects/Bible Study Kit/Tower of Babel.md"
-    },
-    {
-      "basename": "Gen-11",
-      "path": "Spaces/Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-11.md"
-    },
-    {
-      "basename": "010 Faith MOC",
-      "path": "Spaces/Projects/Bible Study Kit/010 Faith MOC.md"
-    },
-    {
-      "basename": "Creation account",
-      "path": "Spaces/Projects/Bible Study Kit/Creation account.md"
-    },
-    {
-      "basename": "God's unified story",
-      "path": "Spaces/Projects/Bible Study Kit/God's unified story.md"
-    },
-    {
-      "basename": "templater.daily",
-      "path": "Bins/Templates/Templater/templater.daily.md"
-    },
-    {
-      "basename": "God-centered life",
-      "path": "Spaces/Projects/Bible Study Kit/God-centered life.md"
-    },
-    {
-      "basename": "Glossary",
-      "path": "Spaces/Projects/Bible Study Kit/Glossary.md"
-    },
-    {
-      "basename": "CSS tweaks",
-      "path": "Spaces/Projects/Bible Study Kit/CSS tweaks.md"
-    },
-    {
-      "basename": "Chaotic Waters (Image)",
-      "path": "Spaces/Projects/Bible Study Kit/Chaotic Waters (Image).md"
-    },
-    {
-      "basename": "Book Note",
-      "path": "Spaces/Projects/Bible Study Kit/Book Note.md"
-    },
-    {
-      "basename": "000 Home",
-      "path": "Spaces/Projects/Bible Study Kit/000 Home.md"
-    },
-    {
-      "basename": "Ps-01",
-      "path": "Spaces/Projects/Bible Study Kit/Scripture (BPT)/19 - Psalms/Ps-01.md"
     }
   ],
   "omittedPaths": [],

@@ -19,6 +19,9 @@ result:
 [[index|alternative name]]
 
 [[Đây là page 2#Header 1]]
+
+[docker](https://squidfunk.github.io/mkdocs-material/getting-started/#with-docker)
+
 ```
 result:
 
@@ -34,6 +37,8 @@ sub/subpage.md
 [[Đây là page 2]]
 
 [[Đây là page 2#Header 1]]
+
+[docker](https://squidfunk.github.io/mkdocs-material/getting-started/#with-docker)
 
 ## **markdown link**
 ```

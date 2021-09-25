@@ -14,7 +14,7 @@ publish: False
 # Tổng lãnh thiên thần Michael
 
 ## Notes:
-![[Pasted image 20210920222514.png]]
+![[thien-than-Michael.png]]
 
 ![[Jude-01#v9]]
 ![[1 Thess-04#v16]]

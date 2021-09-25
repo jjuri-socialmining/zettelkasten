@@ -43,6 +43,7 @@ Xây dựng [[Obsidian]] website bằng mkdocs
 	![[Pasted image 20210924202037.png]]
 	Đây chính là nội dung tạo ra từ file `docs/index.md`
 	Giờ bạn chỉ cẩn tạo và chỉnh sửa file trong folder, các chỉnh sửa sẽ hiện lên trên trình duyệt.
+	
 2. Chỉnh sửa vào tạo thêm page mới nào
 Tạo ra một file để check các format của mkdocs
 add `requirement.in` giống [[Blue book template]]
@@ -105,8 +106,8 @@ theme:
 	logo: image/favicon.ico
 ```
 
-## Plugins
-### [ezlink](https://github.com/orbikm/mkdocs-ezlinks-plugin)
+### Plugins
+#### [ezlink](https://github.com/orbikm/mkdocs-ezlinks-plugin)
 -   Optimized file name lookup
 -   Code Block Preservation
 -   File name linking (e.g. `[Text](file#anchor "title")`)
@@ -133,7 +134,7 @@ không xử được
 [[Đây là page 2#Header 1]]
 
 ```
-### [autolinks](https://github.com/midnightprioriem/mkdocs-autolinks-plugin/)
+#### [autolinks](https://github.com/midnightprioriem/mkdocs-autolinks-plugin/)
 
 Install the plugin using pip:
 
@@ -150,7 +151,7 @@ solve sub folder link for md and image, no need absolute link
 [Git Flow](git_flow.md)
 ![Avatar](avatar.png)
 ```
-### [roamlinks](https://github.com/Jackiexiao/mkdocs-roamlinks-plugin)
+#### [roamlinks](https://github.com/Jackiexiao/mkdocs-roamlinks-plugin)
 Install the plugin using pip:
 
 `pip install mkdocs-roamlinks-plugin`
@@ -164,21 +165,31 @@ plugins:
 quảng cáo:
 ![[Pasted image 20210924223901.png]]
 
-### [autoreflinks](https://github.com/pauloue/mkdocs-autoreflinks-plugin)
+#### [autoreflinks](https://github.com/pauloue/mkdocs-autoreflinks-plugin)
 trace header dưới dạng format của markdown
 
-### [tooltipster-links](https://pypi.org/project/mkdocs-tooltipster-links-plugin/)
+#### [tooltipster-links](https://pypi.org/project/mkdocs-tooltipster-links-plugin/)
 tool tip show page lên nè, set css từa lưa =)
 
-### [alternate-link](https://github.com/cmitu/mkdocs-altlink-plugin)
+#### [alternate-link](https://github.com/cmitu/mkdocs-altlink-plugin)
 cũng không có gì
 ```
 -   `[My Page](source-page.md)` can be written as `[My Page](source-page)`
 -   `[My Page](source-page.md#Point)` can be written as `[My Page](source-page#Point)`
 ```
-### [section-index](https://github.com/oprypin/mkdocs-section-index)
+#### [section-index](https://github.com/oprypin/mkdocs-section-index)
 optimize `nav`
-### [toc-sidebar](https://pypi.org/project/mkdocs-toc-sidebar-plugin/)
+#### [toc-sidebar](https://pypi.org/project/mkdocs-toc-sidebar-plugin/)
 -> thêm content phía trên TOC -> idea thêm graphlink
 
-### [markdown_extensions](https://www.mkdocs.org/user-guide/configuration/#markdown_extensions)
+#### [markdown_extensions](https://www.mkdocs.org/user-guide/configuration/#markdown_extensions)
+
+### Test template file
+[[Mkdocs Feature checking]]
+
+### Feature to support
+- [ ] [[Backlink]] cho mỗi page
+- [ ] [[Backlink Graph View]] cho mỗi pages
+
+Cơ bản được như vầy
+![[Pasted image 20210925215725.png]]
