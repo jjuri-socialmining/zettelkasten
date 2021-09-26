@@ -193,3 +193,11 @@ optimize `nav`
 
 Cơ bản được như vầy
 ![[Pasted image 20210925215725.png]]
+
+Đã workaround cái [[Backlink Graph View]]
+![[Pasted image 20210926232347.png]]
+
+Nghiên cứu sâu hơn về
+- lib [[networkx]], [[bokeh]],... có chức năng tạo node của python
+- import file html vào [[material theme]]
+- tạo graph view cho từng pages, hiện tại chỉ generate cho full site nên khá nặng. Tạo graph link từng page và thay thế cho table of content của [[material]] luôn.
