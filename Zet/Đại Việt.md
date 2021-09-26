@@ -5,7 +5,6 @@ tags:
   - '#created/2021/Aug/16'
   - '#permanent/concept'
   - '#flashcards'
-aliases: [Đại Việt]
 ---
 # Đại Việt
 
@@ -19,8 +18,3 @@ aliases: [Đại Việt]
 
 
 ## Related:
-```dataview
-list
-from [[Đại Việt]]
-sort file.name asc
-```

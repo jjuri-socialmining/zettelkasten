@@ -32,7 +32,7 @@
     "maxLinkFactor": 1,
     "logLevel": 1
   },
-  "buryDate": "2021-09-24",
+  "buryDate": "2021-09-26",
   "buryList": [],
   "cache": {
     "Spaces/Projects/Markdown for Obsidian MOC.md": {
@@ -270,14 +270,14 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631454139569,
+      "lastUpdated": 1632574990031,
       "dueDatesFlashcards": {}
     },
     "Zet/Đế quốc Việt Nam.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631454139569,
+      "lastUpdated": 1632574990030,
       "dueDatesFlashcards": {}
     },
     "Zet/Đế Quốc Mông Cổ.md": {
@@ -389,7 +389,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631795890356,
+      "lastUpdated": 1632574990030,
       "dueDatesFlashcards": {}
     },
     "Zet/Đoàn Dự.md": {
@@ -494,7 +494,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631454139431,
+      "lastUpdated": 1632489186221,
       "dueDatesFlashcards": {}
     },
     "Zet/Xylitole dùng làm kẹo singum.md": {
@@ -592,7 +592,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631454139379,
+      "lastUpdated": 1632574990028,
       "dueDatesFlashcards": {}
     },
     "Zet/Vương cung thánh đường Thánh Phêrô.md": {
@@ -1040,7 +1040,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631454139157,
+      "lastUpdated": 1632574990027,
       "dueDatesFlashcards": {}
     },
     "Zet/Thời Hậu Lê, vua Lê Thánh Tông được xem là thành công nhất trong việc cai trị và phát triển đất nước.md": {
@@ -1364,9 +1364,9 @@
       "nextDueDate": "2021-08-26",
       "lastUpdated": 1631454138923,
       "dueDatesFlashcards": {
-        "-26": 1,
-        "-29": 1,
-        "-24": 1
+        "-28": 1,
+        "-31": 1,
+        "-26": 1
       }
     },
     "Zet/Taxonomy.md": {
@@ -2153,9 +2153,9 @@
       "lastUpdated": 1631454138328,
       "dueDatesFlashcards": {
         "0": 1,
-        "2": 1,
+        "-4": 1,
         "-2": 1,
-        "-1": 1
+        "-3": 1
       }
     },
     "Zet/Obsidian Dataview plugin.md": {
@@ -2309,7 +2309,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631454138102,
+      "lastUpdated": 1632574990019,
       "dueDatesFlashcards": {}
     },
     "Zet/Nhóm lập quốc Hoa Kỳ.md": {
@@ -2351,7 +2351,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631454138086,
+      "lastUpdated": 1632574990018,
       "dueDatesFlashcards": {}
     },
     "Zet/Nhà Tấn.md": {
@@ -2386,7 +2386,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631454138086,
+      "lastUpdated": 1632574990017,
       "dueDatesFlashcards": {}
     },
     "Zet/Nhà Thanh là triều đại cuối cùng trong lịch sử Trung Quốc.md": {
@@ -2428,7 +2428,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631454138008,
+      "lastUpdated": 1632574990015,
       "dueDatesFlashcards": {}
     },
     "Zet/Nhà Hán.md": {
@@ -4348,9 +4348,9 @@
       "nextDueDate": "2021-09-14",
       "lastUpdated": 1631454134241,
       "dueDatesFlashcards": {
-        "-10": 1,
-        "-9": 1,
-        "-8": 1
+        "-12": 1,
+        "-11": 1,
+        "-10": 1
       }
     },
     "Zet/Chất xơ hòa tan giúp tăng nhu động ruột giảm táo bón.md": {
@@ -4441,14 +4441,14 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631795890334,
+      "lastUpdated": 1632574989391,
       "dueDatesFlashcards": {}
     },
     "Zet/Chúa Nguyễn.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631804390799,
+      "lastUpdated": 1632574989391,
       "dueDatesFlashcards": {}
     },
     "Zet/Chúa Giáng Sinh.md": {
@@ -4581,7 +4581,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631545898066,
+      "lastUpdated": 1632574989389,
       "dueDatesFlashcards": {}
     },
     "Zet/Bắc thuộc lần 3 dưới sự cai trị nhà Đường.md": {
@@ -4602,7 +4602,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631804353864,
+      "lastUpdated": 1632574989388,
       "dueDatesFlashcards": {}
     },
     "Zet/Bảo Đại từng thay 5 thượng thư trong đợt cải cách.md": {
@@ -4728,7 +4728,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631545898066,
+      "lastUpdated": 1632574989388,
       "dueDatesFlashcards": {}
     },
     "Zet/Bán Đảo Iberia.md": {
@@ -4882,7 +4882,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631545898064,
+      "lastUpdated": 1632574989387,
       "dueDatesFlashcards": {}
     },
     "Zet/Andenovirus.md": {
@@ -4903,14 +4903,14 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631798802140,
+      "lastUpdated": 1632574989387,
       "dueDatesFlashcards": {}
     },
     "Zet/An Dương Vương thực hiện kế vườn không nhà trống với quân Tần.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631454133883,
+      "lastUpdated": 1632574989386,
       "dueDatesFlashcards": {}
     },
     "Zet/An Dương Vương thống nhất hai bộ tộc Âu Lạc và Lạc Việt lập nên Âu Lạc.md": {
@@ -4945,7 +4945,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631545898063,
+      "lastUpdated": 1632574989386,
       "dueDatesFlashcards": {}
     },
     "Zet/Alpha và Beta-Coronavirus có nguồn gen từ loài dơi.md": {
@@ -5185,8 +5185,8 @@
       "nextDueDate": "2021-09-22",
       "lastUpdated": 1631454133529,
       "dueDatesFlashcards": {
-        "41": 1,
-        "-2": 1
+        "39": 1,
+        "-4": 1
       }
     },
     "Spaces/Questions/❓210816-2246.md": {
@@ -5263,8 +5263,8 @@
       "nextDueDate": "2021-09-25",
       "lastUpdated": 1631454133482,
       "dueDatesFlashcards": {
-        "13": 1,
-        "17": 1
+        "3": 1,
+        "-1": 1
       }
     },
     "Spaces/Questions/❓210815-2245.md": {
@@ -5316,8 +5316,8 @@
       "nextDueDate": "2021-09-25",
       "lastUpdated": 1631454133467,
       "dueDatesFlashcards": {
-        "13": 1,
-        "28": 1
+        "14": 1,
+        "-1": 1
       }
     },
     "Spaces/Questions/❓210815-2157.md": {
@@ -5356,8 +5356,8 @@
       "nextDueDate": "2021-09-21",
       "lastUpdated": 1631454133451,
       "dueDatesFlashcards": {
-        "26": 1,
-        "-3": 1
+        "24": 1,
+        "-5": 1
       }
     },
     "Spaces/Questions/❓210815-2035.md": {
@@ -5398,7 +5398,7 @@
       "nextDueDate": "2021-09-20",
       "lastUpdated": 1631454133394,
       "dueDatesFlashcards": {
-        "-4": 1
+        "-6": 1
       }
     },
     "Zet/Đổng Trác được Viên Thiệu tiến cử với Hà Tiến đem quân vào cung diệt thế lực hoạn quan.md": {
@@ -5475,7 +5475,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631454138609,
+      "lastUpdated": 1632574990026,
       "dueDatesFlashcards": {}
     },
     "Zet/People/Đế Tân.md": {
@@ -5496,7 +5496,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631454138594,
+      "lastUpdated": 1632574990024,
       "dueDatesFlashcards": {}
     },
     "Zet/People/Thương Ưởng.md": {
@@ -5517,7 +5517,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631454138500,
+      "lastUpdated": 1632574990020,
       "dueDatesFlashcards": {}
     },
     "Zet/People/Khương Tử Nha.md": {
@@ -5531,21 +5531,21 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631454138086,
+      "lastUpdated": 1632578102614,
       "dueDatesFlashcards": {}
     },
     "Zet/Nhà Hạ.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631454138008,
+      "lastUpdated": 1632574990015,
       "dueDatesFlashcards": {}
     },
     "Zet/Nhà Chu.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631454138008,
+      "lastUpdated": 1632578069709,
       "dueDatesFlashcards": {}
     },
     "Zet/Hoa Hạ.md": {
@@ -5587,7 +5587,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631454139430,
+      "lastUpdated": 1632574990028,
       "dueDatesFlashcards": {}
     },
     "Zet/Tứ đại mỹ nhân Trung Hoa.md": {
@@ -5615,7 +5615,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631454138594,
+      "lastUpdated": 1632574990025,
       "dueDatesFlashcards": {}
     },
     "Zet/People/Tào Tháo.md": {
@@ -6149,28 +6149,28 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631464345314,
+      "lastUpdated": 1632574990024,
       "dueDatesFlashcards": {}
     },
     "Zet/People/Trần Liễu.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631804330942,
+      "lastUpdated": 1632574990024,
       "dueDatesFlashcards": {}
     },
     "Zet/People/Trần Hưng Đạo.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631804330622,
+      "lastUpdated": 1632574990023,
       "dueDatesFlashcards": {}
     },
     "Zet/People/Trần Cảnh.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631804330540,
+      "lastUpdated": 1632574990023,
       "dueDatesFlashcards": {}
     },
     "Zet/People/Thụy Bà Công chúa.md": {
@@ -6184,7 +6184,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631466269801,
+      "lastUpdated": 1632574990023,
       "dueDatesFlashcards": {}
     },
     "Zet/People/Linh Từ Quốc mẫu.md": {
@@ -6212,7 +6212,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631466232168,
+      "lastUpdated": 1632574990020,
       "dueDatesFlashcards": {}
     },
     "Zet/Nồng độ Insuline máu giảm giúp cơ thể dễ sử dụng chất béo hơn.md": {
@@ -7052,21 +7052,21 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631798840977,
+      "lastUpdated": 1632574990019,
       "dueDatesFlashcards": {}
     },
     "Zet/People/Đế Thuấn.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631454138609,
+      "lastUpdated": 1632574990025,
       "dueDatesFlashcards": {}
     },
     "Zet/People/Đế Nghiêu.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631454138594,
+      "lastUpdated": 1632574990025,
       "dueDatesFlashcards": {}
     },
     "Zet/People/Khuất Nguyên.md": {
@@ -7087,7 +7087,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631454138563,
+      "lastUpdated": 1632574990022,
       "dueDatesFlashcards": {}
     },
     "Zet/People/Cơ Xương.md": {
@@ -7241,7 +7241,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631454134069,
+      "lastUpdated": 1632574989388,
       "dueDatesFlashcards": {}
     },
     "Zet/năm 1987, UNESCO công nhận Tử Cấm Thành là di sản thế giới.md": {
@@ -7521,7 +7521,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631454139157,
+      "lastUpdated": 1632574990027,
       "dueDatesFlashcards": {}
     },
     "Zet/Thánh địa Mỹ Sơn.md": {
@@ -7619,7 +7619,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631454138008,
+      "lastUpdated": 1632574990016,
       "dueDatesFlashcards": {}
     },
     "Zet/Nguyễn Hoàng khai phá miền nam, xây dựng Hội An.md": {
@@ -7836,7 +7836,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631454139498,
+      "lastUpdated": 1632574990029,
       "dueDatesFlashcards": {}
     },
     "Zet/Nhà Triệu.md": {
@@ -7871,14 +7871,14 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631466221574,
+      "lastUpdated": 1632574990028,
       "dueDatesFlashcards": {}
     },
     "Zet/Toán học.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631454139220,
+      "lastUpdated": 1632574990027,
       "dueDatesFlashcards": {}
     },
     "Zet/Sách đã đọc.md": {
@@ -7892,28 +7892,28 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631454137821,
+      "lastUpdated": 1632574990014,
       "dueDatesFlashcards": {}
     },
     "Zet/Lịch sử.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631804289073,
+      "lastUpdated": 1632574990014,
       "dueDatesFlashcards": {}
     },
     "Zet/Language.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631454137495,
+      "lastUpdated": 1632574990012,
       "dueDatesFlashcards": {}
     },
     "Zet/Interests.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631454137185,
+      "lastUpdated": 1632574990012,
       "dueDatesFlashcards": {}
     },
     "Zet/Home.md": {
@@ -7941,7 +7941,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631795920194,
+      "lastUpdated": 1632574990022,
       "dueDatesFlashcards": {}
     },
     "Zet/Nhà Tây Sơn.md": {
@@ -7955,14 +7955,14 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631454139616,
+      "lastUpdated": 1632577665410,
       "dueDatesFlashcards": {}
     },
     "Zet/Nhà Nguyễn.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631795890353,
+      "lastUpdated": 1632574990017,
       "dueDatesFlashcards": {}
     },
     "Zet/Lịch sử Trung Quốc.md": {
@@ -7976,21 +7976,21 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631804331352,
+      "lastUpdated": 1632574990013,
       "dueDatesFlashcards": {}
     },
     "Zet/Health.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631804322947,
+      "lastUpdated": 1632574989393,
       "dueDatesFlashcards": {}
     },
     "Enter the garden.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1632040742835,
+      "lastUpdated": 1632578376979,
       "dueDatesFlashcards": {}
     },
     "Zet/Sample multi files rename in total commander.md": {
@@ -8046,7 +8046,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1632320850843,
+      "lastUpdated": 1632581942112,
       "dueDatesFlashcards": {}
     },
     "Zet/Sưu tầm một số ý tưởng tạo obsidian.md": {
@@ -8060,7 +8060,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1632321015305,
+      "lastUpdated": 1632574990026,
       "dueDatesFlashcards": {}
     },
     "Zet/People/Trần Thị Minh Tâm.md": {
@@ -8081,14 +8081,14 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1632313099673,
+      "lastUpdated": 1632574990016,
       "dueDatesFlashcards": {}
     },
     "Zet/Lucifer.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1632326044977,
+      "lastUpdated": 1632574990013,
       "dueDatesFlashcards": {}
     },
     "Zet/Công Đồng Nicea 325.md": {
@@ -8109,7 +8109,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1632324297927,
+      "lastUpdated": 1632581995541,
       "dueDatesFlashcards": {}
     },
     "Zet/biblegateway.com.md": {
@@ -8166,6 +8166,20 @@
       "hasNewCards": false,
       "nextDueDate": "",
       "lastUpdated": 1632319319986,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Mkdocs plugins.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1632487002904,
+      "dueDatesFlashcards": {}
+    },
+    "Zet/Blue book template.md": {
+      "totalCards": 0,
+      "hasNewCards": false,
+      "nextDueDate": "",
+      "lastUpdated": 1632487002896,
       "dueDatesFlashcards": {}
     }
   }

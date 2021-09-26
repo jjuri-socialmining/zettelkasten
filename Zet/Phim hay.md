@@ -5,8 +5,7 @@ tags:
   - '#created/2021/Sep/01'
   - '#garden🏡'
   - '#permanent/fact'
-aliases:
-  - 
+publish: True
 ---
 # Phim hay
 

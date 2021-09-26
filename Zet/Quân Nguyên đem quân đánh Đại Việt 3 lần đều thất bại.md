@@ -21,8 +21,4 @@ tags:
 
 
 ## Related:
-```dataview
-list
-from [[Quân Nguyên đem quân đánh Đại Việt 3 lần đều thất bại]]
-sort file.name asc
-```
+
