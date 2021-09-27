@@ -9,7 +9,7 @@ publish: True
 ---
 
 ## Notes:
-Xây dựng [[Obsidian]] website bằng mkdocs
+Xây dựng [[Obsidian]] website bằng [[Mkdocs]]
 
 ### Steps
 1. Install [[Mkdocs]] thông qua [[Python Package Manager|pip]]

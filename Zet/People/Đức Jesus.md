@@ -26,9 +26,3 @@ aliases:
 ## Questions:
 
 
-## Tham khảo:
-```dataview
-list
-from [[Đức Jesus]]
-sort file.name asc
-```

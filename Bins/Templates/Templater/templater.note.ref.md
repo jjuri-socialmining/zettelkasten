@@ -24,17 +24,8 @@ tags:
   - '#created/<% tp.date.now("YYYY/MMM/DD") %>'
   - '<%* tR += note_process %>'
   - '<%* tR += note_type %>'
-aliases:
-  - 
 ---
 # <%* tR += title %>
 
 ## Notes:
 <% tp.file.cursor() %>
-
-## Tham khảo:
-```dataview
-list
-from [[<%* tR += title %>]]
-sort file.name asc
-```

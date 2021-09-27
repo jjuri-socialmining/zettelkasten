@@ -22,10 +22,3 @@ aliases:
 
 ## Questions:
 
-
-## Tham khảo:
-```dataview
-list
-from [[Đức Maria]]
-sort file.name asc
-```

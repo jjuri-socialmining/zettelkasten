@@ -29,10 +29,3 @@ publish: False
 
 ## Notes:
 
-
-## Ideas & thoughts:
-
-## Questions:
-
-
-## Related:
