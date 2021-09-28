@@ -40,3 +40,4 @@
 
 [[Sample multi files rename in total commander]]
 [[📝21-09-25]]
+[[📝21-09-27]]
