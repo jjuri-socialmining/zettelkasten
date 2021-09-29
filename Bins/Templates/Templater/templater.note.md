@@ -5,11 +5,11 @@
     await tp.file.rename(title);
   }
 
-  note_process = await tp.system.suggester(["🥜Seed", "🌱Seeding", "🌲Evergreen", "🏡Garden"], ["#seed🥜", "#seeding🌱","#evergreen🌲", "#garden🏡"]);
+  note_process = await tp.system.suggester(["🥜Seed", "🌱Seeding", "🌲Evergreen", "🏡Garden"], ["seed🥜", "seeding🌱","evergreen🌲", "garden🏡"]);
 
-  note_type = await tp.system.suggester(["concept", "fact", "think", "place", "nation"], ["#permanent/concept", "#permanent/fact", "#permanent/think", "#permanent/place", "#permanent/nation"]);
+  note_type = await tp.system.suggester(["concept", "fact", "think", "place", "nation", "linking", "how to", "funny"], ["permanent/concept", "permanent/fact", "permanent/think", "permanent/place", "permanent/nation", "permanent/linking", "permanent/howto", 'funny']);
 
-  if (note_type == "#permanent/think") {
+  if (note_type == "permanent/think") {
     title = "❕ " + title;
     await tp.file.rename(title);
 	await tp.file.move("/Zet/Thinking/" + title);
@@ -19,7 +19,7 @@
   }
 
   alias_txt = ''
-  if (note_type == "#permanent/concept") {
+  if (note_type == "permanent/concept") {
     alias_txt = title
   }
    

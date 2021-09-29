@@ -5,7 +5,7 @@
     await tp.file.rename(title);
   }
 
-  note_type = "#permanent/people"
+  note_type = "permanent/people"
   await tp.file.move("/Zet/People/" + title);
   birth = "birth: "
   death = "death: "
