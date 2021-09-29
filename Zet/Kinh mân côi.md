@@ -11,7 +11,11 @@ publish: True
 # Kinh mân côi
 
 ## Notes:
-
+Kinh mân côi xoay quanh các sự kiện trần thế trong đời [[Đức Jesus|Chúa Giêsu]] được Giáo Hội đặt ra cùng với những lời khuyến khích của đức [[Đức Maria|Mẹ Maria]].
+- [[Năm sự vui]]
+- [[Năm sự thương]]
+- [[Năm sự mừng]]
+- [[Năm sự sáng]]
 
 ## Ideas & thoughts:
 
@@ -19,7 +23,3 @@ publish: True
 
 ## Relate to:
 - [[Đức Maria]]
-- [[Năm sự vui]]
-- [[Năm sự thương]]
-- [[Năm sự mừng]]
-- [[Năm sự sáng]]
