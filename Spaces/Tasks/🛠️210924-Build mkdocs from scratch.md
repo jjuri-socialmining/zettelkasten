@@ -199,5 +199,7 @@ Cơ bản được như vầy
 
 Nghiên cứu sâu hơn về
 - lib [[networkx]], [[bokeh]],... có chức năng tạo node của python
-- import file html vào [[material theme]]
+- import file html vào [[Material theme]]
 - tạo graph view cho từng pages, hiện tại chỉ generate cho full site nên khá nặng. Tạo graph link từng page và thay thế cho table of content của [[material]] luôn.
+- [[📝21-10-01]]: Github có repo này https://github.com/vasturiano/react-force-graph, có nhiều example chỉ, lấy về test thử bỏ vào trang của mình thui
+	- https://vasturiano.github.io/react-force-graph/example/forcegraph-dependencies/
