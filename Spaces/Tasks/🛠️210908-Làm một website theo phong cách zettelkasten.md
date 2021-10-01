@@ -27,3 +27,6 @@ https://github.com/omegakid1902/jekyll-garden
 
 tool to gen website
 https://nanoc.app/
+
+## Relate to:
+- [[🛠️210924-Build mkdocs from scratch]]

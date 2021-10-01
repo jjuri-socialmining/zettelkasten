@@ -6,8 +6,7 @@ tags:
   - '#created/2021/Aug/13'
   - '#seed🥜'
   - '#permanent/concept'
-aliases:
-  - Insulin
+publish: True
 ---
 # Insulin
 
@@ -18,10 +17,3 @@ Insulin là một hormon giúp điều hòa [[Đường huyết]]. [[Insulin đ�
 
 ## Questions:
 
-
-## Tham khảo:
-```dataview
-list
-from [[Insulin]]
-sort file.name asc
-```

@@ -17,10 +17,3 @@ aliases:
 
 ## Questions:
 
-
-## Tham khảo:
-```dataview
-list
-from [[18 đời vua Hùng là con số ước lệ]]
-sort file.name asc
-```

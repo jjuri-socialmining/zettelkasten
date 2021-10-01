@@ -1,7 +1,14 @@
-# Phật Giáo MOC
-
-%% - metadata:
-	- tags: #MOC %%
+---
+title: Phật Giáo
+UID: 211001213956
+created: 01-Oct-2021
+tags:
+  - 'created/2021/Oct/01'
+  - 'garden🏡'
+  - 'permanent/concept'
+publish: True
+---
+# Phật Giáo
 	
 ## Định nghĩa
 [[Phật Giáo]]

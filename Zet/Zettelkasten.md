@@ -1,7 +1,14 @@
+---
+title: Zettelkasten
+UID: 211001214142
+created: 01-Oct-2021
+tags:
+  - 'created/2021/Oct/01'
+  - 'garden🏡'
+  - 'permanent/concept'
+publish: True
+---
 # Zettelkasten
-
-%% - metadata:
-	- tags: #MOC %%
 
 ### Định nghĩa
 
@@ -27,9 +34,3 @@ Tài liệu tham khảo:
 - [How To Take Smart Notes: 10 Principles to Revolutionize Your Note-Taking and Writing - Forte Labs](https://fortelabs.co/blog/how-to-take-smart-notes/) 
 - [https://leananki.com/zettelkasten-method-smart-notes/](https://leananki.com/zettelkasten-method-smart-notes/)
 
-## Related:
-```dataview
-list
-from [[~Zettelkasten]]
-sort file.name asc
-```

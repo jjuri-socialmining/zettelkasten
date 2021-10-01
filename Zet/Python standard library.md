@@ -1,12 +1,14 @@
+---
+title: Python standard library
+UID: 2107072353
+tags:
+  - 'created/2021/Jul/07'
+  - 'garden🏡'
+  - 'permanent/concept'
+publish: True
+---
 # Python standard library
 
-- metadata
-	- UID: P-210707-2353
-	- tags: #created/2021/Jul/07
-	- previous note: 
-	- source: 
-
 ## Notes
-
-## Questions & thoughts:
-- Review and check some lib
+- [[networkx]]
+- [[Flask lib]]

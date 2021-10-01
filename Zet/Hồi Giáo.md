@@ -1,7 +1,16 @@
+---
+title: Hồi Giáo
+UID: 201225213853
+created: 25-Dec-2021
+tags:
+  - 'created/2020/Dec/25'
+  - 'garden🏡'
+  - 'permanent/concept'
+aliases:
+  - Hồi Giáo
+publish: True
+---
 # Hồi Giáo
-
-created: Dec 25, 2020 11:30 AM
-tags: #created/2020/Dec/25
 
 Hồi giáo là một nhánh của Kito giáo, bắt ngồn từ tổ phụ Abraham.
 

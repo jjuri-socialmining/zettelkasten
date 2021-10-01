@@ -6,7 +6,7 @@ tags:
   - '#created/2021/Jul/31'
   - '#seed🥜'
   - '#permanent/concept'
-publish: False
+publish: True
 ---
 # Cựu Ước
 
@@ -23,10 +23,3 @@ Adam và Eva sinh được 2 người con là [[Cain]] và [[Abel]].
 
 ## Questions & thoughts:
 
-
-## Related:
-```dataview
-list
-from [[Cựu Ước]]
-sort file.name asc
-```
