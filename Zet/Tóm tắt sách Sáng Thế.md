@@ -70,3 +70,4 @@ Tiếp theo sau là câu truyện của [[Abraham]]
 ## Questions:
 
 ## Relate to:
+- [[🛠️211003-Tóm tắt sách Sáng Thế]]
