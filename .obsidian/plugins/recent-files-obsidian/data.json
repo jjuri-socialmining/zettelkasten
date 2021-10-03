@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "📝21-10-03",
+      "path": "Spaces/Daily/Journal/📝21-10-03.md"
+    },
+    {
+      "basename": "Cựu Ước",
+      "path": "Zet/Cựu Ước.md"
+    },
+    {
+      "basename": "Python standard library",
+      "path": "Zet/Python standard library.md"
+    },
+    {
+      "basename": "Python",
+      "path": "Spaces/Projects/Python.md"
+    },
+    {
+      "basename": "Tóm tắt sách Sáng Thế",
+      "path": "Zet/Tóm tắt sách Sáng Thế.md"
+    },
+    {
       "basename": "📝21-10-01",
       "path": "Spaces/Daily/Journal/📝21-10-01.md"
     },
@@ -11,10 +31,6 @@
     {
       "basename": "HTML Language",
       "path": "Zet/HTML Language.md"
-    },
-    {
-      "basename": "📝21-10-03",
-      "path": "Spaces/Daily/Journal/📝21-10-03.md"
     },
     {
       "basename": "Untitled",
@@ -65,24 +81,12 @@
       "path": "Zet/Programming.md"
     },
     {
-      "basename": "Python standard library",
-      "path": "Zet/Python standard library.md"
-    },
-    {
       "basename": "Flask lib",
       "path": "Zet/Flask lib.md"
     },
     {
-      "basename": "Python",
-      "path": "Spaces/Projects/Python.md"
-    },
-    {
       "basename": "Zettelkasten",
       "path": "Zet/Zettelkasten.md"
-    },
-    {
-      "basename": "Cựu Ước",
-      "path": "Zet/Cựu Ước.md"
     },
     {
       "basename": "Đức Jesus",
@@ -195,10 +199,6 @@
     {
       "basename": "Mark",
       "path": "Spaces/Projects/Bible Study Kit/Scripture (BPT)/41 - Mark/Mark.md"
-    },
-    {
-      "basename": "Luke",
-      "path": "Spaces/Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke.md"
     }
   ],
   "omittedPaths": [],

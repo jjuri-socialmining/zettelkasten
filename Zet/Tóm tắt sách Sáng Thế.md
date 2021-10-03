@@ -61,9 +61,8 @@ Câu truyện về [[Tháp Babel]]
 
 Tiếp theo sau là câu truyện của [[Abraham]]
 
-%%
 [[📝21-10-03]] Tới đoạn này
-%%
+
 
 ## Ideas & thoughts:
 
