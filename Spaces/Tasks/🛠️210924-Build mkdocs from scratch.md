@@ -24,7 +24,7 @@ Xây dựng [[Obsidian]] website bằng [[Mkdocs]]
 	```
 	![[Pasted image 20210924200929.png]]
 	
-	Sau khi new project, bạn sẽ được một thư mục bao gồm một file configure dạng [[YAML|yml]] và môt folder chứa những [[Markdown Language|markdown]] file sẽ dùng để generate ra file [[HTML]] sau khi build mkdocs
+	Sau khi new project, bạn sẽ được một thư mục bao gồm một file configure dạng [[YAML|yml]] và môt folder chứa những [[Markdown Language|markdown]] file sẽ dùng để generate ra file [[HTML Language|html]] sau khi build mkdocs
 	```
 	mkdocs.yml    # The configuration file.
     docs/
