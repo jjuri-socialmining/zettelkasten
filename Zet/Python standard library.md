@@ -10,7 +10,9 @@ publish: True
 # Python standard library
 
 ## Notes
-- [[Networkx]]
+- [[networkx]]
 - [[Flask lib]]
 - [[Tkinter]]
-- [[Frontmatter]]
+- [[python-frontmatter]]
+- [[PyYAML]]
+- [[pytest]]

@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "📝21-10-03",
-      "path": "Spaces/Daily/Journal/📝21-10-03.md"
+      "basename": "📝21-10-04",
+      "path": "Spaces/Daily/Journal/📝21-10-04.md"
+    },
+    {
+      "basename": "Tóm tắt sách Sáng Thế",
+      "path": "Zet/Tóm tắt sách Sáng Thế.md"
+    },
+    {
+      "basename": "Gen-12",
+      "path": "Spaces/Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-12.md"
+    },
+    {
+      "basename": "Gen-11",
+      "path": "Spaces/Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-11.md"
+    },
+    {
+      "basename": "Gen-10",
+      "path": "Spaces/Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-10.md"
+    },
+    {
+      "basename": "Mafia y tế",
+      "path": "Zet/Mafia y tế.md"
+    },
+    {
+      "basename": "BỆNH TIỂU ĐƯỜNG và MAFIA Y TẾ",
+      "path": "Zet/BỆNH TIỂU ĐƯỜNG và MAFIA Y TẾ.md"
+    },
+    {
+      "basename": "Glycemic Index",
+      "path": "Zet/Glycemic Index.md"
+    },
+    {
+      "basename": "Kênh youtube giáo dục tự do 1",
+      "path": "Zet/Kênh youtube giáo dục tự do 1.md"
+    },
+    {
+      "basename": "python-frontmatter",
+      "path": "Zet/python-frontmatter.md"
     },
     {
       "basename": "Cựu Ước",
@@ -13,12 +49,24 @@
       "path": "Zet/Python standard library.md"
     },
     {
-      "basename": "Python",
-      "path": "Spaces/Projects/Python.md"
+      "basename": "Front Matter Of Book",
+      "path": "Zet/Front Matter Of Book.md"
     },
     {
-      "basename": "Tóm tắt sách Sáng Thế",
-      "path": "Zet/Tóm tắt sách Sáng Thế.md"
+      "basename": "Gen-06",
+      "path": "Spaces/Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-06.md"
+    },
+    {
+      "basename": "PyYAML",
+      "path": "Zet/PyYAML.md"
+    },
+    {
+      "basename": "📝21-10-03",
+      "path": "Spaces/Daily/Journal/📝21-10-03.md"
+    },
+    {
+      "basename": "Python",
+      "path": "Spaces/Projects/Python.md"
     },
     {
       "basename": "📝21-10-01",
@@ -31,10 +79,6 @@
     {
       "basename": "HTML Language",
       "path": "Zet/HTML Language.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
     },
     {
       "basename": "🛠️210924-Build mkdocs from scratch",
@@ -155,50 +199,6 @@
     {
       "basename": "John-19",
       "path": "Spaces/Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-19.md"
-    },
-    {
-      "basename": "Năm sự vui",
-      "path": "Zet/Năm sự vui.md"
-    },
-    {
-      "basename": "John-02",
-      "path": "Spaces/Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-02.md"
-    },
-    {
-      "basename": "Matt-03",
-      "path": "Spaces/Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-03.md"
-    },
-    {
-      "basename": "🛠️210908-Làm một website theo phong cách zettelkasten",
-      "path": "Spaces/Tasks/🛠️210908-Làm một website theo phong cách zettelkasten.md"
-    },
-    {
-      "basename": "🛠️210905-Tìm hiểu siêu hình học",
-      "path": "Spaces/Tasks/🛠️210905-Tìm hiểu siêu hình học.md"
-    },
-    {
-      "basename": "🛠️210829-Research get notion subpage link by Python notion api",
-      "path": "Spaces/Tasks/🛠️210829-Research get notion subpage link by Python notion api.md"
-    },
-    {
-      "basename": "🛠️210829-Làm templater routine",
-      "path": "Spaces/Tasks/🛠️210829-Làm templater routine.md"
-    },
-    {
-      "basename": "Github workflow",
-      "path": "Zet/Github workflow.md"
-    },
-    {
-      "basename": "Phúc Âm nhất lãm",
-      "path": "Zet/Phúc Âm nhất lãm.md"
-    },
-    {
-      "basename": "The Bible",
-      "path": "Spaces/Projects/Bible Study Kit/Scripture (BPT)/The Bible.md"
-    },
-    {
-      "basename": "Mark",
-      "path": "Spaces/Projects/Bible Study Kit/Scripture (BPT)/41 - Mark/Mark.md"
     }
   ],
   "omittedPaths": [],
