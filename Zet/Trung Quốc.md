@@ -7,6 +7,7 @@ tags:
   - '#permanent/nation'
 aliases:
   - Trung Hoa
+  - Trung Cộng
 ---
 # Trung Quốc
 
