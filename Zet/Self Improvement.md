@@ -1,11 +1,17 @@
-# ~Self Improvement
+---
+title: Self Improvement
+tags:
+  - 'created/2021/Aug/10'
+  - 'garden🏡'
+  - 'permanent/linking'
+aliases:
+  - phát triển bản thân
+publish: True
+---
+# Self Improvement
 
-%% 
-- metadata:
-	- tags: #created/2021/Aug/10, #MOC 
-%%
-
-## Các phương pháp
+## Notes:
+### Các phương pháp
 [[Phương pháp Pomodoro]]
 [[Phương pháp Sandbox]]
 [[Getting things done method]]
@@ -21,9 +27,7 @@
 
 [[Dopamine detox]]
 [[@ Cal Newport, Digital Minimalism]]
-## Related:
-```dataview
-list
-from [[~Self Improvement]]
-sort file.name asc
-```
+
+## Ideas & thoughts:
+https://clb100.com/
+## Questions:

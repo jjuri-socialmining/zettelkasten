@@ -11,7 +11,7 @@ publish: False
 # Năm sự vui
 
 ## Notes:
-Năm sự vui là một loạt 5 sự kiện trong [[The Bible|Thánh kinh]] xoay quanh việc [[Đức Jesus|Chúa Jesus]] sinh ra và lớn lên. Các sự kiện này xảy ra trước khi Người bắt đầu đi rao giảng về nước trời.
+Năm sự vui là một loạt 5 sự kiện trong [[The bible|Thánh kinh]] xoay quanh việc [[Đức Jesus|Chúa Jesus]] sinh ra và lớn lên. Các sự kiện này xảy ra trước khi Người bắt đầu đi rao giảng về nước trời.
 
 ### Thứ nhất:
 *"Thiên Thần truyền tin cho Đức Bà chịu thai. Ta hãy xin cho được ở khiêm nhường."*
