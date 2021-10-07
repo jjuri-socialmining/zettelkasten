@@ -4,8 +4,6 @@ tags:
   - '#created/2021/Jul/09'
   - '#garden🏡'
   - '#permanent/place'
-aliases:
-  - Nhà Trần
 publish: True
 ---
 # Nhà Trần
@@ -61,9 +59,3 @@ Các trận đánh lớn:
 - [[Trận Bạch Đằng]]
 
 
-## Tham khảo:
-```dataview
-list
-from [[🏡 Nhà Trần]]
-sort file.name asc
-```

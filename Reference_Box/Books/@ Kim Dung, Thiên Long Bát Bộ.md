@@ -5,7 +5,6 @@ tags:
   - '#permanent/book'
   - '#flashcards'
 aliases:
-  - "@ Kim Dung, Thiên Long Bát Bộ"
   - Thiên Long Bát Bộ
 ---
 # @ Kim Dung, Thiên Long Bát Bộ

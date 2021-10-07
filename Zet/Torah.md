@@ -1,20 +1,20 @@
+---
+title: Torah
+UID: 210731-1722
+created: 07-Oct-2021
+tags:
+  - 'created/2021/Jul/31'
+  - 'seed🥜'
+  - 'permanent/concept'
+publish: True
+---
 # Torah
 
-- metadata
-	- UID: P-210731-1722
-	- tags: #created/2021/Jul/31, #permanent/concept 
-	- source: 
-
-## Notes
+## Notes:
 
 
-## Questions & thoughts:
-- [ ] Bản kinh thánh của [[Do Thái Giáo]]
-
-## Related:
+## Ideas & thoughts:
+-  Bản kinh thánh của [[Do Thái Giáo]]
 - [[Năm sách trong Ngũ Kinh Cựu Ước]]
-```dataview
-list
-from [[Torah]]
-sort file.name asc
-```
+
+## Questions:

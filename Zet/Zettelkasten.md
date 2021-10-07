@@ -28,7 +28,7 @@ Khi bạn đang đọc một quyển sách, văn bản mà bạn có thời gian
 ### Ví dụ
 - [[Sample of Generate Liturature note]]
 
-Tài liệu tham khảo:
+### Tài liệu tham khảo:
 - [[@ Sönke Ahrens, How to take smart notes]]
 - [Zettelkasten note-taking in 10 minutes · Tomas Vik](https://blog.viktomas.com/posts/slip-box/)
 - [How To Take Smart Notes: 10 Principles to Revolutionize Your Note-Taking and Writing - Forte Labs](https://fortelabs.co/blog/how-to-take-smart-notes/) 
