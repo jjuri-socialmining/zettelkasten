@@ -10,6 +10,7 @@ aliases:
   - Pfizer-BioNTech
   - BNT162b2
   - Pfizer
+publish: True
 ---
 # Vaccine Pfizer
 
@@ -17,14 +18,8 @@ aliases:
 
 
 ## Ideas & thoughts:
-
-## Questions:
-
-
-## Tham khảo:
 - [[Các loại Vaccine COVID]]
-```dataview
-list
-from [[Vaccine Pfizer]]
-sort file.name asc
-```
+- [[Phía sau Vaccine Pfizer]]
+
+- 
+## Questions:
