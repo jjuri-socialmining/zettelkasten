@@ -21,5 +21,4 @@ publish: True
 - [[Các loại Vaccine COVID]]
 - [[Phía sau Vaccine Pfizer]]
 
-- 
 ## Questions:
