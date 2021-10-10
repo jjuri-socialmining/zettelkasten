@@ -23,6 +23,7 @@ Antoine Beauchamp
 
 Cha đẻ của [[The Terrain Theory]]
 
+
 ### Tuyên bố của Bechamp
 > “Germs seek their natural habitat – diseased tissue – rather than being the cause of diseased tissue.”
 
@@ -32,7 +33,8 @@ Cha đẻ của [[The Terrain Theory]]
 
 ## Ideas & thoughts:
 - Thuyết của ông trái ngược với [[Louis Pasteur]]
-
+- Thuyết của ông được [[Claude Bernard]] tiếp tục phát triển thêm
+- 
 ## Relate to:
 - [Natures-Therapies](https://www.naturalhealthscience.com/article_Natures-Therapies_090624.php)
 - [the-ky-19-quay-co-gang-noi-voi-chung-ta-dieu-gi-do-ve-vi-sinh-vat](https://hitechglitz.com/vietnam/the-ky-19-quay-co-gang-noi-voi-chung-ta-dieu-gi-do-ve-vi-sinh-vat/)

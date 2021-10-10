@@ -5,24 +5,23 @@
     await tp.file.rename(title);
   }
 
-  note_type = await tp.system.suggester(["book📚", "website"], ["#source/book", "#source/website"]);
+  note_type = await tp.system.suggester(["book📚", "website"], ["source/book", "source/website"]);
 	
   let sub_dir = ""
-  if (note_type == "#source/book") {
-    sub_dir = "Books/"
+  if (note_type == "source/book") {
+    sub_dir = "/Reference_Box/Books/"
   }
-  else if (note_type == "#source/website") {
-    sub_dir = "Websites/"
+  else if (note_type == "source/website") {
+    sub_dir = "/Reference_Box/Websites/"
   }
 
-  await tp.file.move("/Reference_Box/" + sub_dir + title);
+  await tp.file.move(sub_dir + title);
   tR += "---"
 %>
 title: <%* tR += title %>
 UID: <% tp.date.now("YYMMDDHHmmss") %>
 tags:
-  - '#created/<% tp.date.now("YYYY/MMM/DD") %>'
-  - '<%* tR += note_process %>'
+  - 'created/<% tp.date.now("YYYY/MMM/DD") %>'
   - '<%* tR += note_type %>'
 ---
 # <%* tR += title %>
