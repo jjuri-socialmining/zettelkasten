@@ -6,7 +6,7 @@ tags:
   - '#created/2021/Oct/10'
   - 'garden🏡'
   - 'permanent/linking'
-publish: False
+publish: True
 ---
 # Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
 
