@@ -1,5 +1,5 @@
 {
-  "format": "📝YYMMDD",
+  "format": "📝YY-MM-DD",
   "folder": "Spaces/Daily",
   "template": "Bins/Templates/Daily Note Template"
 }
