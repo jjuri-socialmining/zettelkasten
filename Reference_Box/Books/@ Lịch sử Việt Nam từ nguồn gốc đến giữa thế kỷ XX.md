@@ -33,7 +33,7 @@ Notes:
 
 ### p.103
 
-[[Untitled 1.png]]
+[[FBI-tesla.png]]
 
 Notes:
 - Quân Hai Bà Trưng bị Mã Viện đánh bại tại Lãng Bạc và rút lui. Sau khi bị dồn vào đường cùng, hai bà trầm mình xuống Hát Giang
