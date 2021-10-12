@@ -6,7 +6,7 @@ tags:
   - '#created/2021/Oct/04'
   - 'seed🥜'
   - 'permanent/concept'
-publish: False
+publish: True
 ---
 # Kênh giáo dục tự do 1
 
