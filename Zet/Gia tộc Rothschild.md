@@ -17,7 +17,7 @@ publish: False
 
 ## Ideas & thoughts:
 - Kiểm soát hệ thống ngân hàng thế giới
-	- [[Cục dự trữ liên bang]] không thuộc Mỹ
+	- [[FED]] không thuộc Mỹ
 	- 
 ## Questions:
 

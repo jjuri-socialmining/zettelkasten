@@ -8,17 +8,16 @@ tags:
 birth: 
 death: 
 aliases:
-  - 
-publish: False
+  - Trump
+  - Tổng thống Trump
+publish: True
 ---
 # Donald J. Trump
 
 ## Notes:
-Tổng thống Hoa Kỳ
+Donald J. Trump là tổng thống thứ 45 của [[Hoa Kỳ]]
 
 ## Ideas & thoughts:
+- Trump là người ủng hộ [[QAnon]]
 
 ## Questions:
-
-
-## Related:
