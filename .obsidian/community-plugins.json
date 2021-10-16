@@ -13,8 +13,8 @@
   "templater-obsidian",
   "workbench-obsidian",
   "obsidian-annotator",
-  "sliding-panes-obsidian",
   "file-explorer-note-count",
   "url-into-selection",
-  "nldates-obsidian"
+  "nldates-obsidian",
+  "sliding-panes-obsidian"
 ]
