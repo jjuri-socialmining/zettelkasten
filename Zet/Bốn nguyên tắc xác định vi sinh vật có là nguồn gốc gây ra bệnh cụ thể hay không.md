@@ -15,6 +15,7 @@ Nguyên tắc được [[Heinrich Hermann Robert Koch]] để xác định một
 1. Vi sinh vật phải được tìm thấy nhiều trong tất cả các sinh vật bị bệnh nhưng không có ở sinh vật khỏe mạnh
 2. Vi sinh vật phải được phân lập từ sinh vật bị bệnh và nuôi cấy thuần chủng.
 > Question: điều này nghĩa là sinh vật đó phải sống một cách độc lập với sinh vật bị bệnh, tự phát triển không thông qua vật chủ !?
+
 3. Vi sinh vật được nuôi cấy sẽ gây bệnh khi đưa vào cơ thể sinh vật khỏe mạnh.
 4. Vi sinh vật phải được phân lập lại từ vật chủ thí nghiệm hiện đã bị bệnh đã được cấy vi sinh vật và được xác định là giống với tác nhân gây bệnh cụ thể ban đầu.
 

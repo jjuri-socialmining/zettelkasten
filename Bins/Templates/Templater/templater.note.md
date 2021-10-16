@@ -29,7 +29,7 @@ title: <%* tR += title %>
 UID: <% tp.date.now("YYMMDDHHmmss") %>
 created: <% tp.date.now("DD-MMM-YYYY") %>
 tags:
-  - '#created/<% tp.date.now("YYYY/MMM/DD") %>'
+  - 'created/<% tp.date.now("YYYY/MMM/DD") %>'
   - '<%* tR += note_process %>'
   - '<%* tR += note_type %>'
 publish: False

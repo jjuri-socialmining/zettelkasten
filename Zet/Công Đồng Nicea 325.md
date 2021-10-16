@@ -14,7 +14,7 @@ publish: False
 
 
 ## Ideas & thoughts:
-- [[QAnon map]] có liệt kê sự kiện này
+- [[Qmap]] có liệt kê sự kiện này
 ## Questions:
 
 ## Related:
