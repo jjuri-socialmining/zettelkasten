@@ -25,7 +25,7 @@ Theo Bechamp, vi khuẩn là sản phẩm sinh ra từ bệnh chứ không phả
 - [[Claude Bernard]] phát triển thêm thuyết này
 	- [nguyen-nhan-gay-ra-ung-thu](https://kduoc.com/kien-thuc-chung/kien-thuc-ung-thu/nguyen-nhan-gay-ra-ung-thu/)
 	- [[@ kduoc.com, Nguyên nhân gây ra ung thư]]
-- Nếu theo thuyết này, nhiều người cho rằng bệnh [[COVID 19]] là sự ảnh hưởng của [[Mạng 5G]] lên cơ thể, hệ vi thể tạo ra những virus để phản ứng lại sự nhiễm độc sinh ra bởi ảnh hưởng của sóng này lên cơ thể[^hoichung5g]
+- Nếu theo thuyết này, nhiều người cho rằng bệnh [[COVID-19]] là sự ảnh hưởng của [[Mạng 5G]] lên cơ thể, hệ vi thể tạo ra những virus để phản ứng lại sự nhiễm độc sinh ra bởi ảnh hưởng của sóng này lên cơ thể[^hoichung5g]
 - [[@ Thomas S. Cowan, The Contagion Myth]]
 
 ## Questions:

@@ -7,17 +7,17 @@ tags:
   - '#permanent/concept'
 aliases:
   - mRNA-1273
-publish: False
+  - Moderna
+publish: True
 ---
-# Vaccine Moderna - mRNA-1273
+# Vaccine Moderna
 
 ## Notes:
 
 
 ## Ideas & thoughts:
-
-## Questions:
-
-## Related:
+- [[6 định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không]]
+- [[Bill Gates]]
+- [[COVID-19 map]]
 
 

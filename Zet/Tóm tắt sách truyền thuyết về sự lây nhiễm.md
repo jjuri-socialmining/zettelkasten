@@ -37,7 +37,7 @@ publish: True
 - Tàu [[The Diamond Princess]] sử dụng ăng ten thu sóng [[Mạng 5G]]
 - [[EMF]]
 - *"Quan trọng nhất, chúng tôi sẽ chỉ ra rằng các phần tử nhỏ được gọi là vi rút thực sự là các exosomes"*
-- [[exosomes]]
+- [[Exosomes]]
 ### [[@ Thomas S. Cowan, The Contagion Myth, Ch03|Chương 3 Đại dịch]]
 - Trong lịch sử, sao chổi xuất hiện là điềm báo cho sự diệt vong của một triều đại, do sự thay đổi, ảnh hưởng sóng trong vũ trụ??
 	- [[Giả thuyết Panspermia]] mối tương quan giữa sao chổi và bệnh tật

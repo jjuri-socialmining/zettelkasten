@@ -1,13 +1,17 @@
+---
+title: MERS-CoV
+UID: 2107101351
+tags:
+  - 'created/2021/Jul/10'
+  - 'seed🥜'
+  - 'permanent/concept'
+publish: True
+---
 # MERS-CoV
 
-- metadata
-	- UID: P-210710-1351
-	- tags: #created/2021/Jul/10, #permanent/concept 
-	- previous note: 
-	- source: 
-
 ## Notes
-MERS-CoV là một loại [[Coronavirus]] xuất hiện vào năm 2012 tại Trung Đông. Virus MERS-CoV gây hội chứng hô hấp Trung Đông.
+MERS-CoV là một loại [[Coronavirus]] xuất hiện vào năm 2012 tại [[Trung Đông]]. Virus MERS-CoV gây [[Hội chứng hô hấp Trung Đông]].
 
-## Questions & thoughts:
+## Ideas & thoughts:
+- [[SARS-COV-2]]
 

@@ -9,14 +9,17 @@ tags:
 aliases:
   - Thuyết ưu sinh
   - Phong trào ưu sinh
-publish: False
+publish: True
 ---
 # Eugenics
 
 ## Notes:
 Thuyết Ưu Sinh là một phong trào ủng hộ việc cải thiện gen của loài người thông qua nhiều phương pháp.
+
 Một trong các phương pháp được biết nhiều nhất là diệt chủng những thành phần dân số bị xem là hạ đẳng. [[Đảng Quốc Xã|Đức Quốc Xã]] đã thi hành chính sách diệt chủng này với [[Người Do Thái]]
+
 Thuyết Ưu Sinh phát triển vào đầu thế kỷ 20, nhưng đến giữa thế kỷ 20 không còn được phổ biến do liên quan đến hàng loạt cuộc diệt chủng của [[Adolf Hitler]] trước thế chiến thứ 2. Thuyết ưu sinh xâm phạm đến quyền con người.
+
 Thuyết ưu sinh được đưa ra bởi [[Francis Galton]] vào 1883 dựa trên tác phẩm [[Nguồn gốc các loài]] của [[Charles Darwin]]. 
 
 ## Ideas & thoughts:
@@ -30,6 +33,3 @@ Thuyết ưu sinh được đưa ra bởi [[Francis Galton]] vào 1883 dựa tr�
 	- [[Theodore Roosevelt]]
 	- [[Alexander Graham Bell]]
 
-## Questions:
-
-## Related:

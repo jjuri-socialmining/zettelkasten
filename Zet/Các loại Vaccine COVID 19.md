@@ -1,12 +1,15 @@
-# Các loại Vaccin COVID
+---
+title: Các loại Vaccine COVID 19
+UID: 2107100843
+tags:
+  - 'created/2021/Jul/10'
+  - 'garden🏡'
+  - 'permanent/concept'
+publish: True
+---
+# Các loại Vaccine COVID 19
 
-- metadata
-	- UID: P-210710-0843
-	- tags: #created/2021/Jul/10
-	- previous note: 
-	- source: 
-
-## Notes
+## Notes:
 Vaccin COVID-19 được chia làm 3 loại theo công nghệ sản xuất
 - [[Vaccine mRNA]]
 	- [[Vaccine Pfizer]]
@@ -18,5 +21,8 @@ Vaccin COVID-19 được chia làm 3 loại theo công nghệ sản xuất
 	- [[Vaccine Sputnik V]]
 	- [[Vaccine Johnson and Johnson - JNJ-78436735]]
 - [[Vaccine virus bất hoạt]]
-## Questions & thoughts:
+	- [[Vaccine Verocell]]
 
+## Ideas & thoughts:
+- Công nghệ mRNA liên quan đến [[Bill Gates]]
+- [[COVID-19 map]]

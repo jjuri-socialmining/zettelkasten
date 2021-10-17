@@ -8,8 +8,9 @@ tags:
   - '#permanent/concept'
 aliases:
   - Existential Crisis
+publish: True
 ---
-# Existential Crisis - Khủng hoảng hiện sinh
+# Khủng hoảng hiện sinh
 
 ## Notes:
 
@@ -20,14 +21,11 @@ aliases:
 ## Questions:
 
 
-## Tham khảo:
+## Relate to:
 - [[❕ Ý nghĩa cuộc sống]]
-```dataview
-list
-from [[Khủng hoảng hiện sinh]]
-sort file.name asc
-```
 
+## Reference:
+- [[Sách] [Cẩm Nang Thăng Thiên] Chương 1: Giới thiệu về Zingdad – The Great Awakening VN (wordpress.com)](https://thegreatawakeningvn.wordpress.com/2021/06/01/sach-cam-nang-thang-thien-chuong-1/)
 
 
 

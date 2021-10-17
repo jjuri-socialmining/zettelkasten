@@ -18,7 +18,5 @@ publish: True
 
 
 ## Ideas & thoughts:
-- [[Các loại Vaccine COVID]]
+- [[Các loại Vaccine COVID 19]]
 - [[Phía sau Vaccine Pfizer]]
-
-## Questions:

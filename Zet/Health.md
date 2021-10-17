@@ -28,7 +28,7 @@ publish: True
 
 ### Các loại bệnh tật
 - [[Cảm cúm]]
-- [[Đại dịch COVID-19 MOC]]
+- [[Đại dịch COVID-19]]
 - [[Bệnh tiểu đường]]
 - [[Táo bón]]
 - [[Bệnh tim mạch]]

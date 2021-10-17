@@ -19,5 +19,5 @@ FDA, viết tắt của cục quản lý thực phẩm và dược phẩm Hoa K�
 
 ## Relate to:
 - [[Health]]
-- [[COVID 19]]
+- [[COVID-19]]
 - [[Vaccine]]

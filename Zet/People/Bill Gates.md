@@ -7,9 +7,7 @@ tags:
   - '#permanent/people'
 birth: 
 death: 
-aliases:
-  - 
-publish: False
+publish: True
 ---
 # Bill Gates
 
