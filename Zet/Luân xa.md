@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Chakra
-publish: False
+publish: True
 ---
 # Luân xa
 
@@ -25,8 +25,4 @@ Luân xa, hay Chakra, là những trung tâm năng lượng, khí huyết trong 
 - [[Luân xa khai sáng]]
 
 ## Ideas & thoughts:
-
-## Relate to:
-
-
 

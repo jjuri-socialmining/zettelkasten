@@ -16,12 +16,8 @@ publish: True
 
 
 ## Ideas & thoughts:
-[[Chủ Nghĩa Hiện Sinh]]
-
-## Questions:
-
-
-## Relate to:
+- [[Chủ Nghĩa Hiện Sinh]]
+- [[Thức tỉnh tâm linh]]
 - [[❕ Ý nghĩa cuộc sống]]
 
 ## Reference:

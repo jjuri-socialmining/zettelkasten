@@ -6,7 +6,7 @@ tags:
   - '#created/2021/Oct/05'
   - 'seed🥜'
   - 'permanent/concept'
-publish: False
+publish: True
 ---
 # FDA
 

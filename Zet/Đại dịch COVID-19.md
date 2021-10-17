@@ -27,14 +27,16 @@ publish: True
 - Cần xem lại sự chính xác của nguồn gốc vi khuẩn và virus qua quyển sách [[@ Thomas S. Cowan, The Contagion Myth]]
 	- Tóm tắt sách [[Tóm tắt sách truyền thuyết về sự lây nhiễm|ở đây]]
 		- Mối liên quan [[Mạng 5G]] và sự bùng nổ [[Đại dịch COVID-19]] toàn cầu.
-> 	- [[Mafia y tế]]
+        - [[Mafia y tế]]
+
 ## Thông tin/sự kiện:
 - Các cơ quan y tế [[Hoa Kỳ]] liên quan mật thiết đến các vấn đề đại dịch và [[Vaccine]] toàn cầu
 	- [[FDA]]
 	- [[CDC]]
-	- [[WHO]]
+	- [[WHO|Tổ chức Y tế thế giới]]
 
-- [[Real time PCR test]]
+- [[Robert Wallace Malone]] người phát minh ra [[Vaccine mRNA]] lên tiếng phản đối việc ép buộc chích vaccine. Nó chỉ là thử nghiệm
+- [[Real time PCR test]] không phân biệt được [[SARS-COV-2]] và các virus cảm cúm khác. Đơn giản PCR chỉ xác định trong cơ thể bạn đang có nhiều vật chất di truyền tự do, và nó cũng có thể là các kháng thể do cơ thể tạo ra.
 
 - [[Bill Gates]] là người có nguồn đầu tư lớn vào [[Vaccine mRNA|Công nghệ vaccine mRNA]] cũng như các công ty vaccine lớn như [[Vaccine Pfizer|Pfizer]] và [[Vaccine Moderna|Moderna]]
 	- Bill Gates là người liên quan mật thiết tới [[Eugenics|Thuyết ưu sinh]]
@@ -45,3 +47,6 @@ publish: True
 	- [[Abhigya Anand]]
 	- [[Boriska Kipriyanovich|Cậu bé sao Hỏa]]
 	- [[Dato Anthony Cheng]]
+
+## Source:
+- https://1000covidstories.com/

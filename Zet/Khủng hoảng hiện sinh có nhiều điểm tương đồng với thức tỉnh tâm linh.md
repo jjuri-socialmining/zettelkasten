@@ -6,12 +6,12 @@ tags:
   - 'created/2021/Oct/17'
   - 'seed🥜'
   - 'permanent/fact'
-publish: False
+publish: True
 ---
 # Khủng hoảng hiện sinh có nhiều điểm tương đồng với thức tỉnh tâm linh
 
 ## Notes:
-[[Khủng hoảng hiện sinh]] có nhiều điểm tương đồng với [[Thức tỉnh tâm linh]]
+[[Khủng hoảng hiện sinh]] có nhiều điểm tương đồng với quá trình [[Thức tỉnh tâm linh]]
 - Con người tìm hiểu về ý nghĩa đời mình
 - Quay về tìm kiếm bên trong
 - Dọn dẹp, thay đổi con người theo một quan điểm, lối sống mới

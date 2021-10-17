@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Oct/16'
   - 'seed🥜'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # COVID-19 map
 
