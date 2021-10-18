@@ -22,11 +22,14 @@ publish: False
 - Những người nổi tiếng là thành viên của hội
 	- [[Britney Spears]]
 	- [[Lady Gaga]][^gaga]
+	- [[John Lennon]]
 
 ## Questions:
 
 ## Source:
 - [illuminati-thong-tri-the-gioi-p-1](https://tinhhoa.net/illuminati-thong-tri-the-gioi-p-1-nguon-goc-va-ban-chat.html)
 - [[@ Fritz Springmeier, Bloodlines of the Illuminati]]
+- https://riseearth.org/illuminati
+- https://unhypnotize.com/illuminati-secret-societies-cults/
 
 [^gaga]:[lady-gaga-toi-rat-hoi-han](https://tinhhoa.net/lady-gaga-toi-rat-hoi-han-vi-da-ban-linh-hon-cho-the-luc-den-toi-illuminati.html)

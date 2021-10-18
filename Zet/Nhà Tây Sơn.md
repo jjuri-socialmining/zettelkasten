@@ -7,8 +7,8 @@ tags:
   - '#garden🏡'
   - '#permanent/concept'
 aliases:
-  - Nhà Tây Sơn
-publish: False
+  - Tây Sơn
+publish: True
 ---
 # Nhà Tây Sơn
 
@@ -20,6 +20,10 @@ Nhà Tây Sơn tồn tại được 24 năm, người nắm quyền đầu tiên
 ## Ideas & thoughts:
 Nhà Tây Sơn lật đổ tập đoàn phong kiến Vua Lê, [[Chúa Trịnh]], [[Chúa Nguyễn]]
 
-## Questions:
+## Reference:
+- Câu chuyện [[Nguyễn Ánh]] và [[Nguyễn Huệ|Quang Trung]]
+	[[@ youtube.com, Câu chuyện Nguyễn Ánh và Quang Trung|Tóm tắt]]
+	
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/fb8yPH1K3AM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Related:
+	

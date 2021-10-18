@@ -14,18 +14,19 @@ aliases:
 # Nguyễn Huệ
 
 ## Notes:
-Nguyễn Huệ, hay còn được gọi là vua [[Quang Trung]], vị vua thứ 2 thời [[Nhà Tây Sơn]]. Ông có công lớn chấm dứt cuộc chiến [[Trịnh - Nguyễn phân tranh]] thống nhất đất nước. Ông là nhà quân sự tài ba của Việt Nam, từng chỉ huy quân đội giành thắng lợi trong nhiều trận đánh lớn: 
+Nguyễn Huệ, hay còn được gọi là vua Quang Trung, vị vua thứ 2 thời [[Nhà Tây Sơn]]. 
+
+Ông có công lớn chấm dứt cuộc chiến [[Trịnh - Nguyễn phân tranh]] thống nhất đất nước. 
+
+Ông là nhà quân sự tài ba của Việt Nam, từng chỉ huy quân đội giành thắng lợi trong nhiều trận đánh lớn
 
 ## Ideas & thoughts:
 
-## Questions:
-
-
-## Tham khảo:
-- [[Nhà Tây Sơn MOC]]
-```dataview
-list
-from [[Nguyễn Huệ]]
-sort file.name asc
-```
-
+## Reference:
+- [[Nhà Tây Sơn]]
+- Câu chuyện [[Nguyễn Ánh]] và [[Nguyễn Huệ|Quang Trung]]
+	[[@ youtube.com, Câu chuyện Nguyễn Ánh và Quang Trung|Tóm tắt]]
+	
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/fb8yPH1K3AM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- SỰ THẬT VỀ VUA QUANG TRUNG
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/6c0zPaVp2L8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

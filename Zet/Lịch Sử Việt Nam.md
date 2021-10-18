@@ -71,6 +71,8 @@ publish: True
 - [[@ wiki, Lịch sử Việt Nam]]
 - [[@ wiki, An Dương Vương]]
 - [[@ wiki, Bảo Đại]]
+- [[@ youtube.com, Câu chuyện Nguyễn Ánh và Quang Trung]]
 
 ### Book
 - [[@ Trần Trọng Kim, Việt Nam sử lược]]
+- [[@ George J. Veith, Gươm đã tuốt ra nơi miền đất xa xôi]]
