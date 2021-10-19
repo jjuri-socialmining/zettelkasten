@@ -11,7 +11,7 @@ publish: False
 # New World Order
 
 ## Notes:
-
+![[Pasted image 20211019233259.png]]
 
 ## Ideas & thoughts:
 - [[Hội Illuminati]]
@@ -19,3 +19,4 @@ publish: False
 
 ## Reference:
 - https://www.abovetopsecret.com/forum/index.php
+- https://extraterrestrialbeing.home.blog/2021/09/03/luc-luong-bong-toi-dang-sau-nwo-new-world-order-trat-tu-the-gioi-moi/

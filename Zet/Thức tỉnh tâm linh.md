@@ -6,6 +6,8 @@ tags:
   - 'created/2021/Oct/17'
   - 'seed🥜'
   - 'permanent/concept'
+aliases:
+  - Phát triển tâm linh
 publish: False
 ---
 # Thức tỉnh tâm linh
