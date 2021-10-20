@@ -16,6 +16,17 @@ publish: False
 ## Ideas & thoughts:
 - [[Thiền]] giúp phát triển tần số rung động
 - [[Thực vật có tần số rung động tốt hơn thịt động vật]]
+- Cơ thể con người gồm 2 phần
+	- Thể xác: rung động thấp
+	- Linh hồn: rung động cao
+
+- Thức ăn và tần số rung động
+	![[Pasted image 20211020224809.png]]
+
+- [[Tần số Solfeggio]]
+- Người có tần số rung động cao, họ sẽ dần không phụ thuộc vào thức ăn, vì năng lượng giờ đây có thể được cảm thụ thông qua rung động.
+
+
 ## Reference:
 - https://khoahoctamlinh.vn/khoa-hoc-tam-linh/tan-so-tam-linh/tim-hieu-ve-tan-so-rung-dong-875.html
 

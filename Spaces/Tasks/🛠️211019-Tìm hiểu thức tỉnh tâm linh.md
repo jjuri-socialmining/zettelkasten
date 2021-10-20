@@ -24,14 +24,19 @@ publish: True
 	5. Được chiếu sáng và chia sẻ
 
 - [[Tần số rung động]]
-	- Được [[Nicola Tesla]] nhắc đến [[💬211019-2345]]
-	- [[💬211019-2350]]
-	
+	- Được [[Nicola Tesla]] nhắc đến ![[💬211019-2345#Notes]]
+	- ![[💬211019-2350#Notes]]
+- [[Luật hấp dẫn]]
+- [[Thiên nhãn]] -> [[Luân xa con mắt thứ 3]]
+- [[Cộng hưởng Schumann]]
+- 
 ### Thực hành:
 - Thực hành thiền định để mở rộng khả năng tâm linh
 	- Sử dụng Đá Thạch Anh tím hỗ trợ việc thiền định tốt hơn
 	- Khi thiền, sóng não phải chậm lại, chuyển từ [[Sóng Beta]] sang [[Sóng Alpha]] -> sử dụng nhạc
-	- 
+- Nghe nhạc bằng cả thân thể, không chỉ nghe bằng tai, tận hưởng để cơ thể hòa vào tần số rung của âm nhạc
+- [[💬211020-2319]]
+
 ### Keywords:
 - [[Thức tỉnh tâm linh]]
 - Phát triển tâm linh

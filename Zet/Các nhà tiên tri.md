@@ -15,4 +15,5 @@ publish: True
 - [[Dato Anthony Cheng]]
 - [[Abhigya Anand]]
 - [[Boriska Kipriyanovich]]
-
+- [[Edgar Cayce]]
+- Trạng Trình [[Nguyễn Bỉnh Khiêm]] cũng được xem là tiên tri, ông có nhiều tiên đoán chính xác
