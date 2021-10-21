@@ -6,14 +6,14 @@ tags:
   - 'created/2021/Oct/20'
   - 'seed🥜'
   - 'permanent/concept'
-publish: False
+publish: True
 ---
 # Tần số Solfeggio
 
 ## Notes:
 Tần số Solfeggio được cho rằng có khả năng sâm nhập vào ý thức và tiềm thức. 
 
-Tần số Solfeggio được Tiến sĩ Joseph Puleo khám phá vào năm 1974
+Tần số Solfeggio được Tiến sĩ [[Joseph Puleo]] khám phá vào năm 1974
 
 Solfeggio bao gồm 6 tần số:
 - **UT – 396 Hz** – biến sự đau khổ thành niềm vui, cảm giác tội lỗi thành sự tha thứ
@@ -34,6 +34,7 @@ Solfeggio bao gồm 6 tần số:
 	_Sancte Iohannes_
 	
 	_“So that your servants may, with loosened voices, resound the wonders of your deeds, clean the guilt from our stained lips, O Saint John.”_
+- [[Các nốt nhạc được lấy theo tên của Solfeggio]]
 - [[HEALING CODES FOR THE BIOLOGICAL APOCALYPSE]]
 ## Reference:
 - https://khoahoctamlinh.vn/khoa-hoc-tam-linh/tan-so-tam-linh/tim-hieu-ve-tan-so-rung-dong-875.html

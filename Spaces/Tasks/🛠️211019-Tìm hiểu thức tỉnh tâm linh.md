@@ -36,7 +36,7 @@ publish: True
 	- Khi thiền, sóng não phải chậm lại, chuyển từ [[Sóng Beta]] sang [[Sóng Alpha]] -> sử dụng nhạc
 - Nghe nhạc bằng cả thân thể, không chỉ nghe bằng tai, tận hưởng để cơ thể hòa vào tần số rung của âm nhạc
 - [[💬211020-2319]]
-
+- Phương pháp [[Soulwork]]
 ### Keywords:
 - [[Thức tỉnh tâm linh]]
 - Phát triển tâm linh
