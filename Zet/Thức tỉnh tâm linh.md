@@ -8,12 +8,13 @@ tags:
   - 'permanent/concept'
 aliases:
   - Phát triển tâm linh
-publish: False
+  - Spiritual awakening
+publish: True
 ---
 # Thức tỉnh tâm linh
 
 ## Notes:
-
+Thức tỉnh tâm linh, hay Spiritual awakening
 
 ## Ideas & thoughts:
 
