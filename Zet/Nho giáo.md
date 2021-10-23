@@ -7,9 +7,7 @@ tags:
   - '#permanent/concept'
 aliases:
   - Đạo Khổng
-  - Nho giáo
   - Khổng gia
-  - Nho giáo
 ---
 # Nho Giáo
 
