@@ -17,7 +17,8 @@ publish: True
 ![[Pasted image 20211022211416.png]]
 
 ## Ideas & thoughts:
-- Người hướng dẫn của thánh Gioan Thánh giá là thánh [[Teresa of Avila]]
+- Thánh Gioan Thánh giá là học trò của [[Teresa of Avila]]
+- [[Thánh Gioan Thánh giá là học trò của Teresa of Avila]]
 - Các tác phẩm:
 	- [[@ John of the Cross, Ascent of Mount Carmel]]: Lên Núi Cát Minh
 	- [[@ John of the Cross, Dark Night of the Soul]]: Đêm Tối Linh Hồn

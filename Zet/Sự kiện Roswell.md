@@ -19,7 +19,8 @@ Những mảnh vỡ nhẹ, mỏng như giấy nhưng không thể đốt, không
 
 Các thi thể tại hiện trường được các nhân chứng kể lại chỉ cao tầm 1.2m.
 
-Sau khi Tuyên bố tìm được mảnh vỡ của đĩa bay, không quân mỹ rút lại tuyên bố, và nói rằng các mảnh vỡ chỉ là một phần của bong bóng cao su dự báo thời tiết.
+Sau khi Tuyên bố tìm được mảnh vỡ của đĩa bay, không quân mỹ rút lại tuyên bố, và nói rằng các mảnh vỡ chỉ là một phần của bong bóng cao su dự báo thời tiết. Dưới đây là thông cáo báo chí phủ nhận.
+![[Pasted image 20211023161746.png]]
 
 1994, không quân Mỹ công nhận sự kiện năm 1947 đã bị che đậy, họ đã thực hiện kết hoạch quân sự bí mật "[[Dự án Mogul]]"
 
@@ -34,3 +35,5 @@ Sau khi Tuyên bố tìm được mảnh vỡ của đĩa bay, không quân mỹ
 
 ## Reference
 - [Sự Sống Ngoài Trái Đất - Sự Cố Roswell (Phần 5)](https://www.youtube.com/watch?v=Z9RVXXHxKTE&t=10s)
+- [[Roswell] 1994: Toàn bộ câu chuyện về Roswell (Pt.1) – Extraterrestrial Messages (home.blog)](https://extraterrestrialbeing.home.blog/2020/09/29/roswell-1994-toan-bo-cau-chuyen-ve-roswell-pt-1/)
+- [[Roswell] 1994: Toàn bộ câu chuyện về Roswell (Pt.2 – Hết) – Extraterrestrial Messages (home.blog)](https://extraterrestrialbeing.home.blog/2020/09/29/roswell-1994-toan-bo-cau-chuyen-ve-roswell-pt-2-het/)
