@@ -32,6 +32,11 @@ publish: True
 - [[Moloch]]
 - [[Adolf Hitler]]
 
+### [[Ignatius of Loyola]]
+- [[Dòng Tên]]
+- [[Black Pope]]
+
+
 ## Ideas & thoughts:
 
 ## Questions:

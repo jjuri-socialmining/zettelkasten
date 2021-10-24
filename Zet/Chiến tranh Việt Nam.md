@@ -6,6 +6,8 @@ tags:
   - '#created/2021/Oct/09'
   - 'garden🏡'
   - 'permanent/linking'
+aliases:
+  - Vietnam War
 publish: False
 ---
 # Chiến tranh Việt Nam
