@@ -9,6 +9,7 @@ aliases:
   - Đạo Hindu
   - Hindu
   - Hindu giáo
+publish: True
 ---
 # Ấn Độ giáo
 
@@ -24,16 +25,5 @@ Hindu giáo, hay còn gọi là Ấn Độ giáo.
 ### Giáo lý
 
 ## Ideas & thoughts:
-
-## Questions:
-
-
-## Tham khảo:
 - [[Brahma - Phạm Thiên]]
-```dataview
-list
-from [[Ấn Độ giáo]]
-sort file.name asc
-```
-
 

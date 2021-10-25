@@ -6,6 +6,7 @@ tags:
   - '#created/2021/Oct/15'
   - 'seed🥜'
   - 'permanent/place'
+  - 'Qmap'
 aliases:
   - Lục địa Mu
   - Lemuria

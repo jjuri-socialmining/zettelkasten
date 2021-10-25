@@ -6,6 +6,7 @@ tags:
   - 'created/2021/Oct/18'
   - 'seed🥜'
   - 'permanent/concept'
+  - 'Qmap'
 publish: False
 ---
 # New World Order

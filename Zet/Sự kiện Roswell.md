@@ -6,6 +6,7 @@ tags:
   - '#created/2021/Oct/13'
   - 'seed🥜'
   - 'permanent/concept'
+  - 'Qmap'
 aliases:
   - Roswell
 publish: False

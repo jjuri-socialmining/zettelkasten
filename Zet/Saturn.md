@@ -6,6 +6,7 @@ tags:
   - '#created/2021/Oct/10'
   - 'seed🥜'
   - 'permanent/concept'
+  - 'Qmap'
 aliases:
   - sao Thổ
 publish: False
@@ -28,4 +29,4 @@ publish: False
 - 
 ## Questions:
 [^1]: [illuminati-thong-tri-the-gioi-p-1](https://tinhhoa.net/illuminati-thong-tri-the-gioi-p-1-nguon-goc-va-ban-chat.html)
-[^xungdot]: https://tinhhoa.net/illuminati-thong-tri-the-gioi-p-1-nguon-goc-va-ban-chat.html
+[^xungdot]: [illuminati-thong-tri-the-gioi-p-1-nguon-goc-va-ban-chat](https://tinhhoa.net/illuminati-thong-tri-the-gioi-p-1-nguon-goc-va-ban-chat.html)

@@ -6,6 +6,7 @@ tags:
   - 'created/2021/Oct/18'
   - 'seed🥜'
   - 'permanent/concept'
+  - 'Qmap'
 aliases:
   - The Great Awakening
   - Đại thức tỉnh

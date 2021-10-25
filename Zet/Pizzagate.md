@@ -6,6 +6,7 @@ tags:
   - '#created/2021/Sep/22'
   - '#seed🥜'
   - '#permanent/concept'
+  - 'Qmap'
 publish: False
 ---
 # Pizzagate
@@ -14,7 +15,3 @@ publish: False
 
 
 ## Ideas & thoughts:
-
-## Questions:
-
-## Related:

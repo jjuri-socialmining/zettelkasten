@@ -6,6 +6,7 @@ tags:
   - '#created/2021/Oct/10'
   - 'seed🥜'
   - 'permanent/concept'
+  - 'Qmap'
 aliases:
   - Satan giáo
 publish: False

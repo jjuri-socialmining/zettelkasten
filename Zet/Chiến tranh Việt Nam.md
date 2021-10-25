@@ -6,6 +6,7 @@ tags:
   - '#created/2021/Oct/09'
   - 'garden🏡'
   - 'permanent/linking'
+  - 'Qmap'
 aliases:
   - Vietnam War
 publish: False

@@ -7,7 +7,7 @@ tags:
   - 'garden🏡'
   - 'permanent/linking'
   - 'websites'
-publish: False
+publish: True
 ---
 # Các nguồn tài liệu tìm hiểu tâm linh
 
@@ -15,7 +15,7 @@ publish: False
 ### Books:
 
 ### Websites:
-- https://innermostselves.wordpress.com/
-- https://thegreatawakeningvn.wordpress.com/category/tam-linh/
-- https://triethocduongpho.net/ và [[Deepclub THDP]]
-- https://khoahoctamlinh.vn/
+- [innermostselves.wordpress.com](https://innermostselves.wordpress.com/)
+- [thegreatawakeningvn.wordpress.com](https://thegreatawakeningvn.wordpress.com/category/tam-linh/)
+- [triethocduongpho.net](https://triethocduongpho.net/) và [[Deepclub THDP]]
+- [khoahoctamlinh.vn](https://khoahoctamlinh.vn/)

@@ -5,6 +5,7 @@ tags:
   - 'created/2021/Oct/24'
   - 'seed🥜'
   - 'permanent/people'
+  - 'Qmap'
 birth: 1491
 death: 1556-07-31
 aliases:

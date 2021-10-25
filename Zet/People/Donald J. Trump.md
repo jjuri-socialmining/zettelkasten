@@ -5,6 +5,7 @@ tags:
   - '#created/2021/Sep/20'
   - '#seed🥜'
   - '#permanent/people'
+  - 'Qmap'
 birth: 
 death: 
 aliases:
