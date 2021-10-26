@@ -1,5 +1,5 @@
 ---
-title: @ George J. Veith, Gươm đã tuốt ra nơi miền đất xa xôi
+title: '@ George J. Veith, Gươm đã tuốt ra nơi miền đất xa xôi'
 UID: 211018224753
 tags:
   - 'created/2021/Oct/18'

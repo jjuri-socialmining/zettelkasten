@@ -18,7 +18,7 @@
   await tp.file.move(sub_dir + title);
   tR += "---"
 %>
-title: <%* tR += title %>
+title: '<%* tR += title %>'
 UID: <% tp.date.now("YYMMDDHHmmss") %>
 tags:
   - 'created/<% tp.date.now("YYYY/MMM/DD") %>'

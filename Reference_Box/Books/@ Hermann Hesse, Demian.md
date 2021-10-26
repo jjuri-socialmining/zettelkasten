@@ -1,5 +1,5 @@
 ---
-title: @ Hermann Hesse, Demian
+title: '@ Hermann Hesse, Demian'
 UID: 2108142145
 tags:
   - '#created/2021/Aug/14'

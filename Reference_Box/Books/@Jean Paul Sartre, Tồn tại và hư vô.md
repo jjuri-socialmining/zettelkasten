@@ -1,5 +1,5 @@
 ---
-title: @Jean Paul Sartre, Tồn tại và hư vô
+title: '@Jean Paul Sartre, Tồn tại và hư vô'
 UID: 210902095431
 tags:
   - '#created/2021/Sep/02'
@@ -12,10 +12,3 @@ aliases:
 
 ## Notes:
 
-
-## Tham khảo:
-```dataview
-list
-from [[@Jean Paul Sartre, Tồn tại và hư vô]]
-sort file.name asc
-```

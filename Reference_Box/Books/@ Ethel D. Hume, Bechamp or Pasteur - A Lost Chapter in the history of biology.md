@@ -1,5 +1,5 @@
 ---
-title: @ Ethel D. Hume, Bechamp or Pasteur - A Lost Chapter in the history of biology
+title: '@ Ethel D. Hume, Bechamp or Pasteur - A Lost Chapter in the history of biology'
 UID: 211010155743
 tags:
   - 'created/2021/Oct/10'

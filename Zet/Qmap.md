@@ -57,14 +57,33 @@ publish: True
 - [[Chủ Nghĩa Zion]]
 - [[New World Order]]
 - [[Black nobility]]
+- [[Helena Blavatsky]]
 
+
+### Lịch/Thời gian
+- [[Enki]] hay còn gọi là thần Ea -> [[Gold mines of Enki]] 
+- [[Lịch Adam]]
+- [[Stonehenge]]
+
+
+### [[Pharaon]]
+![[Pasted image 20211026232120.png]]
+- [[Nữ thần ISIS]]
+- [[Thần RA]]
+- [[Thuyết nguyên tử|Atonism]]
+
+### [[Elon Musk]]
+- [[Nicola Tesla|Tesla]]
+- [[Paypal]]
+- [[SpaceX]]
+- [[Hyperloop]]
 
 ### Aliens
 - [[Sự kiện Roswell|Roswell 1947]]
 - [[Acient Aliens]]
 - [[Anunnaki]]
 - [[Crop Circle]]
-- 
+
 ### [[Jeff Bezos]]
 - [[Amazon]]
 - [[Wholefoods]]
