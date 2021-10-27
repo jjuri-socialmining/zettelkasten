@@ -5,8 +5,6 @@ tags:
   - '#created/2021/Sep/05'
   - '#seed🥜'
   - '#permanent/concept'
-aliases:
-  - Kinh Dịch
 ---
 # Kinh Dịch
 
@@ -16,13 +14,3 @@ aliases:
 ## Ideas & thoughts:
 [[Hà Đồ]]
 [[Lạc Thư]]
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Kinh Dịch]]
-sort file.name asc
-```
