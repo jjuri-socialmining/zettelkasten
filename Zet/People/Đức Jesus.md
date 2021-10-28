@@ -17,13 +17,16 @@ publish: True
 
 ## Notes:
 
+Đức Jesus, Chúa Jesus, là con Thiên Chúa xuống thế làm người, hạ sinh bởi [[Đức Maria]], chịu đóng đinh trên [[Thập giá]] để cứu chuộc nhân loại.
+
+![[Pasted image 20211028232026.png|300]]
 
 ## Ideas & thoughts:
-[[Đức Maria]]
-[[Thánh Cả Giuse]]
-[[Mười hai tông đồ]]
-[[Thánh Phê Rô]]
-
-## Questions:
+- [[Đức Maria]]
+- [[Thánh Cả Giuse]]
+- [[Mười hai tông đồ]]
+- [[Thánh Phê Rô]]
+- [[Chúa Giáng Sinh]]
+- [[Lễ Giáng Sinh]]
 
 

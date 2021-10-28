@@ -11,7 +11,7 @@ publish: False
 # Noe có ba người con
 
 ## Notes:
-[[Noe]] có ba người con là Sem, Cham và Gia-phết. [[Gen-06#v10]]
+[[Noah]] có ba người con là Sem, Cham và Gia-phết. [[Gen-06#v10]]
 
 ## Ideas & thoughts:
 
