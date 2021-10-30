@@ -4,7 +4,7 @@ tags:
   - '#created/2021/Sep/24'
   - '#task🛠️'
   - '#Next'
-is_done: False
+is_done: True
 publish: True
 ---
 

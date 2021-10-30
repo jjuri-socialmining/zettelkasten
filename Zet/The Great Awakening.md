@@ -8,7 +8,6 @@ tags:
   - 'permanent/concept'
   - 'Qmap'
 aliases:
-  - The Great Awakening
   - Đại thức tỉnh
 publish: False
 ---

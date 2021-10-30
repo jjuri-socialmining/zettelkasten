@@ -17,4 +17,5 @@ Trong [[The Thirteenth Tribe]], [[Arthur Koestler]] cho rằng [[Người Do Th�
 
 ## Ideas & thoughts:
 
-
+## Reference:
+- [[The Thirteenth Tribe]]

@@ -4,7 +4,7 @@ tags:
   - '#created/2021/Sep/08'
   - '#task🛠️'
   - '#Someday'
-is_done: False
+is_done: True
 ---
 
 ## Notes:

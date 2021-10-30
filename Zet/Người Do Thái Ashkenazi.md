@@ -5,6 +5,8 @@ tags:
   - 'created/2021/Jun/19'
   - 'seed🥜'
   - 'permanent/concept'
+aliases:
+  - Ashkenazi Jews
 publish: True
 ---
 # Người Do Thái Ashkenazi
