@@ -33,6 +33,7 @@ Giai đoạn 3, bạn sẽ tìm hiểu những người đứng đầu bộ máy
 [[Where We Go One We Go All]] là một câu khẩu hiệu nổi tiếng của Q
 
 
+Vụ hòn đảo của [[Jeffrey Epstein]]
 
 Các bài viết tham khảo:
 - [An Introduction to Q - American Thinker](https://www.americanthinker.com/articles/2020/01/an_introduction_to_q.html#.Xh4Zpb3_-oU.twitter)
