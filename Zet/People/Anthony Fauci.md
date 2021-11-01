@@ -7,12 +7,13 @@ tags:
   - 'permanent/people'
 birth: 
 death: 
-publish: False
+publish: True
 ---
 # Anthony Fauci
 
 ## Notes:
-
+Anthony Fauci giám đốc [[Viện dị ứng và bệnh truyền nhiễm quốc gia Hoa Kỳ]] (NIAID).
+![[Pasted image 20211101230517.png]]
 
 ## Ideas & thoughts:
 

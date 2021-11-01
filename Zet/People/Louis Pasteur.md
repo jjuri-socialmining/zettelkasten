@@ -6,7 +6,9 @@ tags:
   - 'seed🥜'
   - 'permanent/people'
 birth: 
-death: 
+death:
+aliases:
+  - Pasteur
 publish: True
 ---
 # Louis Pasteur

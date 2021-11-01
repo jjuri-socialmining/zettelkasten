@@ -6,7 +6,7 @@ tags:
   - '#created/2021/Oct/10'
   - 'garden🏡'
   - 'permanent/concept'
-publish: False
+publish: True
 ---
 # Vaccine
 
@@ -16,6 +16,5 @@ publish: False
 ## Ideas & thoughts:
 - [[Vaccination]]
 - [[Edward Jenner]]
-- 
-## Questions:
+
 

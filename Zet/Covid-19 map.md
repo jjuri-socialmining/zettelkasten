@@ -6,11 +6,12 @@ tags:
   - 'created/2021/Oct/16'
   - 'seed🥜'
   - 'permanent/concept'
-publish: False
+publish: True
 ---
 # COVID-19 map
 
 ## Notes:
+COVID-19 map phát triển bởi [[QAnon]]
 ![[Pasted image 20211016220104.png]]
 
 ## Ideas & thoughts:

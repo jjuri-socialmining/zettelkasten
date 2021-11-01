@@ -1,19 +1,17 @@
+---
+title: Virus
+UID: 2108102215
+tags:
+  - 'created/2021/Aug/10'
+  - 'seed🥜'
+  - 'permanent/concept'
+publish: True
+---
 # Virus
 
-- metadata
-	- UID: P-210810-2215
-	- tags: #created/2021/Aug/10, #permanent/concept 
-	- source: 
-
-## Notes
+## Notes:
 
 
-## Questions & thoughts:
-- [ ] [[Coronavirus]]
-
-## Related:
-```dataview
-list
-from [[Virus]]
-sort file.name asc
-```
+## Ideas & thoughts:
+- [[Coronavirus]]
+- [[Đại dịch COVID-19]]
