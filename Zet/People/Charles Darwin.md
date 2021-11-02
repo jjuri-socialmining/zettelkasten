@@ -7,23 +7,12 @@ tags:
   - '#permanent/people'
 birth: 
 death: 
-aliases:
-  - 
+publish: True
 ---
 # Charles Darwin
 
 ## Notes:
-
+Charles Darwin là cha đẻ [[Thuyết tiến hóa]]
 
 ## Ideas & thoughts:
-[[Thuyết tiến hóa]]
 
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Charles Darwin]]
-sort file.name asc
-```

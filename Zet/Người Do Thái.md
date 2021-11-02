@@ -5,7 +5,7 @@ tags:
   - 'created/2021/Jun/19'
   - 'seed🥜'
   - 'permanent/concept'
-publish: False
+publish: True
 ---
 # Người Do Thái
 
@@ -14,5 +14,3 @@ Người Do Thái có nguồn gốc từ [[Người Hebrew]] khoảng 4000 năm 
 
 ## Ideas & thoughts:
 [[2021 06 21 21 12 note_01]]
-
-## Questions:

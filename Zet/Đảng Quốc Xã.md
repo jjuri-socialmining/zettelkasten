@@ -8,6 +8,7 @@ tags:
   - '#permanent/concept'
 aliases:
   - Đức Quốc Xã
+publish: True
 ---
 # Đảng Quốc Xã
 
@@ -17,13 +18,3 @@ aliases:
 
 ## Ideas & thoughts:
 [[210620_DQX_01]]
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Đảng Quốc Xã]]
-sort file.name asc
-```

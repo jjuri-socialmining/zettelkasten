@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Nov/01'
   - 'seed🥜'
   - 'permanent/fact'
-publish: False
+publish: True
 ---
 # Real time PCR test là một trò bịp của Big Pharma
 

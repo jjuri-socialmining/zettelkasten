@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - NIAID
-publish: False
+publish: True
 ---
 # Viện dị ứng và bệnh truyền nhiễm quốc gia Hoa Kỳ
 

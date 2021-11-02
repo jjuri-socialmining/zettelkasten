@@ -10,7 +10,7 @@ aliases:
   - Tổ chức Y tế thế giới
   - World Health Organization
   - OMS
-publish: False
+publish: True
 ---
 # WHO
 
@@ -19,7 +19,7 @@ Tổ chức Y tế thế giới, World Health Organization, viết tắt WHO, h�
 ![[Pasted image 20211017224908.png]]
 
 ## Ideas & thoughts:
-- [[Bill Gates]]
+- [[Bill Gates]] đang là tài trợ đứng đầu cho cái tổ chức này
 - [[FDA]]
 - [[COVID-19]]
 
