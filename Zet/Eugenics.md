@@ -3,9 +3,9 @@ title: Eugenics
 UID: 210919163636
 created: 19-Sep-2021
 tags:
-  - '#created/2021/Sep/19'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/19'
+  - 'seed🥜'
+  - 'permanent/concept'
   - 'Qmap'
 aliases:
   - Thuyết ưu sinh
