@@ -1,14 +1,14 @@
 ---
-title: 6 định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
+title: Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
 UID: 211016110917
 created: 16-Oct-2021
 tags:
-  - '#created/2021/Oct/16'
+  - 'created/2021/Oct/16'
   - 'garden🏡'
   - 'permanent/linking'
-publish: False
+publish: True
 ---
-# 6 định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
+# Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
 
 ## Notes:
 Năm 1937, [[Thomas Rivers]] dựa trên các định đề của [[Heinrich Hermann Robert Koch]] đã đưa ra 6 định đề để xác định/chứng minh một loại [[Virus]] cụ thể có là nguyên nhân gây ra một bệnh cụ thể không
@@ -28,7 +28,7 @@ Năm 1937, [[Thomas Rivers]] dựa trên các định đề của [[Heinrich Her
 Rivers đã loại bỏ định đề đầu tiên của Koch
 
 ## Ideas & thoughts:
-- Phát triển dựa trên [[Bốn nguyên tắc xác định vi sinh vật có là nguồn gốc gây ra bệnh cụ thể hay không]] của [[Heinrich Hermann Robert Koch]]
+- Phát triển dựa trên [[Bốn định đề Robert Koch  xác định vi sinh vật có là nguồn gốc gây ra bệnh cụ thể hay không]] của [[Heinrich Hermann Robert Koch]]
 
 ## Questions:
 

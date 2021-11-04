@@ -16,7 +16,7 @@ publish: True
 
 
 ## Ideas & thoughts:
-- [[6 định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không]]
+- [[Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không]]
 - [[Bill Gates]]
 - [[COVID-19 map]]
 

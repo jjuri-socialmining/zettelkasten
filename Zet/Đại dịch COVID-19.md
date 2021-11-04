@@ -53,7 +53,7 @@ publish: True
 	- Tại sao đến giờ 11/2021 VN vẫn dùng PCR để xác định dương tính và đem đi cách ly?
 -> [[Real time PCR test là một trò bịp của Big Pharma]]
 -> Đại dịch covid hay đại dich PCR dương tính giả? [^1]
-
+- [[Kary Mullis, inventor of the PCR, talks about the HIV-AIDS connection]]
 
 ### Nguồn gốc Vaccine
 - [[Bill Gates]] là người có nguồn đầu tư lớn vào [[Vaccine mRNA|Công nghệ vaccine mRNA]] cũng như các công ty vaccine lớn như [[Vaccine Pfizer|Pfizer]] và [[Vaccine Moderna|Moderna]]
@@ -111,6 +111,7 @@ Chỉ ưu tiên vaccine trong trường hợp bệnh hiểm nghèo hoặc không
 ## Các video liên quan
 - [Sự dối trá của đại dịch Cô Vy: Kế hoạch chiếm lĩnh thế giới của Hội Tam Điểm (rumble.com)](https://rumble.com/vnkz2o-s-di-tr-ca-i-dch-c-vy-k-hoch-chim-lnh-th-gii-ca-hi-tam-im.html)
 - Khoa học this, khoa học that [Khoa Học Đã Dối Trá Thế Nào? | Following the science? (rumble.com)](https://rumble.com/vm69ne-khoa-hc-di-tr-th-no-following-the-science.html)
+- [Kary Mullis, inventor of the PCR, talks about the HIV-AIDS connection](https://www.youtube.com/watch?app=desktop&v=9vuxibKj4z8)
 
 [^1]: [Khoa Học Đã Dối Trá Thế Nào? | Following the science? (rumble.com)](https://rumble.com/vm69ne-khoa-hc-di-tr-th-no-following-the-science.html)
 [^2]: [Ivermectin | COVID-19 Treatment Guidelines (nih.gov)](https://www.covid19treatmentguidelines.nih.gov/therapies/antiviral-therapy/ivermectin/)
