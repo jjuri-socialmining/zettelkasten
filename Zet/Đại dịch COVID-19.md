@@ -39,10 +39,10 @@ publish: True
 	- [[CDC]]
 	- [[WHO|Tổ chức Y tế thế giới]]
 	- [[Viện dị ứng và bệnh truyền nhiễm quốc gia Hoa Kỳ|NIAID]]
-	- [[NIH]]
+	- [[National Institutes of Health]]
 - [[Anthony Fauci]]
 - [[Robert Wallace Malone]] người phát minh ra [[Vaccine mRNA]] lên tiếng phản đối việc ép buộc chích vaccine. Nó chỉ là thử nghiệm
-
+	
 ### [[Real time PCR test]]
 - [[Kary B. Mullis]]
 - [[Kary B. Mullis là người phát minh ra PCR]]
