@@ -1,4 +1,11 @@
-# Illuminati thống trị thế giới P.1 - Nguồn gốc và bản chất
+---
+title: '@ tinhhoa.net, Illuminati thống trị thế giới P.1 - Nguồn gốc và bản chất'
+UID: 211107160253
+tags:
+  - 'created/2021/Nov/07'
+  - 'source/website'
+---
+# @ tinhhoa.net, Illuminati thống trị thế giới P.1 - Nguồn gốc và bản chất
 
 [Nguồn](https://tinhhoa.net/illuminati-thong-tri-the-gioi-p-1-nguon-goc-va-ban-chat.html)
 

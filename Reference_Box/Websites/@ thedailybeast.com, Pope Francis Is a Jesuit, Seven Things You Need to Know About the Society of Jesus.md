@@ -1,3 +1,10 @@
+---
+title: '@ thedailybeast.com, Pope Francis Is a Jesuit, Seven Things You Need to Know About the Society of Jesus'
+UID: 211107160144
+tags:
+  - 'created/2021/Nov/07'
+  - 'source/website'
+---
 # Pope Francis Is a Jesuit: Seven Things You Need to Know About the Society of Jesus
 
 [source](https://www.thedailybeast.com/pope-francis-is-a-jesuit-seven-things-you-need-to-know-about-the-society-of-jesus?ref=scroll)
