@@ -3,15 +3,15 @@ title: Thuyết tiến hóa
 UID: 211011231044
 created: 11-Oct-2021
 tags:
-  - '#created/2021/Oct/11'
+  - 'created/2021/Oct/11'
   - 'seed🥜'
   - 'permanent/concept'
-publish: False
+publish: True
 ---
 # Thuyết tiến hóa
 
 ## Notes:
-- [[Charles Darwin]]
+[[Charles Darwin]] là cha đẻ của thuyết tiến hóa
 
 ## Ideas & thoughts:
 

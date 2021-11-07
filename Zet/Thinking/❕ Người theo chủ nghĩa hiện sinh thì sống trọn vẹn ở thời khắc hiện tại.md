@@ -11,7 +11,7 @@ aliases:
 # ❕ Người theo chủ nghĩa hiện sinh thì sống trọn vẹn ở thời khắc hiện tại
 
 ## Notes:
-Người theo [[Chủ Nghĩa Hiện Sinh]] thì sống trọn vẹn ở thời khắc hiện tại. Điều này có nghĩa là họ không hề mảy may áy náy về quá khứ hay lo lắng về tương lai.[^1]
+Người theo [[Chủ nghĩa hiện sinh]] thì sống trọn vẹn ở thời khắc hiện tại. Điều này có nghĩa là họ không hề mảy may áy náy về quá khứ hay lo lắng về tương lai.[^1]
 
 ## Ideas & thoughts:
 

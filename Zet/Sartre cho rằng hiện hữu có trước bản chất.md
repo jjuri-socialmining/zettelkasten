@@ -11,7 +11,7 @@ aliases:
 # Sartre cho rằng hiện hữu có trước bản chất
 
 ## Notes:
-[[Jean Paul Sartre]] cho rằng hiện hữu có trước bản chất, và ông cũng tuyên bố rằng đây là một đặc điểm cốt lõi của [[Chủ Nghĩa Hiện Sinh]].[^1]
+[[Jean Paul Sartre]] cho rằng hiện hữu có trước bản chất, và ông cũng tuyên bố rằng đây là một đặc điểm cốt lõi của [[Chủ nghĩa hiện sinh]].[^1]
 Con người tồn tại (hiện hữu), bằng những ý chí của mình, xây dựng cho mình một giá trị riêng để định hình mình là ai trong thế giới (bản chất). [^1] Và họ phải tự chịu trách nhiêm với tất cả những việc làm đó.
 
 ## Ideas & thoughts:

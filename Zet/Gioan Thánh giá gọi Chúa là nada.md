@@ -14,5 +14,6 @@ publish: False
 [[Thánh Gioan Thánh giá]] gọi Chúa là nada. Nada là một từ trong tiếng [[Tây Ban Nha]] có nghĩa là nothing, không gì cả.
 
 ## Ideas & thoughts:
+- [[God]]
 
 

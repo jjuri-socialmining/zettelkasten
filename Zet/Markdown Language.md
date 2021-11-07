@@ -3,7 +3,7 @@ title: Markdown Language
 UID: 2107052127
 created: July 5, 2021 9:27 PM
 tags:
-  - '#created/2021/Oct/07'
+  - 'created/2021/Oct/07'
   - 'seed🥜'
   - 'permanent/concept'
 aliases:
@@ -22,7 +22,4 @@ File markdown có phần mở rộng là *.md
 
 ## Ideas & thoughts:
 - Viết định lại định nghĩa dễ hiểu hơn #TODO 
-
-## Questions:
-
 

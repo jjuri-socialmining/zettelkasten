@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Lý thuyết mầm
-publish: False
+publish: True
 ---
 # The Germ theory
 
@@ -17,6 +17,7 @@ The Germ theory, tạm dịch là **lý thuyết mầm**
 
 ## Ideas & thoughts:
 - [[Edward Jenner]] từ thuyết mầm của [[Louis Pasteur]] đã phát triển phương pháp chủng ngừa vào năm 1976.[^edward]
+
 ## Questions:
 [^edward]: ![[@ kduoc.com, Nguyên nhân gây ra ung thư#^644fee]]
 

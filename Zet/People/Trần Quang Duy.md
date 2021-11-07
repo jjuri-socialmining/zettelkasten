@@ -5,21 +5,14 @@ tags:
   - '#created/2021/Sep/07'
   - '#seed🥜'
   - '#permanent/people/family'
-birth: 
-death: 
+birth: 1993-11-06
 aliases:
   - 
 ---
 # Trần Quang Duy
 
 ## Notes:
-[[Trần Thị Vương Đan]]
-[[Trần Thiên Ân]]
+Sinh nhật 06/11/1993
 
-
-## Tham khảo:
-```dataview
-list
-from [[Trần Quang Duy]]
-sort file.name asc
-```
+- [[Trần Thị Vương Đan]]
+- [[Trần Thiên Ân]]

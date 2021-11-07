@@ -3,7 +3,7 @@
 	- tags: #MOC %% 
 
 ### Định Nghĩa
-[[Chủ Nghĩa Hiện Sinh]]
+[[Chủ nghĩa hiện sinh]]
 
 ### Các Nhà tư tưởng chính
 - Søren Kierkegaard

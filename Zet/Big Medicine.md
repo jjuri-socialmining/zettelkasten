@@ -14,12 +14,11 @@ publish: False
 # Big Medicine
 
 ## Notes:
-
+Big Medicine là tên gọi một tập đoàn dược có sức mạnh tài chính, lũng đoạn ngành y tế.
 
 ## Ideas & thoughts:
 - [[QAnon]]
 - [[Bill Gates]]
 - [[Bệnh ung thư]]
 - 
-## Questions:
 
