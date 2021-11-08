@@ -30,7 +30,11 @@
     "maxLinkFactor": 1,
     "logLevel": 1
   },
+<<<<<<< HEAD
   "buryDate": "2021-11-08",
+=======
+  "buryDate": "2021-11-07",
+>>>>>>> 48da8e47bd46562a46a33444f4ee6fc17e8b1e6c
   "buryList": [],
   "cache": {
     "Zet/Đế Quốc Mông Cổ.md": {
@@ -470,7 +474,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1634484967983,
+      "lastUpdated": 1634464748002,
       "dueDatesFlashcards": {}
     },
     "Zet/Vaccine mRNA.md": {
@@ -484,354 +488,461 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1632559205224,
+      "lastUpdated": 1631454139323,
       "dueDatesFlashcards": {}
     },
     "Zet/Taxonomy.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1632559188376,
+      "lastUpdated": 1631454138923,
       "dueDatesFlashcards": {}
     },
     "Zet/Spinoza khởi xướng việc đọc và phê bình Kinh thánh.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1632559201646,
+      "lastUpdated": 1631454138876,
       "dueDatesFlashcards": {}
     },
     "Zet/Pythonic.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1632559197277,
+      "lastUpdated": 1631454138735,
       "dueDatesFlashcards": {}
     },
     "Zet/People/Jean Paul Sartre.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1632559186388,
+      "lastUpdated": 1631454138500,
       "dueDatesFlashcards": {}
     },
     "Zet/Kháng thể.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1632559183550,
+      "lastUpdated": 1631454137278,
       "dueDatesFlashcards": {}
     },
     "Zet/Home.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1632559165959,
+      "lastUpdated": 1631804326626,
       "dueDatesFlashcards": {}
     },
     "Zet/Globulin.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1632559165441,
+      "lastUpdated": 1631454135035,
       "dueDatesFlashcards": {}
     },
     "Zet/CI & CD pipeline.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1632559163561,
+      "lastUpdated": 1631454134116,
       "dueDatesFlashcards": {}
     },
     "Zet/Chủ nghĩa Trotsky.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1632559164456,
+      "lastUpdated": 1631454134303,
       "dueDatesFlashcards": {}
     },
     "Zet/6-1945, Nội các Trần Trọng Kim chính thức thành lập.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1632559160469,
+      "lastUpdated": 1631454133747,
       "dueDatesFlashcards": {}
     },
     "Spaces/Tasks/$ Cài đặt và sử dụng Jenkins ở máy tính cá nhân.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1626914975473,
+      "lastUpdated": 1631454133560,
       "dueDatesFlashcards": {}
     },
     "Spaces/Questions/❓210816-2244.md": {
       "totalCards": 2,
       "hasNewCards": false,
       "nextDueDate": "2021-10-12",
-      "lastUpdated": 1631260796453,
+      "lastUpdated": 1631454133529,
       "dueDatesFlashcards": {
+<<<<<<< HEAD
         "11": 1,
         "-27": 1
+=======
+        "12": 1,
+        "-26": 1
+>>>>>>> 48da8e47bd46562a46a33444f4ee6fc17e8b1e6c
       }
     },
     "Spaces/Questions/❓210830-2253.md": {
       "totalCards": 1,
       "hasNewCards": false,
       "nextDueDate": "2021-10-20",
-      "lastUpdated": 1632059365027,
+      "lastUpdated": 1632043980451,
       "dueDatesFlashcards": {
+<<<<<<< HEAD
         "-19": 1
+=======
+        "-18": 1
+>>>>>>> 48da8e47bd46562a46a33444f4ee6fc17e8b1e6c
       }
     },
     "Spaces/Questions/❓210816-2248.md": {
       "totalCards": 2,
       "hasNewCards": false,
       "nextDueDate": "2021-11-04",
-      "lastUpdated": 1632928782559,
+      "lastUpdated": 1633019887332,
       "dueDatesFlashcards": {
+<<<<<<< HEAD
         "77": 1,
         "-4": 1
+=======
+        "78": 1,
+        "-3": 1
+>>>>>>> 48da8e47bd46562a46a33444f4ee6fc17e8b1e6c
       }
     },
     "Spaces/Questions/❓210816-2246.md": {
       "totalCards": 1,
       "hasNewCards": false,
       "nextDueDate": "2021-11-05",
-      "lastUpdated": 1631260796453,
+      "lastUpdated": 1631454133529,
       "dueDatesFlashcards": {
+<<<<<<< HEAD
         "-3": 1
+=======
+        "-2": 1
+>>>>>>> 48da8e47bd46562a46a33444f4ee6fc17e8b1e6c
       }
     },
     "Spaces/Questions/❓210816-2242.md": {
       "totalCards": 1,
       "hasNewCards": false,
       "nextDueDate": "2021-10-05",
-      "lastUpdated": 1631260796453,
+      "lastUpdated": 1631454133529,
       "dueDatesFlashcards": {
+<<<<<<< HEAD
         "-34": 1
+=======
+        "-33": 1
+>>>>>>> 48da8e47bd46562a46a33444f4ee6fc17e8b1e6c
       }
     },
     "Spaces/Questions/❓210816-2240.md": {
       "totalCards": 1,
       "hasNewCards": false,
       "nextDueDate": "2021-10-05",
-      "lastUpdated": 1630508524979,
+      "lastUpdated": 1631454133529,
       "dueDatesFlashcards": {
+<<<<<<< HEAD
         "-34": 1
+=======
+        "-33": 1
+>>>>>>> 48da8e47bd46562a46a33444f4ee6fc17e8b1e6c
       }
     },
     "Spaces/Questions/❓210815-2249.md": {
       "totalCards": 1,
       "hasNewCards": false,
       "nextDueDate": "2021-12-24",
-      "lastUpdated": 1632928774592,
+      "lastUpdated": 1633019887317,
       "dueDatesFlashcards": {
-        "55": 1
+        "47": 1
       }
     },
     "Spaces/Questions/❓210815-2255.md": {
       "totalCards": 4,
       "hasNewCards": false,
       "nextDueDate": "2021-10-04",
-      "lastUpdated": 1632059365026,
+      "lastUpdated": 1632043970242,
       "dueDatesFlashcards": {
+<<<<<<< HEAD
         "6": 1,
         "-35": 1,
         "-26": 1,
         "-25": 1
+=======
+        "7": 1,
+        "-34": 1,
+        "-25": 1,
+        "-24": 1
+>>>>>>> 48da8e47bd46562a46a33444f4ee6fc17e8b1e6c
       }
     },
     "Spaces/Questions/❓210815-2252.md": {
       "totalCards": 2,
       "hasNewCards": false,
       "nextDueDate": "2021-10-09",
-      "lastUpdated": 1631260796452,
+      "lastUpdated": 1631454133514,
       "dueDatesFlashcards": {
+<<<<<<< HEAD
         "0": 1,
         "-30": 1
+=======
+        "1": 1,
+        "-29": 1
+>>>>>>> 48da8e47bd46562a46a33444f4ee6fc17e8b1e6c
       }
     },
     "Spaces/Questions/❓210815-2248.md": {
       "totalCards": 2,
       "hasNewCards": false,
       "nextDueDate": "2021-12-14",
-      "lastUpdated": 1632928808678,
+      "lastUpdated": 1633019887301,
       "dueDatesFlashcards": {
-        "45": 1,
-        "93": 1
+        "37": 1,
+        "85": 1
       }
     },
     "Spaces/Questions/❓210815-2245.md": {
       "totalCards": 2,
       "hasNewCards": false,
       "nextDueDate": "2021-10-19",
-      "lastUpdated": 1633447509965,
+      "lastUpdated": 1633257854169,
       "dueDatesFlashcards": {
+<<<<<<< HEAD
         "85": 1,
         "-20": 1
+=======
+        "86": 1,
+        "-19": 1
+>>>>>>> 48da8e47bd46562a46a33444f4ee6fc17e8b1e6c
       }
     },
     "Spaces/Questions/❓210815-2237.md": {
       "totalCards": 4,
       "hasNewCards": false,
       "nextDueDate": "2021-10-06",
-      "lastUpdated": 1631260796452,
+      "lastUpdated": 1631454133482,
       "dueDatesFlashcards": {
+<<<<<<< HEAD
         "-28": 1,
         "-21": 1,
         "-33": 1,
         "-27": 1
+=======
+        "-27": 1,
+        "-20": 1,
+        "-32": 1,
+        "-26": 1
+>>>>>>> 48da8e47bd46562a46a33444f4ee6fc17e8b1e6c
       }
     },
     "Spaces/Questions/❓210815-2224.md": {
       "totalCards": 2,
       "hasNewCards": false,
       "nextDueDate": "2021-10-16",
-      "lastUpdated": 1632059365026,
+      "lastUpdated": 1632043955115,
       "dueDatesFlashcards": {
+<<<<<<< HEAD
         "0": 1,
         "-23": 1
+=======
+        "1": 1,
+        "-22": 1
+>>>>>>> 48da8e47bd46562a46a33444f4ee6fc17e8b1e6c
       }
     },
     "Spaces/Questions/❓210815-2216.md": {
       "totalCards": 3,
       "hasNewCards": false,
       "nextDueDate": "2021-10-07",
-      "lastUpdated": 1633447509880,
+      "lastUpdated": 1633257869760,
       "dueDatesFlashcards": {
+<<<<<<< HEAD
         "82": 1,
         "-32": 1,
         "-25": 1
+=======
+        "83": 1,
+        "-31": 1,
+        "-24": 1
+>>>>>>> 48da8e47bd46562a46a33444f4ee6fc17e8b1e6c
       }
     },
     "Spaces/Questions/❓210815-2154.md": {
       "totalCards": 1,
       "hasNewCards": false,
       "nextDueDate": "2021-11-03",
-      "lastUpdated": 1632059365025,
+      "lastUpdated": 1632043951140,
       "dueDatesFlashcards": {
+<<<<<<< HEAD
         "-5": 1
+=======
+        "-4": 1
+>>>>>>> 48da8e47bd46562a46a33444f4ee6fc17e8b1e6c
       }
     },
     "Spaces/Questions/❓210815-2201.md": {
       "totalCards": 2,
       "hasNewCards": false,
       "nextDueDate": "2021-10-10",
-      "lastUpdated": 1632928793855,
+      "lastUpdated": 1633019887301,
       "dueDatesFlashcards": {
+<<<<<<< HEAD
         "32": 1,
         "-29": 1
+=======
+        "33": 1,
+        "-28": 1
+>>>>>>> 48da8e47bd46562a46a33444f4ee6fc17e8b1e6c
       }
     },
     "Spaces/Questions/❓210815-2157.md": {
       "totalCards": 2,
       "hasNewCards": false,
       "nextDueDate": "2021-10-15",
-      "lastUpdated": 1631260796451,
+      "lastUpdated": 1631454133467,
       "dueDatesFlashcards": {
+<<<<<<< HEAD
         "5": 1,
         "-24": 1
+=======
+        "6": 1,
+        "-23": 1
+>>>>>>> 48da8e47bd46562a46a33444f4ee6fc17e8b1e6c
       }
     },
     "Spaces/Questions/❓210815-2137.md": {
       "totalCards": 3,
       "hasNewCards": false,
       "nextDueDate": "2021-11-04",
-      "lastUpdated": 1633447509748,
+      "lastUpdated": 1633257866802,
       "dueDatesFlashcards": {
+<<<<<<< HEAD
         "90": 1,
         "105": 1,
         "-4": 1
+=======
+        "91": 1,
+        "106": 1,
+        "-3": 1
+>>>>>>> 48da8e47bd46562a46a33444f4ee6fc17e8b1e6c
       }
     },
     "Spaces/Questions/❓210815-2047.md": {
       "totalCards": 2,
       "hasNewCards": false,
       "nextDueDate": "2021-10-20",
-      "lastUpdated": 1632928804919,
+      "lastUpdated": 1633019887270,
       "dueDatesFlashcards": {
+<<<<<<< HEAD
         "38": 1,
         "-19": 1
+=======
+        "39": 1,
+        "-18": 1
+>>>>>>> 48da8e47bd46562a46a33444f4ee6fc17e8b1e6c
       }
     },
     "Spaces/Questions/❓210815-2035.md": {
       "totalCards": 4,
       "hasNewCards": false,
       "nextDueDate": "2021-10-09",
-      "lastUpdated": 1633447509748,
+      "lastUpdated": 1633257863962,
       "dueDatesFlashcards": {
+<<<<<<< HEAD
         "5": 1,
         "96": 1,
         "-18": 1,
         "-30": 1
+=======
+        "6": 1,
+        "97": 1,
+        "-17": 1,
+        "-29": 1
+>>>>>>> 48da8e47bd46562a46a33444f4ee6fc17e8b1e6c
       }
     },
     "Spaces/Questions/❓210815-1602.md": {
       "totalCards": 1,
       "hasNewCards": false,
       "nextDueDate": "2022-02-04",
-      "lastUpdated": 1632928799447,
+      "lastUpdated": 1633019887238,
       "dueDatesFlashcards": {
-        "97": 1
+        "89": 1
       }
     },
     "Spaces/Questions/❓210815-2024.md": {
       "totalCards": 3,
       "hasNewCards": false,
       "nextDueDate": "2021-10-06",
-      "lastUpdated": 1632059365024,
+      "lastUpdated": 1632043962954,
       "dueDatesFlashcards": {
+<<<<<<< HEAD
         "-24": 1,
         "-33": 1,
         "-31": 1
+=======
+        "-23": 1,
+        "-32": 1,
+        "-30": 1
+>>>>>>> 48da8e47bd46562a46a33444f4ee6fc17e8b1e6c
       }
     },
     "Spaces/Questions/❓210815-1642.md": {
       "totalCards": 1,
       "hasNewCards": false,
       "nextDueDate": "2021-12-22",
-      "lastUpdated": 1632928768784,
+      "lastUpdated": 1633019887254,
       "dueDatesFlashcards": {
-        "53": 1
+        "45": 1
       }
     },
     "Reference_Box/Articles/@ wiki, Cựu Ước.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1631331773370,
+      "lastUpdated": 1631454132078,
       "dueDatesFlashcards": {}
     },
     "Reference_Box/Articles/@ wiki, Bảo Đại.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630117795202,
+      "lastUpdated": 1631454132047,
       "dueDatesFlashcards": {}
     },
     "Bins/Templates/Core/question template.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630117794347,
+      "lastUpdated": 1631454131219,
       "dueDatesFlashcards": {}
     },
     "Spaces/Questions/❓211003-1740.md": {
       "totalCards": 1,
       "hasNewCards": false,
       "nextDueDate": "2021-10-07",
-      "lastUpdated": 1633447509965,
+      "lastUpdated": 1633257877465,
       "dueDatesFlashcards": {
+<<<<<<< HEAD
         "-32": 1
+=======
+        "-31": 1
+>>>>>>> 48da8e47bd46562a46a33444f4ee6fc17e8b1e6c
       }
     },
     "Spaces/Questions/❓211003-1738.md": {
       "totalCards": 1,
       "hasNewCards": false,
       "nextDueDate": "2021-10-07",
-      "lastUpdated": 1633447509965,
+      "lastUpdated": 1633257903214,
       "dueDatesFlashcards": {
+<<<<<<< HEAD
         "-32": 1
+=======
+        "-31": 1
+>>>>>>> 48da8e47bd46562a46a33444f4ee6fc17e8b1e6c
       }
     }
   }

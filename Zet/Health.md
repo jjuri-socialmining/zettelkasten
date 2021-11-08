@@ -37,10 +37,3 @@ publish: True
 - [[Các chế độ nhịn ăn]]
 - [[Intermittent Fasting]]
 
-
-## Tham khảo:
-```dataview
-list
-from [[🏡 Health]]
-sort file.name asc
-```
