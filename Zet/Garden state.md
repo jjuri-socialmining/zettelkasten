@@ -22,7 +22,7 @@ Sau mấy ngày, Andrew gỡ hết tất cả các trăn trở của cậu về 
 ## Ideas & thoughts:
 - Có nhắc đến [[@ Aldous Huxley, Brave New World]]
 - [[❕ Ý nghĩa cuộc sống]]
-- Có chút hơi hướng [[Chủ Nghĩa Hiện Sinh]], cuộc đời do mình quyết định, có rất nhiều thứ cần khám phá.
+- Có chút hơi hướng [[Chủ nghĩa hiện sinh]], cuộc đời do mình quyết định, có rất nhiều thứ cần khám phá.
 
 ## Questions:
 

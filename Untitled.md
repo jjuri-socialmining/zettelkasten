@@ -1,1 +1,0 @@
-![[Excalidraw/Drawing 2021-10-30 17.08.05.excalidraw.md]]

@@ -2,9 +2,9 @@
 title: Charles Darwin
 UID: 210908201024
 tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/people'
+  - 'created/2021/Sep/08'
+  - 'seed🥜'
+  - 'permanent/people'
 birth: 
 death: 
 publish: True

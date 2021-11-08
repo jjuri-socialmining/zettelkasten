@@ -38,3 +38,4 @@ Theo Bechamp, vi khuẩn là sản phẩm sinh ra từ bệnh chứ không phả
 [^hoichung5g]:[Hội Chứng COVID-5G – The Great Awakening VN (wordpress.com)](https://thegreatawakeningvn.wordpress.com/2021/08/05/hoi-chung-covid-5g/)
 [^sick]:[[Kary Mullis, inventor of the PCR, talks about the HIV-AIDS connection]]
 [^kduoc]:[[@ kduoc.com, Nguyên nhân gây ra ung thư]]
+

@@ -16,14 +16,3 @@ Năm 2004, [[Giáo hoàng Gioan Phaolô II]]  đã xin lỗi [[Chính thống gi
 
 ## Ideas & thoughts:
 
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[ĐGH Gioan Phaolo II xin lỗi Chính thống giáo về quân thập tự cướp phá Hagia Sophia]]
-sort file.name asc
-```
-
-

@@ -18,7 +18,6 @@ Neanderthal hoặc là xếp vào phụ loài, tức chỉ là một chủng t�
 ## Ideas & thoughts:
 - [[Thuyết tiến hóa]]
 - [[Charles Darwin]] 
-## Questions:
 
 ## Source:
 - [Nếu Đác Uyn còn sống chắc sẽ không muốn bạn biết 5 điều này - YouTube](https://youtu.be/3bhORlpnU54?t=853)

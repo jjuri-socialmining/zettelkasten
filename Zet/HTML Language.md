@@ -3,13 +3,13 @@ title: HTML Language
 UID: 211003155408
 created: 03-Oct-2021
 tags:
-  - '#created/2021/Oct/03'
+  - 'created/2021/Oct/03'
   - 'seed🥜'
   - 'permanent/concept'
 aliases:
   - HTML
   - html
-publish: False
+publish: True
 ---
 # HTML Language
 
@@ -17,7 +17,3 @@ publish: False
 
 
 ## Ideas & thoughts:
-
-## Questions:
-
-## Relate to:

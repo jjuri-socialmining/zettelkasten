@@ -9,7 +9,7 @@ tags:
 aliases:
   - Tiêm chủng
   - Chủng ngừa
-publish: False
+publish: True
 ---
 # Vaccination
 
@@ -27,6 +27,3 @@ Vaccination, tạm dịch là tiêm chủng, là phương pháp tiêm [[Vaccine]
 	- [[Vaccine Moderna]]
 	- [[Vaccine AstraZeneca]]
 - [[Big Medicine]]
-- 
-## Questions:
-

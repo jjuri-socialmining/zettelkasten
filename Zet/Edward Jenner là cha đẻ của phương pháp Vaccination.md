@@ -6,7 +6,7 @@ tags:
   - '#created/2021/Oct/10'
   - 'seed🥜'
   - 'permanent/concept'
-publish: False
+publish: True
 ---
 # Edward Jenner là cha đẻ của phương pháp Vaccination
 
@@ -16,5 +16,4 @@ publish: False
 ## Ideas & thoughts:
 - [[Louis Pasteur]]
 
-## Questions:
 

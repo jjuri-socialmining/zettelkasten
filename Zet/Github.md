@@ -1,19 +1,17 @@
+---
+title: Github
+UID: 2107171023
+created: 07-Nov-2021
+tags:
+  - 'created/2021/Jul/17'
+  - 'seed🥜'
+  - 'permanent/concept'
+publish: True
+---
 # Github
 
-- metadata
-	- UID: P-210717-1023
-	- tags: #created/2021/Jul/17, #permanent/concept 
-	- source: 
-	- related: 
+## Notes:
 
-## Notes
-
-
-## Questions & thoughts:
-
-
-### Related:
-```dataview
-list
-from [[Github]]
-```
+## Ideas & thoughts:
+- [[Git]]
+- [[Gitlab]]

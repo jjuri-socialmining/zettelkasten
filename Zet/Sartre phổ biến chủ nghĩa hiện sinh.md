@@ -3,7 +3,7 @@
 - metadata
 	- created: June 30, 2021 10:14 PM #created/2021/Jun/30,
 	- tags:
-	- previous note: [[Chủ Nghĩa Hiện Sinh]]
+	- previous note: [[Chủ nghĩa hiện sinh]]
 
 ## Notes
 [[Jean Paul Sartre]] là người phổ biến thuật ngữ chủ nghĩa hiện sinh. [^1]
