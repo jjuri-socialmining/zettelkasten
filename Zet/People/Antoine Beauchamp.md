@@ -34,7 +34,7 @@ Cha đẻ của [[The Terrain Theory]]
 ## Ideas & thoughts:
 - Thuyết của ông trái ngược với [[Louis Pasteur]]
 - Thuyết của ông được [[Claude Bernard]] tiếp tục phát triển thêm
-- 
+
 ## Relate to:
-- [Natures-Therapies](https://www.naturalhealthscience.com/article_Natures-Therapies_090624.php)
-- [the-ky-19-quay-co-gang-noi-voi-chung-ta-dieu-gi-do-ve-vi-sinh-vat](https://hitechglitz.com/vietnam/the-ky-19-quay-co-gang-noi-voi-chung-ta-dieu-gi-do-ve-vi-sinh-vat/)
+- [Nature's Therapies - The Germ Theory: The Traditional Naturopathic Perspective - Part II (naturalhealthscience.com)](https://www.naturalhealthscience.com/article_Natures-Therapies_090624.php)
+- [Thế kỷ 19 quây cố gắng nói với chúng ta điều gì đó về vi sinh vật (hitechglitz.com)](https://hitechglitz.com/vietnam/the-ky-19-quay-co-gang-noi-voi-chung-ta-dieu-gi-do-ve-vi-sinh-vat/)

@@ -18,9 +18,4 @@ publish: True
 
 ## Ideas & thoughts:
 - Bệnh tiểu đường chữa trị đơn giản, [[Mafia y tế]] làm cho bệnh tiểu đường làm người bệnh hoang mang, càng uống thuốc. Chỉ cần thay đổi cách ăn uống và lối sống.
-- [[John D. Rockefeller]] ông trùm dâù hỏa
-
-## Questions:
-
-## Relate to:
-- [[Mafia y tế]]
+- [[John D. Rockefeller]] ông trùm dâù hỏa.
