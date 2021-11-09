@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[Thái Bình Thiên Quốc]] là kết hợp giữa nho giáo và giáo lý [[Thiên Chúa]] giáo
+[[Thái Bình Thiên Quốc]] là kết hợp giữa nho giáo và giáo lý [[God]] giáo
 
 ## Questions & thoughts:
 

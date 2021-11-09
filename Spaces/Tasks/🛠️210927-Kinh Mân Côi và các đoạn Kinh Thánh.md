@@ -1,7 +1,7 @@
 ---
 title: 🛠️210927-Kinh Mân Côi và các đoạn Kinh Thánh
 tags:
-  - '#created/2021/Sep/27'
+  - 'created/2021/Sep/27'
   - '#task🛠️'
   - '#Someday'
 is_done: False

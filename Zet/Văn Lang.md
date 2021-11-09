@@ -1,16 +1,13 @@
+---
+title: Văn Lang
+tags:
+  - 'created/2021/Jul/24'
+  - 'seed🥜'
+  - 'permanent/concept'
+publish: True
+---
 # Văn Lang
 
-%% 
-- metadata:
-	- tags: #created/2021/Jul/24, #MOC 
-%%
+## Notes:
 
-## Notes
-
-
-## Related:
-```dataview
-list
-from [[Văn Lang]]
-sort file.name asc
-```
+## Ideas & thoughts:

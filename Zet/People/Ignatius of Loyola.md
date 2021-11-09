@@ -12,7 +12,7 @@ aliases:
   - Ignatius Loyola
   - Thánh I-nhã
   - Thánh Inhaxiô
-publish: False
+publish: True
 ---
 # Ignatius of Loyola
 
@@ -32,7 +32,7 @@ Tháng 9/1540, [[Giáo hoàng Paul III]] đã phê chuẩn đề cương của I
 
 
 ## Reference:
-- http://nghiencuuquocte.org/2021/07/31/thanh-ignatius-loyola-nha-sang-lap-dong-ten-qua-doi/
+- [31/07/1556: Thánh Ignatius Loyola, nhà sáng lập Dòng Tên, qua đời (nghiencuuquocte.org)](http://nghiencuuquocte.org/2021/07/31/thanh-ignatius-loyola-nha-sang-lap-dong-ten-qua-doi/)
 - [[@ thedailybeast.com, Pope Francis Is a Jesuit, Seven Things You Need to Know About the Society of Jesus]]
 
-[^1]: https://www.thedailybeast.com/pope-francis-is-a-jesuit-seven-things-you-need-to-know-about-the-society-of-jesus
+[^1]: [Pope Francis Is a Jesuit: Seven Things You Need to Know About the Society of Jesus (thedailybeast.com)](https://www.thedailybeast.com/pope-francis-is-a-jesuit-seven-things-you-need-to-know-about-the-society-of-jesus)

@@ -1,9 +1,9 @@
 ---
 title: 🛠️210927-Tìm hiểu Lib Jinja của Python
 tags:
-  - '#created/2021/Sep/27'
-  - '#task🛠️'
-  - '#Someday'
+  - 'created/2021/Sep/27'
+  - 'task🛠️'
+  - 'Someday'
 is_done: False
 ---
 

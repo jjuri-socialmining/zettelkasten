@@ -11,6 +11,8 @@ aliases:
   - Alah
   - Chúa
   - Thần
+  - Đấng tạo hóa
+  - Đức Chúa Trời
 publish: True
 ---
 # God
@@ -23,5 +25,3 @@ God tương đương với các định nghĩa
   - Thần
 
 ## Ideas & thoughts:
-
-

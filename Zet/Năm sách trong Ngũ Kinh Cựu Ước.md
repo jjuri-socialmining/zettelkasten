@@ -1,11 +1,15 @@
+---
+title: Năm sách trong Ngũ Kinh Cựu Ước
+UID: 2107311640
+tags:
+  - 'created/2021/Jul/31'
+  - 'garden🏡'
+  - 'permanent/linking'
+publish: True
+---
 # Năm sách trong Ngũ Kinh Cựu Ước
 
-- metadata
-	- UID: P-210731-1640
-	- tags: #created/2021/Jul/31, #permanent/linking
-	- source: 
-
-## Notes
+## Notes:
 Năm sách trong [[Ngũ Kinh Cựu Ước]]
 - [[Sáng thế]]
 - [[Xuất hành]]
@@ -13,11 +17,6 @@ Năm sách trong [[Ngũ Kinh Cựu Ước]]
 - [[Dân số]]
 - [[Đệ nhị luật]]
 
-## Questions & thoughts:
+## Ideas & thoughts:
 
-## Related:
-```dataview
-list
-from [[Năm sách trong Ngũ Kinh Cựu Ước]]
-sort file.name asc
-```
+

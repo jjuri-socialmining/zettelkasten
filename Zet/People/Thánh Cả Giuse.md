@@ -2,9 +2,9 @@
 title: Thánh Cả Giuse
 UID: 210908202131
 tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/people'
+  - 'created/2021/Sep/08'
+  - 'seed🥜'
+  - 'permanent/people'
 birth: 
 death: 
 aliases:
@@ -16,13 +16,3 @@ aliases:
 
 
 ## Ideas & thoughts:
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Thánh Cả Giuse]]
-sort file.name asc
-```

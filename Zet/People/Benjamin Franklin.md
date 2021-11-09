@@ -8,8 +8,7 @@ tags:
   - '#permanent/people'
 birth: 
 death: 
-aliases:
-  - 
+publish: True
 ---
 # Benjamin Franklin
 
@@ -19,15 +18,4 @@ Benjamin Franklin (1706-1790) là một nhà chính trị gia, nhà khoa học g
 
 ## Ideas & thoughts:
 - [ ] [[❕ Benjamin Franklin không phải tổng thống Mỹ]]
-- [ ] [[Mặc dù Benjamin Franklin không phỈ tổng thống nhưng vẫn có mặt trên đồng tiền 100 USD]]
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Benjamin Franklin]]
-sort file.name asc
-```
-
+- [ ] [[Mặc dù Benjamin Franklin không phải tổng thống nhưng vẫn có mặt trên đồng tiền 100 USD]]

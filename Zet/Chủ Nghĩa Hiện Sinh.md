@@ -1,13 +1,13 @@
 ---
 title: Chủ Nghĩa Hiện Sinh
-UID: 
 created: Dec 25, 2020 10:15 PM
 tags:
-  - '#created/2020/Dec/25'
-  - '#seeding🌱'
-  - '#permanent/concept'
+  - 'created/2020/Dec/25'
+  - 'seeding🌱'
+  - 'permanent/concept'
 aliases:
   - Existentialism
+publish: True
 ---
 #  Chủ Nghĩa Hiện Sinh
 
@@ -20,13 +20,3 @@ Mỗi cá nhân tự chịu trách nhiệm cho ý nghĩa cuộc đời mình và
 
 ## Ideas & thoughts:
 [[❕ Chủ nghĩa hư vô và chủ nghĩa hiện sinh]]
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Chủ Nghĩa Hiện Sinh]]
-sort file.name asc
-```

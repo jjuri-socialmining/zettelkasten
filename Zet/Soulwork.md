@@ -15,4 +15,4 @@ publish: False
 
 ## Ideas & thoughts:
 
-- https://lonerwolf.com/how-do-i-start-soulwork/
+- 

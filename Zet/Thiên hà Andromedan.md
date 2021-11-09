@@ -10,7 +10,7 @@ aliases:
   - Messier 31
   - M31
   - NGC 224
-publish: False
+publish: True
 ---
 # Thiên hà Andromedan
 
@@ -24,4 +24,4 @@ Lưu ý, Thiên hà Andromedan không liên quan đến chòm sao Andromedan.
 - [[Milky Way]] được tách ra từ Thiên hà Andromedan #todo/research 
 
 ## Reference:
-- https://extraterrestrialbeing.home.blog/2020/08/04/thien-ha-andromeda-chom-sao-andromeda-va-chung-toc-andromedan/
+- [Thiên hà Andromeda | Chòm sao Andromeda và Chủng tộc Andromedan – Extraterrestrial Messages (home.blog)](https://extraterrestrialbeing.home.blog/2020/08/04/thien-ha-andromeda-chom-sao-andromeda-va-chung-toc-andromedan/)

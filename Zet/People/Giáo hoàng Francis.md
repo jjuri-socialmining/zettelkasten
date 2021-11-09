@@ -10,7 +10,7 @@ death:
 aliases:
   - Giáo hoàng Phanxicô
   - Pope Francis
-publish: False
+publish: True
 ---
 # Giáo hoàng Francis
 

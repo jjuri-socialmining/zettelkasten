@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Vườn địa đàng là một khu vườn được mô tả trong [[Cựu Ước]], nơi ở của hai người đầu tiên là [[Adam]] và [[Eva]] sau khi được [[Thiên Chúa]] tạo ra.
+Vườn địa đàng là một khu vườn được mô tả trong [[Cựu Ước]], nơi ở của hai người đầu tiên là [[Adam]] và [[Eva]] sau khi được [[God]] tạo ra.
 
 ## Questions & thoughts:
 - [ ] [[Trái cấm]]

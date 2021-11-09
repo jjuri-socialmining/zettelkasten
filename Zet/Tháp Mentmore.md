@@ -10,7 +10,7 @@ tags:
 aliases:
   - Mentmore
   - Mentmore tower
-publish: False
+publish: True
 ---
 # Tháp Mentmore
 
