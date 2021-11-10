@@ -3,9 +3,9 @@ title: Vũ Hán
 UID: 210927232425
 created: 27-Sep-2021
 tags:
-  - '#created/2021/Sep/27'
-  - '#seed🥜'
-  - '#permanent/place'
+  - 'created/2021/Sep/27'
+  - 'seed🥜'
+  - 'permanent/place'
 publish: False
 ---
 # Vũ Hán

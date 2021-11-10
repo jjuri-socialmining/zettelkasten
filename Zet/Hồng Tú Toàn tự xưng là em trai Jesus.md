@@ -7,7 +7,7 @@
 
 ## Notes
 Khi thi trượt kỳ thi nho lần 2, [[Hồng Tú Toàn]] trở bệnh và mơ thấy một ông vua trao cho ông thanh kiếm diệt [[Nhà Thanh]], và trong giấc mơ có một người đàn ông mà ông gọi người đó là anh. 
-Về sau, khi được tiếp cận với hội truyền bá [[Kito Giáo]], ông cho rằng giấc mơ đó là ông mơ thấy được [[Thiên Chúa]] chọn để dẹp trừ nhà Thanh và người đàn ông trong mơ đó là [[Đức Jesus]].
+Về sau, khi được tiếp cận với hội truyền bá [[Cơ Đốc Giáo]], ông cho rằng giấc mơ đó là ông mơ thấy được [[God]] chọn để dẹp trừ nhà Thanh và người đàn ông trong mơ đó là [[Đức Jesus]].
 
 ## Questions & thoughts:
 

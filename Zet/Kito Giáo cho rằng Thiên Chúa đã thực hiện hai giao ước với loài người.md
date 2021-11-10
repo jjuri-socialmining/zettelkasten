@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[Kito Giáo]] cho rằng có hai giao ước được thực hiện giữa Thiên Chúa và loài người:
+[[Cơ Đốc Giáo]] cho rằng có hai giao ước được thực hiện giữa Thiên Chúa và loài người:
 	- Giao ước thứ nhất được thực hiện thông qua tổ phụ [[Abraham]]
 	- Giao ước thứ hai được thực hiện thông qua [[Đức Jesus]]
 

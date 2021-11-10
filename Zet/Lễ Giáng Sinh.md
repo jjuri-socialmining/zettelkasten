@@ -11,7 +11,7 @@ publish: False
 # Lễ Giáng Sinh
 
 ## Notes:
-Lễ Giáng Sinh là một truyền thống của [[Kito Giáo]] để kỷ niệm ngày [[Đức Jesus|Chúa Jesus]] sinh ra tại trần gian.
+Lễ Giáng Sinh là một truyền thống của [[Cơ Đốc Giáo]] để kỷ niệm ngày [[Đức Jesus|Chúa Jesus]] sinh ra tại trần gian.
 
 ## Ideas & thoughts:
 - [[Chúa Jesus không sinh ra vào 25-12]], nó đã bị [[Constantinus]] thay đổi để phù hợp với văn hóa một tôn giáo đa thần.

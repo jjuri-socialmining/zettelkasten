@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Oct/23'
   - 'seed🥜'
   - 'permanent/concept'
-publish: False
+publish: True
 ---
 # Starseed
 
@@ -15,5 +15,4 @@ Starseed được định nghĩa là con người vật lý, sống luân hồi 
 
 ## Ideas & thoughts:
 - [[Thức tỉnh tâm linh]]
-
-https://extraterrestrialbeing.home.blog/2020/10/28/trai-nghiem-starseed-dac-diem-tinh-chat-dac-thu/
+- [Trải nghiệm Starseed (Đặc điểm/Tính chất đặc thù) – Extraterrestrial Messages (home.blog)](https://extraterrestrialbeing.home.blog/2020/10/28/trai-nghiem-starseed-dac-diem-tinh-chat-dac-thu/)

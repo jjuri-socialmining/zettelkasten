@@ -7,7 +7,7 @@ tags:
   - 'permanent/people'
 birth: 1735-10-30
 death: 1826-07-04
-publish: False
+publish: True
 ---
 # John Adams
 

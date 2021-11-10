@@ -11,6 +11,8 @@ aliases:
   - Alah
   - Chúa
   - Thần
+  - Đấng tạo hóa
+  - Đức Chúa Trời
 publish: True
 ---
 # God
@@ -18,11 +20,9 @@ publish: True
 ## Notes:
 God tương đương với các định nghĩa
 
-  - Thiên Chúa trong [[Kito Giáo]] bao gồm [[Công Giáo]], [[Tin Lành]], [[Chính thống giáo Đông Phương]]
+  - Thiên Chúa trong [[Cơ Đốc Giáo]] bao gồm [[Công Giáo]], [[Tin Lành]], [[Chính thống giáo Đông Phương]]
   - Alah trong [[Hồi Giáo]]
   - Chúa
   - Thần
 
 ## Ideas & thoughts:
-
-

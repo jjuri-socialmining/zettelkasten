@@ -3,9 +3,9 @@ title: Jinja
 UID: 210927232240
 created: 27-Sep-2021
 tags:
-  - '#created/2021/Sep/27'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/27'
+  - 'seed🥜'
+  - 'permanent/concept'
 publish: False
 ---
 # Jinja

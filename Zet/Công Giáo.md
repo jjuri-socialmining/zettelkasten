@@ -24,19 +24,18 @@ publish: True
 - [[Tân Ước]]
 
 ### Các thánh
--[[Thánh Martino]]
--[[Thánh Phê Rô]]
--[[Thánh Phaolo]]
--[[Thánh Phanxico-Assisi]]
--[[Đức Maria]]
--[[Thánh Cả Giuse]]
+- [[Thánh Martino]]
+- [[Thánh Phê Rô]]
+- [[Thánh Phaolo]]
+- [[Thánh Phanxico-Assisi]]
+- [[Đức Maria]]
+- [[Thánh Cả Giuse]]
 
 ### Các thời kỳ lịch sử
-- 50 - 600 - [[Giáo Hội thời các Tông Đồ và các Giáo Phụ MOC]]
+- 50 - 600 - [[Giáo Hội thời các Tông Đồ và các Giáo Phụ]]
 	- [[Thánh Phê Rô]] Tông đồ cả của Chúa Giê su truyền giáo ở đế quốc La Mã
 	- [[Thánh Phaolo]] 
-- 600 - 1300 - [[Giáo Hội thời Trung cổ MOC]]
-- 
+- 600 - 1300 - [[Giáo Hội thời Trung cổ]]
 
 ## Relate to:
 - [[Thập Tự Chinh]]

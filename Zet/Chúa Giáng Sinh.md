@@ -1,16 +1,24 @@
+---
+title: Chúa Giáng Sinh
+UID: 2107111601
+tags:
+  - 'created/2021/Jul/11'
+  - 'seed🥜'
+  - 'permanent/concept'
+aliases:
+  - Noel
+  - Christmas
+  - Lễ Giáng Sinh
+publish: True
+---
 # Chúa Giáng Sinh
 
-- metadata
-	- UID: P-210711-1601
-	- tags: #created/2021/Jul/11, #permanent/concept #state/boat 
-	- previous note: 
-	- source: 
-
-## Notes
+## Notes:
 Chúa Giáng Sinh là sự kiện Đức Giê Su được sinh ra, được giáo hội [[Công Giáo]] kỷ niệm vào 25 tháng 12 hàng năm.
 
-Lễ Chúa Giáng sinh hay còn được gọi là [[Lễ Giáng Sinh]], [[Noel]], [[Christmas]]
+Lễ Chúa Giáng sinh hay còn được gọi là Lễ Giáng Sinh, Noel, Christmas.
 
-
-## Questions & thoughts:
+## Ideas & thoughts:
+- [[Chúa Jesus không sinh ra vào 25-12]]
+- [[Ông già Noel]]
 

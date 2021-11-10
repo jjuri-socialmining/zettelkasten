@@ -9,13 +9,12 @@ tags:
 aliases:
   - Hanaq Pacha
   - Upper World
-publish: False
+publish: True
 ---
 # Thượng thế giới
 
 ## Notes:
 Thượng thế giới là một cõi/thế giới trong hành trình thức tỉnh mà ta cần khám phá.
-
 
 ## Ideas & thoughts:
 
