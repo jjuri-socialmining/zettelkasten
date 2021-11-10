@@ -7,7 +7,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Existentialism
-publish: True
+publish: False
 ---
 #  Chủ Nghĩa Hiện Sinh
 
