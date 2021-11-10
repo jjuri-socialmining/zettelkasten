@@ -7,7 +7,7 @@ tags:
   - 'permanent/people'
 birth: 
 death: 
-publish: False
+publish: True
 ---
 # Albert Einstein
 

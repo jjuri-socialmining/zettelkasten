@@ -7,8 +7,7 @@ tags:
   - '#permanent/people'
 birth: 
 death: 
-aliases:
-  - 
+publish: True
 ---
 # Điêu Thuyền
 
@@ -18,13 +17,3 @@ aliases:
 [[Điêu Thuyền]] là một trong [[Tứ đại mỹ nhân Trung Hoa]]
 
 ## Ideas & thoughts:
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Điêu Thuyền]]
-sort file.name asc
-```

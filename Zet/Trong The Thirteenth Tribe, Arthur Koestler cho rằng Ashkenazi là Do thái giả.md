@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Oct/29'
   - 'seed🥜'
   - 'permanent/concept'
-publish: False
+publish: True
 ---
 # Trong The Thirteenth Tribe, Arthur Koestler cho rằng Ashkenazi là Do thái giả
 

@@ -10,6 +10,7 @@ death:
 aliases:
   - Quang Trung
   - Quang Trung - Nguyễn Huệ
+publish: True
 ---
 # Nguyễn Huệ
 

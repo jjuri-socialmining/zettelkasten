@@ -12,9 +12,3 @@ Chủ sở hữu trang web [[thelinguist.com]]
 
 ## Questions & thoughts:
 
-## Related:
-```dataview
-list
-from [[Steve Kaufmann]]
-sort file.name asc
-```

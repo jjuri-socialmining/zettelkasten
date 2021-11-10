@@ -25,5 +25,6 @@ Thế kỷ 20, với sự ra đời của [[Chủ Nghĩa Zion|Chủ nghĩa p
 - [[Torah tương đương với Cựu Ước của Kito giáo]]
 - [[Hebrew]]
 - [[Người Do Thái]] kết tội và đóng đinh [[Đức Jesus]] trên [[Thập giá]]. Phát sinh ra [[Cơ Đốc Giáo]]
+- 
 
 

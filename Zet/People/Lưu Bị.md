@@ -9,6 +9,7 @@ birth: 161
 death: 223-06-10
 aliases:
   - Huyền Đức
+publish: True
 ---
 # Lưu Bị
 

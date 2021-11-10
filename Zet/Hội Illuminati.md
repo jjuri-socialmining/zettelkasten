@@ -8,12 +8,14 @@ tags:
   - 'permanent/concept'
 aliases:
   - Illuminati
-publish: False
+publish: True
 ---
 # Hội Illuminati
 
 ## Notes:
+Hội Illuminati là một hội kín được cho là thành lập vào 1/5/1776 bởi [[Adam Weishaupt]]. [^1]
 
+[[Illuminati trong tiếng Latin là khai sáng.]]
 
 ## Ideas & thoughts:
 - Hội Illuminati tôn thờ [[Satan]] -> [[Satanism]]
@@ -23,13 +25,13 @@ publish: False
 	- [[Britney Spears]]
 	- [[Lady Gaga]][^gaga]
 	- [[John Lennon]]
-
-## Questions:
+- [[Mật mã Da Vinci]], [[Dan Brown]] nhắc nhiều đến hội Illuminati
 
 ## Source:
 - [illuminati-thong-tri-the-gioi-p-1](https://tinhhoa.net/illuminati-thong-tri-the-gioi-p-1-nguon-goc-va-ban-chat.html)
 - [[@ Fritz Springmeier, Bloodlines of the Illuminati]]
-- https://riseearth.org/illuminati
-- https://unhypnotize.com/illuminati-secret-societies-cults/
+- [Illuminati Archives - RiseEarth](https://riseearth.org/illuminati)
+- [Illuminati / Secret Societies / Cults (unhypnotize.com)](https://unhypnotize.com/illuminati-secret-societies-cults/)
 
 [^gaga]:[lady-gaga-toi-rat-hoi-han](https://tinhhoa.net/lady-gaga-toi-rat-hoi-han-vi-da-ban-linh-hon-cho-the-luc-den-toi-illuminati.html)
+[^1]: [Hội Kín Illuminati - Tổ chức chuyên thờ phụng quỷ Satan (tinhhoa.net)](https://tinhhoa.net/illuminati-hoi-kin-tho-phung-quy-satan.html)

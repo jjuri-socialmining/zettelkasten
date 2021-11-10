@@ -30,7 +30,7 @@
     "maxLinkFactor": 1,
     "logLevel": 1
   },
-  "buryDate": "2021-11-09",
+  "buryDate": "2021-11-10",
   "buryList": [],
   "cache": {
     "Zet/Đế Quốc Mông Cổ.md": {
@@ -130,9 +130,9 @@
       "nextDueDate": "2021-08-26",
       "lastUpdated": 1632559188382,
       "dueDatesFlashcards": {
-        "-72": 1,
-        "-75": 1,
-        "-70": 1
+        "-73": 1,
+        "-76": 1,
+        "-71": 1
       }
     },
     "Zet/Sử Trung Quốc có 2 nhà Hán cách nhau một thời gian ngắn.md": {
@@ -183,10 +183,10 @@
       "nextDueDate": "2021-09-22",
       "lastUpdated": 1632559184680,
       "dueDatesFlashcards": {
-        "-44": 1,
-        "-48": 1,
-        "-46": 1,
-        "-47": 1
+        "-45": 1,
+        "-49": 1,
+        "-47": 1,
+        "-48": 1
       }
     },
     "Zet/Notion-2-Obsidian.md": {
@@ -249,7 +249,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1634572020515,
+      "lastUpdated": 1636556654346,
       "dueDatesFlashcards": {}
     },
     "Zet/Mông Kha.md": {
@@ -349,16 +349,16 @@
       "nextDueDate": "2021-09-14",
       "lastUpdated": 1632559167944,
       "dueDatesFlashcards": {
+        "-57": 1,
         "-56": 1,
-        "-55": 1,
-        "-54": 1
+        "-55": 1
       }
     },
     "Zet/Bảo Đại.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1633624088022,
+      "lastUpdated": 1636556654299,
       "dueDatesFlashcards": {}
     },
     "Zet/Amino acid.md": {

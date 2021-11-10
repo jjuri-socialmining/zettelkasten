@@ -14,9 +14,10 @@ publish: False
 # Satanism
 
 ## Notes:
-
+Satanism, hay Satan giáo, là một giáo phái ngầm tôn thờ [[Satan]].
 
 ## Ideas & thoughts:
-
-## Questions:
+- [[Anton Lavey]]
+- [[Mật mã Da Vinci]], [[Dan Brown]]
+- [[Hội Illuminati]]
 

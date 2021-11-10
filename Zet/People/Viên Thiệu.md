@@ -5,8 +5,7 @@ tags:
   - '#created/2021/Aug/28'
   - '#seed🥜'
   - '#permanent/people'
-aliases:
-  - 
+publish: True
 ---
 # Viên Thiệu
 
@@ -16,12 +15,3 @@ Viên Thiệu là một chư hậu hùng mạnh nhất cuối thời Đông Hán
 
 ## Ideas & thoughts:
 - [ ] Viên Thiệu là một nhân vật trong [[Tam Quốc Diễn nghĩa]]
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Viên Thiệu]]
-sort file.name asc
-```

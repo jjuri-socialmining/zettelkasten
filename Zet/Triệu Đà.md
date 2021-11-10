@@ -11,11 +11,3 @@
 ## Questions & thoughts:
 [[Nam Việt]]
 [[Nhà Triệu]]
-
-## Related:
-- [[Triệu Vũ Đế]]
-```dataview
-list
-from [[Triệu Đà]]
-sort file.name asc
-```

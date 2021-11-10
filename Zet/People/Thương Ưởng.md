@@ -7,7 +7,7 @@ tags:
   - '#permanent/people'
 aliases:
   - Vệ Ưởng
-  - 
+publish: True
 ---
 # Thương Ưởng
 
@@ -17,13 +17,4 @@ Thương Ưởng (khoảng 390 TCN-338 TCN) gốc từ họ Cơ con cháu của 
 
 ## Ideas & thoughts:
 
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Thương Ưởng]]
-sort file.name asc
-```
 [^1]: https://vi.wikipedia.org/wiki/Th%C6%B0%C6%A1ng_%C6%AF%E1%BB%9Fng

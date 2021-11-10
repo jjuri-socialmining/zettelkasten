@@ -6,14 +6,10 @@ tags:
   - '#permanent/concept'
   - '#flashcards'
 aliases: [Nietzsche, Friedrich Wilhelm Nietzsche]
+publish: True
 ---
 
 # Friedrich Nietzsche
-
-- metadata
-	- created: Oct 22, 2020 5:49 AM
-	- tags: #permanent/people 
-	- previous note:
 
 ## Notes
 
@@ -25,5 +21,5 @@ aliases: [Nietzsche, Friedrich Wilhelm Nietzsche]
 
 ![[Friedrich_Nietzsche.jpg.jpg]]
 
-## Questions & thoughts:
+## Ideas & thoughts:
 
