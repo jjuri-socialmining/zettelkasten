@@ -9,14 +9,18 @@ tags:
   - 'Qmap'
 aliases:
   - Gnosticism
-publish: False
+  - Thuyết Trí Huệ
+publish: True
 ---
 # Thuyết Ngộ Đạo
 
 ## Notes:
 Ngộ đạo thuyết là một thuyết muốn dùng suy luận, lý giải khoa học để giải thích về tôn giáo, "muốn biến tôn giáo thành một hệ thống triết học và lấy khoa học thay cho tín lý"
 
+Thuyết Trí Huệ là tên gọi khác của Thuyết Ngộ Đạo
+
 ## Ideas & thoughts:
 
 ## Reference:
 - [[@ Bùi Đức Sinh O.P, Lịch sử Giáo Hội Công Giáo]], p.143
+

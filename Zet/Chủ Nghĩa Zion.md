@@ -19,3 +19,4 @@ Chủ nghĩa Zion hay còn gọi là chủ nghĩa phục quốc Do Thái. Zion �
 ## Ideas & thoughts:
 - Có liệt kê trong [[Qmap]], liên quan tới [[Gia tộc Rothschild|Rothschild Family]] #todo/research 
 - [[Khazars]]
+- [[❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người]]

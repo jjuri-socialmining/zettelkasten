@@ -20,9 +20,3 @@ Thường được ký hiệu bằng `CI/CD`, là hai công đoạn tự động
 
 ## Questions & thoughts:
 [[❓210816-2248]]
-
-## Related:
-```dataview
-list
-from [[~CI & CD]]
-```

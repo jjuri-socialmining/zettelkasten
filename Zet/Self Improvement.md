@@ -30,4 +30,3 @@ publish: True
 
 ## Ideas & thoughts:
 https://clb100.com/
-## Questions:

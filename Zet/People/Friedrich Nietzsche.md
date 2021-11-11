@@ -8,7 +8,6 @@ tags:
 aliases: [Nietzsche, Friedrich Wilhelm Nietzsche]
 publish: True
 ---
-
 # Friedrich Nietzsche
 
 ## Notes

@@ -6,6 +6,8 @@ tags:
   - 'created/2021/Oct/30'
   - 'seed🥜'
   - 'permanent/think'
+aliases:
+  - Chủ nghĩa phục quốc Do Thái lừa bịp thế giới
 publish: True
 ---
 # ❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người

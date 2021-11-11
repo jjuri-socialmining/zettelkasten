@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Thiên Chúa
-  - Alah
+  - Allah
   - Chúa
   - Thần
   - Đấng tạo hóa

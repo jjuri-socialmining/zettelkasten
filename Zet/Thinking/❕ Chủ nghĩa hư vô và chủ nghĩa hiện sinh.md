@@ -6,8 +6,7 @@ tags:
   - '#created/2021/Jun/29'
   - '#seed🥜'
   - '#permanent/think'
-aliases:
-  - 
+publish: True
 ---
 # ❕ Chủ nghĩa hư vô và chủ nghĩa hiện sinh
 
@@ -18,15 +17,6 @@ aliases:
 
 ## Ideas & thoughts:
 
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[❕ Chủ nghĩa hư vô và chủ nghĩa hiện sinh]]
-sort file.name asc
-```
 [^1]:https://ichi.pro/vi/chu-nghia-hien-sinh-vs-chu-nghia-hu-vo-giai-thich-va-su-khac-biet-chinh-cua-moi-183062170379920
 [^2]:https://spiderum.com/bai-dang/Chu-nghia-Hien-sinh-Cuoc-doi-la-vo-nghia-ga9
 

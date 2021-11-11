@@ -1,10 +1,19 @@
-# 096d-Nguoi-Do-Thai-Ethiopia
-
+---
+title: Người Do Thái Ethiopia
 created: Jun 19, 2021 7:26 AM
-tags: #created/2021/Jun/19
-Description: Người Do Thái Ethiopia
-source: https://trip14.com/tim-hieu-ve-cong-dong-do-thai-goc-ethiopia_lv86823r
+tags:
+  - 'created/2021/Jun/19'
+  - 'seed🥜'
+  - 'permanent/concept'
+publish: True
+---
+# Người Do Thái Ethiopia
 
-Người Do thái Ethiopia có nguồn gốc từ những người Do Thái di cư từ Israel đến Ethiopia từ thế kỷ I đến VI sau công nguyên.
+## Notes:
+
+Người Do thái Ethiopia có nguồn gốc từ những [[Người Do Thái]] di cư từ [[Israel]] đến [[Ethiopia]] từ thế kỷ I đến VI sau công nguyên.
 
 Đến khoảng 1970, khoảng hơn 90.000 người Do thái Ethiopia di cư về Israel.
+
+## Ideas & thoughts:
+- [Tìm hiểu về Cộng đồng Do Thái gốc Ethiopia - Trip14](https://trip14.com/tim-hieu-ve-cong-dong-do-thai-goc-ethiopia_lv86823r)
