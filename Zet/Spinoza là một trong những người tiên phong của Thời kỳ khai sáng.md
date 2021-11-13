@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[Baruch Spinoza]] là một trong những người tiên phong của [[Thời kỳ Khai Sáng]]
+[[Baruch Spinoza]] là một trong những người tiên phong của [[Phong trào khai sáng]]
 
 ## Questions & thoughts:
 

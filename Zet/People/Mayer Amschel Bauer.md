@@ -25,3 +25,4 @@ Mayer Amschel Bauer là ông tổ của [[Gia tộc Rothschild|Rothschild Family
 
 ## Reference:
 - [Mayer Amschel Rothschild - Wikipedia](https://en.wikipedia.org/wiki/Mayer_Amschel_Rothschild)
+- 

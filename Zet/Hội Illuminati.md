@@ -13,7 +13,7 @@ publish: True
 # Hội Illuminati
 
 ## Notes:
-Hội Illuminati là một hội kín được cho là thành lập vào 1/5/1776 bởi [[Adam Weishaupt]]. [^1]
+Hội Illuminati là một hội kín được cho là thành lập vào 1/5/1776 bởi [[Johann Adam Weishaupt]]. [^1]
 
 [[Illuminati trong tiếng Latin là khai sáng.]]
 
