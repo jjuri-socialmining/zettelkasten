@@ -72,7 +72,7 @@ Qmap là một biểu đồ liệt kê rất nhiều thông tin, sự kiện bí
 - [[Nimrod]]
 - [[Tháp Babel]]
 - [[Thời kỳ Vệ Đà]]
-- [[Cuộn sách biển chết]]
+- [[Các cuộn sách biển Chết]]
 - [[John Pierpont Morgan]]
 - [[Titanic]]
 

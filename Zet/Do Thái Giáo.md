@@ -27,6 +27,7 @@ Thế kỷ 20, với sự ra đời của [[Chủ Nghĩa Zion|Chủ nghĩa p
 - [[Hebrew]]
 - [[Người Do Thái]] kết tội và đóng đinh [[Đức Jesus]] trên [[Thập giá]]. Phát sinh ra [[Cơ Đốc Giáo]]
 - [[❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người]]
+- [[Các giáo phái Do Thái cổ]]
 
 
 
