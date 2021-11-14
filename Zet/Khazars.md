@@ -15,5 +15,10 @@ Khazars là chi tộc [[Người Do Thái]] thứ 13. Vương quốc của họ 
 
 ## Ideas & thoughts:
 - Trong [[Qmap]], hay [[Thuyết âm mưu]], Khazars là nguồn gốc của [[Khazarian Mafia]], [[Gia tộc Rothschild]]. Hậu duệ của Khazars cũng chính là những người xây dựng [[Chủ Nghĩa Zion]]
+- [[Khazars tự nhận mình là do thái Ashkenazi]]
 
-
+## Reference:
+- [Tái định cư của Khazars. Người Khazars hiện đại - Karaites ở Crimean (kerchtt.ru)](https://kerchtt.ru/vi/rasselenie-hazar-sovremennye-hazary-narodnost-krymskie-karaimy/)
+- [Sự thật về dân tộc Do Thái: Do Thái Israel và Do Thái Khazaria | VN-Zoom | Cộng đồng Chia Sẻ Kiến Thức Công Nghệ và Phần Mềm Máy Tính](https://vn-z.vn/threads/su-that-ve-dan-toc-do-thai-do-thai-israel-va-do-thai-khazaria.9795/)
+- [Rothschild – Một dòng họ gây chiến tàn bạo (vovankienthuc.com)](https://vovankienthuc.com/blog/rothschild-mot-dong-ho-gay-chien-tan-bao.303)
+- 

@@ -6,6 +6,6 @@
 	- previous note:
 
 ## Notes
-**Marcus Aurelius Antoninus Augustus** (ngày 26 tháng 4 năm 121 – 17 tháng 3 năm 180) là hoàng đế La Mã, là một triết gia [[Stoicism - Chủ nghĩa khắc kỷ]]
+**Marcus Aurelius Antoninus Augustus** (ngày 26 tháng 4 năm 121 – 17 tháng 3 năm 180) là hoàng đế La Mã, là một triết gia [[Chủ nghĩa khắc kỷ]]
 
 ## Questions & thoughts:

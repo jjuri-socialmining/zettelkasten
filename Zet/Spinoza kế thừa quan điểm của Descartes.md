@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[Baruch Spinoza]] kế thừa quan điểm của [[Descartes]]
+[[Baruch Spinoza]] kế thừa quan điểm của [[René Descartes]]
 
 ## Questions & thoughts:
 

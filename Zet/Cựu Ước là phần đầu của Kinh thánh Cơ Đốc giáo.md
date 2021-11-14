@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Kinh thánh [[Cựu Ước]] là phần đầu của bộ Kinh Thánh [[Kito Giáo]]
+Kinh thánh [[Cựu Ước]] là phần đầu của bộ Kinh Thánh [[Cơ Đốc Giáo]]
 
 ## Questions & thoughts:
 

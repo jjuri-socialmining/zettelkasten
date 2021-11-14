@@ -16,6 +16,5 @@ publish: True
 Các bộ lạc bao gồm: Judah, Issachar, Zebulun, Reuben, Simeon, Gad, Dan, Asher, Naphtali, Benjamin, Ephraim, Manasseh.
 
 ## Ideas & thoughts:
-
-[[💥 Từ Jew để chỉ chi tộc Judah]]
+- [[💥 Từ Jew để chỉ chi tộc Judah]]
 

@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Cain là con trai cả của [[Adam]] và [[Eva]]. 
+Cain là con trai cả của [[Adam và Eva]] và [[Eva]]. 
 
 ## Questions & thoughts:
 

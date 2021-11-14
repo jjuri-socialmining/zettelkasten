@@ -11,9 +11,3 @@
 ## Questions & thoughts:
 - [ ] Được nhắc đến trong [[@ Ryan Holiday, Ego is Enemy]] #question❓ 
 - [ ] 
-## Related:
-```dataview
-list
-from [[Ulysses S. Grant]]
-sort file.name asc
-```

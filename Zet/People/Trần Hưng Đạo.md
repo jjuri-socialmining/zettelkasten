@@ -16,25 +16,21 @@ publish: True
 
 ## Notes:
 Trần Hưng Đạo tên thật là Trần Quốc Tuấn, là một nhà quân sự, chính trị trong hoàng thất [[Nhà Trần|Nhà Trần]].
+
 [[Trần Hưng Đạo là con trai Trần Liễu]]. [[Trần Liễu là anh trai của vua Trần Thái Tông]].
 
 
 Trần Hưng Đạo là tác giả của:
+
 - [[Hịch tướng sĩ]]
 - [[Binh Thư yếu lược]]
 - [[Vạn Kiếp tông bí truyền thư]]
 - 
 
 ## Ideas & thoughts:
-[[Trần Hưng Đạo và Trần Quang Khải là hai anh em họ]]
-[[Theo Đại Việt sử ký, Trần Liễu trước lúc lâm trung dặn Trần Hưng Đạo cướp quyền nhà Trần]]
+- [[Trần Hưng Đạo và Trần Quang Khải là hai anh em họ]]
+- [[Theo Đại Việt sử ký, Trần Liễu trước lúc lâm trung dặn Trần Hưng Đạo cướp quyền nhà Trần]]
+- [[Tượng Trần Hưng Đạo ở Sài Gòn, Vũng Tàu, Quy Nhơn đều do thiết kế Phạm Thông]]
 
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Trần Hưng Đạo]]
-sort file.name asc
-```
+## Reference:
+- [Ai tạc tượng Trần Hưng Đạo ở bờ sông Sài Gòn? (vovankienthuc.com)](https://vovankienthuc.com/blog/ai-tac-tuong-tran-hung-dao-o-bo-song-sai-gon-.2359)

@@ -9,6 +9,7 @@ birth:
 death: 
 aliases:
   - Lý Hạo Sảm
+publish: True
 ---
 # Lý Huệ Tông
 
@@ -17,13 +18,3 @@ Lý Huệ Tông, tên thật là Lý Hạo Sảm, là vua thứ 8 của [[Nhà L
 
 ## Ideas & thoughts:
 [[Lý Huệ Tông truyền ngôi con gái út Lý Chiêu Hoàng]]
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Lý Huệ Tông]]
-sort file.name asc
-```

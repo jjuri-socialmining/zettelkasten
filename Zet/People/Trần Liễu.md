@@ -20,13 +20,3 @@ Năm 1237, vợ của ông là [[Thuận Thiên công chúa]] bị [[Trần Th�
 Trần Liễu là cha của [[Trần Hưng Đạo]], [[Trần Quốc Tung]]
 
 ## Ideas & thoughts:
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Trần Liễu]]
-sort file.name asc
-```

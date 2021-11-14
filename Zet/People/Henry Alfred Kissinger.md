@@ -11,7 +11,7 @@ aliases:
   - Heinz Alfred Kissinger
   - Kissinger
   - Henry Kissinger
-publish: False
+publish: True
 ---
 # Henry Alfred Kissinger
 

@@ -19,4 +19,4 @@ Chủ nghĩa Hiện sinh nhấn mạnh trải nghiệm, hành động của cá 
 Mỗi cá nhân tự chịu trách nhiệm cho ý nghĩa cuộc đời mình và sống hết mình cho cuộc đời đó.
 
 ## Ideas & thoughts:
-[[❕ Chủ nghĩa hư vô và chủ nghĩa hiện sinh]]
+- [[❕ Chủ nghĩa hư vô và chủ nghĩa hiện sinh]]

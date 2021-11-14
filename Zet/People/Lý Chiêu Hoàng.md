@@ -20,13 +20,3 @@ Lý Chiêu Hoàng (1218-1278) là hoàng đế cuối cùng của [[Nhà Lý]]. 
 Lý Chiêu Hoàng có [[Các tên gọi của vua Lý Chiêu Hoàng|nhiều tên gọi khác nhau]].
 
 ## Ideas & thoughts:
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Lý Chiêu Hoàng]]
-sort file.name asc
-```

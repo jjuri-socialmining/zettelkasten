@@ -7,6 +7,7 @@ tags:
   - '#flashcards'
 aliases:
   - Mông Kha Hãn
+publish: True
 ---
 # Mông Kha
 
@@ -15,13 +16,3 @@ Mông Kha là [[Đại Hãn]] thứ 4 của [[Mông Cổ]].
 
 ## Ideas & thoughts:
 
-
-## Questions:
-
-
-## Related:
-```dataview
-list
-from [[Mông Kha]]
-sort file.name asc
-```

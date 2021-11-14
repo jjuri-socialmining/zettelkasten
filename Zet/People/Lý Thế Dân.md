@@ -9,6 +9,7 @@ birth: 0900-01-28
 death: '649-07-10'
 aliases:
   - Đường Thái Tông
+publish: True
 ---
 # Lý Thế Dân
 
@@ -16,13 +17,3 @@ aliases:
 Lý Thế Dân là hoàng đế thứ 2 của [[Nhà Đường]]
 
 ## Ideas & thoughts:
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Lý Thế Dân]]
-sort file.name asc
-```

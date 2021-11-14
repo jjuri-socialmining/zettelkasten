@@ -6,7 +6,7 @@ tags:
   - '#created/2021/Oct/06'
   - 'seed🥜'
   - 'permanent/linking'
-publish: False
+publish: True
 ---
 # Thời dân Do Thái lưu đày Ai Cập, biến cố Vượt Qua được Chúa nói với Abraham trong sách sáng thế
 
@@ -14,6 +14,4 @@ publish: False
 Việc dân [[Người Do Thái]] lưu đày [[Ai Cập]], biến cố [[Vượt Qua]] và giải thoát đã được Chúa nói với [[Abraham]] trong sách ([[Genesis|Sáng Thế]] [[Gen-15#v13|15, 13]][[Gen-15#v14|-14]])
 
 ## Ideas & thoughts:
-
-## Questions:
 

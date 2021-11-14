@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Abel con trai thứ 2 của [[Adam]] và [[Eva]]. 
+Abel con trai thứ 2 của [[Adam và Eva]] và [[Eva]]. 
 
 ## Questions & thoughts:
 

@@ -15,7 +15,7 @@ publish: False
 ## Notes:
 - [[Con mắt ngàn năm]]
 - [[Pentacle Symbol]]
-- 
+- [[Ngôi sao David]] 
 ## Ideas & thoughts:
 
 ## Reference:

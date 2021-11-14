@@ -1,4 +1,3 @@
-
 ---
 title: Xung đột Israel - Palestine
 UID: 211109223316
@@ -7,7 +6,7 @@ tags:
   - 'created/2021/Nov/09'
   - 'seed🥜'
   - 'permanent/concept'
-publish: False
+publish: True
 ---
 # Xung đột Israel - Palestine
 

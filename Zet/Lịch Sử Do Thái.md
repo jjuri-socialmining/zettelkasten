@@ -1,15 +1,22 @@
 ---
+title: Lịch Sử Do Thái
+UID: 211113091335
+created: 13-Nov-2021
+tags:
+  - 'created/2021/Nov/13'
+  - 'garden🏡'
+  - 'permanent/fact'
 publish: True
 ---
-# Lịch Sử Do Thái MOC
+# Lịch Sử Do Thái
 
-%% - metadata:
-	- tags: #MOC %%
+## Notes:
 
 ### Khái quát các thời kỳ
 - [[Phân chia thời kỳ lịch sử Do Thái]]
 
 - [[Các sắc tộc Do Thái]]
+
 	- [[Người Do Thái Ashkenazi]]
 	- [[Người Do Thái Sephardi]]
 	- [[Người Do Thái Ethiopia]]

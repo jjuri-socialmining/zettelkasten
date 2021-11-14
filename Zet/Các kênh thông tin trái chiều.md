@@ -3,7 +3,7 @@ title: Các kênh thông tin trái chiều
 UID: 211005231658
 created: 05-Oct-2021
 tags:
-  - '#created/2021/Oct/05'
+  - 'created/2021/Oct/05'
   - 'garden🏡'
   - 'permanent/linking'
 publish: True
@@ -34,7 +34,8 @@ publish: True
 - [60 Minutes Australia](https://www.youtube.com/channel/UC0L1suV8pVgO4pCAIBNGx5w)
 - [nhanchuorg.blogspot.com](http://nhanchuorg.blogspot.com/2014/10/nghi-trinh-21-agenda-21-la-gi.html)
 - [Tin tức thời sự 24h, tin nhanh, tin mới - Chuyện tâm linh, bí ẩn, cuộc sống (tinhhoa.us)](https://tinhhoa.us/)
-- [KHOA HỌC - Phúc Nguyễn Blog (phucnguyenblog.com)](https://phucnguyenblog.com/khoa-hoc/)
+- [Vô vàn kiến thức (vovankienthuc.com)](https://vovankienthuc.com/)
+- [Trang chủ :: ChúngTa.com (chungta.com)](https://www.chungta.com/index.html) -> [[Nguyễn Trần Bạt]]
 
 ## Huyền bí
 - [albatross-uav.org](https://albatross-uav.org)
@@ -43,3 +44,4 @@ publish: True
 - [thuctinhtamlinh.blogspot.com](https://thuctinhtamlinh.blogspot.com/)
 - [thoidaitamlinh.top](https://www.thoidaitamlinh.top/)
 - [ancient-origins.net](https://www.ancient-origins.net/ancient-places-africa/adam-s-calendar-oldest-megalithic-site-world-003160)
+- [10 điều mà bạn không nên biết về hội kín illuminati - MysTown](https://mystown.com/2016/08/10-ieu-ma-ban-khong-nen-biet-ve-hoi-kin/)

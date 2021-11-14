@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Thiên Chúa
-  - Alah
+  - Allah
   - Chúa
   - Thần
   - Đấng tạo hóa
@@ -19,7 +19,8 @@ publish: True
 
 ## Notes:
 God tương đương với các định nghĩa
-  - Thiên Chúa trong [[Kito Giáo]] bao gồm [[Công Giáo]], [[Tin Lành]], [[Chính thống giáo Đông Phương]]
+
+  - Thiên Chúa trong [[Cơ Đốc Giáo]] bao gồm [[Công Giáo]], [[Tin Lành]], [[Chính thống giáo Đông Phương]]
   - Alah trong [[Hồi Giáo]]
   - Chúa
   - Thần

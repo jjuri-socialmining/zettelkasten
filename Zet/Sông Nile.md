@@ -1,3 +1,18 @@
+---
+title: Sông Nile
+created: July 27, 2021 10:49 PM
+tags:
+  - 'created/2021/Jul/27'
+  - 'seed🥜'
+  - 'permanent/concept'
+publish: False
+---
 # Sông Nile
 
-Property: July 27, 2021 10:49 PM
+## Notes:
+[[Sông Nile là con sông dài nhất thế giới]]. Sông Nile là một con sông ở [[Châu Phi]] với chiều dài 6,853 km.
+
+## Ideas & thoughts:
+
+## Reference:
+- [Những bí ẩn của sông Nile (tinhhoa.net)](https://tinhhoa.net/nhung-bi-an-cua-song-nile.html)

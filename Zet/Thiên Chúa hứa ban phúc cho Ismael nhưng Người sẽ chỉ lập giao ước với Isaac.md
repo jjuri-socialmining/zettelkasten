@@ -12,12 +12,12 @@ publish: True
 # Thiên Chúa hứa ban phúc cho Ismael nhưng Người sẽ chỉ lập giao ước với Isaac
 
 ## Notes:
-[[God]] hứa ban phúc cho [[Ismael]] nhưng Người sẽ chỉ lập giao ước với [[Isaac]] [^1]
+[[God]] hứa ban phúc cho [[Ishmael]] nhưng Người sẽ chỉ lập giao ước với [[Isaac]] [^1]
 
 ## Ideas & thoughts:
 - [[Abraham]]
 - [[Sarah]]
-- [[Haga]]
+- [[Hagar]]
 
 ## Questions:
 [^1]:[[Gen-17#v20]], [[Gen-17#v21]]

@@ -26,9 +26,3 @@ Chúa Nguyễn là tên gọi người/dòng họ cai trị xứ [[Đàng Trong]
 	- Phúc -> Phước
 	- Cảnh -> Kiểng
 	- ...
-
-## Related:
-```dataview
-list
-from [[Chúa Nguyễn]]
-```

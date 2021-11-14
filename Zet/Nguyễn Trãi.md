@@ -7,12 +7,3 @@
 
 ## Notes
 
-
-## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Nguyễn Trãi]]
-sort file.name asc
-```
