@@ -15,4 +15,5 @@ Chiến dịch [[Operation Mockingbird]] liên quan tới vụ ám sát [[John F
 
 ## Ideas & thoughts:
 
-
+## Ref:
+- [John F. Kennedy là ai - Bing (mystown.com)](https://mystown.com/2017/07/illuminati-tai-lieu-ve-operation/)

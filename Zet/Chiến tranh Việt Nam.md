@@ -17,14 +17,13 @@ publish: True
 Chiến tranh Việt Nam là ý nói đến cuộc chiến giữa Miền Bắc và Miền Nam Việt Nam. Hai bên có sự hậu thuẫn của Các nước Liên Xô, Trung Quốc và [[Hoa Kỳ]]
 
 ## Ideas & thoughts:
-
+- [[John F. Kennedy và Chiến tranh Việt Nam]]
 - [[Operation Mockingbird]]
-- [[John F. Kennedy phản đối chiến tranh Việt Nam]], đối đầu với [[McNamara]]
 - [[John F. Kennedy]]
+
+## Ref:
 - [illuminati - Tài liệu về Operation Mockingbird (Chim nhại) của chính phủ Hoa Kì - MysTown](https://mystown.com/2017/07/illuminati-tai-lieu-ve-operation/)
-
-Miền nam Việt Nam
 - Series mậu thân tại trang cánh hữu [blogchiasekienthuc.com](https://blogchiasekienthuc.com/series/mau-than-1968)
-
+- [Diễn Đàn Trái Chiều : BÀI 18: TT KENNEDY VÀ VIỆT NAM (diendantraichieu.blogspot.com)](https://diendantraichieu.blogspot.com/2018/04/tt-kennedy-va-viet-nam.html)
 
 
