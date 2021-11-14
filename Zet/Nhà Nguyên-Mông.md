@@ -23,13 +23,3 @@ Thời kỳ [[Bắc Nguyên]]: bắt đầu từ 1402 khi Quỷ Lực Xích sát
 
 ## Ideas & thoughts:
 
-
-## Questions:
-
-
-## Related:
-```dataview
-list
-from [[Nhà Nguyên]]
-sort file.name asc
-```

@@ -6,6 +6,7 @@ tags:
   - '#permanent/concept'
   - '#flashcards'
 aliases: [Nước Đại Lý]
+publish: True
 ---
 # Nước Đại Lý
 
@@ -15,13 +16,3 @@ Nước Đại Lý là một triều đại [[Lịch sử Trung Quốc]], tồn 
 ## Ideas & thoughts:
 - [[Đoàn Dự]]
 - [[@ Kim Dung, Thiên Long Bát Bộ]]
-
-## Questions:
-
-
-## Related:
-```dataview
-list
-from [[Nhà Đại Lý]]
-sort file.name asc
-```
