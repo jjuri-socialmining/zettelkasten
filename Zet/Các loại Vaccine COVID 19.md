@@ -11,6 +11,7 @@ publish: True
 
 ## Notes:
 Vaccin COVID-19 được chia làm 3 loại theo công nghệ sản xuất
+
 - [[Vaccine mRNA]]
 	- [[Vaccine Pfizer]]
 	- [[Vaccine Moderna]]

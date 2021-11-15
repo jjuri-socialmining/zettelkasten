@@ -16,6 +16,7 @@ publish: True
 
 [[Các loại Vaccine COVID 19]]:
 
+- [[Vaccine Vector]]
 - [[Vaccine mRNA|Công nghệ vaccine mRNA]]
 - [[Vaccine virus bất hoạt]]
 

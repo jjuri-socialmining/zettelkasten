@@ -8,6 +8,7 @@ tags:
 aliases: 
   - Đế Quốc Mông Cổ
   - Đại Mông Cổ Quốc
+publish: True
 ---
 # Đế Quốc Mông Cổ
 
@@ -19,13 +20,3 @@ aliases:
 
 ## Ideas & thoughts:
 
-
-## Questions:
-
-
-## Related:
-```dataview
-list
-from [[Đế Quốc Mông Cổ]]
-sort file.name asc
-```

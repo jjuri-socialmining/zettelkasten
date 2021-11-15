@@ -9,16 +9,21 @@ tags:
   - 'Qmap'
 aliases:
   - Vietnam War
-publish: False
+publish: True
 ---
 # Chiến tranh Việt Nam
 
 ## Notes:
-
+Chiến tranh Việt Nam là ý nói đến cuộc chiến giữa Miền Bắc và Miền Nam Việt Nam. Hai bên có sự hậu thuẫn của Các nước Liên Xô, Trung Quốc và [[Hoa Kỳ]]
 
 ## Ideas & thoughts:
-Miền nam Việt Nam
-- Series mậu thân tại trang cánh hữu [blogchiasekienthuc.com](https://blogchiasekienthuc.com/series/mau-than-1968)
+- [[John F. Kennedy và Chiến tranh Việt Nam]]
+- [[Operation Mockingbird]]
+- [[John F. Kennedy]]
 
-## Questions:
+## Ref:
+- [illuminati - Tài liệu về Operation Mockingbird (Chim nhại) của chính phủ Hoa Kì - MysTown](https://mystown.com/2017/07/illuminati-tai-lieu-ve-operation/)
+- Series mậu thân tại trang cánh hữu [blogchiasekienthuc.com](https://blogchiasekienthuc.com/series/mau-than-1968)
+- [Diễn Đàn Trái Chiều : BÀI 18: TT KENNEDY VÀ VIỆT NAM (diendantraichieu.blogspot.com)](https://diendantraichieu.blogspot.com/2018/04/tt-kennedy-va-viet-nam.html)
+
 

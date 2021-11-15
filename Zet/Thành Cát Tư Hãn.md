@@ -1,8 +1,8 @@
 ---
 title: "Thành Cát Tư Hãn"
-UID: 210817215343
+UID: 2108112050
 tags:
-  - '#created/2021/Aug/17'
+  - '#created/2021/Aug/11'
   - '#permanent/concept/people'
   - '#flashcards'
 aliases: 
@@ -14,20 +14,3 @@ aliases:
 ---
 
 # Thành Cát Tư Hãn
-
-- metadata
-	- UID: P-210811-2050
-	- tags: #created/2021/Aug/11, #permanent/people 
-	- source: 
-
-## Notes
-
-
-## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Thành Cát Tư Hãn]]
-sort file.name asc
-```
