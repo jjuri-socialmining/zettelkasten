@@ -1,12 +1,14 @@
+---
+title: Giao Châu thất hùng
+tags:
+  - 'created/2021/Jul/14'
+  - 'garden🏡'
+  - 'permanent/linking'
+publish: True
+---
 # Giao Châu thất hùng
 
-- metadata
-	- UID: P-210714-2051
-	- tags: #created/2021/Jul/14, #permanent/concept 
-	- previous note: [[Nguyễn Bặc]]
-	- source: https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_B%E1%BA%B7c
-
-## Notes
+## Notes:
 Giao Châu thất hùng là danh sách 7 vị anh hùng người [[Giao Châu]] được nhắc đến trong [[Việt sử tân biên]], danh sách này bao gồm:
 - [[Đinh Bộ Lĩnh]]
 - [[Đinh Liễn]]
@@ -16,5 +18,4 @@ Giao Châu thất hùng là danh sách 7 vị anh hùng người [[Giao Châu]] 
 - [[Phạm Hạp]]
 - [[Phạm Cự Lạng]]
 
-## Questions & thoughts:
-
+## Ideas & thoughts:

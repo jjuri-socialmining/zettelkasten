@@ -17,6 +17,8 @@ publish: True
 
 [[Kary B. Mullis chết vào 08-2019, trước đại dịch Covid vài tháng]]
 
+[[💬211106-1138|PCR detect sequence of virus, not detect themselves]]
+
 ## Ideas & thoughts:
 
 

@@ -12,9 +12,3 @@
 
 ## Related:
 - [[Nhà Hán thi hành chính sách đồng hóa và cai trị hà khắc]]
-```dataview
-list
-from [[Hai Bà Trưng]]
-sort file.name asc
-```
-

@@ -1,15 +1,19 @@
+---
+title: Hồ Quý Ly
+tags:
+  - 'created/2021/Jul/15'
+  - 'seed🥜'
+  - 'permanent/people'
+birth: 
+death: 
+publish: True
+---
 # Hồ Quý Ly
 
-- metadata
-	- UID: P-210715-2323
-	- tags: #created/2021/Jul/15, #permanent/people 
-	- source: 
-	- related: 
-
-## Notes
+## Notes:
 
 
-## Questions & thoughts:
+## Ideas & thoughts:
 - [ ] Hồ Quý Ly lập [[Nhà Hồ]]
 - [ ] Hồ Quý Ly sai người giết vua [[Trần Thuận Tông]]
 - [ ] Từng truất phế [[Trần Phế Đế]]

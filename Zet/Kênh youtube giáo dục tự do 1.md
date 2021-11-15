@@ -17,5 +17,5 @@ publish: True
 - [[BỆNH TIỂU ĐƯỜNG và MAFIA Y TẾ]]
 
 ## Ideas & thoughts:
-- Bệnh tiểu đường chữa trị đơn giản, [[Mafia y tế]] làm cho bệnh tiểu đường làm người bệnh hoang mang, càng uống thuốc. Chỉ cần thay đổi cách ăn uống và lối sống.
+- Bệnh tiểu đường chữa trị đơn giản, [[Big Medicine]] làm cho bệnh tiểu đường làm người bệnh hoang mang, càng uống thuốc. Chỉ cần thay đổi cách ăn uống và lối sống.
 - [[John D. Rockefeller]] ông trùm dâù hỏa.

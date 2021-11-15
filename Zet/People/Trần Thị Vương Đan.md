@@ -8,7 +8,7 @@ tags:
 birth: 
 death: 
 aliases:
-  - 
+  - Đan
 ---
 # Trần Thị Vương Đan
 

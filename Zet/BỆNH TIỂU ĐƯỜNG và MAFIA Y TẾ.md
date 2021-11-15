@@ -6,7 +6,7 @@ tags:
   - '#created/2021/Oct/04'
   - 'seed🥜'
   - 'permanent/concept'
-publish: False
+publish: True
 ---
 # BỆNH TIỂU ĐƯỜNG và MAFIA Y TẾ
 
@@ -34,5 +34,5 @@ Các chỉ số xét nghiệm cận trên cận dưới theo quy ước là khô
 
 ## Relate to:
 - [[Health]]
-- [[Mafia y tế]]
+- [[Big Medicine]]
 - [Thực dưỡng hiện đại](https://thucduonghiendai.com/)
