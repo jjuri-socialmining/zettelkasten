@@ -9,10 +9,3 @@
 [[Kinh thánh]] [[Cựu Ước]] có nguồn gốc từ kinh [[Tanakh]] của [[Do Thái Giáo]]
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Kinh thánh Cựu ước có nguồn gốc từ kinh Tanakh của Do Thái Giáo]]
-sort file.name asc
-```

@@ -10,11 +10,3 @@ Vườn địa đàng là một khu vườn được mô tả trong [[Cựu Ư�
 
 ## Questions & thoughts:
 - [ ] [[Trái cấm]]
-
-## Related:
-
-```dataview
-list
-from [[Vườn địa đàng]]
-sort file.name asc
-```

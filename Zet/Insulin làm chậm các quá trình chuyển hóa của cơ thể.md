@@ -9,10 +9,3 @@
 [[Insulin]] làm chậm các quá trình chuyển hóa của cơ thể. Tức là cơ thể bị ức chế khi nồng độ Insulin cao, bạn sẽ cảm thấy buồn ngủ sau khi ăn.
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Insulin làm chậm các quá trình chuyển hóa của cơ thể]]
-sort file.name asc
-```

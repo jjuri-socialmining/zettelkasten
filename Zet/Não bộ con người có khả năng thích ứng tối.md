@@ -9,10 +9,3 @@
 Não bộ của con người có khả năng thích ứng, các liên kết thần kinh có thể thay đổi được
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Não bộ con người có khả năng thích ứng tối]]
-sort file.name asc
-```

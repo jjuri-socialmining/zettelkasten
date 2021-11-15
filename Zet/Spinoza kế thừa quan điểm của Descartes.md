@@ -9,10 +9,3 @@
 [[Baruch Spinoza]] kế thừa quan điểm của [[René Descartes]]
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Spinoza kế thừa quan điểm của Descartes]]
-sort file.name asc
-```

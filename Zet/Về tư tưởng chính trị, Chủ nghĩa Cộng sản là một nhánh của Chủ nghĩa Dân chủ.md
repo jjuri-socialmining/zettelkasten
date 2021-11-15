@@ -9,10 +9,3 @@
 Về tư tưởng chính trị, [[Chủ nghĩa Cộng sản]] là một nhánh của [[Chủ nghĩa Dân chủ]]
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Về tư tưởng chính trị, Chủ nghĩa Cộng sản là một nhánh của Chủ nghĩa Dân chủ]]
-sort file.name asc
-```

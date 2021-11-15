@@ -5,6 +5,7 @@ tags:
   - '#created/2021/Aug/17'
   - '#permanent/fact'
   - '#flashcards'
+publish: True
 ---
 # Mông Kha là cháu nội Thành Cát Tư Hãn
 
@@ -12,14 +13,3 @@ tags:
 [[Mông Kha]] là cháu nội [[Thành Cát Tư Hãn]]
 
 ## Ideas & thoughts:
-
-
-## Questions:
-
-
-## Related:
-```dataview
-list
-from [[Mông Kha là cháu nội Thành Cát Tư Hãn]]
-sort file.name asc
-```

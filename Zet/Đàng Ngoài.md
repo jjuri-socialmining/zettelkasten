@@ -17,9 +17,3 @@ publish: True
 
 ## Ideas & thoughts:
 
-
-## Questions:
-
-## Related:
-
-

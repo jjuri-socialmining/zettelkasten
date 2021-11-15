@@ -1,9 +1,14 @@
+---
+title: Các đời tổng thống Hoa Kỳ
+tags:
+  - 'created/2021/Aug/08'
+  - 'garden🏡'
+  - 'permanent/fact'
+publish: True
+---
 # Các đời tổng thống Hoa Kỳ
 
-%% 
-- metadata:
-	- tags: #created/2021/Aug/08, #MOC 
-%%
+## Notes:
 
 Các đời tổng thống [[Hoa Kỳ]]
 
@@ -23,11 +28,5 @@ Các đời tổng thống [[Hoa Kỳ]]
 |           | [[Barack Obama]]          |     |
 |           | [[Joe Biden]]             |     |
 |           |                           |     |
-- 
-- 
-## Related:
-```dataview
-list
-from [[Các đời tổng thống Hoa Kỳ]]
-sort file.name asc
-```
+
+## Ideas & thoughts:

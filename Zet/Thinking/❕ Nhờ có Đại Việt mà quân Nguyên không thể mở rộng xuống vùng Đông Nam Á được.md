@@ -4,6 +4,7 @@ UID: 210816213545
 tags:
   - '#created/2021/Aug/16'
   - '#permanent/think'
+publish: True
 ---
 # Nhờ có Đại Việt mà quân Nguyên không thể mở rộng xuống vùng Đông Nam Á được
 
@@ -12,14 +13,3 @@ Nhờ có [[Đại Việt]] lãnh đạo bởi [[Nhà Trần]] mà [[Nhà Nguyê
 Việc thua trước quân nhà Trần lúc bấy giờ là một sự nhục nhã cực kỳ lớn. Thua một lần không phục đánh lần 2, thua hai lần càng tức quyết đánh lần 3, nhưng quá tam ba bận, đánh lần ba cũng thua thì đành từ bỏ ý đồ.
 
 ## Ideas & thoughts:
-
-
-## Questions:
-
-
-## Related:
-```dataview
-list
-from [[❕ Nhờ có Đại Việt mà quân Nguyên không thể mở rộng xuống vùng Đông Nam Á được]]
-sort file.name asc
-```

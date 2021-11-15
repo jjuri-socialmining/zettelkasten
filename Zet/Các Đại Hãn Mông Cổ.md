@@ -5,6 +5,7 @@ tags:
   - '#created/2021/Aug/17'
   - '#permanent/fact'
   - '#flashcards'
+publish: True
 ---
 # Các Đại Hãn Mông Cổ
 
@@ -17,13 +18,3 @@ Thứ tự các [[Đại Hãn]] Mông Cổ
 
 ## Ideas & thoughts:
 
-
-## Questions:
-
-
-## Related:
-```dataview
-list
-from [[Các Đại Hãn Mông Cổ]]
-sort file.name asc
-```

@@ -9,10 +9,3 @@
 Trung tâm của [[Sự no]] nằm ở [[Vùng hạ đồi - Hypothalamus]]
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Trung tâm sự no năm ở vùng hạ đồi]]
-sort file.name asc
-```

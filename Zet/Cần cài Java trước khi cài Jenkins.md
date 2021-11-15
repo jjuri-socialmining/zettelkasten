@@ -9,9 +9,3 @@
 [[Jenkins được viết bằng Java]], nên muốn cài được [[Jenkins]], máy tính của bạn cần phải cài đặt [[Java]] sẵn.
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Cần cài Java trước khi cài Jenkins]]
-```

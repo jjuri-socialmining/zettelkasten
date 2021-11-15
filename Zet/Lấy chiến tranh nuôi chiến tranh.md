@@ -7,6 +7,7 @@ tags:
   - '#flashcards'
 aliases: 
   - "Lấy chiến tranh nuôi chiến tranh"
+publish: True
 ---
 # Lấy chiến tranh nuôi chiến tranh
 
@@ -18,14 +19,3 @@ Lấy chiến tranh nuôi chiến tranh là thuật ngữ được sử dụng b
 Trái ngược với [[Vườn không nhà trống|Tiêu Thổ]]
 
 ## Ideas & thoughts:
-
-
-## Questions:
-
-
-## Related:
-```dataview
-list
-from [[Lấy chiến tranh nuôi chiến tranh]]
-sort file.name asc
-```

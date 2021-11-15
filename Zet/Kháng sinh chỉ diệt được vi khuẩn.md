@@ -10,10 +10,3 @@
 [[Kháng sinh]] chỉ diệt được [[Vi khuẩn]]
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Kháng sinh chỉ diệt được vi khuẩn]]
-sort file.name asc
-```
