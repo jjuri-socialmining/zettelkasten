@@ -30,14 +30,14 @@
     "maxLinkFactor": 1,
     "logLevel": 1
   },
-  "buryDate": "2021-11-15",
+  "buryDate": "2021-11-17",
   "buryList": [],
   "cache": {
     "Zet/Đế Quốc Mông Cổ.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1632559206518,
+      "lastUpdated": 1636990542724,
       "dueDatesFlashcards": {}
     },
     "Zet/Đại Việt.md": {
@@ -86,14 +86,14 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1632559205745,
+      "lastUpdated": 1636987644216,
       "dueDatesFlashcards": {}
     },
     "Zet/Triệu Đà truyền ngôi cho con của Trọng Thủy.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1632559204576,
+      "lastUpdated": 1636987993389,
       "dueDatesFlashcards": {}
     },
     "Zet/Tiêu Viễn Sơn.md": {
@@ -114,7 +114,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1632559203945,
+      "lastUpdated": 1636990542721,
       "dueDatesFlashcards": {}
     },
     "Zet/Theo các nghiên cứu sử học, thời đại các vua Hùng chỉ tồn khoảng 300 năm chứ không đến 2000 năm.md": {
@@ -130,9 +130,9 @@
       "nextDueDate": "2021-08-26",
       "lastUpdated": 1632559188382,
       "dueDatesFlashcards": {
-        "-78": 1,
-        "-81": 1,
-        "-76": 1
+        "-80": 1,
+        "-83": 1,
+        "-78": 1
       }
     },
     "Zet/Sử Trung Quốc có 2 nhà Hán cách nhau một thời gian ngắn.md": {
@@ -183,10 +183,10 @@
       "nextDueDate": "2021-09-22",
       "lastUpdated": 1632559184680,
       "dueDatesFlashcards": {
-        "-50": 1,
-        "-54": 1,
         "-52": 1,
-        "-53": 1
+        "-56": 1,
+        "-54": 1,
+        "-55": 1
       }
     },
     "Zet/Notion-2-Obsidian.md": {
@@ -200,7 +200,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1633623027116,
+      "lastUpdated": 1636990542720,
       "dueDatesFlashcards": {}
     },
     "Zet/Nhà Tiền Hán.md": {
@@ -214,7 +214,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1632559184587,
+      "lastUpdated": 1636990542719,
       "dueDatesFlashcards": {}
     },
     "Zet/Nhà Liêu.md": {
@@ -263,7 +263,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1632559180521,
+      "lastUpdated": 1636990115013,
       "dueDatesFlashcards": {}
     },
     "Zet/Macronutrient.md": {
@@ -277,7 +277,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1632559183691,
+      "lastUpdated": 1636990041139,
       "dueDatesFlashcards": {}
     },
     "Zet/Lê Thánh Tông.md": {
@@ -340,7 +340,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1632559164888,
+      "lastUpdated": 1636989277732,
       "dueDatesFlashcards": {}
     },
     "Zet/Chất xơ.md": {
@@ -349,9 +349,9 @@
       "nextDueDate": "2021-09-14",
       "lastUpdated": 1632559167944,
       "dueDatesFlashcards": {
-        "-62": 1,
-        "-61": 1,
-        "-60": 1
+        "-64": 1,
+        "-63": 1,
+        "-62": 1
       }
     },
     "Zet/Bảo Đại.md": {
@@ -372,7 +372,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1632559161320,
+      "lastUpdated": 1636988776877,
       "dueDatesFlashcards": {}
     },
     "Zet/7-4-1945, Bảo Đại phê chuẩn Nội các Trần Trọng Kim.md": {
