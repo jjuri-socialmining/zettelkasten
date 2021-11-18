@@ -19,12 +19,16 @@ Người khởi đầu lịch sử Gia tộc Rothschild là [[Mayer Amschel Baue
 
 ## Ideas & thoughts:
 - Kiểm soát hệ thống ngân hàng thế giới
-	- [[FED]] không thuộc Mỹ
+	- 1913, Thành lập [[FED]] không thuộc Mỹ
+	- Thành lập [[FBI]] để bảo vệ các chủ ngân hàng.
 - Liệt kê trong [[Qmap]]
 - [[@ vovankienthuc.com, Rothschild – Một dòng họ gây chiến tàn bạo]]
-
-
+- [[@ Huy Phạm, Mật sử luận 4 - Rothschild và Mafia Khazaria|Theo Mật sử luận 4 của Huy Phạm]], từ Rothschild bắt nguồn từ tên ngôi nhà mà dòng họ Bauer sống địa chỉ 69 Judengasse, có tên là “zum Rot (h) en Schild”, tiếng Đức là Red Shield.
+- 
 ## Reference:
+- [[@ Huy Phạm, Mật sử luận 3 - Lịch sử Khazaria Mafia]]
+- [[@ Huy Phạm, Mật sử luận 4 - Rothschild và Mafia Khazaria]]
+- [[@ Huy Phạm, Mật sử luận 5 - KMR]]
 - [[History Of The House Of Rothschild - By Andrew Hitchcock.pdf]]
 - [Rothschild Khazarian Mafia (RKM) & Zionists – Brutal Proof](https://brutalproof.net/topic/rothschild-khazarian-mafia-rkm-zionists/)
 - [NEW Bí Ẩn Gia Tộc Rothschild Ngày Nay, Gia Tộc Bí Ẩn Rothschild (leephan.com)](https://leephan.com/new-bi-an-gia-toc-rothschild-ngay-nay-gia-toc-bi-an-rothschild/)

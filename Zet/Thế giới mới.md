@@ -15,7 +15,7 @@ publish: False
 
 ## Ideas & thoughts:
 - [[Donald J. Trump]]
-- [[Tập Cận Bình]]
+- [[Zet/People/Tập Cận Bình]]
 - [[Vladimir Putin]]
 - [[Vaccine Pfizer|Pfizer]]
 ## Questions:

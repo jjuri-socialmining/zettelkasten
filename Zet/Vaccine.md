@@ -16,5 +16,5 @@ publish: True
 ## Ideas & thoughts:
 - [[Vaccination]]
 - [[Edward Jenner]]
-
+- [[Virus SV-40]] gây ung thư chậm có trong vaccine theo [[@ Huy Phạm, Mật sử luận 6]].
 

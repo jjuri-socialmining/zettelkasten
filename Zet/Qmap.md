@@ -129,7 +129,7 @@ Qmap là một biểu đồ liệt kê rất nhiều thông tin, sự kiện bí
 - [[Lenin]]
 - [[Stalin]]
 - [[Marxism]]
-- [[Cách mạng tháng 10]]
+- [[Cách mạng tháng 10 Nga]]
 
 ### [[Ignatius of Loyola]]
 - [[Dòng Tên]]

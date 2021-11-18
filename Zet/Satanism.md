@@ -9,7 +9,7 @@ tags:
   - 'Qmap'
 aliases:
   - Satan giáo
-publish: False
+publish: True
 ---
 # Satanism
 
@@ -20,4 +20,4 @@ Satanism, hay Satan giáo, là một giáo phái ngầm tôn thờ [[Satan]].
 - [[Anton Lavey]]
 - [[Mật mã Da Vinci]], [[Dan Brown]]
 - [[Hội Illuminati]]
-
+- Satanism liên quan tới [[Talmudism Babylon]] theo [[@ Huy Phạm, Mật sử luận 5 - KMR]]

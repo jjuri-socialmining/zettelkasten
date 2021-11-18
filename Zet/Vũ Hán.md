@@ -15,7 +15,7 @@ Vũ Hán một thành phố công nghệ nằm ở trung tâm [[Trung Quốc]] t
 
 ## Ideas & thoughts:
 - Mình từng đi công tác rất nhiều lần tại đây tại công ty [[FiberHome]]
-- [[Tập Cận Bình]] từng đến đây khi mình đang công tác, sẽ có bài viết về vụ này
+- [[Zet/People/Tập Cận Bình]] từng đến đây khi mình đang công tác, sẽ có bài viết về vụ này
 
 ## Questions:
 

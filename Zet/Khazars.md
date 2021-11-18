@@ -11,7 +11,7 @@ publish: True
 # Khazars
 
 ## Notes:
-Khazars là chi tộc [[Người Do Thái]] thứ 13. Vương quốc của họ là [[Khazarian]].
+Khazars là chi tộc [[Người Do Thái]] thứ 13. Vương quốc của họ là [[Khazaria]].
 
 ## Ideas & thoughts:
 - Trong [[Qmap]], hay [[Thuyết âm mưu]], Khazars là nguồn gốc của [[Khazarian Mafia]], [[Gia tộc Rothschild]]. Hậu duệ của Khazars cũng chính là những người xây dựng [[Chủ Nghĩa Zion]]
