@@ -1,18 +1,15 @@
+---
+title: Chủ nghĩa Stalin thuộc loại chủ nghĩa toàn trị
+UID: 2107181137
+tags:
+  - 'created/2021/Jul/18'
+  - 'seed🥜'
+  - 'permanent/fact'
+publish: False
+---
 # Chủ nghĩa Stalin thuộc loại chủ nghĩa toàn trị
 
-- metadata
-	- UID: P-210718-1137
-	- tags: #created/2021/Jul/18, #permanent/fact 
-	- source: [[@ wiki, Chủ nghĩa Stalin]]
-
-## Notes
+## Notes:
 [[Chủ nghĩa Stalin]] thuộc loại [[Chủ nghĩa toàn trị]]
 
-## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Chủ nghĩa Stalin thuộc loại chủ nghĩa toàn trị]]
-sort file.name asc
-```
+ [[@ wiki, Chủ nghĩa Stalin]]

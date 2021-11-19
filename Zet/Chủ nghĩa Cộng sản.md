@@ -9,11 +9,3 @@
 
 
 ## Questions & thoughts:
-
-
-## Related:
-```dataview
-list
-from [[Chủ nghĩa Cộng sản]]
-sort file.name asc
-```

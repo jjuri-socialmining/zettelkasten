@@ -75,6 +75,14 @@ Qmap là một biểu đồ liệt kê rất nhiều thông tin, sự kiện bí
 - [[Các cuộn sách biển Chết]]
 - [[John Pierpont Morgan]]
 - [[Titanic]]
+- [[John Pierpont Morgan]]
+
+
+## [[Gia tộc Rothschild|Rothschild]]
+- [[Khazarian Mafia]]
+- [[Tháp Mentmore|Mentmore tower]]
+- [[FED|Federal Reserve System - FED]]
+
 
 
 ## [[Clinton Foundation]] 
@@ -101,7 +109,7 @@ Qmap là một biểu đồ liệt kê rất nhiều thông tin, sự kiện bí
 ![[Pasted image 20211026232120.png]]
 
 - [[Nữ thần ISIS]]
-- [[Thần RA]]
+- [[Thần Ra]]
 - [[Thuyết nguyên tử|Atonism]]
 - [[Biblical Kings]]
 - 
@@ -127,7 +135,7 @@ Qmap là một biểu đồ liệt kê rất nhiều thông tin, sự kiện bí
 
 ### [[USSR]]
 - [[Lenin]]
-- [[Stalin]]
+- [[Joseph Stalin]]
 - [[Marxism]]
 - [[Cách mạng tháng 10 Nga]]
 
