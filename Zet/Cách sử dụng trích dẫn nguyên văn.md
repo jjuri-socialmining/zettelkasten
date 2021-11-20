@@ -17,11 +17,3 @@ Ví dụ:
 
 Đối với những tài liệu **không có ngày tháng**, ghi **n.d:**
 Smith (n.d.) has written and demonstrated …
-
-## Related:
-- [[In-text citation - Trích dẫn nguyên văn]]
-```dataview
-list
-from [[Cách sử dụng Intext Citation]]
-sort file.name asc
-```

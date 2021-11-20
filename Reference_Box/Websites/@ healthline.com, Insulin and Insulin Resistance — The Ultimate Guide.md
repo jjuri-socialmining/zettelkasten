@@ -1,13 +1,14 @@
 ---
-title: 'Insulin and Insulin Resistance — The Ultimate Guide'
-notion_url: https://www.notion.so/07cb7ca456f4475dbb606b55e3a5b315
-Created: September 3, 2021 3:20 PM
-Notion tags: #notion, #created/2021/Sep/03
-Property: September 3, 2021 3:22 PM
-URL: https://www.healthline.com/nutrition/insulin-and-insulin-resistance
+title: '@ healthline.com, Insulin and Insulin Resistance — The Ultimate Guide'
+created: September 3, 2021 3:22 PM
+tags:
+  - 'created/2021/Sep/03'
+  - 'source/website'
 ---
-# Insulin and Insulin Resistance — The Ultimate Guide
+# @ healthline.com, Insulin and Insulin Resistance — The Ultimate Guide
+https://www.healthline.com/nutrition/insulin-and-insulin-resistance
 
+## Notes:
 
 ![[Male_Phone_Fence_732x549-thumbnail.jpg]]
 

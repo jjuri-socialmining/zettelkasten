@@ -9,6 +9,7 @@ birth: 163
 death: 221
 aliases:
   - Dực Đức
+publish: True
 ---
 # Trương Phi
 
@@ -16,13 +17,3 @@ aliases:
 Trương Phi là một tướng nổi tiếng của [[Thục Hán]] dưới thời [[Tam Quốc]]
 
 ## Ideas & thoughts:
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Trương Phi]]
-sort file.name asc
-```

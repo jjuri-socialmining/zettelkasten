@@ -17,13 +17,3 @@ Sau khi một vị [[Zet/People/Đức Giáo Hoàng|Giáo Hoàng]] qua đời ho
 
 ## Ideas & thoughts:
 [[Zet/People/Đức Giáo Hoàng]]
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Bầu giáo hoàng]]
-sort file.name asc
-```

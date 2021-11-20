@@ -23,10 +23,3 @@ aliases:
 
 ## Ideas & Thoughts:
 Những người băn khoăn, lạc lối không biết [[❕ Ý nghĩa cuộc sống|Ý nghĩa cuộc đời]] thường tìm đến những thứ thay đổi nhận thức, trải nghiệm [[LSD trip]]
-
-## Tham khảo:
-```dataview
-list
-from [[Tìm hiểu nấm thức thần]]
-sort file.name asc
-```

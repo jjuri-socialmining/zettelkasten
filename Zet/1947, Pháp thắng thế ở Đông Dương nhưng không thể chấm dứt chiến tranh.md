@@ -10,9 +10,3 @@
 
 ## Questions & thoughts:
 
-## Related:
-```dataview
-list
-from [[1947, Pháp thắng thế ở Đông Dương nhưng không thể chấm dứt chiến tranh]]
-sort file.name asc
-```

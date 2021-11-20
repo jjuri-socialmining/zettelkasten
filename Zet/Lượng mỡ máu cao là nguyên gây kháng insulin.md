@@ -5,8 +5,7 @@ tags:
   - '#created/2021/Sep/03'
   - '#seed🥜'
   - '#permanent/fact'
-aliases:
-  - 
+publish: True
 ---
 # Lượng mỡ máu cao là nguyên gây kháng insulin
 
@@ -15,13 +14,3 @@ Lượng mỡ máu cao là nguyên gây ra [[Insulin resistance|Kháng Insulin]]
 
 ## Ideas & thoughts:
 [[Insulin kích thích tế bào mở màng bào tương]]. Vì thế, [[Insulin giúp glucose từ máu đi vào tế bào]].
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Lượng mỡ máu cao là nguyên gây kháng insulin]]
-sort file.name asc
-```

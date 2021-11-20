@@ -10,6 +10,7 @@ dates:
   - die:
 aliases:
   - Dương Diên Nghệ
+publish: True
 ---
 # Dương Đình Nghệ
 
@@ -20,14 +21,4 @@ Ngô quyền được Dương Đình Nghệ gả con gái là [[Dương Thị Nh
 
 ## Ideas & thoughts:
 
-
-## Questions:
-
-
-## Related:
-```dataview
-list
-from [[Dương Đình Nghệ]]
-sort file.name asc
-```
 [^1]: [[@ Nguyễn Khắc Thuần, Thế thứ các triều vua Việt Nam]], Chương 3

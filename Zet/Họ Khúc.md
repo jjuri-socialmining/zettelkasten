@@ -7,6 +7,7 @@ tags:
   - '#flashcards'
 aliases: 
   - "Họ Khúc"
+publish: True
 ---
 # Họ Khúc
 
@@ -21,16 +22,5 @@ Nhân cơ hội này, [[Khúc Thừa Dụ]] đứng lên nắm chính quyền. H
 Năm 930, nhà Nam Hán đưa quân sang xâm lược, [[Khúc Thừa Mỹ]] bị bắt. [^1]
 
 ## Ideas & thoughts:
-
-
-## Questions:
-
-
-## Related:
-```dataview
-list
-from [[Họ Khúc]]
-sort file.name asc
-```
 
 [^1]: [[@ Nguyễn Khắc Thuần, Thế thứ các triều vua Việt Nam]], Chương 3

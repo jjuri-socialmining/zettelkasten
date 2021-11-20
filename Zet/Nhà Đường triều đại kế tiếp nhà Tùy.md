@@ -9,10 +9,3 @@
 [[Nhà Đường]] triều đại kế tiếp [[Nhà Tùy]]
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Nhà Đường triều đại kế tiếp nhà Tùy]]
-sort file.name asc
-```

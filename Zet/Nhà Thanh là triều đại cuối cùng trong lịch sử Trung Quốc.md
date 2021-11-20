@@ -9,10 +9,3 @@
 [[Nhà Thanh]] là triều đại cuối cùng trong [[Lịch sử Trung Quốc]]
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Nhà Thanh là triều đại cuối cùng trong lịch sử Trung Quốc]]
-sort file.name asc
-```

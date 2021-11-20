@@ -10,10 +10,3 @@
 - [[Gluten có đặc tính dẻo dai và độ dính giúp làm bánh]]
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Gluten có trong các sản phẩm bánh]]
-sort file.name asc
-```

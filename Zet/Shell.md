@@ -5,8 +5,7 @@ tags:
   - '#created/2021/Aug/30'
   - '#seed🥜'
   - '#permanent/concept'
-aliases:
-  - Shell
+publish: True
 ---
 # Shell
 
@@ -16,13 +15,3 @@ Shell là một phần mềm được phát triển trên hệ điều hành Uni
 ## Ideas & thoughts:
 [[❕ Mọi người thường nhầm lẫn giữa shell và bash hoặc sh]]
 [[❕ Khái niệm shell tương ứng với phần mềm terminal, console]]
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Shell]]
-sort file.name asc
-```

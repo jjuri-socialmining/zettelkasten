@@ -7,6 +7,7 @@ tags:
   - '#permanent/concept'
 aliases:
   - Garden state
+publish: True
 ---
 # Garden state
 

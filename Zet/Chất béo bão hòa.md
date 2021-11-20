@@ -7,6 +7,7 @@ tags:
   - '#permanent/concept'
 aliases:
   - saturated fat
+publish: True
 ---
 # Chất béo bão hòa
 
@@ -17,13 +18,3 @@ Chất béo bão hòa là các [[Axit béo bão hòa]] trong phân tử không c
 
 ## Ideas & thoughts:
 - [[Chất béo không bão hòa]]
-- 
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Chất béo bão hòa]]
-sort file.name asc
-```

@@ -20,10 +20,3 @@ Các dân tộc Tungus là các dân tộc sống ở vùng Đông Bắc [[Trung
 - Người Xibe
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Các dân tộc Tungus]]
-sort file.name asc
-```

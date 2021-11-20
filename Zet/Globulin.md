@@ -11,7 +11,7 @@ Globulin là là một loại protein trong máu, chính xác hơn là một th�
 Globulin có ba loại chính:
 - Alpha Globulin
 - Beta Globulin
-- [[Gamma protein]]
+- [[Kháng thể]]
 
 ## Questions & thoughts:
 -  Gamma protein là immunoglobulin, Huyết thanh miễn dịch, Globulin miễn dịch. Tức là Glubulin bao gồm huyết thanh miễn dịch... #question❓ 

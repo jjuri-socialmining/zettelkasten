@@ -9,11 +9,3 @@
 Sát-đế-lợi (Kshastriya): là hàng vua chúa quý phái, Ấn Độ giáo coi họ sinh từ cánh tay Brahma
 
 ## Questions & thoughts:
-
-
-## Related:
-```dataview
-list
-from [[Đẳng cấp Kshastriya]]
-sort file.name asc
-```

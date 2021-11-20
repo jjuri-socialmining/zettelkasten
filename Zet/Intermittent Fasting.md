@@ -7,6 +7,7 @@ tags:
   - '#permanent/concept'
 aliases:
   - Nhịn ăn cách quãng
+publish: True
 ---
 # Intermittent Fasting
 
@@ -17,13 +18,3 @@ Chế độ nhịn ăn cách quãng phổ biến là [[Intermittent Fasting 16-8
 [[Chế độ ăn 5-2]] ^b59879
 
 ## Ideas & thoughts:
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Intermittent Fasting]]
-sort file.name asc
-```

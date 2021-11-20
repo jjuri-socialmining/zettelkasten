@@ -10,10 +10,3 @@ Thủ-Đà-La (Sudra): là hàng tiện dân, họ được xem là đã sinh ra
 
 ## Questions & thoughts:
 
-
-## Related:
-```dataview
-list
-from [[Đẳng cấp Sudra]]
-sort file.name asc
-```

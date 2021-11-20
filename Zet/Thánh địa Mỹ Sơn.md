@@ -5,8 +5,7 @@ tags:
   - '#created/2021/Sep/08'
   - '#seed🥜'
   - '#permanent/place'
-aliases:
-  - 
+publish: True
 ---
 # Thánh địa Mỹ Sơn
 
@@ -16,12 +15,3 @@ Thánh địa Mỹ Sơn là một khu đền đài [[Ấn Độ giáo]] nằm �
 
 ## Ideas & thoughts:
 Các khu đền đài tương tự trong khu vực: [[Borobudur]], [[Angkor Wat]],...
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Thánh địa Mỹ Sơn]]
-sort file.name asc
-```

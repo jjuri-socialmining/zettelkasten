@@ -6,10 +6,3 @@
 
 ## Note:
 Benedict Spinoza tên gọi khác của [[Baruch Spinoza]]
-
-## Related:
-```dataview
-list
-from [[Benedict Spinoza]]
-sort file.name asc
-```

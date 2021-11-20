@@ -8,6 +8,7 @@ tags:
 aliases:
   - bash
   - Bourne-Again Shell
+publish: True
 ---
 # bash
 
@@ -21,15 +22,5 @@ Các ngôn ngữ tương ứng với bash:
 ## Ideas & thoughts:
 - [[Ngôn ngữ bash được cải tiến dựa trên nền tảng của sh]]
 - Lỗ hổng bảo mật [[Shellshock]]
-[[sh đơn giản và gọn nhẹ hơn bash]]
-[[Một hệ điều hành Unix có thể không có bash nhưng sẽ luôn có sh]]
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[bash]]
-sort file.name asc
-```
+- [[sh đơn giản và gọn nhẹ hơn bash]]
+- [[Một hệ điều hành Unix có thể không có bash nhưng sẽ luôn có sh]]

@@ -7,6 +7,7 @@ tags:
   - '#permanent/concept'
 aliases:
   - Phông chữ kiểu serif
+publish: True
 ---
 # Phông chữ kiểu serif
 
@@ -17,13 +18,3 @@ Phông chữ kiểu serif là phông chữ có chân, là phông chữ có một
 
 ## Ideas & thoughts:
 Trái ngược lại là [[Phông chữ Sans Serif]]
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Phông chữ kiểu Serif]]
-sort file.name asc
-```

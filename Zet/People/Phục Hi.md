@@ -7,8 +7,6 @@ tags:
   - '#permanent/people'
 birth: 
 death: 
-aliases:
-  - 
 publish: True
 ---
 # Phục Hi
@@ -18,13 +16,3 @@ publish: True
 
 ## Ideas & thoughts:
 [[Kinh Dịch]]
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Phục Hi]]
-sort file.name asc
-```

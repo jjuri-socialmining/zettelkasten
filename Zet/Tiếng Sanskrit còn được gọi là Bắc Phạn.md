@@ -5,8 +5,7 @@ tags:
   - '#created/2021/Sep/07'
   - '#seed🥜'
   - '#permanent/fact'
-aliases:
-  - 
+publish: True
 ---
 # Tiếng Sanskrit còn được gọi là Bắc Phạn
 
@@ -14,13 +13,3 @@ aliases:
 [[Tiếng Sanskrit]] còn được gọi là Bắc Phạn
 
 ## Ideas & thoughts:
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Tiếng Sanskrit còn được gọi là Bắc Phạn]]
-sort file.name asc
-```

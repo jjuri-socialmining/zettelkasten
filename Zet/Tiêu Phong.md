@@ -6,6 +6,7 @@ tags:
   - '#permanent/concept'
   - '#flashcards'
 aliases: [Tiêu Phong, Kiều Phong]
+publish: True
 ---
 # Tiêu Phong
 
@@ -16,16 +17,4 @@ Tiêu Phong là con của [[Tiêu Viễn Sơn]]
 Tiêu Phong là anh em kết nghĩa với [[Hư Trúc]] và [[Đoàn Dự]]
 
 
-
 ## Ideas & thoughts:
-
-
-## Questions:
-
-
-## Related:
-```dataview
-list
-from [[Tiêu Phong]]
-sort file.name asc
-```

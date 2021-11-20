@@ -11,10 +11,3 @@
 
 ## Questions & thoughts:
 
-
-## Related:
-```dataview
-list
-from [[Sandbox có một số tương đồng với Deliberate practice]]
-sort file.name asc
-```

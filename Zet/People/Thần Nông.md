@@ -7,8 +7,7 @@ tags:
   - '#permanent/people'
 birth: 
 death: 
-aliases:
-  - 
+publish: True
 ---
 # Thần Nông
 
@@ -18,13 +17,3 @@ Thần Nông được xem là [[Tam Hoàng Trung Hoa|Tam Hoàng]] của người
 
 
 ## Ideas & thoughts:
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Thần Nông]]
-sort file.name asc
-```

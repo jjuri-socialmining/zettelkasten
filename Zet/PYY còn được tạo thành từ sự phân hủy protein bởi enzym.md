@@ -9,10 +9,3 @@
 [[Hormone PYY]] còn được tạo thành từ sự phân hủy [[Protein]] bởi [[enzym]] có trong ruột
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[PYY còn được tạo thành từ sự phân hủy protein bởi enzym]]
-sort file.name asc
-```

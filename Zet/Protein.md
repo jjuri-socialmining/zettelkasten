@@ -15,7 +15,7 @@ aliases:
 Thành phần Protein bao gồm C, H, O giống [[Carbohydrate]] còn có thêm N (nitơ) và S (lưu huỳnh).
 
 ## Ideas & thoughts:
-[[Gamma protein]]
+[[Kháng thể]]
 
 ## Questions:
 

@@ -10,9 +10,3 @@
 
 ## Questions & thoughts:
 - [ ] Từng bị giam trong trại tập trung của [[Đảng Quốc Xã]] Đức
-## Related:
-```dataview
-list
-from [[Viktor Frankl]]
-sort file.name asc
-```

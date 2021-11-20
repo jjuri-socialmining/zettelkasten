@@ -7,6 +7,7 @@ tags:
   - '#permanent/concept'
 aliases:
   - Tiên Tần
+publish: True
 ---
 # Tiên Tần
 
@@ -15,13 +16,3 @@ Tiên Tần là một khái niệm để chỉ một khoảng thời gian trong 
 Tiên Tần bao cũng có ý chỉ 3 thời đại [[Nhà Hạ]], [[Nhà Thương]], [[Nhà Chu]].
 
 ## Ideas & thoughts:
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Tiên Tần]]
-sort file.name asc
-```

@@ -17,12 +17,3 @@ aliases:
 
 ## Ideas & thoughts:
 [[Nhà Thương]]
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Thành Thang]]
-sort file.name asc
-```

@@ -10,10 +10,3 @@ Khi đói, nên chọn một loại thực phẩm có [[Glycemic Index]] thấp 
 
 ## Questions & thoughts:
 [[❓210815-2047]]
-
-## Related:
-```dataview
-list
-from [[Khi đói, nên chọn một loại thực phẩm có GI thấp]]
-sort file.name asc
-```

@@ -5,6 +5,7 @@ tags:
   - '#created/2021/Aug/21'
   - '#permanent/fact'
   - '#flashcards'
+publish: True
 ---
 # Hồ Quý Ly còn được gọi là Lê Quý Ly
 
@@ -13,14 +14,4 @@ tags:
 
 ## Ideas & thoughts:
 
-
-## Questions:
-
-
-## Related:
-```dataview
-list
-from [[Hồ Quý Ly còn được gọi là Lê Quý Ly]]
-sort file.name asc
-```
 [^1]: [[@ Nguyễn Khắc Thuần, Thế thứ các triều vua Việt Nam]], chương 6

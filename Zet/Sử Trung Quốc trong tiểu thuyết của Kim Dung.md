@@ -6,8 +6,7 @@ tags:
   - '#created/2021/Aug/28'
   - '#garden🏡'
   - '#permanent/fact'
-aliases:
-  - 
+publish: True
 ---
 # Sử Trung Quốc trong tiểu thuyết của Kim Dung
 
@@ -31,13 +30,3 @@ Sử Trung Quốc trong tiểu thuyết của [[Kim Dung]]
 
 
 ## Ideas & thoughts:
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Sử Trung Quốc trong tiểu thuyết của Kim Dung]]
-sort file.name asc
-```

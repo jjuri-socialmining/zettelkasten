@@ -19,13 +19,3 @@ Huyết áp là áp lực của máu lên thành mạch máu trong cơ thể.
 [[Huyết áp tâm trương]]
 
 ## Ideas & thoughts:
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Huyết áp]]
-sort file.name asc
-```

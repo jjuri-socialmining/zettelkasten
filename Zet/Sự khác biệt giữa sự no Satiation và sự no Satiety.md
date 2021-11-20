@@ -11,10 +11,3 @@ Sự khác biệt giữa sự no [[Satiation]] và sự no [[Satiety]]
 - [[Satiety]] dựa trên các chất tạo ra trong ruột non như [[Hormone CKK]] và [[Hormone PYY]]
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Sự khác biệt giữa sự no Satiation và sự no Satiety]]
-sort file.name asc
-```

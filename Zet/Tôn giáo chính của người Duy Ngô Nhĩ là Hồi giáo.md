@@ -9,10 +9,3 @@
 Tôn giáo chính của [[Người Duy Ngô Nhĩ]] là [[Hồi Giáo]]
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Tôn giáo chính của người Duy Ngô Nhĩ là Hồi giáo]]
-sort file.name asc
-```

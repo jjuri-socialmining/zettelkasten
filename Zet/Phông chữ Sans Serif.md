@@ -7,6 +7,7 @@ tags:
   - '#permanent/concept'
 aliases:
   - Phông chữ Sans Serif
+publish: True
 ---
 # Phông chữ Sans Serif
 
@@ -17,11 +18,3 @@ Phông chữ Sans Serif là phông chữ với các nét đơn giản không có
 ## Ideas & thoughts:
 Phông chữ có chân là [[Phông chữ kiểu Serif]]
 ## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Phông chữ Sans Serif]]
-sort file.name asc
-```

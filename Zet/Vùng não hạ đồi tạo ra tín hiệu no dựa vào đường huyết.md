@@ -9,10 +9,3 @@
 [[Vùng hạ đồi - Hypothalamus]] tạo ra tín hiệu [[Sự no]] dựa vào mức [[Đường huyết]]
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Vùng não hạ đồi tạo ra tín hiệu no dựa vào đường huyết]]
-sort file.name asc
-```

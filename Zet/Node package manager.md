@@ -7,6 +7,7 @@ tags:
   - '#permanent/concept'
 aliases:
   - npm
+publish: True
 ---
 # Node package manager
 
@@ -18,13 +19,3 @@ Node package manager là một kho các thư viên [[JavaScript]] cho [[Nodejs]]
 ## Ideas & thoughts:
 [[❕ Node package manager cũng giống như python package manager]]
 Node package manager của nodejs cũng giống như [[Python Package Manager]] cho [[Python|Python]]
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Node package manager]]
-sort file.name asc
-```

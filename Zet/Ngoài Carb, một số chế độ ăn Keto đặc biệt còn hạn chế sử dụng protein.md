@@ -5,8 +5,7 @@ tags:
   - '#created/2021/Sep/03'
   - '#seed🥜'
   - '#permanent/fact'
-aliases:
-  - 
+publish: True
 ---
 # Ngoài Carb, một số chế độ ăn Keto đặc biệt còn hạn chế sử dụng protein
 
@@ -16,13 +15,3 @@ Ngoài [[Carbohydrate]], [[Chế độ Keto]] hạn chế sử dụng protein v�
 ## Ideas & thoughts:
 [[Chế độ Keto, năng lượng chủ yếu cung cấp từ chất béo]]
 [[Xeton được sử dụng làm năng lượng nuôi não]]
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Ngoài Carb, một số chế độ ăn Keto đặc biệt còn hạn chế sử dụng protein]]
-sort file.name asc
-```

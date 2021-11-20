@@ -11,11 +11,3 @@ Peptide ngắn nhất là dipeptide gồm 2 phân tử amino acid.
 ![[Tetrapeptide.png]]
 
 ## Questions & thoughts:
-
-
-## Related:
-```dataview
-list
-from [[Peptide]]
-sort file.name asc
-```

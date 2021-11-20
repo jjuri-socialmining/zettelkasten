@@ -7,6 +7,7 @@ tags:
   - '#permanent/place'
 aliases:
   - Hội An
+publish: True
 ---
 # Phố cổ Hội An
 
@@ -19,13 +20,3 @@ Phố cổ Hội An là một khu đô thị cổ nằm ở ven biển tỉnh Qu
 [[Chùa Cầu]]
 
 ## Ideas & thoughts:
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Phố cổ Hội An]]
-sort file.name asc
-```

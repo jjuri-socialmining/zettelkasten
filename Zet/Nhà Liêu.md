@@ -9,6 +9,7 @@ aliases:
   - "Nhà Liêu"
   - Nước Khiết Đan
   - Liêu triều
+publish: True
 ---
 # Nhà Liêu
 
@@ -17,14 +18,3 @@ Nhà Liêu, hay còn gọi là nước Khiết Đan, là một triều đại [[
 
 
 ## Ideas & thoughts:
-
-
-## Questions:
-
-
-## Related:
-```dataview
-list
-from [[Nhà Liêu]]
-sort file.name asc
-```

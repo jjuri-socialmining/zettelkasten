@@ -1,11 +1,14 @@
+---
+title: Sự kiện lịch sử từ Nhà minh tới nhà Thanh
+tags:
+  - 'created/2021/Aug/12'
+  - 'forest'
+  - 'writing'
+publish: True
+---
 # Sự kiện lịch sử từ Nhà minh tới nhà Thanh
 
-%% 
-- metadata:
-	- tags: #created/2021/Aug/12, #MOC 
-%%
-
-## Summary
+## Notes:
 [[Nhà Minh]] - [[Sùng Trinh]] - [[Ngô Tam Quế]]
 [[Nhà Đại Thuận]] - [[Lý Tự Thành]]
 [[Nhà Thanh]] - [[Ái Tân Giác La]]
@@ -19,9 +22,4 @@
 Thành Bắc Kinh nghe tin [[Ngô Tam Quế]] thắng trận thì ra nghênh đón, người dân mong chờ một người nối dõi của [[Nhà Minh]] lên làm vua. Nhưng lúc đó, họ không ngờ người tiếp quản kinh thành là [[Đa Nhĩ Cổn]]. [[Đa Nhĩ Cổn]] ra lệnh mọi người đều phải cạo đầu để tóc đuôi sam, ai thuận theo thì sống chống lại bị giết.
 
 
-## Related:
-```dataview
-list
-from [[Sự kiện lịch sử từ Nhà minh tới nhà Thanh]]
-sort file.name asc
-```
+## Ref

@@ -10,10 +10,4 @@
 
 ## Questions & thoughts:
 
-## Related:
-```dataview
-list
-from [[Vĩnh Thụy được tôn lên làm vua nhưng tiếp tục du học Pháp]]
-sort file.name asc
-```
 [^wiki]:[[@ wiki, Bảo Đại]]

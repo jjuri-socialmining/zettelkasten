@@ -7,6 +7,7 @@ tags:
   - '#permanent/concept'
 aliases:
   - Kháng Insulin
+publish: True
 ---
 # Insulin resistance
 
@@ -21,14 +22,3 @@ Kháng Insulin là hiện tượng mà tế bào không phản hồi trước s�
 - [[Không hoạt động thể chất là nguyên nhân gây kháng insulin]]
 - 
 ## Ideas & thoughts:
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Insulin resistance]]
-sort file.name asc
-```
-[^1]:[[@ healthline.com, Insulin and Insulin Resistance — The Ultimate Guide]]

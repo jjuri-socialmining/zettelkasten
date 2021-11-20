@@ -10,10 +10,3 @@
 
 ## Questions & thoughts:
 [[❓210815-2249]]
-
-## Related:
-```dataview
-list
-from [[Fructose là đường đơn như glucose nhưng GI thấp]]
-sort file.name asc
-```

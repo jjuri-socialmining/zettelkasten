@@ -16,9 +16,3 @@ Tanakh là một từ viết tắt từ tên của 3 phần trong [[Kinh thánh 
 ## Questions & thoughts:
 - [ ] Kinh thánh của [[Do Thái Giáo]]
 - [ ] [[Mikra]] là một tên gọi khác của Tanakh
-## Related:
-```dataview
-list
-from [[Tanakh]]
-sort file.name asc
-```

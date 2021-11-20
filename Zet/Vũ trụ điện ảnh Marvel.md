@@ -5,8 +5,7 @@ tags:
   - '#created/2021/Sep/02'
   - '#garden🏡'
   - '#permanent/fact'
-aliases:
-  - 
+publish: True
 ---
 # Vũ trụ điện ảnh Marvel
 
@@ -24,13 +23,3 @@ Các loạt phim trong vũ trụ điện ảnh Marvel được lấy từ bộ t
 - [[Black panther]]
 
 ## Ideas & thoughts:
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Vũ trụ điện ảnh Marvel]]
-sort file.name asc
-```

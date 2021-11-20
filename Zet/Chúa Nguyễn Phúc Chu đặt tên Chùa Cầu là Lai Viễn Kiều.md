@@ -15,13 +15,3 @@ Chúa [[Nguyễn Phúc Chu]] đặt tên [[Chùa Cầu]] là Lai Viễn Kiều, 
 
 ## Ideas & thoughts:
 [[Chùa Cầu còn được gọi là Cầu Nhật Bản]]
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Chúa Nguyễn Phúc Chu đặt tên Chùa Cầu là Lai Viễn Kiều]]
-sort file.name asc
-```

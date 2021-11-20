@@ -7,6 +7,7 @@ tags:
   - '#permanent/concept'
 aliases:
   - Tam Hoàng Ngũ Đế
+publish: True
 ---
 # Tam Hoàng Ngũ Đế
 
@@ -18,13 +19,3 @@ aliases:
 ![[Ngũ đế Trung Hoa#Notes]]
 
 ## Ideas & thoughts:
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Tam Hoàng Ngũ Đế]]
-sort file.name asc
-```

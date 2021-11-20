@@ -8,6 +8,7 @@ tags:
 aliases:
   - Cầu Nhật Bản
   - Lai Viễn Kiều
+publish: True
 ---
 # Chùa Cầu
 
@@ -18,13 +19,3 @@ Chùa Cầu là một cây cầu cổ nằm trong [[Phố cổ Hội An]].
 [[Chúa Nguyễn Phúc Chu đặt tên Chùa Cầu là Lai Viễn Kiều]]
 
 ## Ideas & thoughts:
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Chùa Cầu]]
-sort file.name asc
-```

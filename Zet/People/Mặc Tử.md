@@ -9,6 +9,7 @@ birth:
 death: 
 aliases:
   - Mặc Địch
+publish: True
 ---
 # Mặc Tử
 
@@ -16,13 +17,3 @@ aliases:
 
 
 ## Ideas & thoughts:
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Mặc Tử]]
-sort file.name asc
-```

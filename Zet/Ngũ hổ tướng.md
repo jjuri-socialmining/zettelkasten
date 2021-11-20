@@ -7,6 +7,7 @@ tags:
   - '#permanent/concept'
 aliases:
   - Ngũ hổ tướng
+publish: True
 ---
 # Ngũ hổ tướng
 
@@ -19,13 +20,3 @@ Ngũ hổ tướng là tên gọi hư cấu dùng để chỉ 5 vị tướng n�
 - [[Mã Siêu]]
 
 ## Ideas & thoughts:
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Ngũ hổ tướng]]
-sort file.name asc
-```

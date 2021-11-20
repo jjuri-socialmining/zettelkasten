@@ -7,6 +7,7 @@ tags:
   - '#permanent/concept'
 aliases:
   - Tam Hoàng
+publish: True
 ---
 # Tam Hoàng Trung Hoa
 
@@ -24,13 +25,3 @@ Theo Vận Đẩu Xu và Nguyên Mệnh Bao, tam hoàng bao gồm:
 [[Thần Nông]]
 
 ## Ideas & thoughts:
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Tam Hoàng Trung Hoa]]
-sort file.name asc
-```

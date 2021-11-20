@@ -7,6 +7,7 @@ tags:
   - '#permanent/concept'
 aliases:
   - Nhà Võ Chu
+publish: True
 ---
 # Nhà Võ Chu
 
@@ -14,13 +15,3 @@ aliases:
 Nhà Võ Chu là một triều đại ngắn trong lịch sử Trung Quốc, cai trị bởi [[Võ Tắc Thiên]]
 
 ## Ideas & thoughts:
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Nhà Võ Chu]]
-sort file.name asc
-```

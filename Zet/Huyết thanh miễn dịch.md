@@ -7,7 +7,7 @@
 	- source: 
 
 ## Notes
-Huyết thanh miễn dịch còn gọi là  [[Gamma protein]]
+Huyết thanh miễn dịch còn gọi là  [[Kháng thể]]
 
 ## Questions & thoughts:
 
