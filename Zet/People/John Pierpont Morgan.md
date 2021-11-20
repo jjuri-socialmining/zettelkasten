@@ -18,6 +18,7 @@ publish: True
 > **John Pierpont "J.P." Morgan** (17/4/1837 – 31/3/1913) là nhà kinh doanh, tài chính, từ thiện và sưu tập nghệ thuật người Mỹ, và là người có vai trò to lớn trong nền tài chính và công nghiệp Hoa Kỳ cuối thế kỉ 19. [^wiki]
 
 ## Ideas & thoughts:
+- [[Theodore Roosevelt]] lên nắm quyền tổng thống [[Hoa Kỳ]], xóa bỏ thế độc quyền của các công ty trong đó có [[John Pierpont Morgan|JP Morgan]].
 
 ## Ref:
 - [Morgan-Edison-Tesla những con người vĩ đại - PGS Hà Hoàng Kiệm (hahoangkiem.com)](https://hahoangkiem.com/tinh-hoa-nhan-loai/morgan-edison-tesla-nhung-con-nguoi-vi-dai-1504.html)

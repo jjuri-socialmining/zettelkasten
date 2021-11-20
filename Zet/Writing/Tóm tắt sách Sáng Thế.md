@@ -3,9 +3,9 @@ title: Tóm tắt sách Sáng Thế
 UID: 211003172537
 created: 03-Oct-2021
 tags:
-  - '#created/2021/Oct/03'
-  - 'garden🏡'
-  - 'permanent/concept'
+  - 'created/2021/Oct/03'
+  - 'forest'
+  - 'writing'
 publish: True
 ---
 # Tóm tắt sách Sáng Thế
@@ -79,10 +79,6 @@ Chúa từng nói với [[Abraham]] rằng con cháu ông sẽ phải đi qua x�
 Cuộc đối thoại với Chúa và Abraham về thành Sodom và thành Gomora [[Gen-18#v20]]
 
 Ông [[Lot]] được Chúa báo dắt gia đình ra khỏi thành Sodom để tránh nạn hủy diệt
-
-## Ideas & thoughts:
-
-## Questions:
 
 ## Relate to:
 - [[🛠️211003-Tóm tắt sách Sáng Thế]]
