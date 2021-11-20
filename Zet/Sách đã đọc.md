@@ -3,12 +3,10 @@ title: Sách đã đọc
 UID: 210911135133
 created: 11-Sep-2021
 tags:
-  - '#created/2021/Aug/11'
-  - '#garden🏡'
-  - '#permanent/concept'
-aliases:
-  - 
-publish: False
+  - 'created/2021/Aug/11'
+  - 'garden🏡'
+  - 'permanent/concept'
+publish: True
 ---
 # Sách đã đọc
 
