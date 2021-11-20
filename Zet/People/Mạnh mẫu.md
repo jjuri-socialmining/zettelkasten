@@ -1,13 +1,19 @@
+---
+title: Mạnh mẫu
+UID: 2107111044
+tags:
+  - 'created/2021/Jul/11'
+  - 'seed🥜'
+  - 'permanent/people'
+birth: 
+death: 
+publish: True
+---
 # Mạnh mẫu
 
-- metadata
-	- UID: P-210711-1044
-	- tags: #created/2021/Jul/11, #permanent/reference
-	- previous note: 
-	- source: 
-
-## Notes
+## Notes:
 Mạnh mẫu ý chỉ mẹ của [[Mạnh Tử]], tên gọi này gắn liền với chuyện Mạnh mẫu 3 lần chuyển nhà để Mạnh Tử có môi trường phát triển tốt nhất.
 
-## Questions & thoughts:
+## Ideas & thoughts:
 - Tạo ghi chú tóm tắt câu chuyện 3 lần chuyển nhà #task/todo 
+

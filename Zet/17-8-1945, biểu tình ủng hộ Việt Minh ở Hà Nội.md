@@ -10,10 +10,3 @@
 
 ## Questions & thoughts:
 [[❓210815-2201]]
-
-## Related:
-```dataview
-list
-from [[17-8-1945, biểu tình ủng hộ Việt Minh ở Hà Nội]]
-sort file.name asc
-```

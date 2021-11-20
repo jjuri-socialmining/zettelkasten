@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[Baruch Spinoza]] cho rằng [[Moise]] không phải tác giả [[Ngũ Kinh Cựu Ước]]. Spinoza cho rằng trong sách Ngũ Kinh có đoạn viết về cái chết của Moise, nên ông không thể là tác giả của sách này.
+[[Baruch Spinoza]] cho rằng [[Moses]] không phải tác giả [[Ngũ Kinh Cựu Ước]]. Spinoza cho rằng trong sách Ngũ Kinh có đoạn viết về cái chết của Moise, nên ông không thể là tác giả của sách này.
 
 ## Questions & thoughts:
 

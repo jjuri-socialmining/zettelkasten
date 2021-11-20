@@ -7,7 +7,7 @@
 	- previous note:
 
 ## Notes
-Theo truyền thuyết, thần [[Brahma - Phạm Thiên]] ngồi trên đoá hoa sen mọc từ rốn thần [[Thần Vishnu]].
+Theo truyền thuyết, thần [[Thần Brahma]] ngồi trên đoá hoa sen mọc từ rốn thần [[Thần Vishnu]].
 
 ## Questions & thoughts:
 

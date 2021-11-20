@@ -189,12 +189,12 @@ optimize `nav`
 
 ### Feature to support
 - [ ] [[Backlink]] cho mỗi page
-- [ ] [[Backlink graph view]] cho mỗi pages, web graphics by [[Canvas]] -> [[WebGL]]
+- [ ] [[Backlink graph View]] cho mỗi pages, web graphics by [[Canvas]] -> [[WebGL]]
 
 Cơ bản được như vầy
 ![[Pasted image 20210925215725.png]]
 
-Đã workaround cái [[Backlink graph view]]
+Đã workaround cái [[Backlink graph View]]
 ![[Pasted image 20210926232347.png]]
 
 Nghiên cứu sâu hơn về

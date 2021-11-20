@@ -11,5 +11,9 @@ publish: True
 
 Các bài viết được tổng hợp từ [[Zettelkasten]], các bài viết này là lớp trên cùng của [[LYT frameworks]]
 
-- [[Tóm tắt sách Sáng Thế]]
+- [[Sự kiện lịch sử từ Nhà minh tới nhà Thanh]]
 - [[Tesla, Edison, Morgan - Điện một chiều và điện xoay chiều]]
+- [[Tiểu sử tiên tri Moses]]
+- [[Tóm tắt sách - Digital Minimalism]]
+- [[Tóm tắt sách - How to take smart notes]]
+- [[Tóm tắt sách Sáng Thế]]

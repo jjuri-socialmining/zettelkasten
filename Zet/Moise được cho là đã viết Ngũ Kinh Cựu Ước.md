@@ -1,18 +1,15 @@
+---
+title: Moise được cho là đã viết Ngũ Kinh Cựu Ước
+tags:
+  - 'created/2021/Jul/31'
+  - 'seed🥜'
+  - 'permanent/fact'
+publish: True
+---
 # Moise được cho là đã viết Ngũ Kinh Cựu Ước
 
-- metadata
-	- UID: P-210731-1704
-	- tags: #created/2021/Jul/31, #permanent/fact 
-	- source: 
+## Notes:
+[[Moses]] được cho là đã viết [[Ngũ Kinh Cựu Ước]]. Khi ông lên núi nói chuyện với [[God|Thiên Chúa]], Ngài đã cho ông biết mọi sự từ trước.
 
-## Notes
-[[Moise]] được cho là đã viết [[Ngũ Kinh Cựu Ước]]
-
-## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Moise được cho là đã viết Ngũ Kinh Cựu Ước]]
-sort file.name asc
-```
+## Ideas & thoughts:
+- Tuy nhiên có đoạn mô tả [[Moses]] chết, nên theo logic thì một người không thể viết lại việc mình chết được. 

@@ -9,11 +9,3 @@
 Marcion thành Sinope (85 – 160) là con trai giám mục thành Sinope
 
 ## Questions & thoughts:
-
-
-## Related:
-```dataview
-list
-from [[Marcion thành Sinope]]
-sort file.name asc
-```

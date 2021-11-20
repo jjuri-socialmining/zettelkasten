@@ -9,7 +9,7 @@ birth:
 death: 
 aliases:
   - Xi Jinping
-publish: False
+publish: True
 ---
 # Tập Cận Bình
 
@@ -17,3 +17,4 @@ publish: False
 
 
 ## Ideas & thoughts:
+- [[VÁN BÀI LỊCH SỬ - Lá bài số 8 - Xi JinPing]]

@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Thủ-Đà-La (Sudra): là hàng tiện dân, họ được xem là đã sinh ra từ gót chân [[Brahma - Phạm Thiên]].
+Thủ-Đà-La (Sudra): là hàng tiện dân, họ được xem là đã sinh ra từ gót chân [[Thần Brahma]].
 
 ## Questions & thoughts:
 

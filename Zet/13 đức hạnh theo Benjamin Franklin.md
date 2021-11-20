@@ -1,9 +1,16 @@
-# 13 đức tính tự lực theo Benjamin Franklin
-
+---
+title: 13 đức hạnh theo Benjamin Franklin
 created: Dec 29, 2020 11:18 PM
-tags: #created/2020/Dec/29
+tags:
+  - 'created/2020/Dec/29'
+  - 'evergreen🌲'
+  - 'permanent/concept'
+publish: True
+---
+# 13 đức hạnh theo Benjamin Franklin
 
-[[Benjamin Franklin]]
+## Notes:
+13 đức hạnh theo [[Benjamin Franklin]]
 
 1.  "**Chừng mực**. Ăn không tới chán; uống không quá nhiều."
 2.  "**Yên lặng**. Chỉ nói những điều mang lại lợi ích cho bạn và người khác; tránh những cuộc cà kê mất thì giờ."
@@ -18,3 +25,5 @@ tags: #created/2020/Dec/29
 11.  "**Yên bình**. Không nên quan tâm tới những điều vặt vãnh, hay những rủi ro thông thường hoặc không tránh được."
 12.  "**Trinh tiết**. Điều tiết sinh dục, đừng để làm tổn hại thân thể của mình hoặc an ninh hay danh dự của người khác."
 13.  "**Khiêm tốn**. Học theo [Giêsu](https://vi.wikipedia.org/wiki/Gi%C3%AA-su "Giê-su") và [Sokrates](https://vi.wikipedia.org/wiki/Sokrates "Sokrates")."
+
+## Ideas & thoughts:

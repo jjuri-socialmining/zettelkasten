@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Vệ-xá (Vaisya): là những người bình dân, thương gia, nông dân. [[Ấn Độ giáo]] coi họ sinh ra từ bắp vế [[Brahma - Phạm Thiên]]
+Vệ-xá (Vaisya): là những người bình dân, thương gia, nông dân. [[Ấn Độ giáo]] coi họ sinh ra từ bắp vế [[Thần Brahma]]
 
 ## Questions & thoughts:
 

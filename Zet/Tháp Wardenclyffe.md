@@ -11,7 +11,7 @@ publish: True
 # Tháp Wardenclyffe
 
 ## Notes:
-Tháp Wardenclyffe là một trạm truyền năng lượng không dây được chế tạo bởi [[Nicola Tesla]] dưới sự tài trợ từ tập đoàn [[JP Morgan]]
+Tháp Wardenclyffe là một trạm truyền năng lượng không dây được chế tạo bởi [[Nicola Tesla]] dưới sự tài trợ từ tập đoàn [[John Pierpont Morgan|JP Morgan]]
 
 ![[Pasted image 20211015225107.png]]
 

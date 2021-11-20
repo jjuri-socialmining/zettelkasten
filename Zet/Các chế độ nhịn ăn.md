@@ -33,5 +33,5 @@ FAQ
 - [[❕ Bạn có thể bỏ bất kỳ một bữa nào đó cũng là cách đơn giản nhất để thực hiện chế độ nhịn ăn]]
 
 ## Tham khảo:
-- [[Health]]
+- [[Sức khỏe]]
 - [Intermittent Fasting 101 — The Ultimate Beginner's Guide (healthline.com)](https://www.healthline.com/nutrition/intermittent-fasting-guide)

@@ -7,8 +7,8 @@
 
   note_type = "permanent/people"
   await tp.file.move("/Zet/People/" + title);
-  birth = "birth: "
-  death = "death: "
+  birth = "birth:"
+  death = "death:"
   tR += "---"
 %>
 title: <%* tR += title %>

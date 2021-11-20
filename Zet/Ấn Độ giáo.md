@@ -17,13 +17,13 @@ publish: True
 Hindu giáo, hay còn gọi là Ấn Độ giáo.
 
 ### Các vị thần
-- [[Trimurti - Tam thần Ấn giáo]]
-	- [[Brahma - Phạm Thiên]]
+- [[Tam thần Ấn giáo]]
+	- [[Thần Brahma]]
 	- [[Thần Vishnu]]
 	- [[Thần Shiva]]
 
 ### Giáo lý
 
 ## Ideas & thoughts:
-- [[Brahma - Phạm Thiên]]
+- [[Thần Brahma]]
 

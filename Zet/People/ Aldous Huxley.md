@@ -7,12 +7,3 @@
 
 ## Notes
 Tác giả quyển [[@ George Orwell, 1984]]
-
-## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[ Aldous Huxley]]
-sort file.name asc
-```

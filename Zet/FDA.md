@@ -14,6 +14,6 @@ publish: True
 FDA, viết tắt của cục quản lý thực phẩm và dược phẩm Hoa Kỳ
 
 ## Ideas & thoughts:
-- [[Health]]
+- [[Sức khỏe]]
 - [[COVID-19]]
 - [[Vaccine]]

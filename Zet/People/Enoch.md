@@ -9,7 +9,7 @@ birth:
 death: 
 aliases:
   - Ê-nóc
-publish: False
+publish: True
 ---
 # Enoch
 
