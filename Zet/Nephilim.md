@@ -6,7 +6,7 @@ tags:
   - '#created/2021/Oct/03'
   - 'seed🥜'
   - 'permanent/concept'
-publish: False
+publish: True
 ---
 # Nephilim
 
@@ -16,7 +16,3 @@ publish: False
 Nephilim được nhắc đến trong [[Gen-06#v4]]
 
 ## Ideas & thoughts:
-
-## Questions:
-
-## Relate to:

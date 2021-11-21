@@ -10,10 +10,3 @@
 Tuy nhiên, Pháp không thừa nhận Việt Nam độc lập, Pháp chỉ chấp nhận quyền tự trị của Việt Nam trong [[Liên hiệp Pháp]]. Sau khi Pháp gửi thư yêu cầu chính quyền [[Việt Nam Dân chủ Cộng hòa]] đầu hàng thì chiến tranh giữa hai bên bùng nổ vào 12 năm 1946.
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[1946, Pháp không thừa nhận Việt Nam độc lập]]
-sort file.name asc
-```

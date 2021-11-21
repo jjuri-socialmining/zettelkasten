@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-[[Thánh Jerome]] làm thư ký cho Giáo hoàng [[Damasus I]]
+[[Thánh Jerome]] làm thư ký cho Giáo hoàng [[Pope Damasus I]]
 
 ## Questions & thoughts:
 

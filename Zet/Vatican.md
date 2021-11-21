@@ -1,16 +1,22 @@
+---
+title: Vatican
+UID: 211121131022
+created: 21-Nov-2021
+tags:
+  - 'created/2021/Jul/11'
+  - 'seed🥜'
+  - 'permanent/place'
+publish: True
+---
 # Vatican
 
-- metadata
-	- UID: P-210711-1553
-	- tags: #created/2021/Jul/11, #permanent/concept 
-	- previous note: 
-	- source: https://vi.wikipedia.org/wiki/Vatican
-
-## Notes
+## Notes:
 Khi nói đến Vatican, người ta có thể ám chỉ đến:
 - [[Thành Vatican]]
 	- Đồi Vatican
-- [[Tòa Thánh]]
 
-## Questions & thoughts:
+Tòa Thánh Vatican là trung tâm giáo quyền của Giáo hội [[Công Giáo|Công Giáo]] được điều hành bởi [[Đức Giáo Hoàng]] và giáo triều Roma.
+
+## Ideas & thoughts:
+
 

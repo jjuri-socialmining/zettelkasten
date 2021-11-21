@@ -7,7 +7,7 @@
 	- source: 
 
 ## Notes
-[[Spike Protein]] là protein trên gai của virus [[SARS-COV-2]] được các nhà khoa học gọi tắt là Protein S. Protein này không phải [[Protein S]] trong huyết tương.
+[[Spike Protein]] là protein trên gai của virus [[SARS-CoV-2]] được các nhà khoa học gọi tắt là Protein S. Protein này không phải [[Protein S]] trong huyết tương.
 
 ## Questions & thoughts:
 

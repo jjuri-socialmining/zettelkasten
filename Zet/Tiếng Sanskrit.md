@@ -8,6 +8,7 @@ tags:
 aliases:
   - Tiếng Phạn
   - Bắc Phạn
+publish: True
 ---
 # Tiếng Sanskrit
 
@@ -22,14 +23,5 @@ Tiếng Phạn, hay còn gọi là Ngôn ngữ Sanskrit, là ngôn ngữ bắt n
 ## Ideas & thoughts:
 [[Tiếng Pali còn được gọi là Nam Phạn]]
 
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Tiếng Sanskrit]]
-sort file.name asc
-```
 [^1]: [[Lịch sử biểu tượng ‘chữ thập ngoặc’ của Đức Quốc Xã]]
 

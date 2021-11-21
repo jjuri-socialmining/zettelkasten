@@ -1,8 +1,15 @@
+---
+title: How to use Bibliography
+created: Oct 21, 2020 10:38 PM
+tags:
+  - 'created/2020/Oct/21'
+  - 'seed🥜'
+  - 'permanent/howto'
+publish: True
+---
 # How to use Bibliography
 
-created: Oct 21, 2020 10:38 PM
-tags: #created/2020/Oct/21
-
+## Notes:
 - Trích dẫn nguồn từ sách
 
     Họ, Chữ cái đầu của tên. (Năm xuất bản).  Tên tài liệu. Thứ tự tái bản. (Chỉ ghi số lần tái bản nếu không phải là lần in đầu tiên) Nơi xuất bản: Nhà xuất bản, Số trang.
@@ -48,3 +55,5 @@ tags: #created/2020/Oct/21
     **Cấu trúc:** Họ, Chữ cái đầu của tên. (Năm xuất bản).  Tên tài liệu. Số lần xuất bản. [format] Nơi xuất bản: Nhà xuất bản, số trang. Available at: URL [Truy cập Ngày Tháng. Năm].
 
     **Ví dụ:** Robin, J. (2014).  A handbook for professional learning: research, resources, and strategies for implementation. 1st ed. [pdf] New York: NYC Department of Education. Available at [//schools.nyc.gov/](notion://schools.nyc.gov/) [Accessed 14 Apr. 2015].
+
+## Ideas & thoughts:

@@ -19,8 +19,8 @@ publish: True
 - [[Kary B. Mullis chết vào 08-2019, trước đại dịch Covid vài tháng]]
 
 ## Ideas & thoughts:
-- Cơ quan [[CDC]] và [[FDA]] cấp phép để xét nghiệm [[SARS-COV-2]]
-- PCR test được dùng để xét nghiệm [[AIDS]], thực chất nó chỉ xác định có tồn tại vật chất di truyền tự do trong máu hay không. Không thể khẳng định được sự tồn tại của [[AIDS]] hay [[SARS-COV-2]] có trong mẫu xét nghiệm hay không.
+- Cơ quan [[CDC]] và [[FDA]] cấp phép để xét nghiệm [[SARS-CoV-2]]
+- PCR test được dùng để xét nghiệm [[AIDS]], thực chất nó chỉ xác định có tồn tại vật chất di truyền tự do trong máu hay không. Không thể khẳng định được sự tồn tại của [[AIDS]] hay [[SARS-CoV-2]] có trong mẫu xét nghiệm hay không.
 - [[Kary B. Mullis]]
 - [[Real time PCR test là một trò bịp của Big Pharma]]
 

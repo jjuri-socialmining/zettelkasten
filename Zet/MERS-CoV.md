@@ -13,5 +13,5 @@ publish: True
 MERS-CoV là một loại [[Coronavirus]] xuất hiện vào năm 2012 tại [[Trung Đông]]. Virus MERS-CoV gây [[Hội chứng hô hấp Trung Đông]].
 
 ## Ideas & thoughts:
-- [[SARS-COV-2]]
+- [[SARS-CoV-2]]
 

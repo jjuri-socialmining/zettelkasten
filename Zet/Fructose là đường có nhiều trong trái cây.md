@@ -10,10 +10,3 @@
 
 ## Questions & thoughts:
 [[❓210815-2216]]
-
-## Related:
-```dataview
-list
-from [[Fructose là đường có nhiều trong trái cây]]
-sort file.name asc
-```

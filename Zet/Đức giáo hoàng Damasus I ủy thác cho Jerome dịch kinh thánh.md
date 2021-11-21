@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Đức giáo hoàng [[Damasus I]] ủy thác cho [[Thánh Jerome]] dịch kinh thánh
+Đức giáo hoàng [[Pope Damasus I]] ủy thác cho [[Thánh Jerome]] dịch kinh thánh
 
 ## Questions & thoughts:
 

@@ -5,7 +5,7 @@ tags:
   - 'created/2020/Nov/05'
   - 'seed🥜'
   - 'permanent/concept'
-publish: False
+publish: True
 ---
 # Mennonite
 

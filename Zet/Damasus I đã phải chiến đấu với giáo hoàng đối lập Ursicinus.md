@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Giáo hoàng [[Damasus I]] đã phải chiến đấu với giáo hoàng đối lập [[Ursicinus]]
+Giáo hoàng [[Pope Damasus I]] đã phải chiến đấu với giáo hoàng đối lập [[Ursicinus]]
 
 ## Questions & thoughts:
 

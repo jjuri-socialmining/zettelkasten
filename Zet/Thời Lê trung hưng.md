@@ -16,9 +16,6 @@ Thời Lê trung hưng (1533–1789) là thời kỳ sau của triều đại [[
 
 ## Ideas & thoughts:
 
-## Questions:
-
-
 ## Related:
 - [[Chúa Trịnh]]
 - [[Thời Lê sơ]]

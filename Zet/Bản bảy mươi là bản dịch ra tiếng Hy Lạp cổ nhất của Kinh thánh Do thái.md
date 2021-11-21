@@ -9,10 +9,3 @@
 [[Các bản dịch Cựu Ước tiếng Hy Lạp]] là bản dịch cổ nhất của [[Kinh thánh Do thái]] và các sách [[Thứ kinh]]
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Bản bảy mươi là bản dịch ra tiếng Hy Lạp cổ nhất của Kinh thánh Do thái]]
-sort file.name asc
-```

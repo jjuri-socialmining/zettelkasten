@@ -11,6 +11,6 @@
 ## Questions & thoughts:
 - Bói bài tarot có nhiều điểm tương đồng với 
 	- kinh dịch
-	- học thuyết [[Jungian Archetypes - Nguyên mẫu của Jung]] của Jung
+	- học thuyết [[Nguyên mẫu của Jung]] của Jung
 	- [[Carl Jung nghiên cứu Tarot cho học thuyết nguyên mẫu]]
 

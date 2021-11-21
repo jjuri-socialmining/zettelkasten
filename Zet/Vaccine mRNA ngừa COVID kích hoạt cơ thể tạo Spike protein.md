@@ -7,6 +7,6 @@
 	- source: 
 
 ## Notes
-Các Vaccine ngừa [[SARS-COV-2]] loại [[Vaccine mRNA]] như [[Vaccine Pfizer]] hay [[Vaccine Moderna]] có chức năng kích thích cơ thể tạo ra một loại protein có trên bề mặt gai của virus [[Spike Protein]].
+Các Vaccine ngừa [[SARS-CoV-2]] loại [[Vaccine mRNA]] như [[Vaccine Pfizer]] hay [[Vaccine Moderna]] có chức năng kích thích cơ thể tạo ra một loại protein có trên bề mặt gai của virus [[Spike Protein]].
 ## Questions & thoughts:
 

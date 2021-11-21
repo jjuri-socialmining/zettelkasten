@@ -15,12 +15,3 @@ aliases:
 
 ## Ideas & thoughts:
 [[Mạnh Tử chủ nghĩa duy tâm]]
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Trang tử là một người mang tư tưởng duy tâm]]
-sort file.name asc
-```

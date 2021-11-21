@@ -9,10 +9,3 @@
 Khoảng 2300 TCN, các [[Vua Hùng]] cai trị bộ tộc [[Lạc Việt]].
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Bộ tộc Lạc Việt do các vua Hùng cai trị]]
-sort file.name asc
-```

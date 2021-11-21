@@ -10,10 +10,3 @@
 
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Hạt gạo chưa bóc lớp Hull thì còn là hạt thóc]]
-sort file.name asc
-```

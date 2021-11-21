@@ -11,4 +11,6 @@ publish: True
 ## Notes:
 Người lãnh đạo thời kỳ đầu - [[Đệ Nhất Cộng Hòa]]-  là [[Ngô Đình Diệm]]
 
+[[Đảo chính VNCH 1963]]
+
 ## Ideas & thoughts:

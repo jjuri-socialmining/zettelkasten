@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Sau khi Đức giáo hoàng [[Damasus I]] mất, [[Thánh Jerome]] đến Bethlehem thành lập tu hội.
+Sau khi Đức giáo hoàng [[Pope Damasus I]] mất, [[Thánh Jerome]] đến Bethlehem thành lập tu hội.
 
 ## Questions & thoughts:
 - [[Thánh Jerome làm thư ký cho Giáo hoàng Damasus I]]

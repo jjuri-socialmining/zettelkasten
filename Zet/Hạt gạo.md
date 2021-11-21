@@ -9,11 +9,3 @@
 ![[hat_gao.jpg]]
 
 ## Questions & thoughts:
-
-
-## Related:
-```dataview
-list
-from [[Hạt gạo]]
-sort file.name asc
-```

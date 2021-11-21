@@ -1,21 +1,18 @@
+---
+title: Nhà Triệu
+tags:
+  - 'created/2021/Jul/24'
+  - 'seed🥜'
+  - 'permanent/nation'
+publish: True
+---
 # Nhà Triệu
 
-- metadata
-	- UID: P-210724-1107
-	- tags: #created/2021/Jul/24, #permanent/fact 
-	- source: 
-
-## Notes
+## Notes:
 
 
-## Questions & thoughts:
+## Ideas & thoughts:
 - [ ] [[Triệu Đà]]
 - [ ] [[Triệu Vũ Đế]]
 - [ ] [[Nam Việt]]
 
-## Related:
-```dataview
-list
-from [[~Nhà Triệu]]
-sort file.name asc
-```

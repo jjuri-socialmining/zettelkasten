@@ -12,8 +12,9 @@ publish: True
 ## Notes
 Beta-Coronavirus, ký hiệu là β-CoV hoặc Beta-CoV, là một trong 4 chi của [[Coronavirus]]. 
 Các Beta-Coronavirus còn được chia ra 4 dòng:
+
 - Dòng A: [[HCoV-OC43]] và [[HCoV-HKU1]]
-- Dòng B: [[SARS-CoV]] và [[SARS-COV-2]]
+- Dòng B: [[SARS-CoV]] và [[SARS-CoV-2]]
 - Dòng C: [[MERS-CoV]]
 
 ## Ideas & thoughts:

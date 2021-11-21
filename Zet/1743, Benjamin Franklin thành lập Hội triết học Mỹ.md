@@ -9,10 +9,3 @@
 1743, [[Benjamin Franklin]] thành lập [[Hội triết học Mỹ]]
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[1743, Benjamin Franklin thành lập Hội triết học Mỹ]]
-sort file.name asc
-```

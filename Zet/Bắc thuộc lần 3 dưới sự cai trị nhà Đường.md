@@ -10,10 +10,3 @@
 
 ## Questions & thoughts:
 [[❓210815-2245]]
-
-## Related:
-```dataview
-list
-from [[Bắc thuộc lần 3 dưới sự cai trị nhà Đường]]
-sort file.name asc
-```

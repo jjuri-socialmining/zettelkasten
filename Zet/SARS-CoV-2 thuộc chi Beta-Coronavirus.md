@@ -7,6 +7,6 @@
 	- source: 
 
 ## Notes
-[[SARS-COV-2]] là thuộc chi [[Beta-Coronavirus]]. 
+[[SARS-CoV-2]] là thuộc chi [[Beta-Coronavirus]]. 
 ## Questions & thoughts:
 

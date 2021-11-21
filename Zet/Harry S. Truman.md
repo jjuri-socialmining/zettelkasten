@@ -9,10 +9,3 @@
 
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Harry S. Truman]]
-sort file.name asc
-```

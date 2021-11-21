@@ -9,10 +9,3 @@
 [[Đường Lữ Gia]] ở SG mang tên thừa tướng [[Lữ Gia]] thời [[Nhà Triệu]]
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Đường Lữ Gia mang tên thừa tướng nhà Triệu]]
-sort file.name asc
-```

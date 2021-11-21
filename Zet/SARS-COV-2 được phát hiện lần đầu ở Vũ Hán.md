@@ -7,6 +7,6 @@
 	- source: [[huemed-univ.edu.vn, Đặc điểm virus của Coronavirus và chủng Sars-Cov-2]]
 
 ## Notes
-[[SARS-COV-2]] được xác định lần đầu xuất hiện ở chợ hải sản Hoa Nam, Vũ Hán.
+[[SARS-CoV-2]] được xác định lần đầu xuất hiện ở chợ hải sản Hoa Nam, Vũ Hán.
 ## Questions & thoughts:
 

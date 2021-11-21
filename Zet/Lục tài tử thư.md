@@ -8,6 +8,7 @@
 
 ## Notes
 Lục tài tử thư là tên gọi một danh sách gồm 6 tác phẩm hay nhất được [[Kim Thánh Thán]] lựa chọn:
+
 - [[Nam Hoa kinh]] của [[Trang Tử]]
 - [[Ly Tao]] của [[Khuất Nguyên]]
 - [[Thủy Hử]] của [[Thi Nại Am]] và [[La Quán Trung]]

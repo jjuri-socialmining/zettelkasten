@@ -9,11 +9,3 @@
 
 
 ## Questions & thoughts:
-
-
-## Related:
-```dataview
-list
-from [[Hòa ước Patenotre]]
-sort file.name asc
-```

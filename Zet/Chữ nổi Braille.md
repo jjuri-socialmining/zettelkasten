@@ -11,11 +11,3 @@ Mỗi chữ cái được thể hiện bằng cách nối 6 điểm từ 2 côt 
 ![[braille.png]]
 
 ## Questions & thoughts:
-
-
-## Related:
-```dataview
-list
-from [[Chữ nổi Braille]]
-sort file.name asc
-```

@@ -12,10 +12,3 @@ CD - Continuous Delivery, tạm dịch là triển khai liên tục, là quá tr
 CD sử dụng [[CI & CD pipeline]] để chia các công đoạn 
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[CD - Continuous Delivery]]
-sort file.name asc
-```

@@ -7,7 +7,7 @@
 	- source: https://www.youtube.com/watch?v=7OAJCBB8Mog
 
 ## Notes
-[[Vaccine Vector]] dùng để phòng ngừa COVID là loại vaccine giúp tế bào cơ thể tạo ra 1 mảnh ADN giống với ADN có trên bề mặt gai của chính virus [[SARS-COV-2]]
+[[Vaccine Vector]] dùng để phòng ngừa COVID là loại vaccine giúp tế bào cơ thể tạo ra 1 mảnh ADN giống với ADN có trên bề mặt gai của chính virus [[SARS-CoV-2]]
 
 ## Questions & thoughts:
 

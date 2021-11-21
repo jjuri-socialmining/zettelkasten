@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Oct/30'
   - 'seed🥜'
   - 'permanent/fact'
-publish: False
+publish: True
 ---
 # Theo sử gia Yaakov Wise, Pope John Paul II là người Do Thái
 

@@ -7,7 +7,7 @@
 	- source: 
 
 ## Notes
-CoV trong [[SARS-COV-2]] là viết tắt [[Coronavirus]].
+CoV trong [[SARS-CoV-2]] là viết tắt [[Coronavirus]].
 
 ## Questions & thoughts:
 

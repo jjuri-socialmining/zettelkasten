@@ -13,6 +13,3 @@ publish: True
 Nam Việt (203 TCN -111 TCN) cai trị bởi [[Triệu Đà]], là một nước thuộc vùng phía nam lãnh thổ [[Trung Quốc]] và phía bắc Việt Nam.
 
 ## Ideas & thoughts:
-
-## Questions:
-

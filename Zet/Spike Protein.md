@@ -7,6 +7,6 @@
 	- source: 
 
 ## Notes
-Spike Protein là tên gọi lớp vỏ protein của [[SARS-COV-2]].
+Spike Protein là tên gọi lớp vỏ protein của [[SARS-CoV-2]].
 ## Questions & thoughts:
 

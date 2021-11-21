@@ -13,10 +13,3 @@ Cấu tạo [[Hạt thóc]] gồm 4 lớp
 [[Lớp white rice]]
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Cấu tạo hạt thóc gồm 4 lớp]]
-sort file.name asc
-```

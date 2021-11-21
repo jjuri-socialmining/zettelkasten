@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Oct/19'
   - 'seed🥜'
   - 'permanent/concept'
-publish: False
+publish: True
 ---
 # Tần số rung động
 
@@ -25,7 +25,7 @@ publish: False
 
 - [[Tần số Solfeggio]]
 - Người có tần số rung động cao, họ sẽ dần không phụ thuộc vào thức ăn, vì năng lượng giờ đây có thể được cảm thụ thông qua rung động.
-
+- [[Nicola Tesla]]
 
 ## Reference:
 - https://khoahoctamlinh.vn/khoa-hoc-tam-linh/tan-so-tam-linh/tim-hieu-ve-tan-so-rung-dong-875.html

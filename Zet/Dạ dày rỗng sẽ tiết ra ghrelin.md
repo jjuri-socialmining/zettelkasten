@@ -9,10 +9,3 @@
 [[Dạ dày]] rỗng sẽ tiết ra [[Ghrelin]]
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Dạ dày rỗng sẽ tiết ra ghrelin]]
-sort file.name asc
-```

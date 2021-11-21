@@ -12,6 +12,7 @@ publish: False
 
 ## Notes:
 COVID-19 map phát triển bởi [[QAnon]]
+
 ![[Pasted image 20211016220104.png]]
 
 ## Ideas & thoughts:

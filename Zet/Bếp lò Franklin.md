@@ -5,7 +5,7 @@ tags:
   - 'created/2021/Aug/08'
   - 'seed🥜'
   - 'permanent/concept'
-publish: False
+publish: True
 ---
 # Bếp lò Franklin
 

@@ -9,11 +9,3 @@
 [[Cain]] làm nghề trồng trọt
 
 ## Questions & thoughts:
-
-
-## Related:
-```dataview
-list
-from [[Cain làm nghề trồng trọt]]
-sort file.name asc
-```

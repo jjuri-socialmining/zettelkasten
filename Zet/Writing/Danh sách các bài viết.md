@@ -20,3 +20,4 @@ Các bài viết được tổng hợp từ [[Zettelkasten]], các bài viết n
 - [[Tóm tắt sách - How to take smart notes]]
 - [[Tóm tắt sách Sáng Thế]]
 - [[❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người]]
+- [[Sự khác biệt giữa Công giáo và Tin lành]]

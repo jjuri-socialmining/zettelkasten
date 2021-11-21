@@ -9,10 +9,3 @@
 [[Alfred Adler]] từng cộng tác với [[Sigmund Freud]] trong lĩnh vực [[Phân tâm học]]
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Adler từng cộng tác với Freud trong lĩnh vực phân tâm học]]
-sort file.name asc
-```

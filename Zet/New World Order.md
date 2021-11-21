@@ -7,7 +7,7 @@ tags:
   - 'seed🥜'
   - 'permanent/concept'
   - 'Qmap'
-publish: False
+publish: True
 ---
 # New World Order
 

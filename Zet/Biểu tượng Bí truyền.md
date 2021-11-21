@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Esoteric Symbolism
-publish: False
+publish: True
 ---
 # Biểu tượng Bí truyền
 

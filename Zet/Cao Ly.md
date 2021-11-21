@@ -16,14 +16,3 @@ Cao Ly được lập bởi [[Vương Kiến]] sau khi thống nhất 3 quốc g
 
 
 ## Ideas & thoughts:
-
-
-## Questions:
-
-
-## Related:
-```dataview
-list
-from [[Cao Ly]]
-sort file.name asc
-```
