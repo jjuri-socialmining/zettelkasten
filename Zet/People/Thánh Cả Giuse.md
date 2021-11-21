@@ -9,6 +9,7 @@ birth:
 death: 
 aliases:
   - Thánh Giuse
+  - Joseph
 ---
 # Thánh Cả Giuse
 

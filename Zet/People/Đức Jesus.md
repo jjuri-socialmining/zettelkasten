@@ -21,6 +21,8 @@ publish: True
 
 ![[Pasted image 20211028232026.png|300]]
 
+[[Trên danh nghĩa, Đức Jesus thuộc chi tộc Judah]]
+
 ## Ideas & thoughts:
 - [[Đức Maria]]
 - [[Thánh Cả Giuse]]

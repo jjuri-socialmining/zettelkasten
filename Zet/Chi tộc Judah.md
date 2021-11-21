@@ -15,5 +15,7 @@ Judah là con trai cả của [[Jacob]].
 
 [[Người Do Thái tin rằng bắt nguồn từ 3 chi tộc Judah, Benjamin và Levi]]
 
+[[Trên danh nghĩa, Đức Jesus thuộc chi tộc Judah]]
+
 ## Ideas & thoughts:
 - [[💥 Từ Jew để chỉ chi tộc Judah]]
