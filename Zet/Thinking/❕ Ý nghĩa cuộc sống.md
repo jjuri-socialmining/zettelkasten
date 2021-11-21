@@ -10,6 +10,7 @@ aliases:
   - Meaning of life
   - Ý nghĩa cuộc đời
   - Life meaning
+publish: True
 ---
 # ❕ Ý nghĩa cuộc sống
 
@@ -17,3 +18,5 @@ aliases:
 
 
 ## Ideas & thoughts:
+- Sống theo nguyên tắc [[To be in the world but not of it]]
+- [[Rat race]]

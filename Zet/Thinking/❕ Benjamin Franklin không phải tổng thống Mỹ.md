@@ -10,10 +10,3 @@
 
 ## Questions & thoughts:
 [[❓210816-2246]]
-
-## Related:
-```dataview
-list
-from [[❕ Benjamin Franklin không phải tổng thống Mỹ]]
-sort file.name asc
-```

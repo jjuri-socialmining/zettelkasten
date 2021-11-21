@@ -17,14 +17,4 @@ Muốn làm gột rửa tinh thần, bạn cần phải dọn dẹp những đi�
 ## Ideas & thoughts:
 [[Khủng hoảng hiện sinh|Existential Crisis]]
 
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[❕ Muốn làm mới tinh thần, cần phải dọn dẹp những điều cũ]]
-sort file.name asc
-```
-
 [^1]:https://www.quora.com/How-do-I-get-out-of-an-existential-crisis

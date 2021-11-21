@@ -15,7 +15,7 @@ publish: True
 
 Khazarian là vương quốc của người [[Khazars]].
 
-[[❕ Khazarian là vùng đất giữa biển Đen và biển Caspian]]
+[[Khazarian là vùng đất giữa biển Đen và biển Caspian]]
 
 ## Ideas & thoughts:
 

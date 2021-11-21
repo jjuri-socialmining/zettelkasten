@@ -9,10 +9,3 @@
 Người [[Âu Việt]] sống xen kẽ với người [[Lạc Việt]] thời các [[Vua Hùng]]. 
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Thời các vua Hùng, hai bộ tộc Âu Việt và Lạc Việt sống xen kẽ nhau]]
-sort file.name asc
-```

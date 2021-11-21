@@ -9,10 +9,3 @@
 Theo một số ghi chép, vua [[Khải Định]] bị cho là bị bệnh vô sinh, không thích gần đàn bà.
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Vua Khải Định bị cho là vô sinh]]
-sort file.name asc
-```

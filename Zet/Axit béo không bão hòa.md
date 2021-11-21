@@ -9,11 +9,3 @@
 [[Axit béo]] không bão hòa
 
 ## Questions & thoughts:
-
-
-## Related:
-```dataview
-list
-from [[Axit béo không bão hòa]]
-sort file.name asc
-```

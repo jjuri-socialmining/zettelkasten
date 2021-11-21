@@ -6,13 +6,6 @@
 	- source: 
 
 ## Notes
-Cain là con trai cả của [[Adam và Eva]] và [[Eva]]. 
+Cain là con trai cả của [[Adam và Eva]]. 
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Cain]]
-sort file.name asc
-```

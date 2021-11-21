@@ -10,10 +10,3 @@ Ngay sau khi nhận được [[HCM gửi công điện mời Vĩnh Thụy làm c
 10/9/1945, [[Bảo Đại|Vĩnh Thụy]] được [[Hồ Chí Minh]] chính thức ký bổ nhiệm làm cố vấn tối cao của [[Chính phủ cách mạng lâm thời Việt Nam]].  [[Bảo Đại|Vĩnh Thụy]] cũng là 1 trong 7 người trong ban dự thảo hiến pháp do Hồ Chí Minh đứng đầu.
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Vĩnh Thụy nhận lời HCM ra Hà Nội làm cố vấn chính phủ lâm thời]]
-sort file.name asc
-```

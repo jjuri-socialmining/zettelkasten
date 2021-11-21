@@ -18,13 +18,3 @@ Vấn đề [[Thiên Mệnh]] thời [[Nhà Chu]]
 [[📑 Bookmark]]
 
 ## Ideas & thoughts:
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[❕ Vấn đề thiên mệnh thời Nhà Chu]]
-sort file.name asc
-```

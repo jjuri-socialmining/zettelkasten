@@ -7,6 +7,9 @@ tags:
   - 'permanent/people'
 birth: 
 death: 
+aliases:
+  - Adam
+  - Eva
 publish: True
 ---
 # Adam và Eva

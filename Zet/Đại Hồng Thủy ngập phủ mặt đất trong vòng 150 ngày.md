@@ -14,7 +14,3 @@ publish: False
 [[Đại Hồng Thủy]] ngập phủ mặt đất trong vòng 150 ngày[[Gen-07#v24]]
 
 ## Ideas & thoughts:
-
-## Questions:
-
-## Relate to:

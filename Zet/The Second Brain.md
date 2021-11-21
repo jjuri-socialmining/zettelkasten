@@ -14,5 +14,4 @@ publish: True
 
 ## Ideas & thoughts:
 - [[Zettelkasten]]
-
-## Questions:
+- [[Personal Knowledge Management]]

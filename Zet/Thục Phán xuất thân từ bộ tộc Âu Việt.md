@@ -9,10 +9,3 @@
 [[An Dương Vương|Thục Phán]] xuất thân từ bộ tộc [[Âu Việt]]
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Thục Phán xuất thân từ bộ tộc Âu Việt]]
-sort file.name asc
-```

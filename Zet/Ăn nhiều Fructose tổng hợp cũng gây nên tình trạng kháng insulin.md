@@ -5,8 +5,7 @@ tags:
   - '#created/2021/Sep/03'
   - '#seed🥜'
   - '#permanent/fact'
-aliases:
-  - 
+publish: True
 ---
 # Ăn nhiều Fructose tổng hợp cũng gây nên tình trạng kháng insulin
 
@@ -15,13 +14,4 @@ aliases:
 
 ## Ideas & thoughts:
 
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Ăn nhiều Fructose tổng hợp cũng gây nên tình trạng kháng insulin]]
-sort file.name asc
-```
-[^1] :[[@ healthline.com, Insulin and Insulin Resistance — The Ultimate Guide]]
+[^1]:[[@ healthline.com, Insulin and Insulin Resistance — The Ultimate Guide]]

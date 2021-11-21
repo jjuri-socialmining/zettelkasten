@@ -5,7 +5,7 @@
     await tp.file.rename(title);
   }
 
-  note_type = "writing"
+  note_type = "writing/" + tp.date.now("YYYY/MMM/DD")
   await tp.file.move("/Zet/Writing/" + title);
   tR += "---"
 %>

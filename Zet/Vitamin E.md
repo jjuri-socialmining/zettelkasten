@@ -9,11 +9,3 @@
 [[Vitamin]]
 
 ## Questions & thoughts:
-
-
-## Related:
-```dataview
-list
-from [[Vitamin E]]
-sort file.name asc
-```

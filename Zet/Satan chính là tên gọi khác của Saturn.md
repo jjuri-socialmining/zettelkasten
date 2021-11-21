@@ -11,7 +11,7 @@ publish: False
 # Satan chính là tên gọi khác của Saturn
 
 ## Notes:
-
+[[Satan]] chính là tên gọi khác của Saturn
 
 ## Ideas & thoughts:
 

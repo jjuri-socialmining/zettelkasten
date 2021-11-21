@@ -17,7 +17,6 @@ publish: True
 
 ## Ideas & thoughts:
 - [[Chủ nghĩa hiện sinh]]
-- [[Thức tỉnh tâm linh]]
 - [[❕ Ý nghĩa cuộc sống]]
 - Giải pháp cho vấn đề này là [[Thức tỉnh tâm linh|Phát triển tâm linh]]
 - Tương đương với [[Bóng tối linh hồn]] của [[Teresa of Avila]]

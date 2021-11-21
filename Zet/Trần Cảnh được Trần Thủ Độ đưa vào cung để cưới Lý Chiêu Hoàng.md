@@ -6,8 +6,6 @@ tags:
   - '#created/2021/Sep/13'
   - '#seed🥜'
   - '#permanent/fact'
-aliases:
-  - 
 publish: True
 ---
 # Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng
@@ -16,7 +14,3 @@ publish: True
 [[Trần Cảnh]] được [[Trần Thủ Độ]] đưa vào cung để cưới [[Lý Chiêu Hoàng]]
 
 ## Ideas & thoughts:
-
-## Questions:
-
-## Related:

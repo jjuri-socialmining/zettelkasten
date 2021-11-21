@@ -9,10 +9,3 @@
 [[Axit béo không bão hòa]] có lợi cho sức khỏe
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Axit béo không bão hòa có lợi cho sức khỏe]]
-sort file.name asc
-```
