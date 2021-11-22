@@ -21,7 +21,7 @@ Một ghi chú vĩnh viễn sẽ được chia thành nhiều loại
 - #permanent/linking để so sánh, liên kết các ghi chú liên quan.
 
 Mỗi ghi chú khi được tạo sẽ mặc định có tag
-#created/YYYY/MMM/DD để có thể thống kê số lượng ghi chú tạo trong từng ngày, từng tháng hoặc năm. Hoặc dùng để lọc hiển thị [[Backlink graph View]] rất hữu dụng.
+#created/YYYY/MMM/DD để có thể thống kê số lượng ghi chú tạo trong từng ngày, từng tháng hoặc năm. Hoặc dùng để lọc hiển thị [[Backlink graph view]] rất hữu dụng.
 
 Đối với các ghi chú là liên quan đến sách, webpage. Sử dụng tags dưới đây để phân loại.
 #source/book 

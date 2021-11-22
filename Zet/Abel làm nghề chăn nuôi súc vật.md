@@ -9,10 +9,3 @@
 [[Abel]] làm nghề chăn nuôi súc vật
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Abel làm nghề chăn nuôi súc vật]]
-sort file.name asc
-```
