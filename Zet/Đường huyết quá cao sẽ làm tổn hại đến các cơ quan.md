@@ -9,10 +9,3 @@
 [[Đường huyết]] cao sẽ làm tổn hại đến các cơ quan
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Đường huyết quá cao sẽ làm tổn hại đến các cơ quan]]
-sort file.name asc
-```

@@ -30,7 +30,7 @@
     "maxLinkFactor": 1,
     "logLevel": 1
   },
-  "buryDate": "2021-11-21",
+  "buryDate": "2021-11-22",
   "buryList": [],
   "cache": {
     "Zet/Đế Quốc Mông Cổ.md": {
@@ -130,9 +130,9 @@
       "nextDueDate": "2021-08-26",
       "lastUpdated": 1632559188382,
       "dueDatesFlashcards": {
-        "-84": 1,
-        "-87": 1,
-        "-82": 1
+        "-85": 1,
+        "-88": 1,
+        "-83": 1
       }
     },
     "Zet/Sử Trung Quốc có 2 nhà Hán cách nhau một thời gian ngắn.md": {
@@ -183,10 +183,10 @@
       "nextDueDate": "2021-09-22",
       "lastUpdated": 1632559184680,
       "dueDatesFlashcards": {
-        "-56": 1,
-        "-60": 1,
-        "-58": 1,
-        "-59": 1
+        "-57": 1,
+        "-61": 1,
+        "-59": 1,
+        "-60": 1
       }
     },
     "Zet/Notion-2-Obsidian.md": {
@@ -349,9 +349,9 @@
       "nextDueDate": "2021-09-14",
       "lastUpdated": 1632559167944,
       "dueDatesFlashcards": {
+        "-69": 1,
         "-68": 1,
-        "-67": 1,
-        "-66": 1
+        "-67": 1
       }
     },
     "Zet/Bảo Đại.md": {
@@ -379,7 +379,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1632559160478,
+      "lastUpdated": 1637472994350,
       "dueDatesFlashcards": {}
     },
     "Zet/1955, Ngô Đình Diệm phế truất Quốc trưởng Bảo Đại.md": {
