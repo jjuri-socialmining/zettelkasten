@@ -30,7 +30,7 @@
     "maxLinkFactor": 1,
     "logLevel": 1
   },
-  "buryDate": "2021-11-23",
+  "buryDate": "2021-11-24",
   "buryList": [],
   "cache": {
     "Zet/Đế Quốc Mông Cổ.md": {
@@ -130,9 +130,9 @@
       "nextDueDate": "2021-08-26",
       "lastUpdated": 1632559188382,
       "dueDatesFlashcards": {
-        "-86": 1,
-        "-89": 1,
-        "-84": 1
+        "-87": 1,
+        "-90": 1,
+        "-85": 1
       }
     },
     "Zet/Sử Trung Quốc có 2 nhà Hán cách nhau một thời gian ngắn.md": {
@@ -183,10 +183,10 @@
       "nextDueDate": "2021-09-22",
       "lastUpdated": 1632559184680,
       "dueDatesFlashcards": {
-        "-58": 1,
-        "-62": 1,
-        "-60": 1,
-        "-61": 1
+        "-59": 1,
+        "-63": 1,
+        "-61": 1,
+        "-62": 1
       }
     },
     "Zet/Notion-2-Obsidian.md": {
@@ -349,9 +349,9 @@
       "nextDueDate": "2021-09-14",
       "lastUpdated": 1632559167944,
       "dueDatesFlashcards": {
+        "-71": 1,
         "-70": 1,
-        "-69": 1,
-        "-68": 1
+        "-69": 1
       }
     },
     "Zet/Bảo Đại.md": {

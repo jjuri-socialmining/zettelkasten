@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Cold War
-publish: False
+publish: True
 ---
 # Chiến tranh lạnh
 

@@ -19,6 +19,9 @@ Thế giới tâm linh là một dạng thức của tôn giáo, nơi mà ngư�
 - [[Thức tỉnh tâm linh]]
 - [[Khủng hoảng hiện sinh]]
 - [[Luân xa]]
+- [[Kỷ nguyên Bảo Bình]]
+- [[Cung hoàng đạo]]
+- [[Chiêm tinh học]]
 
 ### The World
 
