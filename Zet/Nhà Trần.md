@@ -12,6 +12,9 @@ publish: True
 Tiền thân là [[Nhà Lý]], kế tục là nhà [[Nhà Hồ]]
 [[Trần Cảnh]] được [[Trần Thủ Độ]] đưa vào cung, và ép [[Lý Chiêu Hoàng]] nhường ngôi, lập ra nhà Trần, chấm dứt [[Nhà Lý]]
 
+![[Pasted image 20211125203753.png]]
+
+
 ## Các đời vua
 
 ### Trần Thái Tông 1225-1258

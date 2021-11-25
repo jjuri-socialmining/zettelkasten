@@ -14,4 +14,4 @@ death:
 
 
 ## Ideas & thoughts:
-[[Thụy Bà Công chúa nhận Trần Hưng Đạo làm con nuôi]]
+- [[Thụy Bà Công chúa nhận Trần Hưng Đạo làm con nuôi]]

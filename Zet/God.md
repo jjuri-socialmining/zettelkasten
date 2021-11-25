@@ -13,6 +13,7 @@ aliases:
   - Thần
   - Đấng tạo hóa
   - Đức Chúa Trời
+  - Thượng Đế
 publish: True
 ---
 # God
