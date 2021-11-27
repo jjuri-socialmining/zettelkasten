@@ -22,7 +22,7 @@ Sau khi Liên xô giải thể, 15 nước Cộng Hòa giành được độc l�
 ## Ideas & thoughts:
 - [[Mikhail Gorbachev]]
 - [[Boris Yeltsin]]
-- [[Chiến tranh lạnh]]
+- [[Chiến tranh Lạnh]]
 
 ## Ref:
 - [Điều gì đã dẫn đến sự sụp đổ của Liên bang Xô viết năm 1991? (greelane.com)](https://www.greelane.com/vi/nh%c3%a2n-v%c4%83n/l%e1%bb%8bch-s%e1%bb%ad--v%c4%83n-h%c3%b3a/why-did-the-soviet-union-collapse-4587809/)
