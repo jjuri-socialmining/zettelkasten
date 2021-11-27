@@ -75,9 +75,11 @@ Qmap là một biểu đồ liệt kê rất nhiều thông tin, sự kiện bí
 - [[Các cuộn sách biển Chết]]
 - [[John Pierpont Morgan]]
 - [[Titanic]]
-- [[John Pierpont Morgan]]
-
-
+- [[Thảm họa Fukushima]]
+- [[Ronald Reagan]]
+- [[Anton Lavey]]
+- [[Thẻ bài Illuminati]]
+- 
 ## [[Gia tộc Rothschild|Rothschild]]
 - [[Khazarian Mafia]]
 - [[Tháp Mentmore|Mentmore tower]]

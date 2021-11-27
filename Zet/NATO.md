@@ -9,7 +9,7 @@ tags:
 aliases:
   - North Atlantic Treaty Organization
   - Tổ chức Hiệp ước Bắc Đại Tây Dương
-publish: False
+publish: True
 ---
 # NATO
 
