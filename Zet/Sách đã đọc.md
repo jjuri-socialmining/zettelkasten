@@ -40,5 +40,6 @@ publish: True
 - [[@ Karel Čapek, Khi Loài Vật Lên Ngôi]]
 - [[@ George Orwell, 1984]]
 - [[@ Jonas Jonasson, Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất]]
+- [[@ Leo Tolstoy, Suy niệm mỗi ngày]]
 
 

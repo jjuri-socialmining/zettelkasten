@@ -8,7 +8,7 @@ tags:
 birth: 
 death: 
 aliases:
-  - 
+  - Ân
 ---
 # Trần Thiên Ân
 

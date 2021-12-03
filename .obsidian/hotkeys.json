@@ -4,7 +4,7 @@
       "modifiers": [
         "Alt"
       ],
-      "key": "å"
+      "key": "ArrowLeft"
     }
   ],
   "editor:open-search-replace": [
@@ -61,7 +61,7 @@
       "modifiers": [
         "Alt"
       ],
-      "key": "ß"
+      "key": "ArrowRight"
     }
   ],
   "workspaces:load": [
@@ -318,5 +318,6 @@
       "key": "K"
     }
   ],
-  "obsidian-excalidraw-plugin:toggle-lock": []
+  "obsidian-excalidraw-plugin:toggle-lock": [],
+  "obsidian-excalidraw-plugin:insert-link": []
 }
