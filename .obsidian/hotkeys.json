@@ -319,5 +319,14 @@
     }
   ],
   "obsidian-excalidraw-plugin:toggle-lock": [],
-  "obsidian-excalidraw-plugin:insert-link": []
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "hotkeysplus-obsidian:duplicate-lines": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "V"
+    }
+  ]
 }

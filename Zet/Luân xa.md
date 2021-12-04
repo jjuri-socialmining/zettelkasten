@@ -8,6 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Chakra
+  - Kinh lạc
 publish: True
 ---
 # Luân xa

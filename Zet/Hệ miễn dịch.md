@@ -1,13 +1,17 @@
+---
+title: Hệ miễn dịch
+UID: 211204112941
+created: 04-Dec-2021
+tags:
+  - 'created/2021/Jul/11'
+  - 'seed🥜'
+  - 'permanent/concept'
+publish: False
+---
 # Hệ miễn dịch
 
-- metadata
-	- UID: P-210711-1622
-	- tags: #created/2021/Jul/11, #permanent/concept #state/boat 
-	- previous note: 
-	- source: 
-
-## Notes
+## Notes:
 
 
-## Questions & thoughts:
-
+## Ideas & thoughts:
+- Trên lý thuyết, hệ miễn dịch có trí nhớ
