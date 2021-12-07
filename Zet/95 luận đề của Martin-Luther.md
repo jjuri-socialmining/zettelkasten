@@ -5,7 +5,7 @@ tags:
   - 'created/2020/Dec/06'
   - 'seed🥜'
   - 'permanent/concept'
-publish: False
+publish: True
 ---
 # 95 luận đề của Martin-Luther
 

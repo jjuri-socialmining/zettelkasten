@@ -9,10 +9,3 @@
 Cao Lỗ giúp [[An Dương Vương]] đắp [[Thành Cổ Loa]] sau khi chiến thắng quân Tần.
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[An Dương Vương cho xây Cổ Loa sau khi thắng quân Tần]]
-sort file.name asc
-```

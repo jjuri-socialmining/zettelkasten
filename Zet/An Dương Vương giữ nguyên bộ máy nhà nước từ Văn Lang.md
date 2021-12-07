@@ -9,10 +9,3 @@
 Hệ thống cai trị [[Âu Lạc]] không thay đổi nhiều so với [[Văn Lang]] thời các [[Vua Hùng]], bộ máy nhà nước vẫn bao gồm Vua và các lạc hầu, lạc tướng.
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[An Dương Vương giữ nguyên bộ máy nhà nước từ Văn Lang]]
-sort file.name asc
-```
