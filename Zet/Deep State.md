@@ -19,6 +19,7 @@ publish: False
 ## Ideas & thoughts:
 - [[New World Order]]
 - [[QAnon]] nhắc đến rất nhiều về tổ chức này
+- [[nhóm Mũ Trắng]]
 
 Thế lực của Deep state:
 -  Thành phố [[London]] (Tài chính, do [[Gia tộc Rothschild|Rothschild Family]] kiểm soát) – KHÔNG thuộc Vương quốc Anh
