@@ -27,6 +27,9 @@ publish: True
 - Người có tần số rung động cao, họ sẽ dần không phụ thuộc vào thức ăn, vì năng lượng giờ đây có thể được cảm thụ thông qua rung động.
 - [[Nicola Tesla]]
 
+[[Lịch sử trái đất theo Sal Rachele]] cho rằng có 12 cấp độ rung động
+- Cấp 1: Đất 
+- 
 ## Reference:
 - https://khoahoctamlinh.vn/khoa-hoc-tam-linh/tan-so-tam-linh/tim-hieu-ve-tan-so-rung-dong-875.html
 
