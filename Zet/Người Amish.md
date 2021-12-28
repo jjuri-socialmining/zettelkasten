@@ -5,13 +5,13 @@ tags:
   - 'created/2020/Oct/22'
   - 'seed🥜'
   - 'permanent/concept'
-publish: False
+publish: True
 ---
 # Người Amish
 
 ## Notes:
 
-Người Amish là một nhóm người Kito giáo "duy truyền thống" có nguồn gốc từ Thụy Sĩ. Sau khi ly giáo khỏi giáo hội Anabaptist ở Thụy Sĩ vào năm 1693. Họ được dẫn dắt bởi Jakob Ammann. Tên gọi Amish bắt nguồn từ đó. Khoảng thế kỷ 18 thì người Amish và [[Mennonite ]] di cư sang Pennsylvania. Họ vẫn duy trì phong cách sống đơn giản, trang phục giản dị, lối sống khép kín và ít phụ thuộc công nghệ.
+Người Amish là một nhóm người [[Cơ Đốc Giáo|Kito Giáo]] "duy truyền thống" có nguồn gốc từ Thụy Sĩ. Sau khi ly giáo khỏi giáo hội [[Anabaptist]] ở Thụy Sĩ vào năm 1693. Họ được dẫn dắt bởi Jakob Ammann. Tên gọi Amish bắt nguồn từ đó. Khoảng thế kỷ 18 thì người Amish và [[Mennonite ]] di cư sang Pennsylvania. Họ vẫn duy trì phong cách sống đơn giản, trang phục giản dị, lối sống khép kín và ít phụ thuộc công nghệ.
 
 ## Ideas & thoughts:
 > Điện thoại cá nhân (di động hoặc hộ gia đình) hầu như luôn bị cấm, nhưng nhiều cộng đồng duy trì một bốt điện thoại cộng đồng.
