@@ -76,5 +76,7 @@
     "editor:toggle-keyboard",
     "editor:configure-toolbar",
     "editor:focus"
-  ]
+  ],
+  "legacyEditor": false,
+  "livePreview": false
 }

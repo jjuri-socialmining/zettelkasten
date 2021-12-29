@@ -10,9 +10,11 @@
   "daily-notes",
   "note-composer",
   "command-palette",
+  "slash-command",
   "starred",
   "random-note",
   "outline",
+  "word-count",
   "open-with-default-app",
   "file-recovery"
 ]

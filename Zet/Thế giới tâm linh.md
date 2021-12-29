@@ -11,7 +11,7 @@ publish: True
 # Thế giới tâm linh
 
 ## Notes:
-Thế giới tâm linh là một dạng thức của tôn giáo, nơi mà người ta đi theo tiếng lòng bên trong, hiểu về bản thân và tiếp nhận vũ trụ. Tôn giáo là nơi ta đi theo một lãnh tụ tôn giáo, một dạng thức cao hơn của nhà nước.
+Tôn giáo là nơi ta đi theo một lãnh tụ tôn giáo, tôn giáo là một dạng thức cao hơn của nhà nước. Thế giới tâm linh là một dạng thức cao hơn của tôn giáo, nơi mà người ta đi theo tiếng lòng bên trong, hiểu về bản thân và tiếp nhận vũ trụ.
 
 ### Self
 
@@ -22,6 +22,7 @@ Thế giới tâm linh là một dạng thức của tôn giáo, nơi mà ngư�
 - [[Kỷ nguyên Bảo Bình]]
 - [[Cung hoàng đạo]]
 - [[Chiêm tinh học]]
+- [[Kundalini]]
 
 ### The World
 
