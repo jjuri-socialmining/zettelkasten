@@ -13,5 +13,7 @@ publish: True
 
 
 ## Ideas & thoughts:
-- [[Coronavirus]]
+- [[SARS-CoV-2]] là một loại [[Coronavirus]]
 - [[Đại dịch COVID-19]]
+- [[Virus HIV]]
+- [Viruses do not exist (wickedtruths.org)](https://wickedtruths.org/en/viruses-do-not-exist/)
