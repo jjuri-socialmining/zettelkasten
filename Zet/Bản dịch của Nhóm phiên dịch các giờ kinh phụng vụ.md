@@ -13,11 +13,8 @@ publish: False
 # Bản dịch của Nhóm phiên dịch các giờ kinh phụng vụ
 
 ## Notes:
-Là bản dịch tiếng Việt [[Kinh thánh]] của [[Công Giáo]]
+Là bản dịch tiếng Việt [[The Bible|Kinh thánh]] của [[Công Giáo]]
+
 Ký hiệu là KPA
 
 ## Ideas & thoughts:
-
-## Questions:
-
-## Related:
