@@ -24,4 +24,5 @@ Các bài viết được tổng hợp từ [[Zettelkasten]], các bài viết n
 - [[Sách - Leo Tolstoy, Suy niệm mỗi ngày]]
 - [[Sách - Yuval N. Harari, Sapiens lược sử loài người]]
 - [[Tóm tắt sách truyền thuyết về sự lây nhiễm]]
+- [[Tóm tắt sách - Atomic Habits]]
 

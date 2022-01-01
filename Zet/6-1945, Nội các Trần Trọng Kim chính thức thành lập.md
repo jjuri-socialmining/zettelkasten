@@ -10,9 +10,4 @@ Tháng 6 năm 1945, [[Nội các Trần Trọng Kim]] lấy quốc hiệu là [[
 
 ## Questions & thoughts:
 - [ ] [[Quẻ ly]] trong [[Kinh Dịch]] #question❓ 
-## Related:
-```dataview
-list
-from [[6-1945, Nội các Trần Trọng Kim chính thức thành lập]]
-sort file.name asc
-```
+
