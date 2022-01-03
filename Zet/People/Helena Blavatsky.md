@@ -16,12 +16,14 @@ publish: True
 
 ## Notes:
 Helena Blavatsky (1831-1891) là một nhà [[Thần bí học]] người [[Nga]]
+
 ![[Pasted image 20211026234813.png|300]]
 
 ## Ideas & thoughts:
 - [[Henry Steel Olcott]]
 - [[@ Helena Blavatsky, ISIS unveiled]]
 - Helena Blavatsky được nhắc đến trong [[Qmap]]
+- [[Akashic records]]
 
 ## Reference:
 - [wiki](https://vi.wikipedia.org/wiki/Helena_Blavatsky)
