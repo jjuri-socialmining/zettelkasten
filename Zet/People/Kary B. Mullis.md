@@ -6,7 +6,9 @@ tags:
   - 'seed🥜'
   - 'permanent/people'
 birth: 
-death: 
+death:
+aliases:
+  - Kary Mullis
 publish: True
 ---
 # Kary B. Mullis
@@ -21,3 +23,4 @@ publish: True
 - [[Kary B. Mullis]] là nhà khoa học bất đồng quan điểm với [[CDC]] và [[FDA]]. Mullis cho rằng các cơ quan của chính phủ như CDC và FDA đưa ra chỉ dẫn không dựa trên bất kỳ bằng chứng khoa học nào. Xem thêm [[Kary Mullis, inventor of the PCR, talks about the HIV-AIDS connection]]
 - [[Kary B. Mullis]] từng chỉ trích rất mạnh [[Anthony Fauci]]
 - Kary Mullis nói rằng [[Virus HIV]] không phải là nguyên nhân gây ra bệnh [[AIDS]] [Kary Mullis (wickedtruths.org)](https://wickedtruths.org/en/kary-mullis/)
+

@@ -12,10 +12,3 @@
 
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[! Ăn nhiều trái cây giúp trị táo bón]]
-sort file.name asc
-```
