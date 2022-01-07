@@ -25,4 +25,6 @@ Các bài viết được tổng hợp từ [[Zettelkasten]], các bài viết n
 - [[Sách - Yuval N. Harari, Sapiens lược sử loài người]]
 - [[Tóm tắt sách truyền thuyết về sự lây nhiễm]]
 - [[Tóm tắt sách - Atomic Habits]]
+- [[Kary Mullis phản đối việc sử dụng PCR để xét nghiệm virus HIV]]
+- [[Vatican có thực sự đã công bố hoàn toàn bí mật Fatima❓]]
 

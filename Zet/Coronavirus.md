@@ -32,7 +32,7 @@ Bộ gen của Coronavirus mã hóa được bốn hoặc 5 loại protein cấu
 
 ## Ideas & thoughts:
 - [[Antoine Bechamp và Pasteur về lý thuyết vi khuẩn]]
-- [[Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không]]
+- [[Các định đề Thomas Rivers]]
 
 
 

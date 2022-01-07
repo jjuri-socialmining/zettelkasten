@@ -15,7 +15,7 @@ publish: True
 
 ### [[@ Thomas S. Cowan, The Contagion Myth, Ch01|Chương 1 Bệnh lây nhiễm]]
 - [[Các định đề Robert Koch]]
-- [[Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không]]
+- [[Các định đề Thomas Rivers]]
 - Vi khuẩn có chức năng tự nhiên là tiêu hóa và thải độc. Một số vi khuẩn do cơ thể thiếu cân bằng nội môi của cơ thể, khiến chúng phản ứng và sinh ra những chất khác gây ra chất độc, gây ra bệnh -> vậy cũng chính nguồn gốc là môi trường theo [[The Terrain Theory]]
 - *"Không thể nào có độc tố trong sữa"*
 - "Pasteur đã chuyển sổ ghi chép trong phòng thí nghiệm của mình cho những người thừa kế với điều kiện là họ không bao giờ công khai sổ ghi chép." #todo/research #todo/evidence

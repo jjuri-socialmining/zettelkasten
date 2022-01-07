@@ -25,7 +25,7 @@ Nguyên tắc được [[Heinrich Hermann Robert Koch]] để xác định một
 ## Ideas & thoughts:
 - Định đề của Koch là nói về vi khuẩn, không nói về virus[^koch]
 - 1937, [[Thomas Rivers]] dựa trên các định đề này của Koch để đưa ra các định đề tương ứng đối với virus[^river]
-- [[Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không]]
+- [[Các định đề Thomas Rivers]]
 
 
 [^koch]:[[@ Thomas S. Cowan, The Contagion Myth, Ch01]]

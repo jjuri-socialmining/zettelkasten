@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/05'
   - 'garden🏡'
   - 'permanent/linking'
-publish: False
+publish: True
 ---
 # Phim tài liệu Ancient Aliens
 
