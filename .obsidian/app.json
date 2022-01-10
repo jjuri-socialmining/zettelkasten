@@ -7,7 +7,7 @@
   "newFileFolderPath": "Seedbox",
   "foldIndent": true,
   "fileSortOrder": "alphabetical",
-  "spellcheck": true,
+  "spellcheck": false,
   "showFrontmatter": false,
   "spellcheckDictionary": [
     "journaling",
