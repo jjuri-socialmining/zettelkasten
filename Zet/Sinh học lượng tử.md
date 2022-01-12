@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Quantum Biology
-publish: True
+publish: False
 ---
 # Sinh học lượng tử
 
