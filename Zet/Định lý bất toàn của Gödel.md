@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Định lý Gödel
-publish: False
+publish: True
 ---
 # Định lý bất toàn của Gödel
 
@@ -16,6 +16,7 @@ publish: False
 Định lý bất toàn của Gödel cho rằng mọi lý thuyết về nguồn gốc đều bất khả thi, mọi hệ logic không thể tự chứng minh hệ tiên đề của nó. Điều này bác bỏ [[Thuyết tiến hóa]] của [[Charles Darwin]]
 
 ## Ideas & thoughts:
+- [[Kurd Godel]]
 - [[Godel bác bỏ Thuyết tiến hóa Darwin]]
 - [[@ Phạm Việt Hưng, Định lý Gödel: Nền tảng của Khoa học Nhận thức Hiện đại]]
 
