@@ -34,9 +34,12 @@ if(qcFolderLocation.startsWith('/')){qcFolderLocation = qcFolderLocation.substri
 
 let qcFilePath = qcFolderLocation + qcFileName + '.md';
 let qcFile = this.app.vault.getAbstractFileByPath(qcFilePath);
-if(!qcFile) {
-    qcFile = await this.app.vault.create(qcFilePath, '');
-}
+if(qcFile) {
+    qcFileName = tp.date.now("💬YYMMDD-HHmmss");
+	qcFilePath = qcFolderLocation + qcFileName + '.md';
+} 
+
+qcFile = await this.app.vault.create(qcFilePath, '');
 
 if(qcFile) {
 	let Quote = await tp.system.prompt("Quote");

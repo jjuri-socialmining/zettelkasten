@@ -24,9 +24,7 @@ publish: True
 - [[Cung điện ký ức]]
 - [[Phương pháp con vịt cao su]]
 - [[Kỹ thuật học tập Feymann]]
-
 - [[Dopamine detox]]
 - [[@ Cal Newport, Digital Minimalism]]
 
 ## Ideas & thoughts:
-https://clb100.com/

@@ -15,6 +15,8 @@ kanban-plugin: basic
 - [ ] [[Thuyết tiến hóa]]
 - [ ] [[Grego Mendel]]
 - [ ] [[Các lập luận phủ định thuyết tiến hóa]]
+- [ ] [[Cỗ máy Antikythera]]
+- [ ] [[Định luật Entropy]]
 
 
 ## Waiting

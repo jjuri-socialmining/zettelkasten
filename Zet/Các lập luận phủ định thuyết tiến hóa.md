@@ -23,6 +23,9 @@ Các lập luận phủ định [[Thuyết tiến hóa]] của [[Charles Darwin]
 - Sự sống bùng nổ đột ngột trong [[Kỷ Cambri]]
 - Số lượng loài chuyển tiếp phải lớn [[💬220113-2250 Loài trung gian]]
 - Theo định luật di truyền [[Grego Mendel]] chứng minh rằng loài là cố định
+- [[Thuyết tiến hóa chưa là định luật, chưa được chứng minh]]
+- [[Định luật entropy phủ định quá trình tiến hóa]]
+- 
 
 
 
