@@ -9,10 +9,3 @@
 [[Cain]] là anh [[Abel]]
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Cain là anh Abel]]
-sort file.name asc
-```

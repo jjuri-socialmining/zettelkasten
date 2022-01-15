@@ -21,13 +21,5 @@ Chế độ Keto là chế độ ăn [[Chế độ ăn Low Carb|ít carb]] và n
 ## Ideas & thoughts:
 [[Xeton]]
 
-## Questions:
 
-
-## Tham khảo:
-```dataview
-list
-from [[Chế độ Keto]]
-sort file.name asc
-```
 [^1]: https://kenh14.vn/hoa-ra-the-gioi-co-nhieu-kieu-an-low-carb-the-nay-ma-chung-ta-cha-biet-gi-ca-20181113201820113.chn

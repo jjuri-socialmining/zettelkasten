@@ -1,5 +1,15 @@
 ---
 title: 💥 null
+created: 2022-01-15
+resolve: 
+tags:
+  - '#ideas💥'
+  - '#created/22/01/15'
+---
+
+null
+---
+title: 💥 null
 created: 2021-11-09
 resolve: 
 tags:

@@ -7,6 +7,7 @@ tags:
   - '#permanent/concept'
 aliases:
   - Cách tính toán hệ số ELO
+publish: true
 ---
 # Cách tính toán hệ số ELO
 
@@ -50,13 +51,3 @@ Kỳ thủ A bị thua kỳ thủ B. điểm số mới
 - Rb’ = 1609 + 20(1 – 0.494) = 1619
 
 ## Ideas & thoughts:
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Cách tính toán hệ số ELO]]
-sort file.name asc
-```

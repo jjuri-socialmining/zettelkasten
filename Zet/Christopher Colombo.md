@@ -9,10 +9,3 @@
 
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Christopher Colombo]]
-sort file.name asc
-```

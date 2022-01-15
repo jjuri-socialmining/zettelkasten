@@ -2,11 +2,10 @@
 title: ASCII
 UID: 210831204114
 tags:
-  - '#created/2021/Aug/31'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - ASCII
+  - 'created/2021/Aug/31'
+  - 'seed🥜'
+  - 'permanent/concept'
+publish: true
 ---
 # ASCII
 
@@ -17,15 +16,4 @@ Với 7 bits để biểu diễn ký tự, ASCII biểu diễn được 128 ký 
 Về sau khi chuẩn [[Unicode]] được công bố, Unicode dành đúng 128 ký tự đầu để biểu diễn ASCII. Những ký tự tiếp theo định nghĩa thêm các ký tự của các ngôn ngữ trên thế giới
 
 
-
 ## Ideas & thoughts:
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[ASCII]]
-sort file.name asc
-```

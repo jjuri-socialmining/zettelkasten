@@ -13,6 +13,7 @@ publish: True
 
 ## Notes:
 Homo Neanderthal (Người Neanderthal) là một loài trong chi Homo (người) đã bị tuyệt chủng. Các mẫu vật khảo cổ được tìm thấy ở Châu Âu và một vài nơi ở phía Tây và trung Á.
+
 Neanderthal hoặc là xếp vào phụ loài, tức chỉ là một chủng tộc của người hiện đại hoặc được tách thành một loài riêng biệt.
 
 ## Ideas & thoughts:

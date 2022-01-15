@@ -5,8 +5,6 @@ tags:
   - '#created/2021/Sep/08'
   - '#seed🥜'
   - '#permanent/fact'
-aliases:
-  - 
 ---
 # Chúa Nguyễn Phúc Chu đặt tên Chùa Cầu là Lai Viễn Kiều
 

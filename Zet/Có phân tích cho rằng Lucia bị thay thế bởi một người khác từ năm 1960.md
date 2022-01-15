@@ -44,6 +44,8 @@ Sơ Lucia năm 60 tuổi lại không có
 ![[Pasted image 20220110234517.png]]
 
 ## Ideas & thoughts:
+- [[Vatican có thực sự đã công bố hoàn toàn bí mật Fatima❓]]
+- [[❕ Lucia có thể bị thay thế từ 1960, bí mật Fatima 3 có thể không đúng]]
 
 ## Ref:
 - [Bí mật Fatima: dâng hiến nước Nga & Sơ Lucia giả mạo - Tu Viện Thánh Gia (conggiaovatican.com)](https://conggiaovatican.com/fatima-so-lucia-gia-mao/#gia-mao)

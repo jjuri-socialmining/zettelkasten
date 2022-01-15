@@ -6,7 +6,9 @@ tags:
   - 'created/2022/Jan/14'
   - 'seed🥜'
   - 'permanent/concept'
-publish: False
+aliases:
+  - Định luật nhiệt động lực học
+publish: True
 ---
 # Định luật Entropy
 
