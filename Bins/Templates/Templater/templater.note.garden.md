@@ -5,20 +5,19 @@
     await tp.file.rename(title);
   }
 
-  note_type = "permanent/people"
-  await tp.file.move("/Zet/People/" + title);
-  birth = "birth:"
-  death = "death:"
+  note_type = await tp.system.suggester(["concept", "fact", "think", "place", "nation", "linking", "how to", "funny"], ["permanent/concept", "permanent/fact", "permanent/think", "permanent/place", "permanent/nation", "permanent/linking", "permanent/howto", 'funny']);
+
+   await tp.file.move("/Zet/Garden/" + title);
+   
   tR += "---"
 %>
 title: <%* tR += title %>
 UID: <% tp.date.now("YYMMDDHHmmss") %>
+created: <% tp.date.now("DD-MMM-YYYY") %>
 tags:
   - 'created/<% tp.date.now("YYYY/MMM/DD") %>'
-  - 'seed'
+  - 'garden'
   - '<%* tR += note_type %>'
-<%* tR += birth %>
-<%* tR += death %>
 publish: False
 ---
 # <%* tR += title %>
@@ -27,3 +26,5 @@ publish: False
 <% tp.file.cursor() %>
 
 ## Ideas & thoughts:
+
+

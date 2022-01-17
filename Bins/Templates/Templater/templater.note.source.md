@@ -27,8 +27,9 @@ UID: <% tp.date.now("YYMMDDHHmmss") %>
 tags:
   - 'created/<% tp.date.now("YYYY/MMM/DD") %>'
   - '<%* tR += note_type %>'
+publish: True
 ---
-link:
-author:
+- link:
+- author:
 
 <% tp.file.cursor() %>

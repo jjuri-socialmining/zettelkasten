@@ -11,9 +11,6 @@
 	  await tp.file.rename(title);
 	}
   }
-
-  note_type = await tp.system.suggester(["Routine", "Private"], ["daily/routine", "daily/private"]);
-  
   await tp.file.move("/Spaces/Daily/Journal/" + title);
   tR += "---"
 %>
@@ -23,7 +20,7 @@ created: <% tp.date.now("DD-MMM-YYYY") %>
 tags:
   - 'created/<% tp.date.now("YYYY/MMM/DD") %>'
   - '📅'
-  - '<%* tR += note_type %>'
+  - 'daily/private'
 ---
 <% "[[" + tp.date.yesterday("📝YY-MM-DD") + "|<- Yesterday]] | [[" + tp.date.tomorrow("📝YY-MM-DD")  + "|Tomorrow ->]]" %>
 # <% tp.date.now("dddd, MMM D, YYYY") %>

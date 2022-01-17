@@ -2,10 +2,13 @@
   let title = tp.file.title;
   if (title.startsWith("Untitled")) {
   	title = await tp.system.prompt("Input title of note");
-    await tp.file.rename(title);
-  }
 
-  note_process = await tp.system.suggester(["🥜Seed", "🌱Seeding", "🌲Evergreen", "🏡Garden"], ["seed🥜", "seeding🌱","evergreen🌲", "garden🏡"]);
+  }
+  let date = tp.date.now("YYMMDD-HHmmss - ")
+  let date2 = tp.date.now("YYMMDDHHmmss")
+  title = date + title
+  await tp.file.rename(title);
+  note_process = await tp.system.suggester(["🥜Seed", "🌱Seeding", "🌲Evergreen", "🏡Garden"], ["seed", "seeding","evergreen", "garden"]);
 
   note_type = await tp.system.suggester(["concept", "fact", "think", "place", "nation", "linking", "how to", "funny"], ["permanent/concept", "permanent/fact", "permanent/think", "permanent/place", "permanent/nation", "permanent/linking", "permanent/howto", 'funny']);
 
@@ -18,15 +21,10 @@
     await tp.file.move("/Zet/" + title);
   }
 
-  alias_txt = ''
-  if (note_type == "permanent/concept") {
-    alias_txt = title
-  }
-   
   tR += "---"
 %>
 title: <%* tR += title %>
-UID: <% tp.date.now("YYMMDDHHmmss") %>
+UID: <% date2 %>
 created: <% tp.date.now("DD-MMM-YYYY") %>
 tags:
   - 'created/<% tp.date.now("YYYY/MMM/DD") %>'
@@ -34,11 +32,9 @@ tags:
   - '<%* tR += note_type %>'
 publish: False
 ---
-# <%* tR += title %>
-
 ## Notes:
 <% tp.file.cursor() %>
 
-## Ideas & thoughts:
+## Source:
 
 

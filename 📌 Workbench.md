@@ -12,6 +12,7 @@ kanban-plugin: basic
 ## Doing
 
 - [ ] [[Cỗ máy Antikythera]]
+- [ ] [[@ 220118-000541 - wiki, Atlantis]]
 
 
 ## Waiting
