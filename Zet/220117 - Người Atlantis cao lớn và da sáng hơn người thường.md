@@ -12,6 +12,6 @@ publish: True
 [[Người Atlantis]] cao lớn và da sáng hơn người thường
 
 ## Source:
-- [[@ 220117-232024 - Atlantis]]
+- [[@ donggoitrithuc, Atlantis]]
 
 

@@ -4,7 +4,7 @@
   	title = await tp.system.prompt("Input title of note");
 
   }
-  let date = tp.date.now("YYMMDD-HHmmss - ")
+  let date = tp.date.now("YYMMDD - ")
   let date2 = tp.date.now("YYMMDDHHmmss")
   title = date + title
   await tp.file.rename(title);

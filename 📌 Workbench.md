@@ -12,7 +12,7 @@ kanban-plugin: basic
 ## Doing
 
 - [ ] [[Cỗ máy Antikythera]]
-- [ ] [[@ 220118-000541 - wiki, Atlantis]]
+- [ ] [[@ wiki, Cuộc chiến thành Troy]]
 
 
 ## Waiting
@@ -27,6 +27,7 @@ kanban-plugin: basic
 - [ ] [[Grego Mendel]]
 - [ ] [[Thuyết tiến hóa]]
 - [ ] [[Định lý bất toàn của Gödel|Định lý Gödel]]
+- [ ] [[@ wiki, Atlantis]]
 
 %% kanban:settings
 ```

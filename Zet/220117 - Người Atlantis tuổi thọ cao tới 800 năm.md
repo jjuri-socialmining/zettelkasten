@@ -12,6 +12,6 @@ publish: True
 [[Người Atlantis]] có tuổi thọ cao, họ có thể sống tới 800 năm.
 
 ## Source:
-- [[@ 220117-232024 - Atlantis]]
+- [[@ donggoitrithuc, Atlantis]]
 
 

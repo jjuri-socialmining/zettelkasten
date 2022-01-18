@@ -6,12 +6,12 @@ tags:
   - 'created/2022/Jan/17'
   - 'evergreen'
   - 'permanent/fact'
-publish: False
+publish: True
 ---
 ## Notes:
-[[Người Atlantis]] đến trái đất từ [[chòm sao Lyran]] từ 50.000 năm trước
+[[Người Atlantis]] đến trái đất từ [[Chòm sao Lyran]] từ 50.000 năm trước
 
 ## Source:
-- [[@ 220117-232024 - Atlantis]]
+- [[@ donggoitrithuc, Atlantis]]
 
 

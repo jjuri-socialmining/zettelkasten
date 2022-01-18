@@ -11,11 +11,11 @@ publish: True
 ## Notes:
 Theo một số giả thuyết,  [[Người Atlantis]] có thể là [[Người ngoài hành tinh]]:
 
-- [[Người Atlantis cao lớn và da sáng hơn người thường]]
-- [[Người Atlantis tuổi thọ cao tới 800 năm]]
-- [[Người Atlantis đến trái đất từ chòm sao Lyran từ 50000 năm trước]]
+- [[220117 - Người Atlantis cao lớn và da sáng hơn người thường]]
+- [[220117 - Người Atlantis tuổi thọ cao tới 800 năm]]
+- [[220117 - Người Atlantis đến trái đất từ chòm sao Lyran từ 50000 năm trước]]
 
 ## Source:
-- [[@ 220117-232024 - Atlantis]]
+- [[@ donggoitrithuc, Atlantis]]
 
 

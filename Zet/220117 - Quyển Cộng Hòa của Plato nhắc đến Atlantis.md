@@ -12,4 +12,4 @@ publish: True
 Quyển [[@ Plato, Cộng Hòa]] của [[Plato]] nhắc đến [[Atlantis]] khoảng năm 330 TCN.
 
 ## Source:
-- [[@ 220117-232024 - Atlantis]]
+- [[@ donggoitrithuc, Atlantis]]

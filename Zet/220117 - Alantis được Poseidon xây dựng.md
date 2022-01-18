@@ -12,6 +12,6 @@ publish: True
 Atlantis được [[Poseidon]] xây dựng để tạo ấn tượng với một phụ nữ có tên là [[Cleito]].
 
 ## Source:
-- [[@ 220117-232024 - Atlantis]]
+- [[@ donggoitrithuc, Atlantis]]
 
 

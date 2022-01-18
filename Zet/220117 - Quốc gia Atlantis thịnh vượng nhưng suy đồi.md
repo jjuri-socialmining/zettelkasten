@@ -12,6 +12,6 @@ publish: True
 [[Atlantis]] là một quốc gia kiêu căng, tuy thịnh vượng nhưng suy đồi về đạo đức
 
 ## Source:
-- [[@ 220117-232024 - Atlantis]]
+- [[@ donggoitrithuc, Atlantis]]
 
 
