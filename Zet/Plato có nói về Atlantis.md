@@ -21,6 +21,9 @@ publish: True
 
 ## Ideas & thoughts:
 - Nếu điều này có thật thì bằng cách nào ông tiếp cận được nguồn thông tin này? #todo/research 
+- Xem thêm [[@ wiki, Atlantis]]
+- [[220118 - Plato nhắc đến Atlantis nguồn chính trong Timaeus và Critias]]
+- [[220117 - Quyển Cộng Hòa của Plato nhắc đến Atlantis]]
 
 ## Reference:
 - [thoughtco.com](https://www.thoughtco.com/platos-atlantis-from-the-timaeus-119667)

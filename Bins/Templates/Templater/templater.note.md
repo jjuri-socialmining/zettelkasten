@@ -30,7 +30,7 @@ tags:
   - 'created/<% tp.date.now("YYYY/MMM/DD") %>'
   - '<%* tR += note_process %>'
   - '<%* tR += note_type %>'
-publish: False
+publish: True
 ---
 ## Notes:
 <% tp.file.cursor() %>

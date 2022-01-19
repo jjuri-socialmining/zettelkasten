@@ -13,6 +13,7 @@ kanban-plugin: basic
 
 - [ ] [[Cỗ máy Antikythera]]
 - [ ] [[@ wiki, Cuộc chiến thành Troy]]
+- [ ] [[@ trithucvn.org, Lemuria]]
 
 
 ## Waiting
