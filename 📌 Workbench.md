@@ -7,6 +7,7 @@ kanban-plugin: basic
 ## Ideas
 
 - [ ] Kurd Godel
+- [ ] [[@ truyenxuatichcu, Thủy thần Lưỡng Hà]]
 
 
 ## Doing
@@ -14,6 +15,8 @@ kanban-plugin: basic
 - [ ] [[Cỗ máy Antikythera]]
 - [ ] [[@ wiki, Cuộc chiến thành Troy]]
 - [ ] [[@ trithucvn.org, Lemuria]]
+- [ ] [[@ tiasang.com.vn, Gia đình Bernoulli]]
+- [ ] [[@ peterpotter90.wordpress, Thần thoại Lưỡng Hà]]
 
 
 ## Waiting
