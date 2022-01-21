@@ -8,6 +8,10 @@ kanban-plugin: basic
 
 - [ ] Kurd Godel
 - [ ] [[@ truyenxuatichcu, Thủy thần Lưỡng Hà]]
+- [ ] [[@ peterpotter90.wordpress, Những người khổng lồ nổi tiếng trong truyền thuyết]]
+- [ ] [[@ peterpotter90.wordpress, Thần thoại Bắc Âu - Thế Giới được hình thành như thế nào]]
+- [ ] [[@ peterpotter90.wordpress, Thần thoại Bắc Âu - Cửu giới]]
+- [ ] [[@ peterpotter90.wordpress, Thần thoại Bắc Âu - Những vị thần Asgard phần 1]]
 
 
 ## Doing
@@ -16,7 +20,8 @@ kanban-plugin: basic
 - [ ] [[@ wiki, Cuộc chiến thành Troy]]
 - [ ] [[@ trithucvn.org, Lemuria]]
 - [ ] [[@ tiasang.com.vn, Gia đình Bernoulli]]
-- [ ] [[@ peterpotter90.wordpress, Thần thoại Lưỡng Hà]]
+- [ ] [[@ peterpotter90.wordpress, Các vị thần trong thần thoại Lưỡng Hà]]
+- [ ] [[@ peterpotter90.wordpress, Các vị thần trong thần thoại Lưỡng Hà]]
 
 
 ## Waiting

@@ -8,6 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Thần Ea
+  - Enki
 publish: True
 ---
 # Thần Enki
@@ -16,6 +17,10 @@ publish: True
 
 Thần Enki, tên gọi khác là thần Ea.
 
+[[220121 - Enki là thần nước]]
+
 ## Ideas & thoughts:
+
+
 
 
