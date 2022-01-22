@@ -1,0 +1,22 @@
+---
+title: Người khổng lồ Ymir
+UID: 220122110455
+created: 22-Jan-2022
+tags:
+  - 'created/2022/Jan/22'
+  - 'garden'
+  - 'permanent/concept'
+aliases:
+  - Ymir
+publish: False
+---
+# Người khổng lồ Ymir
+
+## Notes:
+[[Thần thoại Bắc Âu]]
+
+[[220122 - Ymir được tạo ra bởi dòng sông Elivagar và dòng dung nham]]
+
+## Ideas & thoughts:
+
+

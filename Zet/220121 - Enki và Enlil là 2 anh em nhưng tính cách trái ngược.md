@@ -11,6 +11,10 @@ publish: True
 ## Notes:
 [[Thần Enki|Enki]] và [[Thần Enlil]] là hai anh em trai. Tuy nhiên, tính cách hai người trái ngược. Enki thì nhân hậu còn Enlil nghiêm khắc
 
+## Related:
+- [[220122 - Enki là con của Anu và Nammu]]
+- [[220121 - Enlil là con của Anu và Ki]]
+
 ## Source:
 - [[@ peterpotter90.wordpress, Các vị thần trong thần thoại Lưỡng Hà]]
 

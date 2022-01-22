@@ -1,5 +1,5 @@
 ---
-title: 220121 - Enlil con của Anu và Ki
+title: 220121 - Enlil là con của Anu và Ki
 UID: 220121225958
 created: 21-Jan-2022
 tags:

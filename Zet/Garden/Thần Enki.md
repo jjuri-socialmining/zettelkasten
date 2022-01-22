@@ -17,7 +17,9 @@ publish: True
 
 Thần Enki, tên gọi khác là thần Ea.
 
-[[220121 - Enki là thần nước]]
+- [[220121 - Enki là thần nước]]
+- [[220121 - Enki tạo ra loài người]]
+- [[220121 - Marduk con trai Enki]]
 
 ## Ideas & thoughts:
 

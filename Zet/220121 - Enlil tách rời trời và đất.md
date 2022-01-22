@@ -12,7 +12,7 @@ publish: True
 Theo [[Thần thoại Lưỡng Hà]], ban đầu trời đất gắn liền nhau, [[Thần Enlil]] đã lấy không khí phân tách ra, [[Thần Anu]] cai quản trời, [[thần Ki]] cai quản phần đất.
 
 ## Related:
-[[220121 - Enlil con của Anu và Ki]]
+[[220121 - Enlil là con của Anu và Ki]]
 ## Source:
 - [[@ peterpotter90.wordpress, Các vị thần trong thần thoại Lưỡng Hà]]
 

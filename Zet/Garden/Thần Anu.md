@@ -8,6 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Anu
+  - Great Bull
 publish: True
 ---
 # Thần Anu
