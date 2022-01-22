@@ -35,6 +35,6 @@ publish: True
 <% tp.file.cursor() %>
 
 ## Source:
-- [[@ peterpotter90.wordpress, Thần thoại Bắc Âu - Những vị thần Asgard phần 1]]
+- [[@ angesus.com, Truyền thuyết về Thần Anu]]
 
 
