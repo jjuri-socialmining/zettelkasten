@@ -1,19 +1,19 @@
 ---
-title: Thần Odin
-UID: 220122110056
+title: Các vị thần Aesir
+UID: 220122150402
 created: 22-Jan-2022
 tags:
   - 'created/2022/Jan/22'
   - 'garden'
   - 'permanent/concept'
 aliases:
-  - Odin
+  - Aesir
 publish: False
 ---
-# Thần Odin
+# Các vị thần Aesir
 
 ## Notes:
-[[Thần thoại Bắc Âu]]
+
 
 ## Ideas & thoughts:
 

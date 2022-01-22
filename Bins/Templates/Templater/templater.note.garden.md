@@ -18,6 +18,8 @@ tags:
   - 'created/<% tp.date.now("YYYY/MMM/DD") %>'
   - 'garden'
   - '<%* tR += note_type %>'
+aliases:
+  - 
 publish: False
 ---
 # <%* tR += title %>

@@ -1,19 +1,20 @@
 ---
-title: Thần Odin
-UID: 220122110056
+title: Thần Freyr
+UID: 220122163616
 created: 22-Jan-2022
 tags:
   - 'created/2022/Jan/22'
   - 'garden'
   - 'permanent/concept'
 aliases:
-  - Odin
+  - Freyr
 publish: False
 ---
-# Thần Odin
+# Thần Freyr
 
 ## Notes:
-[[Thần thoại Bắc Âu]]
+- [[Thần thoại Bắc Âu]]
+- [[220122120849 - Freyr là thủ lĩnh của Light Elf]]
 
 ## Ideas & thoughts:
 

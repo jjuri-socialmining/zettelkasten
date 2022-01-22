@@ -1,22 +1,18 @@
 [
   "hotkeysplus-obsidian",
-  "dataview",
   "obsidian-markdown-formatting-assistant-plugin",
   "obsidian-kindle-plugin",
   "table-editor-obsidian",
-  "advanced-toolbar",
   "obsidian-git",
-  "obsidian-spaced-repetition",
   "obsidian-emoji-toolbar",
   "tag-wrangler",
   "calendar",
   "templater-obsidian",
-  "workbench-obsidian",
-  "obsidian-annotator",
   "file-explorer-note-count",
   "url-into-selection",
   "nldates-obsidian",
   "obsidian-excalidraw-plugin",
   "obsidian-kanban",
-  "obsidian-tabs"
+  "obsidian-tabs",
+  "obsidian-annotator"
 ]

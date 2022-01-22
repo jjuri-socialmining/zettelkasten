@@ -4,9 +4,8 @@
   	title = await tp.system.prompt("Input title of note");
 
   }
-  let date = tp.date.now("YYMMDD - ")
   let date2 = tp.date.now("YYMMDDHHmmss")
-  title = date + title
+  title = date2 + " - " + title
   await tp.file.rename(title);
   note_process = await tp.system.suggester(["🥜Seed", "🌱Seeding", "🌲Evergreen", "🏡Garden"], ["seed", "seeding","evergreen", "garden"]);
 
@@ -36,6 +35,6 @@ publish: True
 <% tp.file.cursor() %>
 
 ## Source:
-- [[@ peterpotter90.wordpress, Thần thoại Bắc Âu - Cửu giới]]
+- [[@ peterpotter90.wordpress, Thần thoại Bắc Âu - Những vị thần Asgard phần 1]]
 
 

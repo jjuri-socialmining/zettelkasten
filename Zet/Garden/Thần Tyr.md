@@ -1,19 +1,20 @@
 ---
-title: Thần Odin
-UID: 220122110056
+title: Thần Tyr
+UID: 220122162544
 created: 22-Jan-2022
 tags:
   - 'created/2022/Jan/22'
   - 'garden'
   - 'permanent/concept'
 aliases:
-  - Odin
+  - Tyr
 publish: False
 ---
-# Thần Odin
+# Thần Tyr
 
 ## Notes:
-[[Thần thoại Bắc Âu]]
+- [[Thần thoại Bắc Âu]]
+- [[220122162526 - Tyr là con của Odin]]
 
 ## Ideas & thoughts:
 

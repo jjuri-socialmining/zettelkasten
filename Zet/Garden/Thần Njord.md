@@ -1,19 +1,19 @@
 ---
-title: Thần Odin
-UID: 220122110056
+title: Thần Njord
+UID: 220122163231
 created: 22-Jan-2022
 tags:
   - 'created/2022/Jan/22'
   - 'garden'
   - 'permanent/concept'
 aliases:
-  - Odin
+  - Njord
 publish: False
 ---
-# Thần Odin
+# Thần Njord
 
 ## Notes:
-[[Thần thoại Bắc Âu]]
+- [[Thần thoại Bắc Âu]]
 
 ## Ideas & thoughts:
 

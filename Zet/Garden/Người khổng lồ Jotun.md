@@ -6,6 +6,8 @@ tags:
   - 'created/2022/Jan/22'
   - 'garden'
   - 'permanent/concept'
+aliases:
+  - Jotun
 publish: False
 ---
 # Người khổng lồ Jotun

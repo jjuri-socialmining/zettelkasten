@@ -6,6 +6,8 @@ tags:
   - 'created/2022/Jan/22'
   - 'garden'
   - 'permanent/concept'
+aliases:
+  - Asgard
 publish: False
 ---
 # Vùng đất Asgard

@@ -18,5 +18,5 @@ publish: False
 [[220122 - Ymir được tạo ra bởi dòng sông Elivagar và dòng dung nham]]
 
 ## Ideas & thoughts:
-
+- Ymir là một  [[Người khổng lồ Jotun]]. [[220122 - Người khổng lồ Jotun đầu tiên là Ymir]]
 
