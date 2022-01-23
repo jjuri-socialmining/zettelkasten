@@ -13,5 +13,6 @@ publish: True
 
 ## Source:
 - [[@ peterpotter90.wordpress, Thần thoại Bắc Âu - Những vị thần Asgard phần 1]]
+- [[@ truyenxuatichcu.com, Heimdall - thần canh giữ chiếc cầu vồng Bifrost]]
 
 

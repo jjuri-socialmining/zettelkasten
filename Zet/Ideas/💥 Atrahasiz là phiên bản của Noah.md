@@ -10,4 +10,4 @@ tags:
 [[Atrahasiz]] là phiên bản của [[Noah]]
 
 ## Related:
-- [[220121 - Enki đã báo Atrahasiz đóng tàu thoát khỏi đại hồng thủy]]
+- [[220121230850 - Enki đã báo Atrahasiz đóng tàu thoát khỏi đại hồng thủy]]

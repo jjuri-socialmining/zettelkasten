@@ -6,6 +6,9 @@ tags:
   - 'created/2022/Jan/22'
   - 'garden'
   - 'permanent/concept'
+aliases:
+  - Cầu vồng Bifrost
+  - Bifrost
 publish: True
 ---
 # Cầu Bifost

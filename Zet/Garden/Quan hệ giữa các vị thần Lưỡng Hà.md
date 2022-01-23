@@ -18,9 +18,9 @@ publish: True
 - [[Thần Marduk]] con trai Enki
 
 ## Related:
-- [[220121 - Marduk con trai Enki]]
+- [[220121231251 - Marduk con trai Enki]]
 - [[220121 - Tiamat lấy Abzu sinh ra các vị thần]]
-- [[220122 - Enki là con của Anu và Nammu]]
+- [[220122095644 - Enki là con của Anu và Nammu]]
 - [[220121 - Enlil là con của Anu và Ki]]
 - [[220121 - Enki và Enlil là 2 anh em nhưng tính cách trái ngược]]
 

@@ -7,14 +7,11 @@ kanban-plugin: basic
 ## Ideas
 
 - [ ] Kurd Godel
-- [ ] [[@ truyenxuatichcu, Thủy thần Lưỡng Hà]]
-- [ ] [[@ angesus.com, Truyền thuyết về Thần Anu]]
 
 
 ## Doing
 
 - [ ] [[Cỗ máy Antikythera]]
-- [ ] [[@ wiki, Cuộc chiến thành Troy]]
 - [ ] [[@ trithucvn.org, Lemuria]]
 
 
@@ -38,6 +35,10 @@ kanban-plugin: basic
 - [ ] [[@ peterpotter90.wordpress, Thần thoại Bắc Âu - Cửu giới]]
 - [ ] [[@ peterpotter90.wordpress, Những người khổng lồ nổi tiếng trong truyền thuyết]]
 - [ ] [[@ peterpotter90.wordpress, Thần thoại Bắc Âu - Những vị thần Asgard phần 1]]
+- [ ] [[@ angesus.com, Truyền thuyết về Thần Anu]]
+- [ ] [[@ truyenxuatichcu, Thủy thần Lưỡng Hà]]
+- [ ] [[@ wiki, Cuộc chiến thành Troy]]
+- [ ] [[@ truyenxuatichcu.com, Heimdall - thần canh giữ chiếc cầu vồng Bifrost]]
 
 %% kanban:settings
 ```

@@ -1,11 +1,11 @@
 <%* 
-  let title = tp.file.title;
-  if (title.startsWith("Untitled")) {
-  	title = await tp.system.prompt("Input title of note");
+  let title1 = tp.file.title;
+  if (title1.startsWith("Untitled")) {
+  	title1 = await tp.system.prompt("Input title of note");
 
   }
   let date2 = tp.date.now("YYMMDDHHmmss")
-  title = date2 + " - " + title
+  let title = date2 + " - " + title1
   await tp.file.rename(title);
   note_process = await tp.system.suggester(["🥜Seed", "🌱Seeding", "🌲Evergreen", "🏡Garden"], ["seed", "seeding","evergreen", "garden"]);
 
@@ -22,7 +22,7 @@
 
   tR += "---"
 %>
-title: <%* tR += title %>
+title: <%* tR += title1 %>
 UID: <% date2 %>
 created: <% tp.date.now("DD-MMM-YYYY") %>
 tags:
@@ -35,6 +35,6 @@ publish: True
 <% tp.file.cursor() %>
 
 ## Source:
-- [[@ angesus.com, Truyền thuyết về Thần Anu]]
+- [[@ truyenxuatichcu.com, Heimdall - thần canh giữ chiếc cầu vồng Bifrost]]
 
 

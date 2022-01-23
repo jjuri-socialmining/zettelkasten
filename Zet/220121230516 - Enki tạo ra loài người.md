@@ -13,6 +13,7 @@ publish: True
 
 ## Related:
 - [[💥 Enki giống với Đấng Tạo Hóa trong Cựu Ước]]
+- [[220123223752 - Enki tạo ra con người để làm việc thay thần]]
 ## Source:
 - [[@ peterpotter90.wordpress, Các vị thần trong thần thoại Lưỡng Hà]]
 
