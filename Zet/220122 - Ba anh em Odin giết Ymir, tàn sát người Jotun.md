@@ -1,5 +1,5 @@
 ---
-title: 220122 - Ba anh em Odin giết Ymir, tàn sát người Jotun
+title: Ba anh em Odin giết Ymir, tàn sát người Jotun
 UID: 220122110418
 created: 22-Jan-2022
 tags:

@@ -1,5 +1,5 @@
 ---
-title: 220122 - Buri được sinh ra từ một tảng đá
+title: Buri được sinh ra từ một tảng đá
 UID: 220122105426
 created: 22-Jan-2022
 tags:
@@ -15,6 +15,8 @@ publish: True
 
 [[Con bò Audhumla]] 3 ngày liền liếm vào tảng đá, ngày đầu mọc ra tóc, ngày hai mọc ra cái đầu và ngày thứ ba sinh ra một người đàn ông to lớn là Buri.
 
+## Related:
+- [[220124231810 - Audhumla niếm tảng băng muối để sống]]
 ## Source:
 - [[@ peterpotter90.wordpress, Thần thoại Bắc Âu - Thế Giới được hình thành như thế nào]]
 

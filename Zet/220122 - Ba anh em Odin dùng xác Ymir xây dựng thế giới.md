@@ -1,5 +1,5 @@
 ---
-title: 220122 - Ba anh em Odin dùng xác Ymir xây dựng thế giới
+title: Ba anh em Odin dùng xác Ymir xây dựng thế giới
 UID: 220122113844
 created: 22-Jan-2022
 tags:

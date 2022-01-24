@@ -1,10 +1,8 @@
 <%* 
   let title = tp.file.title;
-  let qcFileName = tp.date.now("@ YYMMDD-HHmmss - ");
   if (title.startsWith("Untitled")) {
   	title = await tp.system.prompt("Input title of note");
   }
-  title = qcFileName + title;
   await tp.file.rename(title);
   note_type = await tp.system.suggester(["book📚", "article📰", "video🎞️"], ["source/book", "source/article", "source/video"]);
 	

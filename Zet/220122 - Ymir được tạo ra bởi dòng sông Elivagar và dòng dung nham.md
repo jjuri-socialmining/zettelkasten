@@ -1,5 +1,5 @@
 ---
-title: 220122 - Ymir được tạo ra bơi dòng sông Elivagar và dòng dung nham
+title: Ymir được tạo ra bơi dòng sông Elivagar và dòng dung nham
 UID: 220122103709
 created: 22-Jan-2022
 tags:

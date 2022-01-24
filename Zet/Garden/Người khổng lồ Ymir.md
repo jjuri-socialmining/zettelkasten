@@ -8,6 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Ymir
+  - Aurgelmir
 publish: False
 ---
 # Người khổng lồ Ymir

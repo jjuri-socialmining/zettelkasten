@@ -1,5 +1,5 @@
 ---
-title: 220122232701 - Ninsuna là con của Anu và Uras
+title: Ninsuna là con của Anu và Uras
 UID: 220122232701
 created: 22-Jan-2022
 tags:

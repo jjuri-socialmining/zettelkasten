@@ -1,5 +1,5 @@
 ---
-title: 220122 - Thế giới được tạo thành từ xác Ymir
+title: Thế giới được tạo thành từ xác Ymir
 UID: 220122111015
 created: 22-Jan-2022
 tags:

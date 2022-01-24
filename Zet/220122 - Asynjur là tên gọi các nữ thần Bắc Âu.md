@@ -1,5 +1,5 @@
 ---
-title: 220122 - Asynjur là tên gọi các nữ thần Bắc Âu
+title: Asynjur là tên gọi các nữ thần Bắc Âu
 UID: 220122120231
 created: 22-Jan-2022
 tags:

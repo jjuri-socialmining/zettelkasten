@@ -1,5 +1,5 @@
 ---
-title: 220122 - Dwarf sống ở vùng Nidavellir
+title: Dwarf sống ở vùng Nidavellir
 UID: 220122112110
 created: 22-Jan-2022
 tags:

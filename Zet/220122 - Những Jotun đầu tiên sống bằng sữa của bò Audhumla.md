@@ -1,5 +1,5 @@
 ---
-title: 220122 - Những Jotun đầu tiên sống bằng sữa của bò Audhumla
+title: Những Jotun đầu tiên sống bằng sữa của bò Audhumla
 UID: 220122104959
 created: 22-Jan-2022
 tags:
@@ -11,6 +11,8 @@ publish: True
 ## Notes:
 Sữa của [[Con bò Audhumla|con bò khổng lồ Audhumla]] nuôi dưỡng những [[Người khổng lồ Jotun]] đầu tiên.
 
+## Related
+- [[220124231639 - Audhumla nuôi Ymir bằng sữa của mình]]
 ## Source:
 - [[@ peterpotter90.wordpress, Thần thoại Bắc Âu - Thế Giới được hình thành như thế nào]]
 

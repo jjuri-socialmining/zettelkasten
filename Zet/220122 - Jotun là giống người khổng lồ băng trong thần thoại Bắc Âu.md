@@ -1,5 +1,5 @@
 ---
-title: 220122 - Jotun là giống người khổng lồ băng trong thần thoại Bắc Âu
+title: Jotun là giống người khổng lồ băng trong thần thoại Bắc Âu
 UID: 220122150053
 created: 22-Jan-2022
 tags:

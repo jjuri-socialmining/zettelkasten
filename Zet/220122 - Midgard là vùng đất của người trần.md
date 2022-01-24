@@ -1,5 +1,5 @@
 ---
-title: 220122 - Midgard là vùng đất của người trần
+title: Midgard là vùng đất của người trần
 UID: 220122121647
 created: 22-Jan-2022
 tags:

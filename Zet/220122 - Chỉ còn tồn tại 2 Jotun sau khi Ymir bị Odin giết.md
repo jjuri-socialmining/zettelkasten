@@ -1,5 +1,5 @@
 ---
-title: 220122 - Chỉ còn tồn tại 2 Jotun sau khi Ymir bị Odin giết
+title: Chỉ còn tồn tại 2 Jotun sau khi Ymir bị Odin giết
 UID: 220122110809
 created: 22-Jan-2022
 tags:

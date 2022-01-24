@@ -1,5 +1,5 @@
 ---
-title: 220122 - Bốn người Lùn Dwarf được Odin giao nhiệm vụ đỡ bầu trời
+title: Bốn người Lùn Dwarf được Odin giao nhiệm vụ đỡ bầu trời
 UID: 220122111716
 created: 22-Jan-2022
 tags:

@@ -1,5 +1,5 @@
 ---
-title: ❕ 220122 - Ask và Embla trong Thần thoại Bắc Âu giống với Adam và Eva
+title: ❕ Ask và Embla trong Thần thoại Bắc Âu giống với Adam và Eva
 UID: 220122114147
 created: 22-Jan-2022
 tags:

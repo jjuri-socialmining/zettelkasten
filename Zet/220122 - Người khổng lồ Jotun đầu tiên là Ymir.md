@@ -1,5 +1,5 @@
 ---
-title: 220122 - Người khổng lồ Jotun đầu tiên là Ymir
+title: Người khổng lồ Jotun đầu tiên là Ymir
 UID: 220122104803
 created: 22-Jan-2022
 tags:

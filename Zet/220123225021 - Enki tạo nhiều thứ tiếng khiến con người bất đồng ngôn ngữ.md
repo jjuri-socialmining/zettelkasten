@@ -1,5 +1,5 @@
 ---
-title: 220123225021 - Enki tạo nhiều thứ tiếng khiến con người bất đồng ngôn ngữ
+title: Enki tạo nhiều thứ tiếng khiến con người bất đồng ngôn ngữ
 UID: 220123225021
 created: 23-Jan-2022
 tags:

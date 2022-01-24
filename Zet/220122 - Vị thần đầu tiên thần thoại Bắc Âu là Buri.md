@@ -1,5 +1,5 @@
 ---
-title: 220122 - Vị thần đầu tiên thần thoại Bắc Âu là Buri
+title: Vị thần đầu tiên thần thoại Bắc Âu là Buri
 UID: 220122105245
 created: 22-Jan-2022
 tags:

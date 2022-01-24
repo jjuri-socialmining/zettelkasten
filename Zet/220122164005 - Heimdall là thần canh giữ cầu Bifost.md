@@ -1,5 +1,5 @@
 ---
-title: 220122164005 - Heimdall là thần canh giữ cầu Bifost
+title: Heimdall là thần canh giữ cầu Bifost
 UID: 220122164005
 created: 22-Jan-2022
 tags:

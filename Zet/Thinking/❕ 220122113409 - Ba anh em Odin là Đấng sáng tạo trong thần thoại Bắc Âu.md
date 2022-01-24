@@ -1,5 +1,5 @@
 ---
-title: ❕ 220122 - Ba anh em Odin là Đấng sáng tạo trong thần thoại Bắc Âu
+title: ❕ Ba anh em Odin là Đấng sáng tạo trong thần thoại Bắc Âu
 UID: 220122113409
 created: 22-Jan-2022
 tags:

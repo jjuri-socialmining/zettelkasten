@@ -1,5 +1,5 @@
 ---
-title: 220122 - Vanaheim là vùng đất của Vanir
+title: Vanaheim là vùng đất của Vanir
 UID: 220122123154
 created: 22-Jan-2022
 tags:

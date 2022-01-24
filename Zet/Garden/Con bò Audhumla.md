@@ -6,6 +6,8 @@ tags:
   - 'created/2022/Jan/22'
   - 'garden'
   - 'permanent/concept'
+aliases:
+  - Audhumla
 publish: True
 ---
 # Con bò Audhumla
@@ -13,7 +15,7 @@ publish: True
 ## Notes:
 [[Thần thoại Bắc Âu]]
 
-[[220122 - Bò Audhumla được sinh ra từ những tảng băng vùng Ginnungagap]]
+[[220122105125 - Bò Audhumla được sinh ra từ những tảng băng vùng Ginnungagap]]
 
 ## Ideas & thoughts:
 

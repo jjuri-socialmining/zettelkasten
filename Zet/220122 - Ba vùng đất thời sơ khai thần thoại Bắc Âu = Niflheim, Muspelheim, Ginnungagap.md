@@ -1,5 +1,5 @@
 ---
-title: 220122 - Ba vùng đất thời sơ khai thần thoại Bắc Âu = Niflheim, Muspelheim, Ginnungagap
+title: Ba vùng đất thời sơ khai thần thoại Bắc Âu = Niflheim, Muspelheim, Ginnungagap
 UID: 220122101707
 created: 22-Jan-2022
 tags:

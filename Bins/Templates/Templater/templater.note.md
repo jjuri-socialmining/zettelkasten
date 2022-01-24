@@ -35,6 +35,6 @@ publish: True
 <% tp.file.cursor() %>
 
 ## Source:
-- [[@ truyenxuatichcu.com, Heimdall - thần canh giữ chiếc cầu vồng Bifrost]]
+- [[@ thanthoaibacau.info, Kiến tạo thế giới  Thần thoại Bắc Âu]]
 
 

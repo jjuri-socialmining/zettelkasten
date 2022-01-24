@@ -1,5 +1,5 @@
 ---
-title: 220122 - Ba anh em Odin tạo ra Ask và Embla, hai con người đầu tiên
+title: Ba anh em Odin tạo ra Ask và Embla, hai con người đầu tiên
 UID: 220122112938
 created: 22-Jan-2022
 tags:
@@ -13,7 +13,7 @@ Theo [[Thần thoại Bắc Âu]], người phụ nữ đầu tiên tên là [[A
 
 ## Related:
 - [[220122 - Ba anh em Odin tạo ra loài người]]
-- [[❕ 220122 - Ask và Embla trong Thần thoại Bắc Âu giống với Adam và Eva]]
+- [[❕ 220122114147 - Ask và Embla trong Thần thoại Bắc Âu giống với Adam và Eva]]
 
 ## Source:
 - [[@ peterpotter90.wordpress, Thần thoại Bắc Âu - Thế Giới được hình thành như thế nào]]

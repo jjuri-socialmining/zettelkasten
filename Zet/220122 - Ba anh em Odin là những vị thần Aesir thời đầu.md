@@ -1,5 +1,5 @@
 ---
-title: 220122 - Ba anh em Odin là những vị thần Aesir thời đầu
+title: Ba anh em Odin là những vị thần Aesir thời đầu
 UID: 220122150317
 created: 22-Jan-2022
 tags:

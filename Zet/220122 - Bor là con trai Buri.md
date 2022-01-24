@@ -1,5 +1,5 @@
 ---
-title: 220122 - Bor là con trai Buri
+title: Bor là con trai Buri
 UID: 220122105641
 created: 22-Jan-2022
 tags:

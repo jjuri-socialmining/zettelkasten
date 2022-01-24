@@ -1,5 +1,5 @@
 ---
-title: 220122 - Ginnungagap là vùng đất hư vô ở trung tâm
+title: Ginnungagap là vùng đất hư vô ở trung tâm
 UID: 220122102403
 created: 22-Jan-2022
 tags:

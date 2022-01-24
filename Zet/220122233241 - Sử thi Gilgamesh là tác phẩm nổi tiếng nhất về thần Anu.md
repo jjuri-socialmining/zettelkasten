@@ -1,5 +1,5 @@
 ---
-title: 220122233241 - Sử thi Gilgamesh là tác phẩm nổi tiếng nhất về thần Anu
+title: Sử thi Gilgamesh là tác phẩm nổi tiếng nhất về thần Anu
 UID: 220122233241
 created: 22-Jan-2022
 tags:

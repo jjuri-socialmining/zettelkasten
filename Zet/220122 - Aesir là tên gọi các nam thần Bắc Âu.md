@@ -1,5 +1,5 @@
 ---
-title: 220122 - Aesir là tên gọi các nam thần Bắc Âu
+title: Aesir là tên gọi các nam thần Bắc Âu
 UID: 220122120133
 created: 22-Jan-2022
 tags:

@@ -1,5 +1,5 @@
 ---
-title: 220122 - Zues giam các Titan trong Tartarus
+title: Zues giam các Titan trong Tartarus
 UID: 220122145041
 created: 22-Jan-2022
 tags:

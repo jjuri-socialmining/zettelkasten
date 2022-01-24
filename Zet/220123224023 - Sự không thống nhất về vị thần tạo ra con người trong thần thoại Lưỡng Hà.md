@@ -1,5 +1,5 @@
 ---
-title: 220123224023 - Sự không thống nhất về vị thần tạo ra con người trong thần thoại Lưỡng Hà
+title: Sự không thống nhất về vị thần tạo ra con người trong thần thoại Lưỡng Hà
 UID: 220123224023
 created: 23-Jan-2022
 tags:
