@@ -10,6 +10,7 @@ aliases:
   - Cây Yggdrasil
   - Cây Thế Giới
   - Yggdrasil
+  - Mimameidr
 publish: True
 ---
 # Cây Thế Giới Yggdrasil
@@ -17,7 +18,8 @@ publish: True
 ## Notes:
 [[Thần thoại Bắc Âu]]
 
-[[220122 - Cây Yggdrasil lấy nước từ giếng Hvergelmir]]
+- [[220122 - Cây Yggdrasil lấy nước từ giếng Hvergelmir]]
+- [[220125230547 - Cây Yggdrasil được gọi là Mimameid trong sử thi Edda thể thơ]]
 
 ## Ideas & thoughts:
 

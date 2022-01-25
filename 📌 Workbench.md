@@ -39,6 +39,8 @@ kanban-plugin: basic
 - [ ] [[@ truyenxuatichcu, Thủy thần Lưỡng Hà]]
 - [ ] [[@ wiki, Cuộc chiến thành Troy]]
 - [ ] [[@ truyenxuatichcu.com, Heimdall - thần canh giữ chiếc cầu vồng Bifrost]]
+- [ ] [[@ wiki, Yggdrasil]]
+- [ ] [[@ wiki, Chữ Rune]]
 
 %% kanban:settings
 ```

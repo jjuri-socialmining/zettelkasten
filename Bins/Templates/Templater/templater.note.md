@@ -35,6 +35,6 @@ publish: True
 <% tp.file.cursor() %>
 
 ## Source:
-- [[@ thanthoaibacau.info, Kiến tạo thế giới  Thần thoại Bắc Âu]]
+- [[@ wiki, Chữ Rune]]
 
 
