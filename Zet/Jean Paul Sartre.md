@@ -5,6 +5,8 @@ tags:
   - 'created/2020/Nov/07'
   - 'seed🥜'
   - 'permanent/concept'
+aliases:
+  - Sartre
 publish: True
 ---
 # Jean Paul Sartre

@@ -35,6 +35,6 @@ publish: True
 <% tp.file.cursor() %>
 
 ## Source:
-- [[@ wiki, Chữ Rune]]
+- [[@ youtube, Vì sao Camus không phải một Triết gia Hiện sinh]]
 
 

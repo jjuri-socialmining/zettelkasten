@@ -7,6 +7,8 @@ tags:
   - 'permanent/people'
 birth: 
 death: 
+aliases:
+  - Camus
 publish: True
 ---
 # Albert Camus
