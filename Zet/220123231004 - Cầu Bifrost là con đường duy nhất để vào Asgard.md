@@ -9,7 +9,7 @@ tags:
 publish: True
 ---
 ## Notes:
-[[Cầu Bifost|Cầu vồng Bifrost]] là con đường duy nhất để đến được [[Vùng đất Asgard|Asgard]]
+[[Cầu Bifrost|Cầu vồng Bifrost]] là con đường duy nhất để đến được [[Vùng đất Asgard|Asgard]]
 
 ## Source:
 - [[@ truyenxuatichcu.com, Heimdall - thần canh giữ chiếc cầu vồng Bifrost]]

@@ -9,7 +9,7 @@ tags:
 publish: True
 ---
 ## Notes:
-[[Thần Heimdall]] là thần canh giữ [[Cầu Bifost]]
+[[Thần Heimdall]] là thần canh giữ [[Cầu Bifrost]]
 
 ## Source:
 - [[@ peterpotter90.wordpress, Thần thoại Bắc Âu - Những vị thần Asgard phần 1]]

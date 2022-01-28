@@ -9,7 +9,7 @@ tags:
 publish: True
 ---
 ## Notes:
-[[Người khổng lồ Surt]] làm gãy cây [[Cầu Bifost]] trong [[Ragnarok]]
+[[Người khổng lồ Surt]] làm gãy cây [[Cầu Bifrost]] trong [[Ragnarok]]
 
 ## Source:
 - [[@ wiki, Thần thoại Bắc Âu]]

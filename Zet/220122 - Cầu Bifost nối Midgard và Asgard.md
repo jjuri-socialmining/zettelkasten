@@ -9,7 +9,7 @@ tags:
 publish: True
 ---
 ## Notes:
-[[Vùng đất Midgard]] và [[Vùng đất Asgard]] được nối với nhau bởi cây [[Cầu Bifost]]
+[[Vùng đất Midgard]] và [[Vùng đất Asgard]] được nối với nhau bởi cây [[Cầu Bifrost]]
 
 ## Source:
 - [[@ peterpotter90.wordpress, Thần thoại Bắc Âu - Cửu giới]]
