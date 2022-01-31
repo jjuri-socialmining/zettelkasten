@@ -7,6 +7,8 @@ tags:
   - 'permanent/people'
 birth: 
 death: 
+aliases:
+  - Ức Trai
 publish: True
 ---
 # Nguyễn Trãi

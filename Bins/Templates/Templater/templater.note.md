@@ -35,6 +35,6 @@ publish: True
 <% tp.file.cursor() %>
 
 ## Source:
-- [[@ youtube, Vì sao Camus không phải một Triết gia Hiện sinh]]
+- [[@ wiki, Nguyễn Trãi]]
 
 

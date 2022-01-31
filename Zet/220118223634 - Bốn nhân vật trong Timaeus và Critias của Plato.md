@@ -1,12 +1,12 @@
 ---
-title: 220118 - Bốn nhân vật trong Timaeus và Critias của Plato
+title: Bốn nhân vật trong Timaeus và Critias của Plato
 UID: 220118223634
 created: 18-Jan-2022
 tags:
   - 'created/2022/Jan/18'
   - 'evergreen'
   - 'permanent/fact'
-publish: False
+publish: True
 ---
 ## Notes:
 - Bốn nhân vật trong cuộc đối thoại trong [[@ Plato, Timaeus và Critias]] bao gồm:
