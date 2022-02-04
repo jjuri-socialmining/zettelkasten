@@ -18,7 +18,6 @@
 [[Marvel Studios]]
 
 [[Chủ nghĩa hiện sinh]]
-[[💥 Khủng hoảng hiện sinh tốt hay xấu]]
 [[❕ Những câu hỏi hiện sinh giúp ta thức tỉnh trong cuộc sống thực tại]]
 [[Phục Hi]]
 [[Khuất Nguyên]]

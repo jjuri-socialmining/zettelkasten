@@ -35,6 +35,6 @@ publish: True
 <% tp.file.cursor() %>
 
 ## Source:
-- [[@ wiki, Nguyễn Trãi]]
+- [[@ wiki, Đại Việt sử ký toàn thư]]
 
 

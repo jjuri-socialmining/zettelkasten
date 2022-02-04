@@ -2,9 +2,9 @@
 title: Trần Quang Khải
 UID: 210902132747
 tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/people'
+  - 'created/2021/Sep/02'
+  - 'seed🥜'
+  - 'permanent/people'
 birth: 1241
 death: 1294-07-26
 aliases:

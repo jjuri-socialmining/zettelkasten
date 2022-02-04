@@ -17,13 +17,3 @@ aliases:
 
 
 ## Ideas & thoughts:
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Trần Hưng Đạo và Trần Quang Khải là hai anh em họ]]
-sort file.name asc
-```
