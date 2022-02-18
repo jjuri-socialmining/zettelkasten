@@ -5,8 +5,6 @@ tags:
   - '#created/2021/Sep/07'
   - '#seed🥜'
   - '#permanent/concept'
-aliases:
-  - Ngữ hệ Ấn-Âu
 ---
 # Ngữ hệ Ấn-Âu
 
@@ -20,11 +18,3 @@ Ngữ hệ Ấn-Âu
 [[Người Aryan]] trong [[Đảng Quốc Xã|Đức Quốc Xã]]
 ## Questions:
 
-
-## Tham khảo:
-- [[Ngữ hệ]]
-```dataview
-list
-from [[Ngữ hệ Ấn-Âu]]
-sort file.name asc
-```

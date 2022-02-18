@@ -25,6 +25,7 @@
 title: <%* tR += title1 %>
 UID: <% date2 %>
 created: <% tp.date.now("DD-MMM-YYYY") %>
+noteid:
 tags:
   - 'created/<% tp.date.now("YYYY/MMM/DD") %>'
   - '<%* tR += note_process %>'
@@ -35,6 +36,6 @@ publish: True
 <% tp.file.cursor() %>
 
 ## Source:
-- [[@ wiki, Lạc Long Quân]]
+- [[@ Yuval N. Harari, Sapiens lược sử loài người]]
 
 

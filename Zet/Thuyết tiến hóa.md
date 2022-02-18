@@ -6,6 +6,8 @@ tags:
   - 'created/2021/Oct/11'
   - 'seed🥜'
   - 'permanent/concept'
+aliases:
+  - Học thuyết Darwin
 publish: True
 ---
 # Thuyết tiến hóa

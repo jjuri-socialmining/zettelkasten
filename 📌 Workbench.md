@@ -7,6 +7,8 @@ kanban-plugin: basic
 ## Ideas
 
 - [ ] Kurd Godel
+- [ ] Mani giáo
+- [ ] Tìm hiểu các sự kiện Babel, Icarus, Golem có sự tương đồng gì?
 
 
 ## Doing
