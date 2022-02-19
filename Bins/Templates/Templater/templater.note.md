@@ -25,7 +25,6 @@
 title: <%* tR += title1 %>
 UID: <% date2 %>
 created: <% tp.date.now("DD-MMM-YYYY") %>
-noteid:
 tags:
   - 'created/<% tp.date.now("YYYY/MMM/DD") %>'
   - '<%* tR += note_process %>'
@@ -36,6 +35,6 @@ publish: True
 <% tp.file.cursor() %>
 
 ## Source:
-- [[@ Yuval N. Harari, Sapiens lược sử loài người]]
+- [[@ tinhhoa.net, Thần thoại Hy Lạp - Icarus muốn chinh phục bầu trời và vọng tưởng của những tín đồ khoa học]]
 
 
