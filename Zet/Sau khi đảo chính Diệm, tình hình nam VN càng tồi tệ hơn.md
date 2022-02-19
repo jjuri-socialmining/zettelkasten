@@ -8,11 +8,5 @@
 ## Notes
 [[Ngô Đình Diệm chủ trương tách khỏi sự lệ thuộc Hoa Kỳ]], Hoa Kỳ cho ám sát Diệm nhưng tình hình miền nam càng hỗn loạn hơn.
 
-## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Sau khi Hoa Kỳ loại bỏ Diệm, tình hình nam VN càng tồi tệ hơn]]
-sort file.name asc
-```
+## Source:
+- [[@ wiki, Lịch sử Việt Nam]]

@@ -8,11 +8,5 @@
 ## Notes
 1967, [[Nguyễn Văn Thiệu]] lên làm Tổng thống [[Việt Nam Cộng Hòa]]
 
-## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[1967, Nguyễn Văn Thiệu làm Tổng thống VNCH]]
-sort file.name asc
-```
+## Source:
+- [[@ wiki, Lịch sử Việt Nam]]

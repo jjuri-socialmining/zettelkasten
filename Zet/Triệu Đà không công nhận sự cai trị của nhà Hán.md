@@ -12,4 +12,5 @@ publish: False
 ## Notes:
 Nhà Hán thống nhất Trung Quốc, [[Nam Việt]] đứng đầu là [[Triệu Đà]] không công nhận sự cai trị của [[Nhà Hán]].
 
-## Ideas & thoughts:
+## Source:
+- [[@ wiki, Lịch sử Việt Nam]]

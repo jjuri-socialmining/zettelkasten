@@ -8,11 +8,5 @@
 ## Notes
 Năm 602, [[Nhà Tùy]] xâm lược [[Vạn Xuân]] kết thúc [[Nhà Tiền Lý]]
 
-## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Năm 602, nhà Tùy xâm lược Vạn Xuân kết thúc nhà Tiền Lý]]
-sort file.name asc
-```
+## Source:
+- [[@ wiki, Lịch sử Việt Nam]]
