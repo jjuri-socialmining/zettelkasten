@@ -12,6 +12,9 @@ publish: True
 ## Notes:
 Nếu ta lặp lại chân lý thì nó không còn là chân lý nữa. Chân lý phải dựa trên sự tự nhận biết của chính mình không thông qua hay phụ thuộc vào người khác.
 
+## Relate:
+- [[220220195526 - Đa số chỉ lặp lại tư tưởng chứ không hề sáng tạo]]
+
 ## Source:
 - [[@ Krishnamurti, Tự do đầu tiên và cuối cùng]], p.12
 

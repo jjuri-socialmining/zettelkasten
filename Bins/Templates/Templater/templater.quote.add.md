@@ -2,7 +2,7 @@
 //v1.4: Adding option for including a header for each DNP day to fold
 
 //Name of the Quick Capture file. Do NOT include extension '.md'
-let qcFileName = tp.date.now("💬YYMMDD-HHmmss");
+let qcFileName = tp.date.now("💬YYMMDDHHmmss");
 let tag_created = "created/" + tp.date.now("YYYY/MMM/DD");
 
 //Leave this blank if you want to use the default file path location (set to '/' to use root of vault)

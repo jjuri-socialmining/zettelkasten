@@ -11,6 +11,10 @@ publish: True
 ---
 ## Notes:
 Sự lặp lại những câu chữ trong các cổ thư, thánh kinh với tâm trạng hoang mang, rối loạn không mang lại lợi ích gì
+## Relate:
+- [[220220195526 - Đa số chỉ lặp lại tư tưởng chứ không hề sáng tạo]]
+- [[220220183634 - Lặp lại chân lý không phải là chân lý]]
+- [[220220184503 - Chúng ta thường là độc giả, khán giả hơn là tác giả, diễn viên]]
 
 ## Source:
 - [[@ Krishnamurti, Tự do đầu tiên và cuối cùng]], p.25

@@ -12,6 +12,9 @@ publish: True
 ## Notes:
 Đa số chúng ta chỉ làm độc giả, khán giả mà không viết sách, trình diễn. Như thế chúng ta đơn thuần chứng kiến, bàng quan. Ít nhât ta cũng cần tham dự vào chính những sự kiện ấy
 
+## Related
+- [[220220195526 - Đa số chỉ lặp lại tư tưởng chứ không hề sáng tạo]]
+
 ## Source:
 - [[@ Krishnamurti, Tự do đầu tiên và cuối cùng]], p.26
 

@@ -36,7 +36,7 @@ publish: True
 <% tp.file.cursor() %>
 
 ## Source:
-- [[@ Krishnamurti, Tự do đầu tiên và cuối cùng]]
+- [[@ Leo Tolstoy, Suy niệm mỗi ngày]]
 
 
 
