@@ -14,7 +14,7 @@ publish: False
 
 ## Notes:
 - [[Thần thoại Bắc Âu]]
-- [[220122 - Jotunheim là vùng đất của Jotun]]
+- [[220122122429 - Jotunheim là vùng đất của Jotun]]
 ## Ideas & thoughts:
 
 

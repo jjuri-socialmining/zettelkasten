@@ -4,8 +4,8 @@ UID: 211007232617
 created: 07-Oct-2021
 tags:
   - '#created/2021/Oct/07'
-  - 'seed🥜'
-  - 'permanent/nation'
+  - 'garden'
+  - 'permanent/concept'
 publish: True
 ---
 # Nhà Ngô
@@ -16,5 +16,4 @@ publish: True
 ## Ideas & thoughts:
 - [[Ngô Quyền]]
 
-## Questions:
 

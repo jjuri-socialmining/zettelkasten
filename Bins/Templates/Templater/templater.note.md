@@ -35,6 +35,6 @@ publish: True
 <% tp.file.cursor() %>
 
 ## Source:
-- [[@ truyenxuatichcu.com, Sử thi Gilgamesh - sử thi anh hùng cổ xưa nhất thế giới]]
+- [[@ wiki, Mani giáo]]
 
 

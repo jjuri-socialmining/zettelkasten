@@ -9,6 +9,7 @@ kanban-plugin: basic
 - [ ] Kurd Godel
 - [ ] Mani giáo
 - [ ] Tìm hiểu các sự kiện Babel, Icarus, Golem có sự tương đồng gì?
+- [ ] Nhị Tông kinh
 
 
 ## Doing

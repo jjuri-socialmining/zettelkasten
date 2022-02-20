@@ -22,7 +22,7 @@ publish: True
 - hộp sọ trở thành bầu trời
 - 
 ## Related:
-[[220122 - Thế giới được tạo thành từ xác Ymir]]
+[[220122111015 - Thế giới được tạo thành từ xác Ymir]]
 
 ## Source:
 - [[@ peterpotter90.wordpress, Thần thoại Bắc Âu - Thế Giới được hình thành như thế nào]]
