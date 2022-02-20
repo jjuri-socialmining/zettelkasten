@@ -1,0 +1,10 @@
+---
+title: 💥 Xã hội hiện hữu vì cá nhân hay cá nhân là một công cụ của xã hội
+created: 2022-02-20
+resolve: 
+tags:
+  - 'ideas'
+  - 'created/22/02/20'
+---
+
+Xã hội hiện hữu vì cá nhân hay cá nhân là một công cụ của xã hội

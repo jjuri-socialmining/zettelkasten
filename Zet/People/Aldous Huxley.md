@@ -7,3 +7,5 @@
 
 ## Notes
 Tác giả quyển [[@ George Orwell, 1984]]
+
+

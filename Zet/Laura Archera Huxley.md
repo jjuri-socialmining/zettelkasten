@@ -9,7 +9,7 @@
 
 
 ## Questions & thoughts:
-- [ ] Laura Archera Huxley vợ của [[Aldous Huxley]]
+- [ ] Laura Archera Huxley vợ của [[ Aldous Huxley]]
 
 ## Related:
 ```dataview
