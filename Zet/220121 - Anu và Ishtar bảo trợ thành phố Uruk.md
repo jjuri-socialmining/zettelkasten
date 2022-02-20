@@ -12,7 +12,7 @@ publish: True
 [[Thần Anu|Anu]] và [[Nữ thần Ishtar|Ishtar]] là 2 vị thần bảo trợ thành phố Uruk.
 
 ## Related:
-[[220121 - Ishtar con gái của Anu]]
+[[220121225501 - Ishtar con gái của Anu]]
 ## Source:
 - [[@ peterpotter90.wordpress, Các vị thần trong thần thoại Lưỡng Hà]]
 

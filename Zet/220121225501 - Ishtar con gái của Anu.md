@@ -1,5 +1,5 @@
 ---
-title: 220121 - Ishtar con gái của Anu
+title: Ishtar con gái của Anu
 UID: 220121225501
 created: 21-Jan-2022
 tags:
