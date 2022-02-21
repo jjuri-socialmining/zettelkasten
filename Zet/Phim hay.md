@@ -11,7 +11,7 @@ publish: True
 
 ## Notes:
 
-Các bộ phim thức thần và [[❕ Ý nghĩa cuộc sống]]: [^1]
+Các bộ phim thức thần và [[Ý nghĩa cuộc sống]]: [^1]
 - [[Waking Life]]
 - [[The tree of life]]
 - [[ It’s Such A Beautiful Day]]

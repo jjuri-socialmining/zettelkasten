@@ -14,7 +14,7 @@ aliases:
 Nghĩ về việc tại sao chúng ta tồn tại chỉ làm chúng ta lãng phí thời gian
 
 ## Ideas & thoughts:
-[[❕ Ý nghĩa cuộc sống]]
+[[Ý nghĩa cuộc sống]]
 
 ## Questions:
 

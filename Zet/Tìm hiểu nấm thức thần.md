@@ -22,4 +22,4 @@ aliases:
 [[Bad trip]]
 
 ## Ideas & Thoughts:
-Những người băn khoăn, lạc lối không biết [[❕ Ý nghĩa cuộc sống|Ý nghĩa cuộc đời]] thường tìm đến những thứ thay đổi nhận thức, trải nghiệm [[LSD trip]]
+Những người băn khoăn, lạc lối không biết [[Ý nghĩa cuộc sống|Ý nghĩa cuộc đời]] thường tìm đến những thứ thay đổi nhận thức, trải nghiệm [[LSD trip]]

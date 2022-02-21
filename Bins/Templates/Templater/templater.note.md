@@ -36,7 +36,8 @@ publish: True
 <% tp.file.cursor() %>
 
 ## Source:
-- [[@ Leo Tolstoy, Suy niệm mỗi ngày]]
+- [[@ nghiencuulichsu.com, Hàm Nghi Một nhà ái quốc, một nghệ sĩ đa tài]]
+
 
 
 

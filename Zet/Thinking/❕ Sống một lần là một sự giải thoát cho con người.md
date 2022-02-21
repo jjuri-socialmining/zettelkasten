@@ -13,4 +13,4 @@ Sống một lần là một giải thoát của con người. Vì sau khi chế
 
 ## Ideas & thoughts:
 - [[Chủ nghĩa Hư vô]]
-- [[❕ Ý nghĩa cuộc sống]]
+- [[Ý nghĩa cuộc sống]]

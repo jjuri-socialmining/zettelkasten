@@ -4,7 +4,7 @@ UID: 211001214142
 created: 01-Oct-2021
 tags:
   - 'created/2021/Oct/01'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/concept'
 publish: True
 ---
@@ -30,13 +30,9 @@ Khi bạn đang đọc một quyển sách, văn bản mà bạn có thời gian
 - [[Obsidian]]
 - [[Phần mềm Notion]]
 
-### Ví dụ
+### Others:
+- [[Các nguyên tắc của Zettelkasten]]
 - [[Sample of Generate Liturature note]]
+- [[Các tài liệu zettelkasten]]
 
-### Tài liệu tham khảo:
-- [[Zettelkasten Workflow]]
-- [[@ Sönke Ahrens, How to take smart notes]]
-- [Zettelkasten note-taking in 10 minutes · Tomas Vik](https://blog.viktomas.com/posts/slip-box/)
-- [How To Take Smart Notes: 10 Principles to Revolutionize Your Note-Taking and Writing - Forte Labs](https://fortelabs.co/blog/how-to-take-smart-notes/) 
-- [https://leananki.com/zettelkasten-method-smart-notes/](https://leananki.com/zettelkasten-method-smart-notes/)
 

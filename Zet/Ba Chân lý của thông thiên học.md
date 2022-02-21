@@ -17,6 +17,6 @@ Ba Chân lý của [[Thông thiên học]]:[^1]
 - Mỗi người có quyền quyết định cuộc sống mình.
 
 ## Ideas & thoughts:
-- Chân lý là đây sao!? [[❕ Ý nghĩa cuộc sống|Ý nghĩa cuộc đời]], [[Khủng hoảng hiện sinh]]
+- Chân lý là đây sao!? [[Ý nghĩa cuộc sống|Ý nghĩa cuộc đời]], [[Khủng hoảng hiện sinh]]
 
 [^1]: [[@ Marcel Bohrer, Thông thiên học dẫn giải#211026-2353]]

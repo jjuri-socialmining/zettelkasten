@@ -18,7 +18,7 @@ Con người bị kéo vào Rat race cũng vì tiêu chuẩn xã hội, khuân m
 
 ## Ideas & thoughts:
 - [[Digital Minimalism]]
-- [[❕ Ý nghĩa cuộc sống|Ý nghĩa cuộc đời]]
+- [[Ý nghĩa cuộc sống|Ý nghĩa cuộc đời]]
 - [[@jobsgo.vn, Phá bỏ Rat Race – đừng làm chú chuột trong phòng thí nghiệm của cuộc đời]]
 - Quotes:
 	- ![[💬211006-2217#Notes]]

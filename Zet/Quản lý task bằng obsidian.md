@@ -10,4 +10,4 @@ But if you won't be deterred, here is a way to handle tasks in markdown.
 - `#task` - Use a tag like this if you don't want to rely on backlinks to surface tasks or muddy up your graph with task-related connections.
 - `[[done]]` - Change `[[TODO]]` to `[[done]]` if you care about keeping a log the stuff you've completed.
 
-Just to reiterate, I prefer to not clutter my ideas with tasks. Ideas are built for long-term value; whereas tasks provide very short-term value. Also, [[people who are led by a task manager cut off their intuition]].
+Just to reiterate, I prefer to not clutter my ideas with tasks. Ideas are built for long-term value; whereas tasks provide very short-term value. Also, people who are led by a task manager cut off their intuition.

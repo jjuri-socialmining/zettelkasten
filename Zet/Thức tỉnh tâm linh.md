@@ -20,7 +20,7 @@ Quá trình thức tỉnh thường khởi đầu bằng một sự kiện, nơi
 
 ## Ideas & thoughts:
 - [[Khủng hoảng hiện sinh]]
-- [[❕ Ý nghĩa cuộc sống|Ý nghĩa cuộc đời]]
+- [[Ý nghĩa cuộc sống|Ý nghĩa cuộc đời]]
 - [[Rat race]]
 - Ai rơi vào trạng thái này nên đọc: 
 	- [[@ Cal Newport, Digital Minimalism]]

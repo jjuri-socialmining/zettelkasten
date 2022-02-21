@@ -28,7 +28,7 @@ Giai đoạn này tương đương với [[Khủng hoảng hiện sinh]] trong t
 - [[Teresa of Avila]]
 - Một quyển sách của [[Thánh Gioan Thánh giá]] có tên là [[@ John of the Cross, Dark Night of the Soul|Dark Night of the Soul]]
 - Tác giả [[Eckhart Tolle]] cũng từng trải nghiệm quá trình này.
-- Câu hỏi ám ảnh ta trong giai đoạn này là: Mục đích cuộc đời ta là gì? [[❕ Ý nghĩa cuộc sống|Ý nghĩa cuộc sống]]
+- Câu hỏi ám ảnh ta trong giai đoạn này là: Mục đích cuộc đời ta là gì? [[Ý nghĩa cuộc sống|Ý nghĩa cuộc sống]]
 
 ## Quotes:
 - [[💬211022-2109]]
