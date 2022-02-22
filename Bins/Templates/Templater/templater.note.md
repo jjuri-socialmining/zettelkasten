@@ -36,7 +36,7 @@ publish: True
 <% tp.file.cursor() %>
 
 ## Source:
-- [[@ nghiencuulichsu.com, Hàm Nghi Một nhà ái quốc, một nghệ sĩ đa tài]]
+- [[@ wiki, Mười hai vị thần trên đỉnh Olympus]]
 
 
 

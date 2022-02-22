@@ -9,7 +9,7 @@ tags:
 publish: True
 ---
 ## Notes:
-Tường [[Thành Troy]] rất kiên cố do được xây dựng bởi thần [[Apollo]] và [[Poseidon]]
+Tường [[Thành Troy]] rất kiên cố do được xây dựng bởi thần [[Thần Apollo]] và [[Thần Poseidon]]
 
 ## Source:
 - [[@ wiki, Cuộc chiến thành Troy]]
