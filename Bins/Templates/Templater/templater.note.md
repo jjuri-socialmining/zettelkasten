@@ -36,7 +36,7 @@ publish: True
 <% tp.file.cursor() %>
 
 ## Source:
-- [[@ wiki, Mười hai vị thần trên đỉnh Olympus]]
+- [[@ James Clear, Atomic Habits]]
 
 
 
