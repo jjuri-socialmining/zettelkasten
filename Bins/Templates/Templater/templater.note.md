@@ -36,7 +36,7 @@ publish: True
 <% tp.file.cursor() %>
 
 ## Source:
-- [[@ James Clear, Atomic Habits]]
+- [[@ Tomas Alvira, Siêu hình học]], p.
 
 
 
