@@ -7,7 +7,7 @@
 	- previous note:
 
 ## Notes
-Bốn phần của [[Kinh Vệ Đà]] bao gồm [[Rig - Veda|Rig]], Sāma, Yajur and Atharva
+Bốn phần của [[Kinh Vệ Đà]] bao gồm [[Rig Veda|Rig]], Sāma, Yajur and Atharva
 
 ## Questions & thoughts:
 

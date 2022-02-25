@@ -36,7 +36,7 @@ publish: True
 <% tp.file.cursor() %>
 
 ## Source:
-- [[@ Tomas Alvira, Siêu hình học]], p.
+- [[@ Vũ Dương Ninh, Lịch sử văn minh thế giới]], p.
 
 
 

@@ -10,6 +10,6 @@ publish: True
 # Thần Shiva
 
 ## Notes:
-Shiva là một trong 3 vị thần [[Tam thần Ấn giáo|Trimurti]] của [[Ấn Độ giáo]]. Vị thần này xuất thân từ thần [[Rudra]] trong [[Rig - Veda]]. Shiva vừa là thần sáng tạo, bảo quản và cũng là thần hủy diệt. Nhưng biểu trưng nổi bật nhất là hủy diệt.
+Shiva là một trong 3 vị thần [[Tam thần Ấn giáo|Trimurti]] của [[Ấn Độ giáo]]. Vị thần này xuất thân từ thần [[Rudra]] trong [[Rig Veda]]. Shiva vừa là thần sáng tạo, bảo quản và cũng là thần hủy diệt. Nhưng biểu trưng nổi bật nhất là hủy diệt.
 
 ## Ideas & thoughts:

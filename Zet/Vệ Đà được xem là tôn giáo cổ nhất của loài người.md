@@ -8,6 +8,6 @@
 
 ## Notes
 [[Vệ Đà]]
-[[Rig - Veda]]
+[[Rig Veda]]
 ## Questions & thoughts:
 
