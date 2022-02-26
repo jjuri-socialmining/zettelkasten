@@ -7,7 +7,7 @@ tags:
   - '#permanent/people/family'
 birth: 1993-11-06
 aliases:
-  - 
+  - Duy
 ---
 # Trần Quang Duy
 

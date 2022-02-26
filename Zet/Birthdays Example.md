@@ -25,7 +25,7 @@ _0521 Gemini_
 
 _0621 Cancer_
 ## July
-0707 [[Trần Thị Ngọc Diệp|chị Diệp]]
+0707 [[chị Diệp|chị Diệp]]
 _0723 Leo_
 
 ## August

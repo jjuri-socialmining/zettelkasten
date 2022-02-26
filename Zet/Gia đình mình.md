@@ -12,7 +12,7 @@ aliases:
 
 ## Notes:
 [[Trần Thiện Chí]] - [[Nguyễn Hoàng Huệ Chi]]
-[[Trần Thị Ngọc Diệp]]
+[[chị Diệp]]
 [[Trần Anh Dũng]]
 [[Trần Quang Duy]] - [[Trần Thị Vương Đan]]
 [[Trần Thị Ánh Phượng]]

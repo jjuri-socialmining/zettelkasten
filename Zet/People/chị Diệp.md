@@ -9,15 +9,9 @@ birth:
 death: 
 aliases:
   - chị Diệp
+  - Trần Thị Ngọc Diệp
 ---
-# Trần Thị Ngọc Diệp
+# Ngọc Diệp
 
 ## Notes:
 
-
-## Tham khảo:
-```dataview
-list
-from [[Trần Thị Ngọc Diệp]]
-sort file.name asc
-```
