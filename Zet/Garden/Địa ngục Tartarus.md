@@ -8,6 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Tartarus
+  - Địa ngục vô tận Tartarus
 publish: False
 ---
 # Địa ngục Tartarus
