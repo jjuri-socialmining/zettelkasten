@@ -10,6 +10,7 @@ aliases:
   - Nữ thần đất mẹ Gaia
   - Nữ thần Terra
   - Gaia
+  - Gaea
 publish: False
 ---
 # Nữ thần Gaia

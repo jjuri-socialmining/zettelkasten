@@ -5,7 +5,7 @@
     await tp.file.rename(title);
   }
 
-  note_type = await tp.system.suggester(["concept", "fact", "think", "place", "nation", "linking", "how to", "funny"], ["permanent/concept", "permanent/fact", "permanent/think", "permanent/place", "permanent/nation", "permanent/linking", "permanent/howto", 'funny']);
+  note_type = await tp.system.suggester(["concept", "linking"], ["permanent/concept",  "permanent/linking"]);
 
    await tp.file.move("/Zet/Garden/" + title);
    

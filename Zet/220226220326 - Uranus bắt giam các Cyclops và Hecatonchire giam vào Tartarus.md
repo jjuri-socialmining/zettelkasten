@@ -13,6 +13,7 @@ Uranus ghê tởm hình thù của Cyclops và Hecatonchire cũng chính là con
 
 ## Relate:
 - [[220226215707 - Gaia và Uranus sinh ra 12 Titan, 3 Cyclops, 3 Hecatonchire]]
+- [[220227155509 - Cyclops và Hecatonchire bị Uranus giam ở Tartarus vì vẻ bề ngoài xấu xí]]
 
 ## Source:
 - [[@ wiki, Gaia]]

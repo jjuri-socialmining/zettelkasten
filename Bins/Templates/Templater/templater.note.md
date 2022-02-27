@@ -9,17 +9,21 @@
   await tp.file.rename(title);
   note_process = await tp.system.suggester(["🥜Seed", "🌱Seeding", "🌲Evergreen", "🏡Garden"], ["seed", "seeding","evergreen", "garden"]);
 
-  note_type = await tp.system.suggester(["concept", "fact", "think", "place", "nation", "linking", "how to", "funny"], ["permanent/concept", "permanent/fact", "permanent/think", "permanent/place", "permanent/nation", "permanent/linking", "permanent/howto", 'funny']);
-
-  if (note_type == "permanent/think") {
-    title = "❕ " + title;
-    await tp.file.rename(title);
-	await tp.file.move("/Zet/Thinking/" + title);
+  note_type = await tp.system.suggester(["concept", "fact", "definition", "think", "place"], ["permanent/concept", "permanent/fact", "permanent/definition", "permanent/think", "permanent/place"]);
+  
+  if (note_process == "seed") {
+  	    await tp.file.move("/Inbox/" + title);
   }
   else {
-    await tp.file.move("/Zet/" + title);
+	  if (note_type == "permanent/think") {
+	    title = "❕ " + title;
+	    await tp.file.rename(title);
+		await tp.file.move("/Zet/Thinking/" + title);
+	  }
+	  else {
+	    await tp.file.move("/Zet/" + title);
+	  }
   }
-
   tR += "---"
 %>
 title: <%* tR += title1 %>
