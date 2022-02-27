@@ -9,7 +9,7 @@ tags:
 publish: true
 ---
 
-- [[Zettelkasten Workflow]]
+- [[❕ 210714195600 - Zettelkasten Workflow]]
 - [[@ Sönke Ahrens, How to take smart notes]]
 - [Zettelkasten note-taking in 10 minutes · Tomas Vik](https://blog.viktomas.com/posts/slip-box/)
 - [How To Take Smart Notes: 10 Principles to Revolutionize Your Note-Taking and Writing - Forte Labs](https://fortelabs.co/blog/how-to-take-smart-notes/) 

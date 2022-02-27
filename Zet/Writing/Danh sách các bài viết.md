@@ -27,4 +27,5 @@ Các bài viết được tổng hợp từ [[Zettelkasten]], các bài viết n
 - [[Tóm tắt sách - Atomic Habits]]
 - [[Kary Mullis phản đối việc sử dụng PCR để xét nghiệm virus HIV]]
 - [[Vatican có thực sự đã công bố hoàn toàn bí mật Fatima❓]]
+- [[Zettelkasten Workflow]]
 
