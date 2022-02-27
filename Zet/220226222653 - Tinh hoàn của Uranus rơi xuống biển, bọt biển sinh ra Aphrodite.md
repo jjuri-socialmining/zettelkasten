@@ -16,6 +16,7 @@ Sau khi [[Thần bầu trời Uranus|Uranus]] bị [[Titan Cronus|Cronus]] thi�
 - [[220226221403 - Gaia tạo ra nham thạch lưỡi liềm và nhờ Titan sát hại Uranus]]
 - [[220226222000 - Cronus nhận lời Gaia giết Uranus cha mình]]
 - [[220226222251 - Aphrodite có nghĩa là Sinh ra từ bọt biển]]
+- [[220227083326 - Theo Hesiod, Aphrodite được sinh ra ở biển Cythera từ bọt biển]]
 
 ## Source:
 - [[@ wiki, Gaia]]

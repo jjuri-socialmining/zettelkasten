@@ -9,6 +9,8 @@ tags:
 aliases:
   - Venus
   - Aphrodite
+  - Nữ thần Cytherea 
+  - Nữ thần Cypris
 publish: False
 ---
 # Nữ thần Aphrodite

@@ -1,0 +1,18 @@
+---
+title: Helios tiết lộ cho Hephaestus rằng Aphrodite ngoại tình với Ares
+UID: 220227092145
+created: 27-Feb-2022
+tags:
+  - 'created/2022/Feb/27'
+  - 'evergreen'
+  - 'permanent/fact'
+publish: True
+---
+## Notes:
+[[Titan Helios|Thần mặt trời Helios]] tiết lộ cho [[Thần Hephaestus|Hephaestus]] rằng [[Nữ thần Aphrodite|Aphrodite]] ngoại tình với [[Thần Ares|Ares]].  
+
+## Source:
+- [[@ wiki, Aphrodite]]
+
+## Relate:
+- [[220227092321 - Hephaestus tạo ra một cái lưới bằng vàng để bắt quả tang Aphrodite ngoại tình Ares]]

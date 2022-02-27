@@ -35,8 +35,4 @@ publish: True
 <% tp.file.cursor() %>
 
 ## Source:
-- [[@ wiki, Gaia]]
-
-
-
-
+- [[@ wiki, Cronus]]

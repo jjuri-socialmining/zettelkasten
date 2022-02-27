@@ -8,12 +8,13 @@ tags:
   - 'permanent/concept'
 aliases:
   - Cronus
+  - Kronos
 publish: False
 ---
 # Titan Cronus
 
 ## Notes:
-
+- [[220227093815 - Cronus còn được gọi là Kronos]]
 
 ## Ideas & thoughts:
 

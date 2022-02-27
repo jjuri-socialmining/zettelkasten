@@ -14,7 +14,7 @@ Zeus là con út của [[Titan Cronus]] và [[Titan Rhea]]
 
 ## Relate:
 - [[220222215522 - Hera là con gái của Cronus và Rhea]]
-
+- [[220227095131 - Hestia, Demeter, Hera, Poseidon, Hades và Zeus là con của Cronus và Rhea]]
 ## Source:
 - [[@ wiki, Mười hai vị thần trên đỉnh Olympus]]
 

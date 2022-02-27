@@ -8,6 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Cyclops
+  - Các Cyclops
 publish: False
 ---
 # Người khổng lồ Cyclops

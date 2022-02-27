@@ -13,8 +13,8 @@ publish: True
 [[Nữ thần Hera|Hera]] là con gái của [[Titan Cronus|Cronus]] và [[Titan Rhea|Rhea]]
 
 ## Relate:
-[[220222215419 - Zeus là em trai và là chồng của Hera]]
-
+- [[220222215419 - Zeus là em trai và là chồng của Hera]]
+- [[220227095131 - Hestia, Demeter, Hera, Poseidon, Hades và Zeus là con của Cronus và Rhea]]
 ## Source:
 - [[@ wiki, Mười hai vị thần trên đỉnh Olympus]]
 

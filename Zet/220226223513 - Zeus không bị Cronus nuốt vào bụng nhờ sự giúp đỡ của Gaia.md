@@ -14,6 +14,7 @@ publish: True
 ## Relate:
 - [[220226223124 - Cronus được tiên tri rằng các con mình sẽ hại mình]]
 - [[220226223156 - Cronus đã nuốt các con mình vào bụng]]
+- [[220227095851 - Rhea đã nhờ Gaia chỉ cách cứu Zeus khỏi bị Cronus nuốt]]
 
 ## Source:
 - [[@ wiki, Gaia]]

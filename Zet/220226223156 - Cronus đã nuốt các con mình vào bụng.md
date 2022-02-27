@@ -13,8 +13,11 @@ publish: True
 
 ## Relate:
 - [[220226223124 - Cronus được tiên tri rằng các con mình sẽ hại mình]]
+- [[220227094718 - Gaia tức giận khi Cronus nhốt Cyclops và Hecatonchire, nguyền rủa Cronus sẽ bị lật đổ bởi con mình]]
+
 ## Source:
 - [[@ wiki, Gaia]]
+- [[@ wiki, Cronus]]
 
 
 

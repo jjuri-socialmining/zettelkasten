@@ -15,6 +15,8 @@ publish: True
 ## Source:
 - [[@ wiki, Mười hai vị thần trên đỉnh Olympus]]
 
+## Relate:
+- [[220227091519 - Demodocus kể rằng Aphrodite là vợ của Hephaestus]]
 
 
 

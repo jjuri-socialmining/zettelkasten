@@ -15,6 +15,7 @@ publish: True
 ## Source:
 - [[@ wiki, Mười hai vị thần trên đỉnh Olympus]]
 
-
+## Relate:
+- [[220227095131 - Hestia, Demeter, Hera, Poseidon, Hades và Zeus là con của Cronus và Rhea]]
 
 
