@@ -14,4 +14,6 @@ publish: True
 ## Source:
 - [[@ peterpotter90.wordpress, Những người khổng lồ nổi tiếng trong truyền thuyết]]
 
+## Relate:
+- [[220228223446 - Atlas theo phe Titan chống Zeus]]
 

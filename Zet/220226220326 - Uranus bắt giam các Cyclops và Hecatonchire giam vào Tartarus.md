@@ -17,7 +17,7 @@ Uranus ghê tởm hình thù của Cyclops và Hecatonchire cũng chính là con
 
 ## Source:
 - [[@ wiki, Gaia]]
-
+- [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.62
 
 
 

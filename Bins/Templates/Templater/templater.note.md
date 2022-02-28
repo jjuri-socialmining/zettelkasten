@@ -40,4 +40,6 @@ publish: True
 <% tp.file.cursor() %>
 
 ## Source:
-- [[@ wiki, Cronus]]
+- [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.
+
+## Relate:

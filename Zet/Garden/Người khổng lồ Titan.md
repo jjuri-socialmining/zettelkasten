@@ -14,7 +14,7 @@ publish: False
 # Người khổng lồ Titan
 
 ## Notes:
-
+[[220228202240 - Các nam thần Titan và các nữ thần Titanide]]
 
 ## Ideas & thoughts:
 

@@ -8,6 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Prometheus
+  - Prométhée
 publish: False
 ---
 # Bảo Bình

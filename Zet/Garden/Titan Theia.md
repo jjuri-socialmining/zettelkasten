@@ -7,7 +7,7 @@ tags:
   - 'garden'
   - 'permanent/concept'
 aliases:
-  - Theia
+  - Titanide Theia
 publish: False
 ---
 # Titan Theia

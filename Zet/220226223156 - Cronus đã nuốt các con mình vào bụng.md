@@ -18,7 +18,7 @@ publish: True
 ## Source:
 - [[@ wiki, Gaia]]
 - [[@ wiki, Cronus]]
-
+- [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.68
 
 
 

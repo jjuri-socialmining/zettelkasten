@@ -7,7 +7,7 @@ tags:
   - 'garden'
   - 'permanent/concept'
 aliases:
-  - Rhea
+  - Titanide Rhea
 publish: False
 ---
 # Titan Rhea

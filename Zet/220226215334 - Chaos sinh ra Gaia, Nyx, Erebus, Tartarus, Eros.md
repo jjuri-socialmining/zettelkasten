@@ -13,7 +13,9 @@ publish: True
 
 ## Source:
 - [[@ wiki, Gaia]]
+- [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook Tve-4u) p.56
 
-
+## Relate:
+- [[220228201330 - Eros là con út của Chaos]]
 
 

@@ -13,7 +13,7 @@ Sau khi tất cả 5 người con đầu tiên đều bị [[Titan Cronus|Cronus
 
 ## Source:
 - [[@ wiki, Cronus]]
-
+- [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.68
 ## Relate:
 - [[220226223156 - Cronus đã nuốt các con mình vào bụng]]
 - [[220226223513 - Zeus không bị Cronus nuốt vào bụng nhờ sự giúp đỡ của Gaia]]
