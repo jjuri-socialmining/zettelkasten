@@ -3,7 +3,7 @@ title: Rig Veda
 UID: 2107041600
 created: July 4, 2021 4:00 PM
 tags:
-  - 'created/2021/Jul/4'
+  - 'created/2021/Jul/04'
   - 'garden'
   - 'permanent/concept'
 aliases:

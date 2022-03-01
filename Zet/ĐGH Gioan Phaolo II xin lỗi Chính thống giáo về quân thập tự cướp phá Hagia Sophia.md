@@ -3,9 +3,9 @@ title: ĐGH Gioan Phaolo II xin lỗi Chính thống giáo về quân thập t�
 UID: 210908201342
 created: Dec 24, 2020 10:33 PM
 tags:
-  - '#created/2020/Dec/24'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2020/Dec/24'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

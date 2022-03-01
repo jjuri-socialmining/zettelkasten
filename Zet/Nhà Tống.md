@@ -2,8 +2,8 @@
 title: Nhà Tống
 UID: P-210814-2202
 tags:
-  - '#created/2021/Aug/14'
-  - '#permanent/concept'
+  - 'created/2021/Aug/14'
+  - 'permanent/concept'
 aliases: [Nhà Tống, nước Tống]
 publish: True
 ---

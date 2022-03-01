@@ -2,9 +2,9 @@
 title: Mặc Tử chê bai đạo Khổng không thi hành được ở nước Lỗ
 UID: 210905215107
 tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/05'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

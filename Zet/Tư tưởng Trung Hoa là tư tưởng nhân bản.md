@@ -2,9 +2,9 @@
 title: Tư tưởng Trung Hoa là tư tưởng nhân bản
 UID: 210905212058
 tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/think'
+  - 'created/2021/Sep/05'
+  - 'seed🥜'
+  - 'permanent/think'
 aliases:
   - 
 ---

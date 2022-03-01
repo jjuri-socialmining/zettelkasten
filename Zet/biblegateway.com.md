@@ -3,9 +3,9 @@ title: biblegateway.com
 UID: 210921225537
 created: 21-Sep-2021
 tags:
-  - '#created/2021/Sep/21'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/21'
+  - 'seed🥜'
+  - 'permanent/concept'
 publish: False
 ---
 # biblegateway.com

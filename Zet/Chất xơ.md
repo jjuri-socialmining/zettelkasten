@@ -2,10 +2,10 @@
 title: Chất xơ
 UID: 210813153738
 tags:
-  - '#created/2021/Aug/13'
-  - '#permanent/concept'
-  - '#notion'
-  - '#flashcards'
+  - 'created/2021/Aug/13'
+  - 'permanent/concept'
+  - 'notion'
+  - 'flashcards'
 aliases: [Chất xơ, Fiber, Cellose]
 ---
 # Chất xơ

@@ -3,9 +3,9 @@ title: Lịch Sử Việt Nam
 UID: 
 created: 
 tags:
-  - '#created/2021/Jun/22'
-  - '#garden🏡'
-  - '#permanent/concept'
+  - 'created/2021/Jun/22'
+  - 'garden🏡'
+  - 'permanent/concept'
 publish: True
 ---
 # Lịch Sử Việt Nam

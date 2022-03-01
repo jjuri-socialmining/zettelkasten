@@ -2,9 +2,9 @@
 title: Mười hai tông đồ
 UID: 210908215519
 tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/08'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Mười hai tông đồ
 ---

@@ -1,9 +1,9 @@
 ---
 title: Công Đồng Nicea 325
 tags:
-  - '#created/2021/Jan/01'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Jan/01'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - Counsil of Nicaea
 publish: True

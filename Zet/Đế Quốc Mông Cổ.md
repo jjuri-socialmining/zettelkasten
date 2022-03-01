@@ -2,9 +2,9 @@
 title: Đế Quốc Mông Cổ
 UID: 210817205501
 tags:
-  - '#created/2021/Aug/17'
-  - '#permanent/concept'
-  - '#flashcards'
+  - 'created/2021/Aug/17'
+  - 'permanent/concept'
+  - 'flashcards'
 aliases: 
   - Đế Quốc Mông Cổ
   - Đại Mông Cổ Quốc

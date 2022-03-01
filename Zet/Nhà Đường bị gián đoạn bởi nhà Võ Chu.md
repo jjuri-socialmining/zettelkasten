@@ -2,9 +2,9 @@
 title: Nhà Đường bị gián đoạn bởi nhà Võ Chu
 UID: 210907224005
 tags:
-  - '#created/2021/Sep/07'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/07'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

@@ -2,9 +2,9 @@
 title: ❕ Chủ nghĩa hiện sinh chú trọng đến cuộc đời cá nhân
 UID: 210831223917
 tags:
-  - '#created/2021/Aug/31'
-  - '#seed🥜'
-  - '#permanent/think'
+  - 'created/2021/Aug/31'
+  - 'seed🥜'
+  - 'permanent/think'
 aliases:
   - 
 ---

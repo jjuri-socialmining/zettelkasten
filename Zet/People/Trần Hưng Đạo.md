@@ -2,9 +2,9 @@
 title: Trần Hưng Đạo
 UID: 210902131110
 tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/people'
+  - 'created/2021/Sep/02'
+  - 'seed🥜'
+  - 'permanent/people'
 birth: 1228
 death: 1300
 aliases:

@@ -2,9 +2,9 @@
 title: Gia đình mình
 UID: 210907230518
 tags:
-  - '#created/2021/Sep/07'
-  - '#garden🏡'
-  - '#permanent/concept'
+  - 'created/2021/Sep/07'
+  - 'garden🏡'
+  - 'permanent/concept'
 aliases:
   - 
 ---

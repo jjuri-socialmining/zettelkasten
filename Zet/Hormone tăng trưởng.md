@@ -2,9 +2,9 @@
 title: Hormone tăng trưởng
 UID: 210903092111
 tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/03'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Growth Hormone
 ---

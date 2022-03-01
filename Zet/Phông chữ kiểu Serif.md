@@ -2,9 +2,9 @@
 title: Phông chữ kiểu Serif
 UID: 210831214652
 tags:
-  - '#created/2021/Aug/31'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Aug/31'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Phông chữ kiểu serif
 publish: True

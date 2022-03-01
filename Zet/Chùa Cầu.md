@@ -2,9 +2,9 @@
 title: Chùa Cầu
 UID: 210908210641
 tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/place'
+  - 'created/2021/Sep/08'
+  - 'seed🥜'
+  - 'permanent/place'
 aliases:
   - Cầu Nhật Bản
   - Lai Viễn Kiều

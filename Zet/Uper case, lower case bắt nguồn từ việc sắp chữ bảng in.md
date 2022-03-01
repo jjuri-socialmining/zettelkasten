@@ -2,9 +2,9 @@
 title: Uper case, lower case bắt nguồn từ việc sắp chữ bảng in
 UID: 210831211224
 tags:
-  - '#created/2021/Aug/31'
-  - '#seeding🌱'
-  - '#permanent/fact'
+  - 'created/2021/Aug/31'
+  - 'seeding🌱'
+  - 'permanent/fact'
 aliases:
   - 
 ---

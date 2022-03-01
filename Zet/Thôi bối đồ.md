@@ -3,7 +3,7 @@ title: Thôi bối đồ
 UID: 211013234256
 created: 13-Oct-2021
 tags:
-  - '#created/2021/Oct/13'
+  - 'created/2021/Oct/13'
   - 'seed🥜'
   - 'permanent/concept'
 publish: False

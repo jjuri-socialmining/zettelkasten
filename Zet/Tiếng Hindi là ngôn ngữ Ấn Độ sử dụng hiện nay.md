@@ -2,9 +2,9 @@
 title: Tiếng Hindi là ngôn ngữ Ấn Độ sử dụng hiện nay
 UID: 210907215145
 tags:
-  - '#created/2021/Sep/07'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/07'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

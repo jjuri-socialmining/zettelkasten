@@ -2,8 +2,8 @@
 title: Hư Trúc
 UID: 210816222733
 tags:
-  - '#created/2021/Aug/16'
-  - '#permanent/concept'
+  - 'created/2021/Aug/16'
+  - 'permanent/concept'
 ---
 # Hư Trúc
 

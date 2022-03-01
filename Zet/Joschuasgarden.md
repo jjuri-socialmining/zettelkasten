@@ -3,9 +3,9 @@ title: Joschuasgarden
 UID: 210922230036
 created: 22-Sep-2021
 tags:
-  - '#created/2021/Sep/22'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/22'
+  - 'seed🥜'
+  - 'permanent/fact'
 publish: False
 ---
 # Joschuagarden

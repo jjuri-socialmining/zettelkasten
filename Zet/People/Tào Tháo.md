@@ -2,9 +2,9 @@
 title: Tào Tháo
 UID: 210828131728
 tags:
-  - '#created/2021/Aug/28'
-  - '#seed🥜'
-  - '#permanent/people'
+  - 'created/2021/Aug/28'
+  - 'seed🥜'
+  - 'permanent/people'
 birth: 155
 death: 220-03
 aliases:

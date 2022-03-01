@@ -2,9 +2,9 @@
 title: Pháp trong từ pháp gia có nghĩa là pháp luật
 UID: 210905214208
 tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/05'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

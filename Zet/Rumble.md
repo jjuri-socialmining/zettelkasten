@@ -3,7 +3,7 @@ title: Rumble
 UID: 211008231149
 created: 08-Oct-2021
 tags:
-  - '#created/2021/Oct/08'
+  - 'created/2021/Oct/08'
   - 'seed🥜'
   - 'permanent/concept'
 publish: False

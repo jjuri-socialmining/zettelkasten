@@ -2,9 +2,9 @@
 title: Nấm không phải thực vật
 UID: 210902100351
 tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/'
+  - 'created/2021/Sep/02'
+  - 'seed🥜'
+  - 'permanent/'
 aliases:
   - 
 ---

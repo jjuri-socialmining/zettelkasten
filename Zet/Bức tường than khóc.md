@@ -2,9 +2,9 @@
 title: Bức tường than khóc
 UID: 210902154933
 tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/02'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - HaKotel HaMa'aravi
   - Bức tường phía tây

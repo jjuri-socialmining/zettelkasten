@@ -2,9 +2,9 @@
 title: Trần Thiện Chí
 UID: 210907230132
 tags:
-  - '#created/2021/Sep/07'
-  - '#seed🥜'
-  - '#permanent/people/family'
+  - 'created/2021/Sep/07'
+  - 'seed🥜'
+  - 'permanent/people/family'
 birth: 
 death: 
 aliases:

@@ -2,9 +2,9 @@
 title: Lĩnh Nam
 UID: 210902093631
 tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/place'
+  - 'created/2021/Sep/02'
+  - 'seed🥜'
+  - 'permanent/place'
 aliases:
   - 
 ---

@@ -2,9 +2,9 @@
 title: 7-4-1945, Bảo Đại phê chuẩn Nội các Trần Trọng Kim
 UID: P-210717-2307
 tags:
-  - '#created/2021/Jul/17'
-  - '#permanent/fact'
-  - '#flashcards'
+  - 'created/2021/Jul/17'
+  - 'permanent/fact'
+  - 'flashcards'
 ---
 
 # Bảo Đại phên chuẩn Nội các Trần Trọng Kim

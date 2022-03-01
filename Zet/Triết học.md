@@ -1,6 +1,6 @@
 ---
 tags: 
-  - '#MOC'
+  - 'MOC'
 alias:
   - Triết học
 ---

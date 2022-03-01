@@ -2,9 +2,9 @@
 title: Chùa Cầu được các thương nhân Nhật Bản xây dựng thế kỷ 17
 UID: 210908210918
 tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/08'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

@@ -2,9 +2,9 @@
 title: Ngữ hệ
 UID: 210907221507
 tags:
-  - '#created/2021/Sep/07'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/07'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - 
 ---

@@ -2,9 +2,9 @@
 title: UTF-8
 UID: 210831205040
 tags:
-  - '#created/2021/Aug/31'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Aug/31'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - UTF-8
 ---

@@ -2,9 +2,9 @@
 title: LDH cholesterol là Cholesterol xấu
 UID: 210903111537
 tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/03'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

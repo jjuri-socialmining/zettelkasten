@@ -2,9 +2,9 @@
 title: Hội An ra đời dưới thời Hậu Lê
 UID: 210908205951
 tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/08'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

@@ -2,9 +2,9 @@
 title: Người sáng lập ra hệ số Elo là một đại kiện tướng cờ vua
 UID: 210826212534
 tags:
-  - '#created/2021/Aug/26'
-  - '#🌱'
-  - '#permanent/fact'
+  - 'created/2021/Aug/26'
+  - '🌱'
+  - 'permanent/fact'
 aliases:
   - 
 ---

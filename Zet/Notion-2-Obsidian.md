@@ -2,9 +2,9 @@
 title: Notion-2-Obsidian
 UID: 210822231352
 tags:
-  - '#created/2021/Aug/22'
-  - '#permanent/concept'
-  - '#flashcards'
+  - 'created/2021/Aug/22'
+  - 'permanent/concept'
+  - 'flashcards'
 aliases: 
   - "Notion-2-Obsidian"
 ---

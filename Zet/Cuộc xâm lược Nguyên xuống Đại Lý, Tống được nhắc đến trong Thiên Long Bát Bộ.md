@@ -2,8 +2,8 @@
 title: Cuộc xâm lược Nguyên xuống Đại Lý, Tống được nhắc đến trong Thiên Long Bát Bộ
 UID: 210816213018
 tags:
-  - '#created/2021/Aug/16'
-  - '#permanent/fact'
+  - 'created/2021/Aug/16'
+  - 'permanent/fact'
 ---
 # Cuộc xâm lược Nguyên xuống Đại Lý, Tống được nhắc đến trong Thiên Long Bát Bộ
 

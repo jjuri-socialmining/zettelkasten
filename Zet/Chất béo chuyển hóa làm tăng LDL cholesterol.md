@@ -2,9 +2,9 @@
 title: Chất béo chuyển hóa làm tăng LDL cholesterol
 UID: 210903113417
 tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/03'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

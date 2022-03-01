@@ -2,9 +2,9 @@
 title: Đoàn Chính Thuần
 UID: 210816223320
 tags:
-  - '#created/2021/Aug/16'
-  - '#permanent/concept'
-  - '#flashcards'
+  - 'created/2021/Aug/16'
+  - 'permanent/concept'
+  - 'flashcards'
 aliases: [Đoàn Chính Thuần]
 ---
 # Đoàn Chính Thuần

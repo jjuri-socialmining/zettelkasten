@@ -2,9 +2,9 @@
 title: Nguyễn Huệ
 UID: P-210716-2212
 tags:
-  - '#created/2021/Jul/16'
-  - '#seed🥜'
-  - '#permanent/people'
+  - 'created/2021/Jul/16'
+  - 'seed🥜'
+  - 'permanent/people'
 birth: 
 death: 
 aliases:

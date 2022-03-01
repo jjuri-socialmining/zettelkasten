@@ -3,9 +3,9 @@ title: An Dương Vương
 UID: 2107240810
 created: 
 tags:
-  - '#created/2021/Jul/24'
-  - '#seed🥜'
-  - '#permanent/people'
+  - 'created/2021/Jul/24'
+  - 'seed🥜'
+  - 'permanent/people'
 aliases:
   - An Dương Vương
   - Thục Phán

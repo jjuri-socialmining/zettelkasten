@@ -3,8 +3,8 @@ title: 💥 Bác sĩ cũng chỉ là một cái nghề
 created: 2021-11-06
 resolve: 
 tags:
-  - '#ideas💥'
-  - '#created/21/11/06'
+  - 'ideas💥'
+  - 'created/21/11/06'
 ---
 
 # Bác sĩ cũng chỉ là một cái nghề

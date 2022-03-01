@@ -2,9 +2,9 @@
 title: The tree of life
 UID: 210901221615
 tags:
-  - '#created/2021/Sep/01'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/01'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - The tree of life
 ---

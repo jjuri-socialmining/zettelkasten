@@ -2,9 +2,9 @@
 title: Quân Nguyên đem quân đánh Đại Việt 3 lần đều thất bại
 UID: 210817220543
 tags:
-  - '#created/2021/Aug/17'
-  - '#permanent/fact'
-  - '#flashcards'
+  - 'created/2021/Aug/17'
+  - 'permanent/fact'
+  - 'flashcards'
 ---
 # Quân Nguyên đem quân đánh Đại Việt 3 lần đều thất bại
 

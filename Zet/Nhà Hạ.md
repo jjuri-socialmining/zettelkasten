@@ -2,9 +2,9 @@
 title: Nhà Hạ
 UID: 210828091408
 tags:
-  - '#created/2021/Aug/28'
-  - '#seeding🌱'
-  - '#permanent/nation'
+  - 'created/2021/Aug/28'
+  - 'seeding🌱'
+  - 'permanent/nation'
 aliases:
   - 
 publish: True

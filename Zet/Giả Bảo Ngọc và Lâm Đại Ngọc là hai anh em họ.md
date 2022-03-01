@@ -2,9 +2,9 @@
 title: Giả Bảo Ngọc và Lâm Đại Ngọc là hai anh em họ
 UID: 210906225545
 tags:
-  - '#created/2021/Sep/06'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/06'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

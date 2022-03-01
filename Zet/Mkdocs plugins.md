@@ -3,9 +3,9 @@ title: Mkdocs plugins
 UID: 210923232312
 created: 23-Sep-2021
 tags:
-  - '#created/2021/Sep/23'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/23'
+  - 'seed🥜'
+  - 'permanent/concept'
 publish: False
 ---
 # Mkdocs plugins

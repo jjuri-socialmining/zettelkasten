@@ -2,8 +2,8 @@
 title: Cao Ly
 UID: 210817215819
 tags:
-  - '#created/2021/Aug/17'
-  - '#permanent/concept/nation'
+  - 'created/2021/Aug/17'
+  - 'permanent/concept/nation'
 aliases: 
   - "Cao Ly"
   - Vương quốc Cao Ly

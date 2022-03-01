@@ -2,10 +2,10 @@
 title: Nhà Tiền Hán
 UID: 210822234939
 tags:
-  - '#created/2021/Aug/22'
-  - '#permanent/concept'
-  - '#seed🥜'
-  - '#flashcards'
+  - 'created/2021/Aug/22'
+  - 'permanent/concept'
+  - 'seed🥜'
+  - 'flashcards'
 aliases: 
   - "Nhà Tây Hán"
 ---

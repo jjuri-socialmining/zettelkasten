@@ -3,7 +3,7 @@ title: Blog Thiên Hà wordpress
 UID: 211005224507
 created: 05-Oct-2021
 tags:
-  - '#created/2021/Oct/05'
+  - 'created/2021/Oct/05'
   - 'garden🏡'
   - 'permanent/linking'
 publish: False

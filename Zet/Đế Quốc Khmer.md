@@ -2,9 +2,9 @@
 title: Đế Quốc Khmer
 UID: 210908212257
 tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/nation'
+  - 'created/2021/Sep/08'
+  - 'seed🥜'
+  - 'permanent/nation'
 aliases:
   - Đế quốc Angkor
 ---

@@ -2,9 +2,9 @@
 title: Sau khi Hốt Tất Liệt qua đời, Mông Cổ chia thành 4 đế quốc
 UID: 210817212029
 tags:
-  - '#created/2021/Aug/17'
-  - '#permanent/fact'
-  - '#flashcards'
+  - 'created/2021/Aug/17'
+  - 'permanent/fact'
+  - 'flashcards'
 ---
 # Sau khi Hốt Tất Liệt qua đời, Mông Cổ chia thành 4 đế quốc
 

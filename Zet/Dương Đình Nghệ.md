@@ -2,9 +2,9 @@
 title: Dương Đình Nghệ
 UID: 210821221727
 tags:
-  - '#created/2021/Aug/21'
-  - '#permanent/people'
-  - '#flashcards'
+  - 'created/2021/Aug/21'
+  - 'permanent/people'
+  - 'flashcards'
 dates:
   - birth:
   - die:

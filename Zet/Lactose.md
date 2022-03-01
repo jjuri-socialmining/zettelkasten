@@ -2,9 +2,9 @@
 title: Lactose
 UID: 210815151646
 tags:
-  - '#created/2021/Aug/12'
-  - '#permanent/concept'
-  - '#notion'
+  - 'created/2021/Aug/12'
+  - 'permanent/concept'
+  - 'notion'
 aliases: [Lactose]
 ---
 # Lactose

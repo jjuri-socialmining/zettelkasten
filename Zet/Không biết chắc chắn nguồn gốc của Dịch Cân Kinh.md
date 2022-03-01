@@ -2,8 +2,8 @@
 title: Không biết chắc chắn nguồn gốc của Dịch Cân Kinh
 UID: 210816221732
 tags:
-  - '#created/2021/Aug/16'
-  - '#permanent/fact'
+  - 'created/2021/Aug/16'
+  - 'permanent/fact'
 ---
 # Không biết chắc chắn nguồn gốc của Dịch Cân Kinh
 

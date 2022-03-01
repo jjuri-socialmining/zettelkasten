@@ -2,9 +2,9 @@
 title: ❕ Node package manager cũng giống như python package manager
 UID: 210909224652
 tags:
-  - '#created/2021/Sep/09'
-  - '#seed🥜'
-  - '#permanent/think'
+  - 'created/2021/Sep/09'
+  - 'seed🥜'
+  - 'permanent/think'
 aliases:
   - 
 ---

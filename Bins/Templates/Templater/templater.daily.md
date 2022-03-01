@@ -19,7 +19,6 @@ UID: <% tp.date.now("YYMMDDHHmmss") %>
 created: <% tp.date.now("DD-MMM-YYYY") %>
 tags:
   - 'created/<% tp.date.now("YYYY/MMM/DD") %>'
-  - '📅'
   - 'daily/private'
 ---
 <% "[[" + tp.date.yesterday("📝YY-MM-DD") + "|<- Yesterday]] | [[" + tp.date.tomorrow("📝YY-MM-DD")  + "|Tomorrow ->]]" %>

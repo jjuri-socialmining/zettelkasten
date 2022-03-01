@@ -2,9 +2,9 @@
 title: ❕ Sống một lần là một sự giải thoát cho con người
 UID: 210831220200
 tags:
-  - '#created/2021/Aug/31'
-  - '#seed🥜'
-  - '#permanent/think'
+  - 'created/2021/Aug/31'
+  - 'seed🥜'
+  - 'permanent/think'
 ---
 # ❕ Sống một lần là một giải thoát của con người
 

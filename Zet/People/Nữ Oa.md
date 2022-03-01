@@ -2,9 +2,9 @@
 title: Nữ Oa
 UID: 210906222416
 tags:
-  - '#created/2021/Sep/06'
-  - '#seed🥜'
-  - '#permanent/people'
+  - 'created/2021/Sep/06'
+  - 'seed🥜'
+  - 'permanent/people'
 birth: 
 death: 
 aliases:

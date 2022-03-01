@@ -2,9 +2,9 @@
 title: Chất béo bụng, mỡ nội tạng dễ tạo ra các axit béo tự do trong máu
 UID: 210903151233
 tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/03'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

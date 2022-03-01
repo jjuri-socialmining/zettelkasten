@@ -2,9 +2,9 @@
 title: Dịch cân kinh
 UID: 210816220725
 tags:
-  - '#created/2021/Aug/16'
-  - '#permanent/concept'
-  - '#flashcards'
+  - 'created/2021/Aug/16'
+  - 'permanent/concept'
+  - 'flashcards'
 aliases: [Dịch cân kinh, Dịch cân tẩy tủy kinh]
 ---
 # Dịch cân kinh

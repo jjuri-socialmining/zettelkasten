@@ -1,9 +1,9 @@
 ---
 title: Nhà Trần
 tags:
-  - '#created/2021/Jul/09'
-  - '#garden🏡'
-  - '#permanent/place'
+  - 'created/2021/Jul/09'
+  - 'garden🏡'
+  - 'permanent/place'
 publish: True
 ---
 # Nhà Trần

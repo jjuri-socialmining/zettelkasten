@@ -2,9 +2,9 @@
 title: ❕ Ý nghĩa cuộc đời là sự định nghĩa của mỗi người
 UID: 210902222340
 tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/think'
+  - 'created/2021/Sep/02'
+  - 'seed🥜'
+  - 'permanent/think'
 publish: True
 ---
 # ❕ Ý nghĩa cuộc đời là sự định nghĩa của mỗi người

@@ -2,9 +2,9 @@
 title: Trường phái Khổng tử thì cho rằng muốn trị nước thì nhà vua phải nêu gương tốt cho dân noi theo
 UID: 210905214311
 tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/05'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

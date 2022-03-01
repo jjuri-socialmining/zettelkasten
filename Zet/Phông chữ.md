@@ -2,9 +2,9 @@
 title: Phông chữ
 UID: 210831210927
 tags:
-  - '#created/2021/Aug/31'
-  - '#seeding🌱'
-  - '#permanent/concept'
+  - 'created/2021/Aug/31'
+  - 'seeding🌱'
+  - 'permanent/concept'
 aliases:
   - Phông chữ
   - Font

@@ -2,9 +2,9 @@
 title: Trang tử là một người mang tư tưởng duy tâm
 UID: 210905215642
 tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/05'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

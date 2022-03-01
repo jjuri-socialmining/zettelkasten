@@ -1,7 +1,7 @@
 # Thi Sách là chồng của Trưng Trắc
 
 - metadata
-	- created: July 4, 2021 1:05 PM #created/2021/Jul/4,
+	- created: July 4, 2021 1:05 PM #created/2021/Jul/04,
 	- tags:
 	- previous note:
 

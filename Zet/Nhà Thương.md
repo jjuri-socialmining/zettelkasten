@@ -2,9 +2,9 @@
 title: Nhà Thương
 UID: 210828094012
 tags:
-  - '#created/2021/Aug/28'
-  - '#seeding🌱'
-  - '#permanent/nation'
+  - 'created/2021/Aug/28'
+  - 'seeding🌱'
+  - 'permanent/nation'
 aliases:
   - Nhà Ân
   - Ân Thương

@@ -2,9 +2,9 @@
 title: LSD
 UID: 210902101927
 tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/02'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Lysergic acid diethylamide
 ---

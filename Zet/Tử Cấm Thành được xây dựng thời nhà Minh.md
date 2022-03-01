@@ -2,9 +2,9 @@
 title: Tử Cấm Thành được xây dựng thời nhà Minh
 UID: 210907232835
 tags:
-  - '#created/2021/Sep/07'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/07'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

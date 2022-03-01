@@ -2,9 +2,9 @@
 title: Đại Việt sử ký
 UID: 210906223113
 tags:
-  - '#created/2021/Sep/06'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/06'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Đại Việt sử ký
 ---

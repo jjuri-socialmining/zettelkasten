@@ -2,9 +2,9 @@
 title: Chất béo không bão hòa đa
 UID: 210903112932
 tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/03'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Chất béo không bão hòa đa
 ---

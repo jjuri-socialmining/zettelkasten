@@ -2,9 +2,9 @@
 title: Thiết Phiến Công Chúa
 UID: 210906230538
 tags:
-  - '#created/2021/Sep/06'
-  - '#seed🥜'
-  - '#permanent/people'
+  - 'created/2021/Sep/06'
+  - 'seed🥜'
+  - 'permanent/people'
 birth: 
 death: 
 aliases:

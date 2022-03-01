@@ -3,7 +3,7 @@ title: python-frontmatter
 UID: 211004212135
 created: 04-Oct-2021
 tags:
-  - '#created/2021/Oct/04'
+  - 'created/2021/Oct/04'
   - 'seed🥜'
   - 'permanent/concept'
   - 'programming'

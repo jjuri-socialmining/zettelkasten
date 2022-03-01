@@ -2,9 +2,9 @@
 title: ❕ 💥 Tại sao đôi lúc ta luôn cảm thấy mệt mỏi, thiếu năng lượng
 UID: 210901231053
 tags:
-  - '#created/2021/Sep/01'
-  - '#seed🥜'
-  - '#permanent/think'
+  - 'created/2021/Sep/01'
+  - 'seed🥜'
+  - 'permanent/think'
 aliases:
   - 
 ---

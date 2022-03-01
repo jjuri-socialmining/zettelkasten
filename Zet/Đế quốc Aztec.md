@@ -2,9 +2,9 @@
 title: Đế quốc Aztec
 UID: 210902204716
 tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/nation'
+  - 'created/2021/Sep/02'
+  - 'seed🥜'
+  - 'permanent/nation'
 aliases:
   - Tam Đồng Minh
   - Liên Minh Tam Quốc

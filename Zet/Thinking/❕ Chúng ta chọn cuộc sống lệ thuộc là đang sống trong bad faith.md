@@ -2,9 +2,9 @@
 title: ❕ Chúng ta chọn cuộc sống lệ thuộc là đang sống trong bad faith
 UID: 210831225730
 tags:
-  - '#created/2021/Aug/31'
-  - '#seed🥜'
-  - '#permanent/think'
+  - 'created/2021/Aug/31'
+  - 'seed🥜'
+  - 'permanent/think'
 publish: True
 ---
 # ❕ Chúng ta chọn cuộc sống lệ thuộc là đang sống trong bad faith

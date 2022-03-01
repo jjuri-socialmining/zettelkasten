@@ -3,7 +3,7 @@ title: Satan là tên gọi khác của Saturn
 UID: 211010225435
 created: 10-Oct-2021
 tags:
-  - '#created/2021/Oct/10'
+  - 'created/2021/Oct/10'
   - 'seed🥜'
   - 'permanent/fact'
 publish: False

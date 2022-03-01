@@ -2,9 +2,9 @@
 title: Khuất Nguyên về quê ở ẩn
 UID: 210905215859
 tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/05'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

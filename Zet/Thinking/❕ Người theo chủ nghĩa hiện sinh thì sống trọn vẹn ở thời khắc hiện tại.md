@@ -2,9 +2,9 @@
 title: ❕ Người theo chủ nghĩa hiện sinh thì sống trọn vẹn ở thời khắc hiện tại
 UID: 210902214504
 tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/think'
+  - 'created/2021/Sep/02'
+  - 'seed🥜'
+  - 'permanent/think'
 aliases:
   - 
 ---

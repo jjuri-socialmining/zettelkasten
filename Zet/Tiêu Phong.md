@@ -2,9 +2,9 @@
 title: Tiêu Phong
 UID: 210816210122
 tags:
-  - '#created/2021/Aug/16'
-  - '#permanent/concept'
-  - '#flashcards'
+  - 'created/2021/Aug/16'
+  - 'permanent/concept'
+  - 'flashcards'
 aliases: [Tiêu Phong, Kiều Phong]
 publish: True
 ---

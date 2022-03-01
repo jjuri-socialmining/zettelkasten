@@ -2,9 +2,9 @@
 title: bash
 UID: 210830215513
 tags:
-  - '#created/2021/Aug/30'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Aug/30'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - bash
   - Bourne-Again Shell

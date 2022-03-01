@@ -2,8 +2,8 @@
 title: Chỉ số GL
 UID: 210816222824
 tags:
-  - '#created/2021/Aug/16'
-  - '#permanent/concept'
+  - 'created/2021/Aug/16'
+  - 'permanent/concept'
 aliases: [Glycemic Load]
 ---
 

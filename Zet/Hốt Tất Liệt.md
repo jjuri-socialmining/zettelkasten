@@ -2,9 +2,9 @@
 title: Hốt Tất Liệt
 UID: 210817211726
 tags:
-  - '#created/2021/Aug/17'
-  - '#permanent/people'
-  - '#flashcards'
+  - 'created/2021/Aug/17'
+  - 'permanent/people'
+  - 'flashcards'
 dates:
   - birth:
   - die:

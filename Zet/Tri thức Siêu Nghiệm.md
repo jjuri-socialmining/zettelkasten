@@ -3,9 +3,9 @@ title: Tri thức Siêu Nghiệm
 UID: 210908202327
 created: Nov 05, 2020 9:16 PM
 tags:
-  - '#created/2020/Nov/05'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2020/Nov/05'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - transzendental
 ---

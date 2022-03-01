@@ -2,9 +2,9 @@
 title: Thập nhị tứ hiếu
 UID: 210905230237
 tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/05'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Thập nhị tứ hiếu
 ---

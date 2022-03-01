@@ -2,8 +2,8 @@
 title: Thoát Hoan
 UID: 210817220652
 tags:
-  - '#created/2021/Aug/17'
-  - '#permanent/concept/people'
+  - 'created/2021/Aug/17'
+  - 'permanent/concept/people'
 aliases: 
   - "Thoát Hoan"
 ---

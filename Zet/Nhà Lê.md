@@ -2,9 +2,9 @@
 title: Nhà Lê
 UID: 210907214539
 tags:
-  - '#created/2021/Sep/07'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/07'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Nhà Lê
 ---

@@ -2,9 +2,9 @@
 title: Gatsby website generator
 UID: 210909222917
 tags:
-  - '#created/2021/Sep/09'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/09'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - 
 ---

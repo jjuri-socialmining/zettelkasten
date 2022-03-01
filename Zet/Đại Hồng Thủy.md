@@ -3,7 +3,7 @@ title: Đại Hồng Thủy
 UID: 211003170812
 created: 03-Oct-2021
 tags:
-  - '#created/2021/Oct/03'
+  - 'created/2021/Oct/03'
   - 'seed🥜'
   - 'permanent/concept'
 publish: False

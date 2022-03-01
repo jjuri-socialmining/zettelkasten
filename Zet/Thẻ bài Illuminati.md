@@ -3,7 +3,7 @@ title: Thẻ bài Illuminati
 UID: 211011225607
 created: 11-Oct-2021
 tags:
-  - '#created/2021/Oct/11'
+  - 'created/2021/Oct/11'
   - 'seed🥜'
   - 'permanent/concept'
 publish: False

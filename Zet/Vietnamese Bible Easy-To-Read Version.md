@@ -3,9 +3,9 @@ title: Vietnamese Bible Easy-To-Read Version
 UID: 210921230116
 created: 21-Sep-2021
 tags:
-  - '#created/2021/Sep/21'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/21'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - BPT
 publish: False

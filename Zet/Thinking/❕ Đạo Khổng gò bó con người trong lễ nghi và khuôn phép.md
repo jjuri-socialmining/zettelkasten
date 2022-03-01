@@ -2,9 +2,9 @@
 title: ❕ Đạo Khổng gò bó con người trong lễ nghi và khuôn phép
 UID: 210905214743
 tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/think'
+  - 'created/2021/Sep/05'
+  - 'seed🥜'
+  - 'permanent/think'
 aliases:
   - 
 ---

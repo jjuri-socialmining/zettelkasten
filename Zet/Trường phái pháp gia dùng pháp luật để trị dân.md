@@ -2,9 +2,9 @@
 title: Trường phái pháp gia dùng pháp luật để trị dân
 UID: 210905214231
 tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/05'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

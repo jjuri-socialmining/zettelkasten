@@ -2,9 +2,9 @@
 title: Bỏ bữa sáng cũng là một dạng chế độ nhịn ăn
 UID: 210903095124
 tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/03'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

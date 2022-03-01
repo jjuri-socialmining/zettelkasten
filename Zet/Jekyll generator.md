@@ -2,9 +2,9 @@
 title: Jekyll generator
 UID: 210909221059
 tags:
-  - '#created/2021/Sep/09'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/09'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - 
 ---

@@ -4,9 +4,9 @@ title: Bầu giáo hoàng
 UID: 210908194150
 created: Dec 06, 2020 10:43 PM
 tags:
-  - '#created/2020/Dec/06'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2020/Dec/06'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Bầu giáo hoàng
 ---

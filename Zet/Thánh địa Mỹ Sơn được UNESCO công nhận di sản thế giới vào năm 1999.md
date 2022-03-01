@@ -2,9 +2,9 @@
 title: Thánh địa Mỹ Sơn được UNESCO công nhận di sản thế giới vào năm 1999
 UID: 210908213404
 tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/08'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

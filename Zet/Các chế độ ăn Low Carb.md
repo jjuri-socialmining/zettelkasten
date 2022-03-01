@@ -2,8 +2,8 @@
 title: Các chế độ ăn Low Carb
 UID: 210903142834
 tags:
-  - '#created/2021/Sep/03'
-  - '#garden🏡'
+  - 'created/2021/Sep/03'
+  - 'garden🏡'
 aliases:
   - 
 ---

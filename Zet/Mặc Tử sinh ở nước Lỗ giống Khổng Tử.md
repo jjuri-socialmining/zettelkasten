@@ -2,9 +2,9 @@
 title: Mặc Tử sinh ở nước Lỗ giống Khổng Tử
 UID: 210905215026
 tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/05'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

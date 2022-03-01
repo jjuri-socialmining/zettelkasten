@@ -3,7 +3,7 @@ title: Deep State
 UID: 211014232852
 created: 14-Oct-2021
 tags:
-  - '#created/2021/Oct/14'
+  - 'created/2021/Oct/14'
   - 'seed🥜'
   - 'permanent/concept'
 aliases:

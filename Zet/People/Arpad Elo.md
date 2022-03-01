@@ -2,9 +2,9 @@
 title: Arpad Elo
 UID: 210826212309
 tags:
-  - '#created/2021/Aug/26'
-  - '#🥜'
-  - '#permanent/people'
+  - 'created/2021/Aug/26'
+  - '🥜'
+  - 'permanent/people'
 aliases:
   - 
 ---

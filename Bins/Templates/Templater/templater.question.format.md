@@ -12,7 +12,7 @@ title: <%* tR += title %>
 UID: <% tp.date.now("YYMMDDHHmmss") %>
 tags:
   - '#created/<% tp.date.now("YYYY/MM/DD") %>'
-  - '#question❓'
+  - '#question'
 ---
 # <%* tR += title %>
 

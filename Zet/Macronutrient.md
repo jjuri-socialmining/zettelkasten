@@ -2,9 +2,9 @@
 title: Macronutrient
 UID: 210815-1831
 tags:
-  - '#created/2021/Aug/10'
-  - '#permanent/concept'
-  - '#flashcards'
+  - 'created/2021/Aug/10'
+  - 'permanent/concept'
+  - 'flashcards'
 aliases: [Macronutrient, Chất dinh dưỡng đa lượng]
 ---
 # Macronutrient

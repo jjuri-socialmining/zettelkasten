@@ -2,8 +2,8 @@
 title: Monosacharide
 UID: 
 tags:
-  - '#created/2021/Aug'
-  - '#permanent/concept'
+  - 'created/2021/Aug'
+  - 'permanent/concept'
 aliases: [đường đơn]
 ---
 # Monosacharide

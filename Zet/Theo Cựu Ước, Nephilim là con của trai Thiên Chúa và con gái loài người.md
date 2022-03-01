@@ -3,7 +3,7 @@ title: Theo Cựu Ước, Nephilim là con của trai Thiên Chúa và con gái 
 UID: 211003164442
 created: 03-Oct-2021
 tags:
-  - '#created/2021/Oct/03'
+  - 'created/2021/Oct/03'
   - 'seed🥜'
   - 'permanent/fact'
 publish: False

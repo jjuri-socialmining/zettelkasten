@@ -2,9 +2,9 @@
 title: Khi carb ở mức độ thấp, insulin giảm, cơ thể sẽ giải phóng axit béo từ mô mỡ
 UID: 210903143440
 tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/03'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

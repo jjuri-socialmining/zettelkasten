@@ -2,9 +2,9 @@
 title: "Nguyễn Ánh"
 UID:  P-210716-2234
 tags:
-  - '#created/2021/Jul/16'
-  - '#permanent/concept/people'
-  - '#flashcards'
+  - 'created/2021/Jul/16'
+  - 'permanent/concept/people'
+  - 'flashcards'
 aliases: 
   - Nguyễn Phúc Ánh
   - Gia Long

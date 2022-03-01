@@ -2,9 +2,9 @@
 title: Tây Du Ký
 UID: 210906225930
 tags:
-  - '#created/2021/Sep/06'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/06'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Tây Du Ký
 publish: True

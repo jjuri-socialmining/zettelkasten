@@ -2,9 +2,9 @@
 title: Các loài nấm giúp con người thay đổi nhận thức được gọi là Nấm Psilocybe
 UID: 210902101552
 tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/02'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

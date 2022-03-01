@@ -2,9 +2,9 @@
 title: Nấm Psilocybe
 UID: 210902102643
 tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/02'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Nấm thức thần
 ---

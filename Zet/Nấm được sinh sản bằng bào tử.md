@@ -2,9 +2,9 @@
 title: Nấm được sinh sản bằng bào tử
 UID: 210902101349
 tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/02'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

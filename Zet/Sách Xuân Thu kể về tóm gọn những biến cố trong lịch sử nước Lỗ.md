@@ -2,9 +2,9 @@
 title: Sách Xuân Thu kể về tóm gọn những biến cố trong lịch sử nước Lỗ
 UID: 210905214047
 tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/05'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
 ---
 # Sách Xuân Thu kể về tóm gọn những biến cố trong lịch sử nước Lỗ

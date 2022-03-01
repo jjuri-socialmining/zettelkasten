@@ -2,9 +2,9 @@
 title: Nhịn ăn trong thời gian ngắn giúp tăng kích thích trao đổi chất
 UID: 210903100343
 tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/03'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

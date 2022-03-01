@@ -3,9 +3,9 @@ title: BibleGateway-to-Obsidian
 UID: 210921230946
 created: 21-Sep-2021
 tags:
-  - '#created/2021/Sep/21'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/21'
+  - 'seed🥜'
+  - 'permanent/concept'
 publish: False
 ---
 # BibleGateway-to-Obsidian

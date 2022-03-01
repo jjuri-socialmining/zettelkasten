@@ -3,7 +3,7 @@ title: Book of Enoch
 UID: 211013224157
 created: 13-Oct-2021
 tags:
-  - '#created/2021/Oct/13'
+  - 'created/2021/Oct/13'
   - 'seed🥜'
   - 'permanent/concept'
 aliases:

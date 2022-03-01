@@ -2,9 +2,9 @@
 title: Không hoạt động thể chất là nguyên nhân gây kháng insulin
 UID: 210903153610
 tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/03'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

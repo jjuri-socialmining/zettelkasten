@@ -2,9 +2,9 @@
 title: Loạn An Sử xảy ra vào thời kỳ nhà Đường
 UID: 210907223556
 tags:
-  - '#created/2021/Sep/07'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/07'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

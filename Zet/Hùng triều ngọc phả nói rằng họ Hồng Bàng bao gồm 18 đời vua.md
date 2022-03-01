@@ -2,9 +2,9 @@
 title: Hùng triều ngọc phả nói rằng họ Hồng Bàng bao gồm 18 đời vua
 UID: 210822232717
 tags:
-  - '#created/2021/Aug/22'
-  - '#permanent/fact'
-  - '#flashcards'
+  - 'created/2021/Aug/22'
+  - 'permanent/fact'
+  - 'flashcards'
 ---
 # Hùng triều ngọc phả nói rằng họ Hồng Bàng bao gồm 18 đời vua
 

@@ -2,9 +2,9 @@
 title: Thuận Thiên công chúa
 UID: 210902131203
 tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/people'
+  - 'created/2021/Sep/02'
+  - 'seed🥜'
+  - 'permanent/people'
 birth: 
 death: 
 aliases:

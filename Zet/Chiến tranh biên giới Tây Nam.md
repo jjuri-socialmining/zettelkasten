@@ -2,9 +2,9 @@
 title: Chiến tranh biên giới Tây Nam
 UID: 210908213114
 tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/08'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Chiến tranh biên giới Tây Nam
 ---

@@ -2,9 +2,9 @@
 title: Tân Ước
 UID: 210908203023
 tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/08'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - New Testament
 ---

@@ -3,9 +3,9 @@ title: Bill Gates và các vấn đề vaccine
 UID: 210919115534
 created: 19-Sep-2021
 tags:
-  - '#created/2021/Sep/19'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/19'
+  - 'seed🥜'
+  - 'permanent/fact'
 publish: False
 ---
 # Bill Gates và các vấn đề vaccine

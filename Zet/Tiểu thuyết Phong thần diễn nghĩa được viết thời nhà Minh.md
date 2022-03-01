@@ -2,9 +2,9 @@
 title: Tiểu thuyết Phong thần diễn nghĩa được viết thời nhà Minh
 UID: 210828095738
 tags:
-  - '#created/2021/Aug/28'
-  - '#seeding🌱'
-  - '#permanent/fact'
+  - 'created/2021/Aug/28'
+  - 'seeding🌱'
+  - 'permanent/fact'
 aliases:
   - 
 ---

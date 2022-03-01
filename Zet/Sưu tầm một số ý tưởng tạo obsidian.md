@@ -3,9 +3,9 @@ title: Sưu tầm một số ý tưởng tạo obsidian
 UID: 210921211247
 created: 21-Sep-2021
 tags:
-  - '#created/2021/Sep/21'
-  - '#garden🏡'
-  - '#permanent/concept'
+  - 'created/2021/Sep/21'
+  - 'garden🏡'
+  - 'permanent/concept'
 publish: False
 ---
 # Sưu tầm một số ý tưởng tạo obsidian

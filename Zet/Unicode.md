@@ -2,9 +2,9 @@
 title: Unicode
 UID: 210831203845
 tags:
-  - '#created/2021/Aug/31'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Aug/31'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Unicode
 ---

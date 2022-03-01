@@ -2,9 +2,9 @@
 title: Nước trong Đạo Đức Kinh
 UID: 210905213615
 tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/05'
+  - 'seed🥜'
+  - 'permanent/fact'
 publish: True
 ---
 # Nước trong Đạo Đức KInh

@@ -2,9 +2,9 @@
 title: Nho giáo
 UID: 
 tags:
-  - '#created/2021/Jul/11'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Jul/11'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Đạo Khổng
   - Khổng gia

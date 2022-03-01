@@ -3,7 +3,7 @@ title: Noe có ba người con
 UID: 211003170051
 created: 03-Oct-2021
 tags:
-  - '#created/2021/Oct/03'
+  - 'created/2021/Oct/03'
   - 'seed🥜'
   - 'permanent/fact'
 publish: False

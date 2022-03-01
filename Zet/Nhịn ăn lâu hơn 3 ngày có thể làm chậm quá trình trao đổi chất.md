@@ -2,9 +2,9 @@
 title: Nhịn ăn lâu hơn 3 ngày có thể làm chậm quá trình trao đổi chất
 UID: 210903100439
 tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/03'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

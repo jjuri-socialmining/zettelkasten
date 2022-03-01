@@ -2,9 +2,9 @@
 title: Chế độ Eat-Stop-Eat
 UID: 210903091907
 tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/03'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Chế độ Eat-Stop-Eat
 ---

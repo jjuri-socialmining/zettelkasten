@@ -2,9 +2,9 @@
 title: ❕ Đạo Khổng khiến xã hội thủ cựu và trì trệ
 UID: 210905214658
 tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/think'
+  - 'created/2021/Sep/05'
+  - 'seed🥜'
+  - 'permanent/think'
 aliases:
   - 
 ---

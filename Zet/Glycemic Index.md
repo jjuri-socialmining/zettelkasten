@@ -2,9 +2,9 @@
 title: Chỉ số GI - Glycemic Index
 UID: 210812215900
 tags:
-  - '#created/2021/Aug/12'
-  - '#permanent/concept'
-  - '#notion'
+  - 'created/2021/Aug/12'
+  - 'permanent/concept'
+  - 'notion'
 aliases: [Chỉ số GI, Glycemic Index]
 ---
 # Glycemic Index

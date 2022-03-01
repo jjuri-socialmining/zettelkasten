@@ -2,9 +2,9 @@
 title: Trần Liễu là anh trai của vua Trần Thái Tông
 UID: 210902161052
 tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/02'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

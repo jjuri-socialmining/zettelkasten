@@ -2,9 +2,9 @@
 title: Trong Kinh Dịch, đường liền nét trong quẻ thể hiện tính dương
 UID: 210905213236
 tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/05'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

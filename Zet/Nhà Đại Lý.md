@@ -2,9 +2,9 @@
 title: Nhà Đại Lý
 UID: 210816212624
 tags:
-  - '#created/2021/Aug/16'
-  - '#permanent/concept'
-  - '#flashcards'
+  - 'created/2021/Aug/16'
+  - 'permanent/concept'
+  - 'flashcards'
 aliases: [Nước Đại Lý]
 publish: True
 ---

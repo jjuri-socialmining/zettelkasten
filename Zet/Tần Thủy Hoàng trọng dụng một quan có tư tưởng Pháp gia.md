@@ -2,9 +2,9 @@
 title: Tần Thủy Hoàng trọng dụng một quan có tư tưởng Pháp gia
 UID: 210905214406
 tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/05'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

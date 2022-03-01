@@ -2,9 +2,9 @@
 title: Chất béo bão hòa thường ở dạng rắn ở nhiệt độ phòng
 UID: 210903112534
 tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/03'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

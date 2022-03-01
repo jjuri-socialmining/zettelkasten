@@ -2,9 +2,9 @@
 title: Chất béo bão hòa làm tăng LDL Cholesterol
 UID: 210903112731
 tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/03'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

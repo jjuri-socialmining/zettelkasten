@@ -2,9 +2,9 @@
 title: Nguyễn Công Duẩn
 UID:  P-210714-2041
 tags:
-  - '#created/2021/Jul/14'
-  - '#seed🥜'
-  - '#permanent/people'
+  - 'created/2021/Jul/14'
+  - 'seed🥜'
+  - 'permanent/people'
 birth: 1360
 death: 1431
 aliases:

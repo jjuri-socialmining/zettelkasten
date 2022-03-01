@@ -3,9 +3,9 @@ title: Protein
 UID: 210908204037
 created: August 10, 2021 6:24 PM
 tags:
-  - '#created/2021/Aug/10'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Aug/10'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Chất đạm
 ---

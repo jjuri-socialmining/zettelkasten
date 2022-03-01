@@ -2,9 +2,9 @@
 title: Sách của Mặc gia và Khổng gia đều bị Tần Thủy Hoàng ra lệnh đốt
 UID: 210905215256
 tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/05'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

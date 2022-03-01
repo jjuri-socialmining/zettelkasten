@@ -2,9 +2,9 @@
 title: Vịnh Hạ Long
 UID: 210908213708
 tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/place'
+  - 'created/2021/Sep/08'
+  - 'seed🥜'
+  - 'permanent/place'
 aliases:
   - 
 ---

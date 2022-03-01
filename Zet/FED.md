@@ -3,7 +3,7 @@ title: FED
 UID: 211014231145
 created: 14-Oct-2021
 tags:
-  - '#created/2021/Oct/14'
+  - 'created/2021/Oct/14'
   - 'seed🥜'
   - 'permanent/concept'
 aliases:

@@ -2,9 +2,9 @@
 title: Cơ Xương
 UID: 210905212801
 tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/people'
+  - 'created/2021/Sep/05'
+  - 'seed🥜'
+  - 'permanent/people'
 birth: 
 death: 
 aliases:

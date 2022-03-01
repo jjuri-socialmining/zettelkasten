@@ -2,9 +2,9 @@
 title: Nồng độ Insuline máu giảm giúp cơ thể dễ sử dụng chất béo hơn
 UID: 210903092707
 tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/03'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

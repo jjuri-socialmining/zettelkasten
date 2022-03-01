@@ -2,9 +2,9 @@
 title: Trần Hưng Đạo là con trai Trần Liễu
 UID: 210902161007
 tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/02'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

@@ -2,9 +2,9 @@
 title: Ngột Lương Hợp Thai
 UID: 210817222327
 tags:
-  - '#created/2021/Aug/17'
-  - '#permanent/concept/people'
-  - '#flashcards'
+  - 'created/2021/Aug/17'
+  - 'permanent/concept/people'
+  - 'flashcards'
 aliases: 
   - "Ngột Lương Hợp Thai"
   - Uriyangqatai

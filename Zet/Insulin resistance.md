@@ -2,9 +2,9 @@
 title: Insulin resistance
 UID: 210903094122
 tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/03'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Kháng Insulin
 publish: True

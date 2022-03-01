@@ -2,9 +2,9 @@
 title: Người Khiết Đan
 UID: 210817214754
 tags:
-  - '#created/2021/Aug/17'
-  - '#permanent/concept'
-  - '#flashcards'
+  - 'created/2021/Aug/17'
+  - 'permanent/concept'
+  - 'flashcards'
 aliases: 
   - "Người Khiết Đan"
   - Khất Đan

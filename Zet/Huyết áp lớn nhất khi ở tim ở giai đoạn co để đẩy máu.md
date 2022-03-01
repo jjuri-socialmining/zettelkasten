@@ -2,9 +2,9 @@
 title: Huyết áp lớn nhất khi ở tim ở giai đoạn co để đẩy máu
 UID: 210908220824
 tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/08'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

@@ -2,9 +2,9 @@
 title: Phong thần diễn nghĩa mở đầu bằng việc vua Trụ đến miếu thờ Nữ Oa đã viết một bài thơ bất kính
 UID: 210906222501
 tags:
-  - '#created/2021/Sep/06'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/06'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

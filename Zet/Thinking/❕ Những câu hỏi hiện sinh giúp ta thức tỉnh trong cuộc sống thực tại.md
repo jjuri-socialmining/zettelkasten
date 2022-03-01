@@ -2,9 +2,9 @@
 title: ❕ Những câu hỏi hiện sinh giúp ta thức tỉnh trong cuộc sống thực tại
 UID: 210902224945
 tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/think'
+  - 'created/2021/Sep/02'
+  - 'seed🥜'
+  - 'permanent/think'
 aliases:
   - 
 ---

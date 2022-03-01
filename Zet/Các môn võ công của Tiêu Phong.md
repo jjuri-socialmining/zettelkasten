@@ -2,8 +2,8 @@
 title: Các môn võ công của Tiêu Phong
 UID: 210816220505
 tags:
-  - '#created/2021/Aug/16'
-  - '#permanent/fact'
+  - 'created/2021/Aug/16'
+  - 'permanent/fact'
 ---
 # Các môn võ công của Tiêu Phong
 

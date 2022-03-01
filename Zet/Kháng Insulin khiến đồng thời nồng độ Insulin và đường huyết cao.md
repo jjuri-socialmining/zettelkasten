@@ -2,9 +2,9 @@
 title: Kháng Insulin khiến đồng thời nồng độ Insulin và đường huyết cao
 UID: 210903145552
 tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/03'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

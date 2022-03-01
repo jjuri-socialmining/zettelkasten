@@ -2,9 +2,9 @@
 title: Đổng Trác
 UID: 210828112625
 tags:
-  - '#created/2021/Aug/28'
-  - '#seed🥜'
-  - '#permanent/people'
+  - 'created/2021/Aug/28'
+  - 'seed🥜'
+  - 'permanent/people'
 publish: True
 ---
 # Đổng Trác

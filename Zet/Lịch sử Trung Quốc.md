@@ -3,9 +3,9 @@ title: Lịch sử Trung Quốc
 UID: 
 created: 
 tags:
-  - '#created/2021/Jul/24'
-  - '#garden🏡'
-  - '#permanent/concept'
+  - 'created/2021/Jul/24'
+  - 'garden🏡'
+  - 'permanent/concept'
 publish: True
 ---
 # Lịch sử Trung Quốc

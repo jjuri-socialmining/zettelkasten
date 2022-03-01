@@ -2,9 +2,9 @@
 title: Nước Lỗ
 UID: 210905213943
 tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/nation'
+  - 'created/2021/Sep/05'
+  - 'seed🥜'
+  - 'permanent/nation'
 aliases:
   - 
 ---

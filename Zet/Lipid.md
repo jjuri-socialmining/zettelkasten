@@ -3,9 +3,9 @@ title: Lipid
 UID: 
 created: August 10, 2021 6:24 PM
 tags:
-  - '#created/2021/Aug/10'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Aug/10'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Lipid
   - chất béo

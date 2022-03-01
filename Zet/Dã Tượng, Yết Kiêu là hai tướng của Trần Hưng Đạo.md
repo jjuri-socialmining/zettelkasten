@@ -2,9 +2,9 @@
 title: Dã Tượng, Yết Kiêu là hai tướng của Trần Hưng Đạo
 UID: 210902153658
 tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/02'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

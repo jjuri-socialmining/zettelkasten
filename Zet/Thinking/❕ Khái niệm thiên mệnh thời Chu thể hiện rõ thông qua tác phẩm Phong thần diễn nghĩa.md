@@ -2,9 +2,9 @@
 title: ❕ Khái niệm thiên mệnh thời Chu thể hiện rõ thông qua tác phẩm Phong thần diễn nghĩa
 UID: 210828102107
 tags:
-  - '#created/2021/Aug/28'
-  - '#seeding🌱'
-  - '#permanent/think'
+  - 'created/2021/Aug/28'
+  - 'seeding🌱'
+  - 'permanent/think'
 aliases:
   - 
 ---

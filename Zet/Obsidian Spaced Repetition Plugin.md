@@ -2,9 +2,9 @@
 title: Obsidian Spaced Repetition Plugin
 UID: 210815161907
 tags:
-  - '#created/2021/Aug/15'
-  - '#permanent/concept'
-  - '#flashcards'
+  - 'created/2021/Aug/15'
+  - 'permanent/concept'
+  - 'flashcards'
 ---
 # Obsidian Spaced Repetition Plugin
 

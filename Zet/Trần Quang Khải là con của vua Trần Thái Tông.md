@@ -2,9 +2,9 @@
 title: Trần Quang Khải là con của vua Trần Thái Tông
 UID: 210902161027
 tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/02'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

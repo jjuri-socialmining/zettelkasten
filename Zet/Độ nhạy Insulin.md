@@ -2,9 +2,9 @@
 title: Độ nhạy Insulin
 UID: 210903153929
 tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/03'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Insulin Sensitive
 ---

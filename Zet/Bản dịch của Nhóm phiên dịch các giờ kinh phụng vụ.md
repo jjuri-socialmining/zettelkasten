@@ -3,9 +3,9 @@ title: Bản dịch của Nhóm phiên dịch các giờ kinh phụng vụ
 UID: 210922210058
 created: 22-Sep-2021
 tags:
-  - '#created/2021/Sep/22'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/22'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - KPA
 publish: False

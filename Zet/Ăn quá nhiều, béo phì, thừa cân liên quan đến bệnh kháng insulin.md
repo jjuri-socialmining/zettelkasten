@@ -2,9 +2,9 @@
 title: Ăn quá nhiều, béo phì, thừa cân liên quan đến bệnh kháng insulin
 UID: 210903150950
 tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/03'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

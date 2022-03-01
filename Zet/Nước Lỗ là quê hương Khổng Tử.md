@@ -2,9 +2,9 @@
 title: Nước Lỗ là quê hương Khổng Tử
 UID: 210905214134
 tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/05'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

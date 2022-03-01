@@ -2,9 +2,9 @@
 title: npm tích hợp sẵn trong gói cài của Nodejs
 UID: 210909224251
 tags:
-  - '#created/2021/Sep/09'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/09'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 ---

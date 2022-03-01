@@ -4,9 +4,9 @@ title: Absurdism - Chủ nghĩa phi lý
 UID: P-210701-2152
 created: July 1, 2021 9:52 PM
 tags:
-  - '#created/2021/Jul/1'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Jul/01'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Absurdism
 ---
