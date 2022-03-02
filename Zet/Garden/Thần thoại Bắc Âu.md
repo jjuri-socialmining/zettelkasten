@@ -6,9 +6,7 @@ tags:
   - 'created/2022/Feb/26'
   - 'garden'
   - 'permanent/concept'
-aliases:
-  - 
-publish: False
+publish: True
 ---
 # Thần thoại Bắc Âu
 

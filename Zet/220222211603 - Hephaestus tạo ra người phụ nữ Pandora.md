@@ -14,7 +14,8 @@ publish: True
 
 ## Source:
 - [[@ peterpotter90.wordpress.com, Chiếc hộp của Pandora]]
+- [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.97
 
-
-
+## Relate:
+- [[220302205935 - Zeus sai Hephaestus tạo ra Pandora]]
 
