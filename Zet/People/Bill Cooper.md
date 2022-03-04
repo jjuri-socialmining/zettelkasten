@@ -3,10 +3,10 @@ title: Bill Cooper
 UID: 211031183621
 tags:
   - 'created/2021/Oct/31'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: False
 ---
 # Bill Cooper

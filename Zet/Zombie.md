@@ -3,7 +3,7 @@ title: Zombie
 UID: 210902211111
 tags:
   - 'created/2021/Sep/02'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Zombee

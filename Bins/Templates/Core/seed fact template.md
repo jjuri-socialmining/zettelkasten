@@ -1,10 +1,10 @@
 ---
-title: {{title}}
-UID: {{date:YYMMDDHHmmss}}
+title: { ? { title } }
+UID: { ? { date:YYMMDDHHmmss } }
 tags:
   - '#created/{{date:YYYY/MMM/DD}}'
   - '#permanent/fact'
-  - '#seed🥜'
+  - '#seed'
   - '#flashcards'
 ---
 # {{title}}

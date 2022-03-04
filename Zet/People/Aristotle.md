@@ -3,10 +3,10 @@ title: Aristotle
 UID: 2107102219
 tags:
   - 'created/2021/Jul/10'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: False
 ---
 # Aristotle

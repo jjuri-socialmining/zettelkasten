@@ -3,10 +3,10 @@ title: Uper case, lower case bắt nguồn từ việc sắp chữ bảng in
 UID: 210831211224
 tags:
   - 'created/2021/Aug/31'
-  - 'seeding🌱'
+  - 'seeding'
   - 'permanent/fact'
 aliases:
-  - 
+  - null
 ---
 # Uper case, lower case bắt nguồn từ việc sắp chữ bảng in
 

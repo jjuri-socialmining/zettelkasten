@@ -3,10 +3,10 @@ title: Nguyễn Hoàng khai phá miền nam, xây dựng Hội An
 UID: 210908210213
 tags:
   - 'created/2021/Sep/08'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
-  - 
+  - null
 ---
 # Nguyễn Hoàng khai phá miền nam, xây dựng Hội An
 

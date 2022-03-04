@@ -1,10 +1,10 @@
 ---
 title: Bán Đảo Iberia
-UID: 210725114626 
+UID: 210725114626
 created: 13-Nov-2021
 tags:
   - 'created/2021/Jul/25'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/place'
 publish: True
 ---

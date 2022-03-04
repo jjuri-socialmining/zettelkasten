@@ -3,7 +3,7 @@ title: Đế Tân
 UID: 210828094432
 tags:
   - 'created/2021/Aug/28'
-  - 'seeding🌱'
+  - 'seeding'
   - 'permanent/people'
 aliases:
   - Trụ Vương

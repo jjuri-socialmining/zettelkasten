@@ -4,7 +4,7 @@ UID: 220110230905
 created: 10-Jan-2022
 tags:
   - 'created/2022/Jan/10'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Quantum Biology

@@ -14,7 +14,7 @@ publish: True
 
 ## Source:
 - [[@ wiki, Mười hai vị thần trên đỉnh Olympus]]
-
+- [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.231
 
 
 

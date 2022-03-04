@@ -2,7 +2,7 @@
 title: Lý Huệ Tông truyền ngôi con gái út Lý Chiêu Hoàng
 tags:
   - 'created/2021/Jul/08'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

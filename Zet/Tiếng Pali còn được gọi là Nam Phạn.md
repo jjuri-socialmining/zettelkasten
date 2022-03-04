@@ -3,10 +3,10 @@ title: Tiếng Pali còn được gọi là Nam Phạn
 UID: 210907222915
 tags:
   - 'created/2021/Sep/07'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
-  - 
+  - null
 ---
 # Tiếng Pali còn được gọi là Nam Phạn
 

@@ -3,10 +3,10 @@ title: Thụy Bà
 UID: 210902162936
 tags:
   - 'created/2021/Sep/02'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 ---
 # Thụy Bà Công chúa
 

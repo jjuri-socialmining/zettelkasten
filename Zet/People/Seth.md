@@ -3,10 +3,10 @@ title: Seth
 UID: 211013224755
 tags:
   - 'created/2021/Oct/13'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - Sết
 publish: False

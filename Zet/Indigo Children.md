@@ -4,7 +4,7 @@ UID: 211213223937
 created: 13-Dec-2021
 tags:
   - 'created/2021/Dec/13'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Trẻ em Chàm

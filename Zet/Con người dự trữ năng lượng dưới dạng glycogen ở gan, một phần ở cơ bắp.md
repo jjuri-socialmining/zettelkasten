@@ -3,10 +3,10 @@ title: Con người dự trữ năng lượng dưới dạng glycogen ở gan, m
 UID: 210902100807
 tags:
   - 'created/2021/Sep/02'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
-  - 
+  - null
 ---
 # Con người dự trữ năng lượng dưới dạng glycogen ở gan, một phần ở cơ bắp
 

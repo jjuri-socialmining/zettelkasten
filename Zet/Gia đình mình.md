@@ -3,10 +3,10 @@ title: Gia đình mình
 UID: 210907230518
 tags:
   - 'created/2021/Sep/07'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/concept'
 aliases:
-  - 
+  - null
 ---
 # Gia đình mình
 

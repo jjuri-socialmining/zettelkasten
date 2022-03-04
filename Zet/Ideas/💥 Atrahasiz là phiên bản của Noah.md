@@ -1,10 +1,10 @@
 ---
 title: 💥 Atrahasiz là phiên bản của Noah
 created: 2022-01-21
-resolve: 
+resolve: null
 tags:
   - 'ideas'
-  - 'created/22/01/21'
+  - 'created/2022/01/21'
 ---
 
 [[Atrahasiz]] là phiên bản của [[Noah]]

@@ -4,7 +4,7 @@ UID: 220107231534
 created: 07-Jan-2022
 tags:
   - 'created/2022/Jan/07'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: False
 ---

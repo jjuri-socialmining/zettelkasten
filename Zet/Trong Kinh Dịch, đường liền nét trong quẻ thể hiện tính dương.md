@@ -3,10 +3,10 @@ title: Trong Kinh Dịch, đường liền nét trong quẻ thể hiện tính d
 UID: 210905213236
 tags:
   - 'created/2021/Sep/05'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
-  - 
+  - null
 ---
 # Trong Kinh Dịch, đường liền nét trong quẻ thể hiện tính dương
 

@@ -9,7 +9,7 @@ tags:
 aliases:
   - Hera
   - Juno
-publish: False
+publish: True
 ---
 # Nữ thần Hera
 

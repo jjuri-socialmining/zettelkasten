@@ -14,7 +14,7 @@ publish: True
 ## Notes:
 Hoàng tử thành Troy, em của [[Hoàng tử Hector]]
 
-[[220119 - Paris nhờ Aphrodite chiếm hoàng hậu Helen]]
+[[220119231726 - Paris nhờ Aphrodite chiếm hoàng hậu Helen]]
 
 ## Ideas & thoughts:
-- [[Hoàng hậu Helen]]
+- [[Hoàng hậu Helene]]

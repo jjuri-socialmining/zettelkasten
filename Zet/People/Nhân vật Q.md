@@ -3,10 +3,10 @@ title: Nhân vật Q
 UID: 211030180309
 tags:
   - 'created/2021/Oct/30'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - Q
 publish: False

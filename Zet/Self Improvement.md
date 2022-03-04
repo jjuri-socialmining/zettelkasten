@@ -2,7 +2,7 @@
 title: Self Improvement
 tags:
   - 'created/2021/Aug/10'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/linking'
 aliases:
   - phát triển bản thân

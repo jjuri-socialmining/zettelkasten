@@ -1,10 +1,10 @@
 ---
 title: Lipid
-UID: 
+UID: null
 created: August 10, 2021 6:24 PM
 tags:
   - 'created/2021/Aug/10'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Lipid

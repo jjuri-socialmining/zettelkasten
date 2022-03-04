@@ -3,10 +3,10 @@ title: Ngữ hệ
 UID: 210907221507
 tags:
   - 'created/2021/Sep/07'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
-  - 
+  - null
 ---
 # Ngữ hệ
 

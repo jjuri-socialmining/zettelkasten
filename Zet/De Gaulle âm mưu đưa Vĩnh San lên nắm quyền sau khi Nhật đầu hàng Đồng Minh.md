@@ -2,7 +2,7 @@
 title: De Gaulle âm mưu đưa Vĩnh San lên nắm quyền sau khi Nhật đầu hàng Đồng Minh
 tags:
   - 'created/2021/Jul/18'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: False
 ---

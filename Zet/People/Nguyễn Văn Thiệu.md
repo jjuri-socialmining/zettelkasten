@@ -1,12 +1,12 @@
 ---
 title: Nguyễn Văn Thiệu
-created: Dec 12, 2020 3:04 PM 
+created: Dec 12, 2020 3:04 PM
 tags:
   - 'created/2020/Dec/12'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: False
 ---
 # Nguyễn Văn Thiệu

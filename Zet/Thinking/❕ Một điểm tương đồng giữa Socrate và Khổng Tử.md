@@ -3,10 +3,10 @@ title: ❕ Một điểm tương đồng giữa Socrate và Khổng Tử
 UID: 210905213733
 tags:
   - 'created/2021/Sep/05'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/think'
 aliases:
-  - 
+  - null
 ---
 # ❕ Một điểm tương đồng giữa Socrate và Khổng Tử
 

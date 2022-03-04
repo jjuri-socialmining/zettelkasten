@@ -4,9 +4,9 @@ UID: 210822234939
 tags:
   - 'created/2021/Aug/22'
   - 'permanent/concept'
-  - 'seed🥜'
+  - 'seed'
   - 'flashcards'
-aliases: 
+aliases:
   - "Nhà Tây Hán"
 ---
 # Nhà Tiền Hán

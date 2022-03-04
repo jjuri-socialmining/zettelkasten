@@ -3,10 +3,10 @@ title: Lý Huệ Tông
 UID: 210902154142
 tags:
   - 'created/2021/Sep/02'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - Lý Hạo Sảm
 publish: True

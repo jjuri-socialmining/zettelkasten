@@ -2,7 +2,7 @@
 title: 🛠️210908-Làm một website theo phong cách zettelkasten
 tags:
   - '#created/2021/Sep/08'
-  - '#task🛠️'
+  - '#task'
   - '#Someday'
 is_done: True
 ---

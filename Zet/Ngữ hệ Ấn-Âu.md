@@ -3,7 +3,7 @@ title: Ngữ hệ Ấn-Âu
 UID: 210907220308
 tags:
   - 'created/2021/Sep/07'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 ---
 # Ngữ hệ Ấn-Âu

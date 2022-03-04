@@ -3,10 +3,10 @@ title: Đen Vâu
 UID: 210907213659
 tags:
   - 'created/2021/Sep/07'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - Đen
 ---

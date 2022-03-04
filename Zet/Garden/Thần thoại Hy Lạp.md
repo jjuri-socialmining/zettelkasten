@@ -15,7 +15,7 @@ publish: True
 | UID             | Description                                                                                                                                                       |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |                 | Khởi sinh bắt đầu từ [[Thần Hỗn Mang]] - Chaos, khoảng không vô tận                                                                                               |
-| [^220226215334] | Chaos sinh ra [[Nữ thần Gaia]], [[Nyx]], [[Erebus]], [[Địa ngục Tartarus]], [[Eros]].                                                                             |
+| [^220226215334] | Chaos sinh ra [[Nữ thần Gaia]], [[Nyx]], [[Erebus]], [[Địa ngục Tartarus]], [[Thần Eros]].                                                                             |
 | [^220226214358] | Gaia là nữ thần đất mẹ                                                                                                                                            |
 | [^220226214504] | Gaia sinh ra [[Thần bầu trời Uranus]]                                                                                                                             |
 | [^220226215707] | Gaia và Uranus sinh ra 12 [[Người khổng lồ Titan]], 3 [[Người khổng lồ Cyclops]] và 3 [[Hecatonchire]]                                                            |

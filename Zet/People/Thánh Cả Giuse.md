@@ -3,10 +3,10 @@ title: Thánh Cả Giuse
 UID: 210908202131
 tags:
   - 'created/2021/Sep/08'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - Thánh Giuse
   - Joseph

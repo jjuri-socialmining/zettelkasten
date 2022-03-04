@@ -3,10 +3,10 @@ title: Khuất Nguyên bị gièm pha nói xấu trong triều đình
 UID: 210905215822
 tags:
   - 'created/2021/Sep/05'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
-  - 
+  - null
 ---
 # Khuất Nguyên bị gièm pha nói xấu trong triều đình
 

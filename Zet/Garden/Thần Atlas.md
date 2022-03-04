@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Atlas
-publish: False
+publish: True
 ---
 # Thần Atlas
 

@@ -3,7 +3,7 @@ title: Ảnh hưởng của việc ăn thức ăn có chỉ số GI cao khi đan
 UID: 2108141427
 tags:
   - 'created/2021/Aug/14'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: False
 ---

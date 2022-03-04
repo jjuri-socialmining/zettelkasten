@@ -3,10 +3,10 @@ title: Angkor Wat chuyển từ đền thờ Ấn Độ giáo thành đền th�
 UID: 210908212159
 tags:
   - 'created/2021/Sep/08'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
-  - 
+  - null
 ---
 # Angkor Wat chuyển từ đền thờ Ấn Độ giáo thành đền thờ Phật giáo
 

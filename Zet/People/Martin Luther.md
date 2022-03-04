@@ -2,10 +2,10 @@
 title: Martin Luther
 tags:
   - 'created/2020/Dec/25'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Martin Luther

@@ -9,7 +9,8 @@ tags:
 aliases:
   - Mars
   - Ares
-publish: False
+  - Thần chiến tranh Ares
+publish: True
 ---
 # Thần Ares
 

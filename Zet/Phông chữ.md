@@ -3,7 +3,7 @@ title: Phông chữ
 UID: 210831210927
 tags:
   - 'created/2021/Aug/31'
-  - 'seeding🌱'
+  - 'seeding'
   - 'permanent/concept'
 aliases:
   - Phông chữ

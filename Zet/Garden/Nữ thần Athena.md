@@ -9,12 +9,13 @@ tags:
 aliases:
   - Minerva
   - Athena
-publish: False
+  - Pallas
+publish: True
 ---
 # Nữ thần Athena
 
 ## Notes:
-
+- [[220304205901 - Athena còn có biệt danh Pallas]]
 
 ## Ideas & thoughts:
 

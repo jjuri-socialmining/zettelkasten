@@ -3,10 +3,10 @@ title: Nhịn ăn trong thời gian ngắn giúp tăng kích thích trao đổi 
 UID: 210903100343
 tags:
   - 'created/2021/Sep/03'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
-  - 
+  - null
 ---
 # Nhịn ăn trong thời gian ngắn giúp tăng kích thích trao đổi chất
 

@@ -1,7 +1,7 @@
 # MOC
 
 - metadata
-	- created: July 1, 2021 12:48 PM #created/2021/Jul/1,
+	- created: July 1, 2021 12:48 PM #created/2021/Jul/01,
 	- tags:
 	- previous note:
 

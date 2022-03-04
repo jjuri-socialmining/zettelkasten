@@ -4,7 +4,7 @@ UID: 211013223933
 created: 13-Oct-2021
 tags:
   - 'created/2021/Oct/13'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
   - 'Qmap'
 aliases:

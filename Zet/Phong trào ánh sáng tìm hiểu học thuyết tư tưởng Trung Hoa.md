@@ -3,10 +3,10 @@ title: Phong trào ánh sáng tìm hiểu học thuyết tư tưởng Trung Hoa
 UID: 210905215713
 tags:
   - 'created/2021/Sep/05'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
-  - 
+  - null
 ---
 # Phong trào ánh sáng tìm hiểu học thuyết tư tưởng Trung Hoa
 

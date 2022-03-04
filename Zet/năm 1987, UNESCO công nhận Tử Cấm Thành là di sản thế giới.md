@@ -3,10 +3,10 @@ title: năm 1987, UNESCO công nhận Tử Cấm Thành là di sản thế giớ
 UID: 210907233313
 tags:
   - 'created/2021/Sep/07'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
-  - 
+  - null
 ---
 # năm 1987, UNESCO công nhận Tử Cấm Thành là di sản thế giới
 

@@ -3,10 +3,10 @@ title: Lượng melatonin tiết ra giảm dần so với số tuổi của mộ
 UID: 210901230541
 tags:
   - 'created/2021/Sep/01'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
-  - 
+  - null
 ---
 # Lượng melatonin tiết ra giảm dần so với số tuổi của một người
 

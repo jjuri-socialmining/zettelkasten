@@ -1,12 +1,13 @@
 ---
-title: ❕ Thực ra vua Đế Tân nhà Thương không phải là hôn quân, nhưng do bị Chu Vũ Vương là xấu hình ảnh
+title: ❕ Thực ra vua Đế Tân nhà Thương không phải là hôn quân, nhưng do bị Chu
+  Vũ Vương là xấu hình ảnh
 UID: 210828095424
 tags:
   - 'created/2021/Aug/28'
-  - 'seeding🌱'
+  - 'seeding'
   - 'permanent/think'
 aliases:
-  - 
+  - null
 ---
 # ❕ Thực ra vua Đế Tân nhà Thương không phải là hôn quân, nhưng do bị Chu Vũ Vương là xấu hình ảnh
 

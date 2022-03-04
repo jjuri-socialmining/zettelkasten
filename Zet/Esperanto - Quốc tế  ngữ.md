@@ -1,9 +1,9 @@
 ---
 title: Esperanto - Quốc tế  ngữ
-created:  Nov 13, 2020 12:50 PM 
+created: Nov 13, 2020 12:50 PM
 tags:
   - 'created/2020/Nov/13'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Esperanto

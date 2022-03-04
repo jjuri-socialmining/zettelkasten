@@ -2,7 +2,7 @@
 title: Programming
 tags:
   - 'created/2021/Jul/17'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/concept'
 aliases:
   - Lập trình

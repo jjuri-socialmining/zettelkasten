@@ -3,10 +3,10 @@ title: Cơ Xương
 UID: 210905212801
 tags:
   - 'created/2021/Sep/05'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - Chu Văn Vương
 ---

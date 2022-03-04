@@ -3,7 +3,7 @@ title: Chúa Nguyễn Phúc Chu đặt tên Chùa Cầu là Lai Viễn Kiều
 UID: 210908211154
 tags:
   - 'created/2021/Sep/08'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 ---
 # Chúa Nguyễn Phúc Chu đặt tên Chùa Cầu là Lai Viễn Kiều

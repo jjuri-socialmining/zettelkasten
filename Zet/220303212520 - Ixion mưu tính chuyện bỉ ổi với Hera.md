@@ -17,5 +17,5 @@ publish: True
 
 ## Relate:
 - [[220303212426 - Zeus tạo ra đám mây Nephele giống hệt Hera]]
-- [[220303212331 - Ixion quan hệ với đám mây Nephele sinh ra Centaure]]
+- [[220303212331 - Ixion quan hệ với đám mây Nephele sinh ra Centaur]]
 - [[220303212625 - Zeus sai Hermes bắt Ixion giam xuống Tartarus]]

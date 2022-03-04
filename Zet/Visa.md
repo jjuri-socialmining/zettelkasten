@@ -3,7 +3,7 @@ title: Visa
 UID: 210902105418
 tags:
   - 'created/2021/Sep/02'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Thị thực

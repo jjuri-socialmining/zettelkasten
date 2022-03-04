@@ -3,10 +3,10 @@ title: ❕ Người theo chủ nghĩa hiện sinh thì sống trọn vẹn ở t
 UID: 210902214504
 tags:
   - 'created/2021/Sep/02'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/think'
 aliases:
-  - 
+  - null
 ---
 # ❕ Người theo chủ nghĩa hiện sinh thì sống trọn vẹn ở thời khắc hiện tại
 

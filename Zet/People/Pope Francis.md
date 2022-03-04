@@ -3,10 +3,10 @@ title: Pope Francis
 UID: 211013233827
 tags:
   - 'created/2021/Oct/13'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: False
 ---
 # Pope Francis

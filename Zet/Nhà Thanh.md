@@ -1,13 +1,13 @@
 ---
 title: Nhà Thanh
 UID: P-210811-2121
-created: 
+created: null
 tags:
   - 'created/2021/Aug/11'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/concept'
 aliases:
-  - 
+  - null
 publish: True
 ---
 # Nhà Thanh

@@ -3,7 +3,7 @@ title: Hộ chiếu
 UID: 210902104916
 tags:
   - 'created/2021/Sep/02'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Passport

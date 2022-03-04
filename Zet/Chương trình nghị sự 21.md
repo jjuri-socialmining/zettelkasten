@@ -4,7 +4,7 @@ UID: 211031181410
 created: 31-Oct-2021
 tags:
   - 'created/2021/Oct/31'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Agenda 21

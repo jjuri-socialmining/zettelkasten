@@ -3,7 +3,7 @@ title: Trần Quang Duy
 UID: 210907230627
 tags:
   - 'created/2021/Sep/07'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people/family'
 birth: 1993-11-06
 aliases:

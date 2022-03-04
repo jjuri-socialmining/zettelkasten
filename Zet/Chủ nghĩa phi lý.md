@@ -5,7 +5,7 @@ UID: P-210701-2152
 created: July 1, 2021 9:52 PM
 tags:
   - 'created/2021/Jul/01'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Absurdism

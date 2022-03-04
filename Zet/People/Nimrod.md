@@ -3,10 +3,10 @@ title: Nimrod
 UID: 211028213935
 tags:
   - 'created/2021/Oct/28'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: False
 ---
 # Nimrod

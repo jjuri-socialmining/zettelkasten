@@ -3,10 +3,10 @@ title: Magnus Carlsen đang giữ kỷ lục người từng đạt được đi
 UID: 210826215445
 tags:
   - 'created/2021/Aug/26'
-  - 'seeding🌱'
+  - 'seeding'
   - 'permanent/fact'
 aliases:
-  - 
+  - null
 ---
 # Magnus Carlsen đang giữ kỷ lục người từng đạt được điểm số ELO cao nhất
 

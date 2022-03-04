@@ -3,7 +3,7 @@ title: Hồng Tú Toàn tự xưng là em trai Jesus
 UID: 2108120645
 tags:
   - 'created/2021/Aug/12'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: False
 ---

@@ -4,7 +4,7 @@ UID: 211105235358
 created: 05-Nov-2021
 tags:
   - 'created/2021/Nov/05'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - NIH

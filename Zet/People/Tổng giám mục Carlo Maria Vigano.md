@@ -3,10 +3,10 @@ title: Tổng giám mục Carlo Maria Vigano
 UID: 211013232959
 tags:
   - 'created/2021/Oct/13'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: False
 ---
 # Tổng giám mục Carlo Maria Vigano

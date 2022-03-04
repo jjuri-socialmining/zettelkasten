@@ -3,10 +3,10 @@ title: Khổng Tử từng làm quan nước Lỗ
 UID: 210905213900
 tags:
   - 'created/2021/Sep/05'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
-  - 
+  - null
 ---
 # Khổng Tử từng làm quan nước Lỗ
 

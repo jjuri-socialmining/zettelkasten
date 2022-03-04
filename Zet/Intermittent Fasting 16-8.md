@@ -3,7 +3,7 @@ title: Intermittent Fasting 16-8
 UID: 210903084929
 tags:
   - 'created/2021/Sep/03'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Intermittent Fasting 16-8

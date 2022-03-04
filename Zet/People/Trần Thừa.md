@@ -3,12 +3,12 @@ title: Trần Thừa
 UID: 210902163221
 tags:
   - 'created/2021/Sep/02'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
-  - 
+  - null
 ---
 # Trần Thừa
 

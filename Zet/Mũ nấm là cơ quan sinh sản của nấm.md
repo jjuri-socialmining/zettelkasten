@@ -3,10 +3,10 @@ title: Mũ nấm là cơ quan sinh sản của nấm
 UID: 210902101217
 tags:
   - 'created/2021/Sep/02'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
-  - 
+  - null
 ---
 # Mũ nấm là cơ quan sinh sản của nấm
 

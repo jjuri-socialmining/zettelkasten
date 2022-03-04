@@ -3,7 +3,7 @@ title: Front Matter Of Book
 created: Oct 21, 2020 10:22 PM
 tags:
   - 'created/2020/Oct/21'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: False
 ---

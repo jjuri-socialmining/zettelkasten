@@ -3,10 +3,10 @@ title: Khổng Tử khóc nức nở khi học trò Nhan Hồi chết
 UID: 210905213809
 tags:
   - 'created/2021/Sep/05'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
-  - 
+  - null
 ---
 # Khổng Tử khóc nức nở khi học trò Nhan Hồi chết
 

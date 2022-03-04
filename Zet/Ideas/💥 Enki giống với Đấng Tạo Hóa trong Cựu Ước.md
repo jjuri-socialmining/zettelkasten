@@ -1,10 +1,10 @@
 ---
 title: 💥 Enki giống với Đấng Tạo Hóa trong Cựu Ước
 created: 2022-01-21
-resolve: 
+resolve: null
 tags:
   - 'ideas'
-  - 'created/22/01/21'
+  - 'created/2022/01/21'
 ---
 
 [[Thần Enki|Enki]] giống với [[God|Đấng tạo hóa]] trong Cựu Ước:

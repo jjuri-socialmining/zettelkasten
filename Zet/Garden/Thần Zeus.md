@@ -9,7 +9,7 @@ tags:
 aliases:
   - Jupiter
   - Zeus
-publish: False
+publish: True
 ---
 # Thần Zeus
 

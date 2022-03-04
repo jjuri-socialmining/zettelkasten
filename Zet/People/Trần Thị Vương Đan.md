@@ -3,10 +3,10 @@ title: Trần Thị Vương Đan
 UID: 210907230819
 tags:
   - 'created/2021/Sep/07'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - Đan
 ---

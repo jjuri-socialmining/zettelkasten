@@ -11,7 +11,7 @@ aliases:
   - Aphrodite
   - Nữ thần Cytherea 
   - Nữ thần Cypris
-publish: False
+publish: True
 ---
 # Nữ thần Aphrodite
 

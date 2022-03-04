@@ -3,10 +3,10 @@ title: Stephen Hawking
 UID: 211015234213
 tags:
   - 'created/2021/Oct/15'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Stephen Hawking

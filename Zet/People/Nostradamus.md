@@ -3,10 +3,10 @@ title: Nostradamus
 UID: 211013234016
 tags:
   - 'created/2021/Oct/13'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: False
 ---
 # Nostradamus

@@ -3,10 +3,10 @@ title: Thánh Phanxico-Assisi
 created: Dec 25, 2020 9:46 PM
 tags:
   - 'created/2020/Dec/25'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - Francis Assisi
 publish: False

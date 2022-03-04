@@ -3,10 +3,10 @@ title: Yasser Arafat
 UID: 211125223923
 tags:
   - 'created/2021/Nov/25'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth:
-death:
+birth: null
+death: null
 aliases:
   - Abu Ammar
 publish: True

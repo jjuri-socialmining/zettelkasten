@@ -3,10 +3,10 @@ title: Nấm không phải thực vật
 UID: 210902100351
 tags:
   - 'created/2021/Sep/02'
-  - 'seed🥜'
-  - 'permanent/'
+  - 'seed'
+  - 'permanent/fact'
 aliases:
-  - 
+  - null
 ---
 # Nấm không phải thực vật
 
@@ -22,11 +22,3 @@ Nấm không phải thực vật.
 [[Mũ nấm là cơ quan sinh sản của nấm]]
 
 ## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Nấm không phải thực vật]]
-sort file.name asc
-```

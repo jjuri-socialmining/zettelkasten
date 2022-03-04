@@ -2,10 +2,10 @@
 title: Anders Ericsson
 tags:
   - 'created/2021/Aug/08'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Anders Ericsson

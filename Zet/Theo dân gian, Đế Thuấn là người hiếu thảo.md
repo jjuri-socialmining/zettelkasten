@@ -3,10 +3,10 @@ title: Theo dân gian, Đế Thuấn là người hiếu thảo
 UID: 210905230131
 tags:
   - 'created/2021/Sep/05'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
-  - 
+  - null
 ---
 # Theo dân gian, Đế Thuấn là người hiếu thảo
 

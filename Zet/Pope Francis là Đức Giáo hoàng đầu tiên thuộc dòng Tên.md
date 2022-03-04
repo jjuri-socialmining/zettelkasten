@@ -4,7 +4,7 @@ UID: 211027224809
 created: 27-Oct-2021
 tags:
   - 'created/2021/Oct/27'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
   - 'Qmap'
 publish: False

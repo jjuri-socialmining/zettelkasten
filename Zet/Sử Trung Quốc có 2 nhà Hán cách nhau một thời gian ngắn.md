@@ -4,7 +4,7 @@ UID: 210822234832
 tags:
   - 'created/2021/Aug/22'
   - 'permanent/fact'
-  - 'seed🥜'
+  - 'seed'
   - 'flashcards'
 ---
 # Sử Trung Quốc có 2 nhà Hán cách nhau một thời gian ngắn

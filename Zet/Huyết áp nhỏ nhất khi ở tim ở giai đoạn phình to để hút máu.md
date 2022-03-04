@@ -3,10 +3,10 @@ title: Huyết áp nhỏ nhất khi ở tim ở giai đoạn phình to để hú
 UID: 210908220851
 tags:
   - 'created/2021/Sep/08'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
-  - 
+  - null
 ---
 # Huyết áp nhỏ nhất khi ở tim ở giai đoạn phình to để hút máu
 

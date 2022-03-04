@@ -4,7 +4,7 @@ UID: 220112235013
 created: 12-Jan-2022
 tags:
   - 'created/2022/Jan/12'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

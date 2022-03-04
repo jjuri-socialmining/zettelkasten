@@ -3,7 +3,7 @@ title: 95 luận đề của Martin-Luther
 created: Dec 06, 2020 10:49 PM
 tags:
   - 'created/2020/Dec/06'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

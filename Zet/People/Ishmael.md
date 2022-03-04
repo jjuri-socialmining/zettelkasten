@@ -3,10 +3,10 @@ title: Ishmael
 UID: 211006234523
 tags:
   - 'created/2021/Oct/06'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Ishmael

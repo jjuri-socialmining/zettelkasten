@@ -3,10 +3,10 @@ title: John Lennon
 UID: 211018225823
 tags:
   - 'created/2021/Oct/18'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: False
 ---
 # John Lennon

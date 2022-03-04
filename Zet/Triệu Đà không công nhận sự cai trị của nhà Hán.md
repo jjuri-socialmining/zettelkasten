@@ -3,7 +3,7 @@ title: Triệu Đà không công nhận sự cai trị của nhà Hán
 UID: 2107251017
 tags:
   - 'created/2021/Jul/25'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: False
 ---

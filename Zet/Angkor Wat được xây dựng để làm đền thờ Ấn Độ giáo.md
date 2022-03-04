@@ -3,7 +3,7 @@ title: Angkor Wat được xây dựng để làm đền thờ Ấn Độ giáo
 UID: 210908212138
 tags:
   - 'created/2021/Sep/08'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 ---
 # Angkor Wat được xây dựng để làm đền thờ Ấn Độ giáo

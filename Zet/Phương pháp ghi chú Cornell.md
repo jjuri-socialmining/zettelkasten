@@ -3,7 +3,7 @@ title: Phương pháp ghi chú Cornell
 created: Nov 05, 2020 9:38 PM
 tags:
   - 'created/2020/Nov/05'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: False
 ---

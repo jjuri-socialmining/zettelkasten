@@ -3,10 +3,10 @@ title: Mỗi quẻ bát quái trong Kinh Dịch gồm có 3 đường
 UID: 210905213204
 tags:
   - 'created/2021/Sep/05'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
-  - 
+  - null
 ---
 # Mỗi quẻ bát quái trong Kinh Dịch gồm có 3 đường
 

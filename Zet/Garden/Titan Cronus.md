@@ -9,7 +9,7 @@ tags:
 aliases:
   - Cronus
   - Kronos
-publish: False
+publish: True
 ---
 # Titan Cronus
 

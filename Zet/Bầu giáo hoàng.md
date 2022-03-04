@@ -5,7 +5,7 @@ UID: 210908194150
 created: Dec 06, 2020 10:43 PM
 tags:
   - 'created/2020/Dec/06'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Bầu giáo hoàng

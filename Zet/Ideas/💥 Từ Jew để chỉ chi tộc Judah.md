@@ -1,10 +1,10 @@
 ---
 title: 💥 Từ Jew để chỉ chi tộc Judah
 created: 2021-10-30
-resolve: 
+resolve: null
 tags:
-  - 'ideas💥'
-  - 'created/21/10/30'
+  - 'ideas'
+  - 'created/2021/10/30'
 ---
 
 Từ Jew để chỉ chi tộc [[Judah]] chứ không để chỉ toàn quốc gia [[Israel]][^1]

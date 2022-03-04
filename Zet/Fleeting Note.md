@@ -1,9 +1,9 @@
 ---
 title: Fleeting Note
-created: Oct 21, 2020 10:09 PM 
+created: Oct 21, 2020 10:09 PM
 tags:
   - 'created/2020/Oct/21'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

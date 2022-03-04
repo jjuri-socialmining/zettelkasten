@@ -3,7 +3,7 @@
 - metadata
 	- UID (delete): P-210702-2157
 	- created: July 2, 2021 9:57 PM
-	- tags: #created/2021/Jul/2, #state/boat 
+	- tags: #created/2021/Jul/02, #state/boat 
 	- previous note: [[Bài Tarot]]
 
 ## Notes

@@ -1,5 +1,5 @@
 ---
-title: 220119 - Achilles đã đấu và kết liễu Hector trong trận tay đôi
+title: Achilles đã đấu và kết liễu Hector trong trận tay đôi
 UID: 220119231339
 created: 19-Jan-2022
 tags:

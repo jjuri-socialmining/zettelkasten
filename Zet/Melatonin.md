@@ -3,7 +3,7 @@ title: Melatonin
 UID: 210901230207
 tags:
   - 'created/2021/Sep/01'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Melatonin

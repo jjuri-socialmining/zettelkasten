@@ -3,10 +3,10 @@ title: Mayer Amschel Bauer
 UID: 211113100059
 tags:
   - 'created/2021/Nov/13'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - Mayer A. Bauer
   - Mayer Bauer

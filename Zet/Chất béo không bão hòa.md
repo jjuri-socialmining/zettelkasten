@@ -3,7 +3,7 @@ title: Chất béo không bão hòa
 UID: 210903112833
 tags:
   - 'created/2021/Sep/03'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Chất béo không bão hòa

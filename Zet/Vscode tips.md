@@ -3,10 +3,10 @@ title: Vscode tips
 UID: 210910112620
 tags:
   - 'created/2021/Sep/10'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
-  - 
+  - null
 ---
 # Vscode tips
 

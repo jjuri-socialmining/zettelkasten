@@ -3,7 +3,7 @@ title: Times New Roman
 UID: 210831211820
 tags:
   - 'created/2021/Aug/31'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Times New Roman

@@ -3,7 +3,7 @@ title: Định lý Pythagoras
 UID: 2107102147
 tags:
   - 'created/2021/Jul/10'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: False
 ---

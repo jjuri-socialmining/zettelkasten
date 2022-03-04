@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Titanide Rhea
-publish: False
+publish: True
 ---
 # Titan Rhea
 

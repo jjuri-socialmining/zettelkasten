@@ -3,7 +3,7 @@ title: Kinh Koran
 created: Dec 25, 2020 11:32 AM
 tags:
   - 'created/2020/Dec/25'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Qur’an

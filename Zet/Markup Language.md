@@ -3,7 +3,7 @@ title: Markup Language
 UID: P-210705-2138
 tags:
   - 'created/2021/Jul/05'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Ngôn ngữ đánh dấu

@@ -3,10 +3,10 @@ title: Sartre cho rằng hiện hữu có trước bản chất
 UID: 210902094319
 tags:
   - 'created/2021/Sep/02'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
-  - 
+  - null
 ---
 # Sartre cho rằng hiện hữu có trước bản chất
 

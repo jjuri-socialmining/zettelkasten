@@ -1,5 +1,5 @@
 ---
-title: 220119 - Iliad và Odyssey của Homer nhắc đến cuộc chiến Troy
+title: Iliad và Odyssey của Homer nhắc đến cuộc chiến Troy
 UID: 220119225522
 created: 19-Jan-2022
 tags:

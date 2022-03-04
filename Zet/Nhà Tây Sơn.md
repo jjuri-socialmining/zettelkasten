@@ -1,10 +1,10 @@
 ---
 title: Nhà Tây Sơn
-UID: 
-created: 
+UID: null
+created: null
 tags:
   - 'created/2021/Jul/16'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/concept'
 aliases:
   - Tây Sơn

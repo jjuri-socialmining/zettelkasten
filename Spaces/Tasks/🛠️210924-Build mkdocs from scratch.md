@@ -2,7 +2,7 @@
 title: 🛠️210924-Build mkdocs from scratch
 tags:
   - '#created/2021/Sep/24'
-  - '#task🛠️'
+  - '#task'
   - '#Next'
 is_done: True
 publish: True

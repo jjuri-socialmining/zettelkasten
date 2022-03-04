@@ -3,10 +3,10 @@ title: Claude Bernard
 UID: 211010173025
 tags:
   - 'created/2021/Oct/10'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: False
 ---
 # Claude Bernard

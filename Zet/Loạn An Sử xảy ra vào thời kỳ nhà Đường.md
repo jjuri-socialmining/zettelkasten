@@ -3,10 +3,10 @@ title: Loạn An Sử xảy ra vào thời kỳ nhà Đường
 UID: 210907223556
 tags:
   - 'created/2021/Sep/07'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
-  - 
+  - null
 ---
 # Loạn An Sử xảy ra vào thời kỳ nhà Đường
 

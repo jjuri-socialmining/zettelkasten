@@ -1,5 +1,5 @@
 ---
-title: 220119 - Paris bắn trúng gót chân Achilles
+title: Paris bắn trúng gót chân Achilles
 UID: 220119233614
 created: 19-Jan-2022
 tags:

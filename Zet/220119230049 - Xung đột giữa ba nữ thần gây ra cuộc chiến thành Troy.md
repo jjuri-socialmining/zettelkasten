@@ -1,5 +1,5 @@
 ---
-title: 220119 - Xung đột giữa ba nữ thần gây ra cuộc chiến thành Troy
+title: Xung đột giữa ba nữ thần gây ra cuộc chiến thành Troy
 UID: 220119230049
 created: 19-Jan-2022
 tags:

@@ -3,11 +3,11 @@ title: Donald J. Trump
 UID: 210920224100
 tags:
   - 'created/2021/Sep/20'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
   - 'Qmap'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - Trump
   - Tổng thống Trump

@@ -4,7 +4,7 @@ UID: 210731-1722
 created: 07-Oct-2021
 tags:
   - 'created/2021/Jul/31'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

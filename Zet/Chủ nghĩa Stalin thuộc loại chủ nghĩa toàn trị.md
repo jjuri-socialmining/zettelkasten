@@ -3,7 +3,7 @@ title: Chủ nghĩa Stalin thuộc loại chủ nghĩa toàn trị
 UID: 2107181137
 tags:
   - 'created/2021/Jul/18'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: False
 ---

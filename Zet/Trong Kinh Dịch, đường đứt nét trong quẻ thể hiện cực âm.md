@@ -3,10 +3,10 @@ title: Trong Kinh Dịch, đường đứt nét trong quẻ thể hiện cực �
 UID: 210905213339
 tags:
   - 'created/2021/Sep/05'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
-  - 
+  - null
 ---
 # Trong Kinh Dịch, đường đứt nét trong quẻ thể hiện cực âm
 

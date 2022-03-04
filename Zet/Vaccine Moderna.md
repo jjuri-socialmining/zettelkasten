@@ -3,7 +3,7 @@ title: Vaccine Moderna
 created: 10-Jul-2021
 tags:
   - 'created/2021/Jul/10'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - mRNA-1273

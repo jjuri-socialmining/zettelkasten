@@ -3,10 +3,10 @@ title: Trải nghiệm những hiệu ứng sau khi dùng LSD, Nấm được g�
 UID: 210902102351
 tags:
   - 'created/2021/Sep/02'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
-  - 
+  - null
 ---
 # Trải nghiệm những hiệu ứng sau khi dùng LSD, Nấm được gọi là trip
 

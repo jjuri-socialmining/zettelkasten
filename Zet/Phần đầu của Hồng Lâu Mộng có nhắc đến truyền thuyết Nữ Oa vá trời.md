@@ -3,10 +3,10 @@ title: Phần đầu của Hồng Lâu Mộng có nhắc đến truyền thuyế
 UID: 210906224800
 tags:
   - 'created/2021/Sep/06'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
-  - 
+  - null
 ---
 # Phần đầu của Hồng Lâu Mộng có nhắc đến truyền thuyết Nữ Oa vá trời
 

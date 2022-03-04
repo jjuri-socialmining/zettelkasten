@@ -2,7 +2,7 @@
 title: Các tên gọi của vua Lý Chiêu Hoàng
 tags:
   - 'created/2021/Jul/08'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/linking'
 publish: True
 ---

@@ -3,10 +3,10 @@ title: Thánh Anna
 created: Dec 25, 2020 11:14 AM
 tags:
   - 'created/2020/Dec/25'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Thánh Anna

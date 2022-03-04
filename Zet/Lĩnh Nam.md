@@ -3,10 +3,10 @@ title: Lĩnh Nam
 UID: 210902093631
 tags:
   - 'created/2021/Sep/02'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/place'
 aliases:
-  - 
+  - null
 ---
 # Lĩnh Nam
 

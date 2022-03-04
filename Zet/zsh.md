@@ -3,7 +3,7 @@ title: zsh
 UID: 210830222712
 tags:
   - 'created/2021/Aug/30'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - zsh

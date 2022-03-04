@@ -3,10 +3,10 @@ title: Kinh dịch có nguồn gốc từ đời Phục Hi
 UID: 210905212922
 tags:
   - 'created/2021/Sep/05'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
-  - 
+  - null
 ---
 # Kinh dịch có nguồn gốc từ đời Phục Hi
 

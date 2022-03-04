@@ -3,9 +3,9 @@ title: Trần Thị Minh Tâm
 UID: 210920220521
 tags:
   - 'created/2021/Sep/20'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
+birth: null
 aliases:
   - Tâm
 publish: False

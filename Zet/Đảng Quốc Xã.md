@@ -1,10 +1,10 @@
 ---
 title: Đảng Quốc Xã
-UID: 
+UID: null
 created: Jun 20, 2021 2:42 PM
 tags:
   - 'created/2021/Jun/20'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Đức Quốc Xã

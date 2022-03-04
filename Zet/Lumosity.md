@@ -3,7 +3,7 @@ title: Lumosity
 UID: 210907213819
 tags:
   - 'created/2021/Sep/07'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Lumosity

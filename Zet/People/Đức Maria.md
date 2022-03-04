@@ -3,10 +3,10 @@ title: Đức Maria
 UID: 210908202152
 tags:
   - 'created/2021/Sep/08'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - Đức Mẹ
   - Mẹ Maria

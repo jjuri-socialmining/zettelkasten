@@ -3,7 +3,7 @@ title: Chế độ Keto
 UID: 210903143121
 tags:
   - 'created/2021/Sep/03'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Ketogenic diet

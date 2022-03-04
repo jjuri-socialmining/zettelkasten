@@ -3,7 +3,7 @@ title: Kháng thể
 UID: 2107111611
 tags:
   - 'created/2021/Jul/11'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Globulin miễn dịch

@@ -3,10 +3,10 @@ title: Nước Lỗ
 UID: 210905213943
 tags:
   - 'created/2021/Sep/05'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/nation'
 aliases:
-  - 
+  - null
 ---
 # Nước Lỗ
 

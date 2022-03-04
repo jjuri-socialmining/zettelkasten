@@ -3,10 +3,10 @@ title: ❕ Nghĩ về việc tại sao chúng ta tồn tại chỉ làm chúng t
 UID: 210902224156
 tags:
   - 'created/2021/Sep/02'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/think'
 aliases:
-  - 
+  - null
 ---
 # ❕ Nghĩ về việc tại sao chúng ta tồn tại chỉ làm chúng ta lãng phí thời gian
 

@@ -1,10 +1,10 @@
 ---
 title: Nhà Nguyễn
-UID: 
-created: 
+UID: null
+created: null
 tags:
   - 'created/2021/Jul/15'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/nation'
 publish: True
 ---

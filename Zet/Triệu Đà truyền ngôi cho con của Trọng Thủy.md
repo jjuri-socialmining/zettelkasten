@@ -4,7 +4,7 @@ UID: 210822233228
 tags:
   - 'created/2021/Aug/22'
   - 'permanent/fact'
-  - 'seed🥜'
+  - 'seed'
   - 'flashcards'
 publish: True
 ---

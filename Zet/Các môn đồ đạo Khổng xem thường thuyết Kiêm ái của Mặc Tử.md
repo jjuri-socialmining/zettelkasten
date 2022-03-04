@@ -3,7 +3,7 @@ title: Các môn đồ đạo Khổng xem thường thuyết Kiêm ái của M�
 UID: 210905215155
 tags:
   - 'created/2021/Sep/05'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 ---
 # Các môn đồ đạo Khổng xem thường thuyết Kiêm ái của Mặc Tử

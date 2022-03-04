@@ -3,12 +3,12 @@ title: Khuất Nguyên
 UID: 210905215831
 tags:
   - 'created/2021/Sep/05'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
-  - 
+  - null
 ---
 # Khuất Nguyên
 

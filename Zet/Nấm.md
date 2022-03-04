@@ -3,7 +3,7 @@ title: Nấm
 UID: 210902100658
 tags:
   - 'created/2021/Sep/02'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Nấm

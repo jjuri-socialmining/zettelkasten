@@ -3,7 +3,7 @@ title: Unicode
 UID: 210831203845
 tags:
   - 'created/2021/Aug/31'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Unicode

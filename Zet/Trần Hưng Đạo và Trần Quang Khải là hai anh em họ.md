@@ -3,10 +3,10 @@ title: Trần Quốc Tuấn và Trần Quang Khải là hai anh em họ
 UID: 210902160749
 tags:
   - 'created/2021/Sep/02'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
-  - 
+  - null
 ---
 # Trần Hưng Đạo và Trần Quang Khải là hai anh em họ
 

@@ -3,7 +3,7 @@ title: Campuchia
 UID: 210908211854
 tags:
   - 'created/2021/Sep/08'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/nation'
 aliases:
   - Vương Quốc Campuchia

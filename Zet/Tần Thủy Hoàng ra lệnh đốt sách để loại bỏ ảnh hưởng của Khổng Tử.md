@@ -3,10 +3,10 @@ title: Tần Thủy Hoàng ra lệnh đốt sách để loại bỏ ảnh hưở
 UID: 210905214432
 tags:
   - 'created/2021/Sep/05'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
-  - 
+  - null
 ---
 # Tần Thủy Hoàng ra lệnh đốt sách để loại bỏ ảnh hưởng của Khổng Tử
 

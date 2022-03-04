@@ -3,10 +3,10 @@ title: ❕ Mọi người thường nhầm lẫn giữa shell và bash
 UID: 210830220136
 tags:
   - 'created/2021/Aug/30'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/think'
 aliases:
-  - 
+  - null
 ---
 # ❕ Mọi người thường nhầm lẫn giữa shell và bash
 

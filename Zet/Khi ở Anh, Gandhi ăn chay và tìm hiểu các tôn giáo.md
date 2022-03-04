@@ -2,7 +2,7 @@
 title: Khi ở Anh, Gandhi ăn chay và tìm hiểu các tôn giáo
 tags:
   - 'created/2021/Jul/25'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

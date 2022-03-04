@@ -3,10 +3,10 @@ title: Pope John Paul II
 UID: 220110225346
 tags:
   - 'created/2022/Jan/10'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth:
-death:
+birth: null
+death: null
 aliases:
   - Giáo hoàng Gioan Phaolô II
 publish: False

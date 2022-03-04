@@ -9,7 +9,7 @@ tags:
 publish: True
 ---
 ## Notes:
-[[Thần Hỗn Mang|Chaos]] sinh ra [[Nữ thần Gaia|Gaia]], [[Nyx]], [[Erebus]], [[Địa ngục Tartarus|Tartarus]], [[Eros]].
+[[Thần Hỗn Mang|Chaos]] sinh ra [[Nữ thần Gaia|Gaia]], [[Nyx]], [[Erebus]], [[Địa ngục Tartarus|Tartarus]], [[Thần Eros]].
 
 ## Source:
 - [[@ wiki, Gaia]]

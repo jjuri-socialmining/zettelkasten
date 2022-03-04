@@ -3,10 +3,10 @@ title: Ngôn ngữ bash được cải tiến dựa trên nền tảng của sh
 UID: 210830221656
 tags:
   - 'created/2021/Aug/30'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
-  - 
+  - null
 ---
 # Ngôn ngữ bash được cải tiến dựa trên nền tảng của sh
 

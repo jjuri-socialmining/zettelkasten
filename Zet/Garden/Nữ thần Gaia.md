@@ -12,7 +12,7 @@ aliases:
   - Gaia
   - Gaea
   - Đất mẹ
-publish: False
+publish: True
 ---
 # Nữ thần Gaia
 

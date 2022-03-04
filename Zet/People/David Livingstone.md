@@ -3,10 +3,10 @@ title: David Livingstone
 UID: 211127094324
 tags:
   - 'created/2021/Nov/27'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth:
-death:
+birth: null
+death: null
 publish: True
 ---
 # David Livingstone

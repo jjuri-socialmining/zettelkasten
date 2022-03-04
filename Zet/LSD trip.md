@@ -3,10 +3,10 @@ title: LSD trip
 UID: 210902102529
 tags:
   - 'created/2021/Sep/02'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
-  - 
+  - null
 ---
 # LSD trip
 

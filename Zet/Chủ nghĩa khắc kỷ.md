@@ -3,7 +3,7 @@ title: Chủ nghĩa khắc kỷ
 created: Jan 01, 2021 11:42 AM
 tags:
   - 'created/2021/Jan/01'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Stoicism

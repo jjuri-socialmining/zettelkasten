@@ -3,7 +3,7 @@ title: Chế độ ăn Low Carb
 UID: 210903142327
 tags:
   - 'created/2021/Sep/03'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Low Carb

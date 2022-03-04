@@ -3,7 +3,7 @@
 - metadata
 	- UID (delete): P-210701-2247
 	- created: July 1, 2021 10:47 PM
-	- tags: #created/2021/Jul/1, #state/boat  
+	- tags: #created/2021/Jul/01, #state/boat  
 	- previous note:  [[The Second Brain]]
 
 ## Notes

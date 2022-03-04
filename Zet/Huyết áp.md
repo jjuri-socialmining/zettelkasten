@@ -3,7 +3,7 @@ title: Huyết áp
 UID: 210908220410
 tags:
   - 'created/2021/Sep/08'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Huyết áp

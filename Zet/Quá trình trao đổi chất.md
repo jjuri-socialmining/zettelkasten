@@ -3,7 +3,7 @@ title: Quá trình trao đổi chất
 UID: 210903100455
 tags:
   - 'created/2021/Sep/03'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Metabolism

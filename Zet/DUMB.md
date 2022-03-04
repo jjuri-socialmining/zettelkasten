@@ -4,7 +4,7 @@ UID: 220103112948
 created: 03-Jan-2022
 tags:
   - 'created/2022/Jan/03'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: False
 ---

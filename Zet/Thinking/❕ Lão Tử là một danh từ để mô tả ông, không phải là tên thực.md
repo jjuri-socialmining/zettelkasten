@@ -3,10 +3,10 @@ title: ❕ Lão Tử là một danh từ để mô tả ông, không phải là 
 UID: 210905213426
 tags:
   - 'created/2021/Sep/05'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/think'
 aliases:
-  - 
+  - null
 ---
 # ❕ Lão Tử là một danh từ để mô tả ông, không phải là tên thực
 

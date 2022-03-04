@@ -3,7 +3,7 @@ title: LDH cholesterol
 UID: 210903094436
 tags:
   - 'created/2021/Sep/03'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - low density lipoprotein cholesterol

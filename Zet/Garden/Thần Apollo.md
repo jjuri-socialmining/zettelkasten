@@ -9,7 +9,7 @@ tags:
 aliases:
   - Helios
   - Apollo
-publish: False
+publish: True
 ---
 # Thần Apollo
 

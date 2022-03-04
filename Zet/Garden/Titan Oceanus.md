@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Okéanos
-publish: False
+publish: True
 ---
 # Oceanus
 

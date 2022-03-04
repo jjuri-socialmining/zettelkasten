@@ -2,7 +2,7 @@
 title: Đại dịch COVID-19
 tags:
   - 'created/2021/Jul/10'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/linking'
 publish: True
 ---

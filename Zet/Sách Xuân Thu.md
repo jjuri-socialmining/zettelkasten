@@ -3,7 +3,7 @@ title: Sách Xuân Thu
 UID: 210905214109
 tags:
   - 'created/2021/Sep/05'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Sách Xuân Thu

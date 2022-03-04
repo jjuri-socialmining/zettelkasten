@@ -2,7 +2,7 @@
 title: Các đời tổng thống Hoa Kỳ
 tags:
   - 'created/2021/Aug/08'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/fact'
 publish: True
 ---

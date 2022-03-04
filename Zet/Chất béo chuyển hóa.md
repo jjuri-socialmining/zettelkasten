@@ -3,7 +3,7 @@ title: Chất béo chuyển hóa
 UID: 210903113100
 tags:
   - 'created/2021/Sep/03'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Trans fat

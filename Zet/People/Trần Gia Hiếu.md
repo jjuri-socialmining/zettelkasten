@@ -3,10 +3,10 @@ title: Trần Gia Hiếu
 UID: 210907225706
 tags:
   - 'created/2021/Sep/07'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people/family'
 birth: 2014-09-19
-death: 
+death: null
 aliases:
   - Bảo Bảo
   - Bảo

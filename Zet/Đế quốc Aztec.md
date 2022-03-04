@@ -3,7 +3,7 @@ title: Đế quốc Aztec
 UID: 210902204716
 tags:
   - 'created/2021/Sep/02'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/nation'
 aliases:
   - Tam Đồng Minh

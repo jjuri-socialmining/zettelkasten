@@ -1,10 +1,10 @@
 ---
 title: Thuyết Ngộ Đạo
 UID: 211025215130
-created: Dec 31, 2020 
+created: Dec 31, 2020
 tags:
   - 'created/2020/Dec/31'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
   - 'Qmap'
 aliases:

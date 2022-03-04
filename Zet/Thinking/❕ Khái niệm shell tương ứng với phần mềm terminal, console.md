@@ -3,10 +3,10 @@ title: ❕ Khái niệm shell tương ứng với phần mềm terminal, console
 UID: 210830223635
 tags:
   - 'created/2021/Aug/30'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/think'
 aliases:
-  - 
+  - null
 ---
 # ❕ Khái niệm shell tương ứng với phần mềm terminal, console
 

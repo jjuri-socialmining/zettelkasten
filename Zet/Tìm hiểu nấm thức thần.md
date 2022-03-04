@@ -3,7 +3,7 @@ title: Tìm hiểu nấm thức thần
 UID: 210902100032
 tags:
   - 'created/2021/Sep/02'
-  - 'garden🏡'
+  - 'garden'
 aliases:
   - Tìm hiểu nấm thức thần
 ---

@@ -3,10 +3,10 @@ title: ❕ Vấn đề thiên mệnh thời Nhà Chu
 UID: 210828104448
 tags:
   - 'created/2021/Aug/28'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/think'
 aliases:
-  - 
+  - null
 ---
 # ❕ Vấn đề thiên mệnh thời Nhà Chu
 

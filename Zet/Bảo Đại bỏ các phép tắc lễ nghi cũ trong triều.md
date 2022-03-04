@@ -2,7 +2,7 @@
 title: Bảo Đại bỏ các phép tắc lễ nghi cũ trong triều
 tags:
   - 'created/2021/Jul/17'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

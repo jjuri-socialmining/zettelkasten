@@ -3,10 +3,10 @@ title: Thành Thang
 UID: 210905225450
 tags:
   - 'created/2021/Sep/05'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - Thương Thang
 ---

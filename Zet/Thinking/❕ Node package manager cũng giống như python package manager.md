@@ -3,10 +3,10 @@ title: ❕ Node package manager cũng giống như python package manager
 UID: 210909224652
 tags:
   - 'created/2021/Sep/09'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/think'
 aliases:
-  - 
+  - null
 ---
 # ❕ Node package manager cũng giống như python package manager
 

@@ -3,10 +3,10 @@ title: Louis Pasteur
 UID: 211010111029
 tags:
   - 'created/2021/Oct/10'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death:
+birth: null
+death: null
 aliases:
   - Pasteur
 publish: True

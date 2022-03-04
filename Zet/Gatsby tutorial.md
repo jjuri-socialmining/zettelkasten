@@ -3,10 +3,10 @@ title: Gatsby tutorial
 UID: 210910110135
 tags:
   - 'created/2021/Sep/10'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
-  - 
+  - null
 ---
 # Gatsby tutorial
 

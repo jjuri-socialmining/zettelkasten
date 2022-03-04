@@ -1,5 +1,5 @@
 ---
-title: 220119 - Thành Troy được xây bởi Apollo và Poseidon
+title: Thành Troy được xây bởi Apollo và Poseidon
 UID: 220119231521
 created: 19-Jan-2022
 tags:

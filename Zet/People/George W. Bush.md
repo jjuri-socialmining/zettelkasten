@@ -3,10 +3,10 @@ title: George W. Bush
 UID: 211230221647
 tags:
   - 'created/2021/Dec/30'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth:
-death:
+birth: null
+death: null
 publish: False
 ---
 # George W. Bush

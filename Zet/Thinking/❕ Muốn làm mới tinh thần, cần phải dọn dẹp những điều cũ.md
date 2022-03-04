@@ -3,10 +3,10 @@ title: ❕ Muốn làm mới tinh thần, cần phải dọn dẹp những đi�
 UID: 210902223554
 tags:
   - 'created/2021/Sep/02'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/think'
 aliases:
-  - 
+  - null
 ---
 # ❕ Muốn làm mới tinh thần, cần phải dọn dẹp những điều cũ
 

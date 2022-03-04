@@ -3,10 +3,10 @@ title: Khi carb ở mức độ thấp, insulin giảm, cơ thể sẽ giải ph
 UID: 210903143440
 tags:
   - 'created/2021/Sep/03'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
-  - 
+  - null
 ---
 # Khi carb ở mức độ thấp, insulin giảm, cơ thể sẽ giải phóng axit béo từ mô mỡ
 

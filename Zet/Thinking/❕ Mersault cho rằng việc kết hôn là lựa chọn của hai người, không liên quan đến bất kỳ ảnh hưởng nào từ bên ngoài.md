@@ -1,12 +1,13 @@
 ---
-title: ❕ Mersault cho rằng việc kết hôn là lựa chọn của hai người, không liên quan đến bất kỳ ảnh hưởng nào từ bên ngoài
+title: ❕ Mersault cho rằng việc kết hôn là lựa chọn của hai người, không liên
+  quan đến bất kỳ ảnh hưởng nào từ bên ngoài
 UID: 210902220114
 tags:
   - 'created/2021/Sep/02'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/think'
 aliases:
-  - 
+  - null
 ---
 # ❕ Mersault cho rằng việc kết hôn là lựa chọn của hai người, không liên quan đến bất kỳ ảnh hưởng nào từ bên ngoài
 

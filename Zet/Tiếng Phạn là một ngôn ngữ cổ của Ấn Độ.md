@@ -3,10 +3,10 @@ title: Tiếng Phạn là một ngôn ngữ cổ của Ấn Độ
 UID: 210907215024
 tags:
   - 'created/2021/Sep/07'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
-  - 
+  - null
 ---
 # Tiếng Phạn là một ngôn ngữ cổ của Ấn Độ
 

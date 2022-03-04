@@ -3,7 +3,7 @@ title: Vận động thể chất
 UID: 210903153703
 tags:
   - 'created/2021/Sep/03'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Vận động thể chất

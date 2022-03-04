@@ -3,10 +3,10 @@ title: ❕ Những câu hỏi hiện sinh giúp ta thức tỉnh trong cuộc s�
 UID: 210902224945
 tags:
   - 'created/2021/Sep/02'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/think'
 aliases:
-  - 
+  - null
 ---
 # ❕ Những câu hỏi hiện sinh giúp ta thức tỉnh trong cuộc sống thực tại
 

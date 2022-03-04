@@ -3,10 +3,10 @@ title: Trần Thánh Tông
 UID: 210902132732
 tags:
   - 'created/2021/Sep/02'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - Trần Hoảng
 ---

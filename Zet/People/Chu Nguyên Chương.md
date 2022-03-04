@@ -3,12 +3,12 @@ title: Chu Nguyên Chương
 UID: 210828140446
 tags:
   - 'created/2021/Aug/28'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
-  - 
+  - null
 ---
 # Chu Nguyên Chương
 

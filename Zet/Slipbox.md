@@ -3,7 +3,7 @@ title: Slipbox
 created: Oct 21, 2020 9:58 PM
 tags:
   - 'created/2020/Oct/21'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: False
 ---

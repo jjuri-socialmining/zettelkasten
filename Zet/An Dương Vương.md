@@ -1,10 +1,10 @@
 ---
 title: An Dương Vương
 UID: 2107240810
-created: 
+created: null
 tags:
   - 'created/2021/Jul/24'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
 aliases:
   - An Dương Vương

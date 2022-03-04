@@ -3,10 +3,10 @@ title: Khổng giáo chỉ có lợi ích duy trì trật tự xã hội
 UID: 210905214500
 tags:
   - 'created/2021/Sep/05'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
-  - 
+  - null
 ---
 # Khổng giáo chỉ có lợi ích duy trì trật tự xã hội
 

@@ -3,10 +3,10 @@ title: Trần Thị Ánh Phượng
 UID: 211123223415
 tags:
   - 'created/2021/Nov/23'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth:
-death:
+birth: null
+death: null
 aliases:
   - Phượng
 publish: False

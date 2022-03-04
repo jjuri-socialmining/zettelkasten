@@ -4,7 +4,7 @@ UID: 201225213624
 created: 25-Dec-2020
 tags:
   - 'created/2020/Dec/25'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/concept'
 publish: True
 ---

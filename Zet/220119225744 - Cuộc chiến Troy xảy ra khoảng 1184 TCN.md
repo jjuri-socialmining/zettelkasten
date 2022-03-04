@@ -1,6 +1,6 @@
 ---
-title: 220119 - Achilles là bán thần
-UID: 220119232129
+title: Cuộc chiến Troy xảy ra khoảng 1184 TCN
+UID: 220119225744
 created: 19-Jan-2022
 tags:
   - 'created/2022/Jan/19'
@@ -9,9 +9,7 @@ tags:
 publish: True
 ---
 ## Notes:
-[[Achilles]] là bán thần. 
-
-[[220119 - Achilles là con của vua Peleus và nữ thần Thetis]]
+Thời điểm xảy ra [[Cuộc chiến thành Troy]] là khoảng năm 1184 TCN.
 
 ## Source:
 - [[@ wiki, Cuộc chiến thành Troy]]

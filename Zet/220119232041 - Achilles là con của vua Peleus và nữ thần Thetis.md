@@ -1,6 +1,6 @@
 ---
-title: 220119 - Cuộc chiến Troy xảy ra khoảng 1184 TCN
-UID: 220119225744
+title: Achilles là con của vua Peleus và nữ thần Thetis
+UID: 220119232041
 created: 19-Jan-2022
 tags:
   - 'created/2022/Jan/19'
@@ -9,9 +9,8 @@ tags:
 publish: True
 ---
 ## Notes:
-Thời điểm xảy ra [[Cuộc chiến thành Troy]] là khoảng năm 1184 TCN.
+[[Achilles]] là con của [[Nữ thần Thetis]] và [[Vua Peleus]]. 
 
 ## Source:
 - [[@ wiki, Cuộc chiến thành Troy]]
-
 

@@ -3,10 +3,10 @@ title: Thành Thang là vị vua lập ra nhà Thương
 UID: 210905225608
 tags:
   - 'created/2021/Sep/05'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
-  - 
+  - null
 ---
 # Thành Thang là vị vua lập ra nhà Thương
 

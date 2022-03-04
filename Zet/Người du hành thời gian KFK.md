@@ -4,7 +4,7 @@ UID: 211012000220
 created: 12-Oct-2021
 tags:
   - 'created/2021/Oct/12'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: False
 ---

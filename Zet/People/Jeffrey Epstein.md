@@ -3,10 +3,10 @@ title: Jeffrey Epstein
 UID: 211031103307
 tags:
   - 'created/2021/Oct/31'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: False
 ---
 # Jeffrey Epstein

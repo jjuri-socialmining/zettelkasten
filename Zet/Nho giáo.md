@@ -1,9 +1,9 @@
 ---
 title: Nho giáo
-UID: 
+UID: null
 tags:
   - 'created/2021/Jul/11'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Đạo Khổng

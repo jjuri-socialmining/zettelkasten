@@ -1,10 +1,10 @@
 ---
 title: 💥 Hành động hay người hành động có trước
 created: 2022-02-20
-resolve: 
+resolve: null
 tags:
   - 'ideas'
-  - 'created/22/02/20'
+  - 'created/2022/02/20'
 ---
 
 Hành động hay người hành động có trước

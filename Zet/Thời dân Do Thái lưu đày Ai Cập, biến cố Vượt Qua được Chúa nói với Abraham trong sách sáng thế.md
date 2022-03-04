@@ -1,10 +1,11 @@
 ---
-title: Thời dân Do Thái lưu đày Ai Cập, biến cố Vượt Qua được Chúa nói với Abraham trong sách sáng thế
+title: Thời dân Do Thái lưu đày Ai Cập, biến cố Vượt Qua được Chúa nói với
+  Abraham trong sách sáng thế
 UID: 211006233353
 created: 06-Oct-2021
 tags:
   - 'created/2021/Oct/06'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/linking'
 publish: True
 ---

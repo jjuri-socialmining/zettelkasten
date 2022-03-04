@@ -3,10 +3,10 @@ title: Pope Clement XIV
 UID: 211025222232
 tags:
   - 'created/2021/Oct/25'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: False
 ---
 # Pope Clement XIV

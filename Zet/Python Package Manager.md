@@ -3,7 +3,7 @@ title: Python package manager
 UID: 210909223745
 tags:
   - 'created/2021/Sep/09'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Preferred Installer Program

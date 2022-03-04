@@ -3,10 +3,10 @@ title: Kinh Dịch là một tác phẩm siêu hình học khởi đầu lịch 
 UID: 210905211737
 tags:
   - 'created/2021/Sep/05'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
-  - 
+  - null
 ---
 # Kinh Dịch là một tác phẩm siêu hình học khởi đầu lịch sử tư tưởng Trung Hoa
 

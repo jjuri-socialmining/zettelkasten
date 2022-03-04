@@ -3,10 +3,10 @@ title: sh đơn giản và gọn nhẹ hơn bash
 UID: 210830224533
 tags:
   - 'created/2021/Aug/30'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
-  - 
+  - null
 ---
 # sh đơn giản và gọn nhẹ hơn bash
 

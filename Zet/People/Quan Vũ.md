@@ -3,7 +3,7 @@ title: Quan Vũ
 UID: 210828134258
 tags:
   - 'created/2021/Aug/28'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
 birth: 162
 death: 220

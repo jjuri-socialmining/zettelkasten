@@ -3,7 +3,7 @@ title: Nam Việt
 UID: 210724-1049
 tags:
   - 'created/2021/Jul/24'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/nation'
 publish: True
 ---

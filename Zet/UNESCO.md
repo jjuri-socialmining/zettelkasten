@@ -3,7 +3,7 @@ title: UNESCO
 UID: 210908213434
 tags:
   - 'created/2021/Sep/08'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - UNESCO

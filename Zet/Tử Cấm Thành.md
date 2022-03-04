@@ -3,7 +3,7 @@ title: Tử Cấm Thành
 UID: 210907232213
 tags:
   - 'created/2021/Sep/07'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/place'
 aliases:
   - Forbidden City

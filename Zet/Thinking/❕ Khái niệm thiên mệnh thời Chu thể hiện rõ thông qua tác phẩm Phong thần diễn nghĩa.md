@@ -1,12 +1,13 @@
 ---
-title: ❕ Khái niệm thiên mệnh thời Chu thể hiện rõ thông qua tác phẩm Phong thần diễn nghĩa
+title: ❕ Khái niệm thiên mệnh thời Chu thể hiện rõ thông qua tác phẩm Phong thần
+  diễn nghĩa
 UID: 210828102107
 tags:
   - 'created/2021/Aug/28'
-  - 'seeding🌱'
+  - 'seeding'
   - 'permanent/think'
 aliases:
-  - 
+  - null
 ---
 # ❕ Khái niệm thiên mệnh thời Chu thể hiện rõ thông qua tác phẩm Phong thần diễn nghĩa
 
