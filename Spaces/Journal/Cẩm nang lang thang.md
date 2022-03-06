@@ -15,7 +15,6 @@ publish: False
 - [[Lang thang Phú Quý 10-Nov-2018]]
 
 ### 2019
-
 - [[Trekking Tà Năng Phan Dũng - Thác Yavly 24-Feb-2019]]
 - [[DLUT Đà Lạt 2019]]
 - [[Trekking Tà Năng Phan Dũng - Đồi lính 17-Jul-2019]]

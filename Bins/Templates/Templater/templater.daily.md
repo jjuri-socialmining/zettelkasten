@@ -11,7 +11,7 @@
 	  await tp.file.rename(title);
 	}
   }
-  await tp.file.move("/Spaces/Daily/Journal/" + title);
+  await tp.file.move("/Spaces/Daily/" + title);
   tR += "---"
 %>
 title: <%* tR += title %>

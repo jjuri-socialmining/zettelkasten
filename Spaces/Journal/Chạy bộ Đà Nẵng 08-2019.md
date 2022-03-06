@@ -6,8 +6,7 @@ tags:
   - 'created/2022/Mar/06'
   - 'daily/journal'
 ---
-[[📝22-03-05|<- Yesterday]] | [[📝22-03-07|Tomorrow ->]]
-# Sunday, Mar 6, 2022
+# Chạy bộ Đà Nẵng 08-2019
 
 ## Notes:
 - [[Lang thang Sơn Trà 08-2019]]

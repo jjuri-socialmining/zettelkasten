@@ -40,6 +40,6 @@ publish: True
 <% tp.file.cursor() %>
 
 ## Source:
-- [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.
+- [[@ thongtindalat24h.com, 4 cung phượt 'ớn lạnh' nhất dẫn vào thành phố Đà Lạt]]
 
 ## Relate:

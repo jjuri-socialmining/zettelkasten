@@ -11,7 +11,7 @@
 	  await tp.file.rename(title);
 	}
   }
-  await tp.file.move("/Spaces/Daily/Journal/" + title);
+  await tp.file.move("/Spaces/Journal/" + title);
   tR += "---"
 %>
 title: <%* tR += title %>
@@ -21,8 +21,7 @@ tags:
   - 'created/<% tp.date.now("YYYY/MMM/DD") %>'
   - 'daily/journal'
 ---
-<% "[[" + tp.date.yesterday("📝YY-MM-DD") + "|<- Yesterday]] | [[" + tp.date.tomorrow("📝YY-MM-DD")  + "|Tomorrow ->]]" %>
-# <% tp.date.now("dddd, MMM D, YYYY") %>
+# <%* tR += title %>
 
 ## Notes:
 <% tp.file.cursor() %>
