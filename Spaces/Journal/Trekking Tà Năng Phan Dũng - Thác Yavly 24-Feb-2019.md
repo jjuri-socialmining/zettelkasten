@@ -10,9 +10,10 @@ publish: False
 # Tà Năng Phan Dũng - Thác Yavly
 
 ## Notes:
-24-Feb-2019
 
-Nhờ người dẫn
+Cung thác Yaly 22-24 Feb 2019
+
+Nhờ người dẫn [[Bảo Lê]]
 
 - Chị Trang
 - [[Phạm Ngọc Ánh|Ánh]]
@@ -22,5 +23,6 @@ Nhờ người dẫn
 - Mình
 - Bạn của Lùn
 - [[Hoàng Oanh]]
+
 
 

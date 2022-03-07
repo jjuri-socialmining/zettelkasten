@@ -15,7 +15,6 @@ title: <%* tR += title %>
 UID: <% tp.date.now("YYMMDDHHmmss") %>
 tags:
   - 'created/<% tp.date.now("YYYY/MMM/DD") %>'
-  - 'seed'
   - '<%* tR += note_type %>'
 <%* tR += birth %>
 <%* tR += death %>

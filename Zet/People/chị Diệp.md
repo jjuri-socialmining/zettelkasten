@@ -10,6 +10,7 @@ death: null
 aliases:
   - chị Diệp
   - Trần Thị Ngọc Diệp
+publish: False
 ---
 # Ngọc Diệp
 
