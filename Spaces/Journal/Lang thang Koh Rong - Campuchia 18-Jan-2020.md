@@ -26,7 +26,12 @@ Thứ Bảy, [[📝20-09-18]]
 - Tối đó ra chợ ăn uống. Lúc về đi mua Pizza và ăn đồ nướng thì phải, còn mua mấy lon về uống cho vui. Công nhận cực kỳ vui luôn, cảm giác tự do, thoải mái.
 
 Thứ Chủ Nhật, [[📝20-09-19]]
-- Về [[Phnom Penh]] chơi 1 đêm rồi hôm sau về.
-- Về qua [[Cửa khẩu Mộc Bài]] [[Tây Ninh]]
+- Tối chủ nhật về tới chợ Phnom Penh chắc cũng tầm 8h30, 9h tối. Mọi người đi bộ về ks [[RS III Location Hostel]] tắm rửa và ra cửa hàng tiện lợi ăn linh tinh.
 
+Thứ Hai, [[📝20-09-20]]
+- Sáng đi bộ ra bờ sông rồi vô [[Cung điện Hoàng Gia Campuchia]] tham quan.
+- Tới khoảng 10h về dọn phòng và thuê xe tuk tuk ra chợ ăn trưa, đợi xe mãi chưa tới, mấy đứa dẫn nhau đi siêu thị mua đồ làm quà. Lại tiếp tục thuê xe về nhà xe, lúc đó chắc cũng 3h-3h30 chiều rồi.
+- Về qua [[Cửa khẩu Mộc Bài]], [[Tây Ninh]]
+
+## Sum
 Cuối cùng, mọi chỗ đi tham quan, đi thăm quan cung điện này nọ, đi chợ này nọ cũng không có cái cảm giác như lúc được ở trên đảo Koh Rong. Du lịch là vậy, đi và ở lại nơi đó là một thứ gì đó rất đặc biệt, đặc biệt là thiên nhiên, không ồn ào tấp nập, không khói bụi chỉ có không khí trong lành. Điểm cực kỳ đặc biệt là chỗ Nest Beach Club họ trang trí rất hoang dã, kiểu hòa mình với thiên nhiên. Kê mấy cái bàn ngoài bãi biển, mắc mấy cái võng ngay bờ biển. Đêm ra đó nằm nghe sóng biển, mọi người ăn uống nói chuyên.
