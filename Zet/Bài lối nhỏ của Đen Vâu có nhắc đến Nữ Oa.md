@@ -5,8 +5,6 @@ tags:
   - 'created/2021/Sep/07'
   - 'seed'
   - 'permanent/fact'
-aliases:
-  - null
 ---
 # Bài lối nhỏ của Đen Vâu có nhắc đến Nữ Oa
 

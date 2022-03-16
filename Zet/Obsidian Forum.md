@@ -14,7 +14,3 @@ publish: False
 https://forum.obsidian.md/ trang web cho cộng đồng sử dụng [[Obsidian]] để ghi chú theo phương pháp [[Zettelkasten]] của [[Niklas Luhmann]]
 
 ## Ideas & thoughts:
-
-## Questions:
-
-## Related:

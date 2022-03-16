@@ -10,7 +10,7 @@ tags:
 publish: True
 ---
 ## Notes:
-Ba tập Kinh Vệ Đà [[Rig Veda]], [[Sama Veda]], [[Yayur Veda]] là các bài ca kể về tình hình người Arya vào Ấn Độ, cuộc chiến với thiên nhiên,...
+Ba tập Kinh Vệ Đà [[Rig Veda]], [[Sama Veda]], [[Yayur Veda]] là các bài ca kể về tình hình  [[Người Aryan]] vào Ấn Độ, cuộc chiến với thiên nhiên,...
 
 ## Relate:
 - [[220225210200 - Kinh Vệ Đà có 4 tập]]

@@ -10,10 +10,3 @@
 [[Hormone CCK và PYY có trong ruột non]]
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Satiety được điều hòa bởi ruột non]]
-sort file.name asc
-```

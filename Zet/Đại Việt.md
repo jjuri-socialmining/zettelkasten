@@ -12,9 +12,3 @@ tags:
 
 
 ## Ideas & thoughts:
-
-
-## Questions:
-
-
-## Related:

@@ -16,11 +16,3 @@ Nhóm lập quốc Hoa Kỳ là một nhóm người đã có công lãnh đạo
 - [[George Washington]]
 
 ## Questions & thoughts:
-
-
-## Related:
-```dataview
-list
-from [[Nhóm lập quốc Hoa Kỳ]]
-sort file.name asc
-```

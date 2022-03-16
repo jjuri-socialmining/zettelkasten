@@ -5,8 +5,6 @@ tags:
   - 'created/2021/Sep/05'
   - 'seed'
   - 'permanent/fact'
-aliases:
-  - null
 ---
 # Khuất Nguyên về quê ở ẩn
 
@@ -14,13 +12,3 @@ aliases:
 [[Khuất Nguyên bị gièm pha nói xấu trong triều đình]]. [[Khuất Nguyên]] về quê ở ẩn
 
 ## Ideas & thoughts:
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Khuất Nguyên về quê ở ẩn]]
-sort file.name asc
-```

@@ -9,11 +9,3 @@
 
 
 ## Questions & thoughts:
-
-
-## Related:
-```dataview
-list
-from [[Nhà Tùy]]
-sort file.name asc
-```

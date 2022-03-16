@@ -14,5 +14,8 @@ tags:
 - [x] [[Bucket list 3 - Cạo đầu]]
 - [ ] [[Bucket list 4 - Chinh phục các đèo ở VN bằng xe đạp]]
 - [ ] [[Bucket list 5 - 200 medal chạy Half-Marathon]]
-- [ ] 
+- [ ] [[Bucket list 6 - Xuyên Việt bằng xe đạp]]
+- [ ] [[Bucket list 7 - Đọc 1000 quyển sách]]
+- [ ] [[Nói Thông Thạo tiếng Anh]]
+- [ ] [[Nói thông thạo tiếng Pháp]]
 

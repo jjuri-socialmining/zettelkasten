@@ -5,8 +5,6 @@ tags:
   - 'created/2021/Sep/05'
   - 'seed'
   - 'permanent/fact'
-aliases:
-  - null
 ---
 # Phong trào ánh sáng tìm hiểu học thuyết tư tưởng Trung Hoa
 

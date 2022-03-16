@@ -8,12 +8,3 @@
 ## Notes
 Tác giả quyển [[@ Hermann Hesse, Demian]]
 
-
-## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Hermann Hesse]]
-sort file.name asc
-```

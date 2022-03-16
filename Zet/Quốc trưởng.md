@@ -10,9 +10,3 @@ Quốc trưởng tên gọi khác của [[Nguyên thủ Quốc gia]]. Tên gọi
 Ví dụ:
 - Quốc Trưởng [[Bảo Đại]]
 - Quốc Trưởng [[Adolf Hitler]]
-
-## Related:
-```dataview
-list
-from [[Quốc trưởng]]
-```

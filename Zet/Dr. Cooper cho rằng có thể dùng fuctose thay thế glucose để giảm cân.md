@@ -9,10 +9,3 @@
 [[Dr. Cooper]]cho rằng thay thế [[Fructose]] thay thế [[Glucose]] để giảm cân. 
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Dr. Cooper cho rằng có thể dùng fuctose thay thế glucose để giảm cân]]
-sort file.name asc
-```
