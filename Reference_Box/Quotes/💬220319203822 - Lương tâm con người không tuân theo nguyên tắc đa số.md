@@ -13,3 +13,4 @@ source:
 Source: [[@ Harper Lee, Giết con chim nhại]]
 
 ## Ideas & thoughts:
+- Nhân vật [[Atticus Finch]] bất chấp dư luận, thành kiến. Ông làm theo những gì lương tâm mình mách bảo.
