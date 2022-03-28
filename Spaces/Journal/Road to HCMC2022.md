@@ -29,8 +29,9 @@ Sáng long run, sung sung lại kéo pace 5 tempo. Xong sung sung kéo xuống 4
 
 Đau đầu nè, ngày chạy HCMC 2022 đúng [[Chúa nhật Phục Sinh]], cũng may là tuần đó chỉ tập chơi thui. Thứ 7 lên lấy bib, chủ nhật chạy xong chắc đi lễ chiều.
 
-## 
+## [[📝22-03-28]]
+Sáng đấu tranh mãi mới dậy được, hôm nay bài easy 10k. Tập form theo [[Strong Foot running form]] mới nghiên cứu được cuối tuần rồi. Trước giờ toàn train trail nên chạy theo kiểu tiết kiệm sức [[Lazy Foot running form]], không thèm kéo cẳng chân lên. Mà công nhận là chạy theo form này mô phỏng động tác đạp xe đạp, chân khi chạm đất có vẻ miết xuống và dùng lực của cơ Achilles để đẩy người về phía trước, hơi nghiêng người về phía trước. Mai sẽ làm bài tempo 4:45, chắc sẽ vượt qua với form chạy mới này. Mình hiểu sao bữa giờ bị đau bắp chân sau, do mấy bữa rồi có xu hướng đá chân và đạp đẩy người về phía trước.
 
-
+![[Pasted image 20220328211424.png]]
 
 
