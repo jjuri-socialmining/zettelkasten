@@ -41,3 +41,6 @@ Sáng đấu tranh mãi mới dậy được, hôm nay bài easy 10k. Tập form
 
 - Tối rảnh, ngồi nghiên cứu và ghi chú lại quyển [[@ Jack Daniels, Daniels' Running Formula]], phục vụ cho việc luyện tập và điều chỉnh kế hoạch, bài T Pace phải luyện tập đúng TPace hiện tại của cơ thể mới có hiệu quả. Sao kịp tích lũy đủ T Pace bây giờ haha.
 
+## [[📝22-03-30]]
+OFF: Sáng dậy không nổi, dù gì cũng không muốn tăng mileage quá nhanh và đang có cảm giác bị shin splint nên thôi ngủ luôn.
+
