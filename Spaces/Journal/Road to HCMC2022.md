@@ -44,3 +44,5 @@ Sáng đấu tranh mãi mới dậy được, hôm nay bài easy 10k. Tập form
 ## [[📝22-03-30]]
 OFF: Sáng dậy không nổi, dù gì cũng không muốn tăng mileage quá nhanh và đang có cảm giác bị shin splint nên thôi ngủ luôn.
 
+## [[📝22-04-01]]
+Tối làm xong vác giày ra nhà thờ, chạy nhẹ xìu mà hai cái shint nhức gì đâu, 5K dừng. Tính mai long run chiều mà nghe nói chiều vẫn còn xưng tội. Sáng mai chắc vẫn ráng lết ra chạy HM easy. 
