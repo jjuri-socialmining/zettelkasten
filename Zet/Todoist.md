@@ -10,10 +10,3 @@ Todoist là một ứng dụng dùng để quản lý các công việc cá nhâ
 
 ## Questions & thoughts:
 
-
-## Related:
-```dataview
-list
-from [[Todoist]]
-sort file.name asc
-```

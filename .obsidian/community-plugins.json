@@ -14,5 +14,6 @@
   "obsidian-excalidraw-plugin",
   "obsidian-kanban",
   "obsidian-tabs",
-  "obsidian-annotator"
+  "obsidian-annotator",
+  "dataview"
 ]
