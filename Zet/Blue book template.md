@@ -13,9 +13,5 @@ publish: False
 ## Notes:
 Blue book template là một template trên [[Github]] https://github.com/lyz-code/blue-book.
 
-## Ideas & thoughts:
-
-## Questions:
-
 ## Related:
 - [[Github pages]]

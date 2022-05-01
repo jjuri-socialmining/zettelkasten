@@ -34,6 +34,8 @@ publish: False
 		```
 		- Mở mingwin/gitbash lên và run `bash bg2obs.sh -i -v BPT`
 			- BPT là một phiên bản tiếng việt [[#^2385af]], lưu ý, trong khi download không nên can thiệp vào clipboard
+- [[Quartz template]]
+- [[Blue book template]]
 
 ## Related:
 - [[Obsidian Publish]]

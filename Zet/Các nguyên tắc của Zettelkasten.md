@@ -13,9 +13,9 @@ publish: False
 ## Notes:
 Các nguyên tắc của [[Zettelkasten]]:
 
-- Ghi chú nguyên tử
-- Câu văn của chính bạn
-- Ghi chú liên kết
+- [[Ghi chú nguyên tử]]
+- [[220501155238 - Viết ghi chú bằng chính lời văn của bạn]]
+- [[220501155818 - Tạo liên kết, mối liên hệ giữa các ghi chú]]
 - TODO ...
 
 ## Ref:
