@@ -16,7 +16,8 @@
 ### Các phương pháp chạy bộ
 - [[MAF Method - Phil Maffetone]]
 - [[VDOT - Jack Daniel]]
-
+- [[Phương pháp luyện tập phân cực]]
+- [[Tabata interval HIIT]]
 
 ### Cách lựa chọn giày
 [[Bàn chân bẹt]]

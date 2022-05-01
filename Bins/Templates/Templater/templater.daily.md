@@ -20,6 +20,8 @@ created: <% tp.date.now("DD-MMM-YYYY") %>
 tags:
   - 'created/<% tp.date.now("YYYY/MMM/DD") %>'
   - 'daily/private'
+summary: TBD
+location: TBD
 ---
 <% "[[" + tp.date.yesterday("📝YY-MM-DD") + "|<- Yesterday]] | [[" + tp.date.tomorrow("📝YY-MM-DD")  + "|Tomorrow ->]]" %>
 # <% tp.date.now("dddd, MMM D, YYYY") %>
