@@ -36,6 +36,29 @@ publish: False
 			- BPT là một phiên bản tiếng việt [[#^2385af]], lưu ý, trong khi download không nên can thiệp vào clipboard
 - [[Quartz template]]
 - [[Blue book template]]
+- [https://github.com/MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners)
+- https://simply-jekyll.netlify.app/posts/introduction-to-simply-jekyll
+	- https://github.com/raghudotcc/simply-jekyll
+- https://www.mentalnodes.com/the-only-way-to-learn-in-public-is-to-build-in-public
+- https://github.com/binyamin/eleventy-garden
+	- ![[Pasted image 20220501215628.png]]
+- https://github.com/mathieudutour/gatsby-digital-garden
+- https://github.com/Greaby/galaxie-gd
+	- https://github.com/Greaby/telescope
+	- ![[Pasted image 20220501220435.png]]
+- https://jevakallio.github.io/notes/
+- https://notes.binnyva.com/
+- https://www.notion.so/mindforest/818782f2ff0f44ccbc5941e3fd4d0cd0?v=3badd8762a2f424189dc13c6f4f11539
+- Collector
+	- https://github.com/KasperZutterman/Second-Brain
+	- https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked
+	- https://github.com/RichardLitt/meta-knowledge
+	- https://github.com/lyz-code/best-of-digital-gardens
+	- https://github.com/kyrose/awesome-digital-gardens
+
+- Page design siêu đẹp https://www.gwern.net/index
+- https://github.com/Jekyll-Garden/jekyll-garden.github.io
+- https://enjoyment-work.netlify.app/
 
 ## Related:
 - [[Obsidian Publish]]
