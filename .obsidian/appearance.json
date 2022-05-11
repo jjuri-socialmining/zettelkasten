@@ -1,12 +1,8 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "Things",
   "enabledCssSnippets": [
-    "cybertron",
-    "sliding-panes-No-Gradient",
-    "image-adjustments-by-SIRvb",
-    "kanban-css-by-SIRvb",
-    "bibleverse-formatting"
+    "cybertron"
   ],
   "translucency": false,
   "baseFontSize": 14,

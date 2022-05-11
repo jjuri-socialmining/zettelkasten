@@ -9,12 +9,3 @@
 ## Notes
 Travis CI là một công cụ [[CI - Continuous Integration]] mã nguồn mở giúp test các dự án trên [[Github]]. 
 
-## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Travis CI]]
-sort file.name asc
-```
-

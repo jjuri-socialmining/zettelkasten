@@ -43,11 +43,12 @@ publish: False
 - https://github.com/binyamin/eleventy-garden
 	- ![[Pasted image 20220501215628.png]]
 - https://github.com/mathieudutour/gatsby-digital-garden
-- https://github.com/Greaby/galaxie-gd
+- [[galaxie-gd]]: https://github.com/Greaby/galaxie-gd
 	- https://github.com/Greaby/telescope
 	- ![[Pasted image 20220501220435.png]]
 - https://jevakallio.github.io/notes/
 - https://notes.binnyva.com/
+	- https://github.com/binnyva/gatsby-garden
 - https://www.notion.so/mindforest/818782f2ff0f44ccbc5941e3fd4d0cd0?v=3badd8762a2f424189dc13c6f4f11539
 - Collector
 	- https://github.com/KasperZutterman/Second-Brain
@@ -59,6 +60,9 @@ publish: False
 - Page design siêu đẹp https://www.gwern.net/index
 - https://github.com/Jekyll-Garden/jekyll-garden.github.io
 - https://enjoyment-work.netlify.app/
+- https://github.com/hikerpig/foam-template-gatsby-kb
+	- ![[Pasted image 20220502112326.png]]
+	- Có graph và interact được
 
 ## Related:
 - [[Obsidian Publish]]

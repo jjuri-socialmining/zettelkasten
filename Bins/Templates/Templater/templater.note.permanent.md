@@ -33,8 +33,8 @@ tags:
   - 'created/<% tp.date.now("YYYY/MMM/DD") %>'
   - '<%* tR += note_process %>'
   - '<%* tR += note_type %>'
-aliases: <% date2 %>
-publish: True
+aliases: '<% date2 %>'
+publish: False
 ---
 ## Notes:
 <% tp.file.cursor() %>

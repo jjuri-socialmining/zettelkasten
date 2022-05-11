@@ -29,8 +29,3 @@ Chào mừng bạn đã đến với khu vườn ghi chú.
 - [[Self Improvement|Phát triển bản thân]]
 - [[❕ Topics to research]]
 - [[000 Daily list|Journal]]
-
-### Surfing
-- [[Các kênh thông tin trái chiều]]
-- [[Các nguồn tài liệu tìm hiểu tâm linh]]
-- [[Qmap]]

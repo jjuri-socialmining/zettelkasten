@@ -10,10 +10,10 @@
   "templater-obsidian",
   "file-explorer-note-count",
   "url-into-selection",
-  "nldates-obsidian",
   "obsidian-excalidraw-plugin",
   "obsidian-kanban",
   "obsidian-tabs",
   "obsidian-annotator",
-  "dataview"
+  "dataview",
+  "nldates-obsidian"
 ]

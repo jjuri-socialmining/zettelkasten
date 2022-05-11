@@ -1,0 +1,34 @@
+/*background of graph view pane*/
+.workspace-leaf-content[data-type = "graph"] .view-content{
+  background-color: var(--background-primary);
+}
+
+/*filled color for the circle when not hover*/
+.graph-view.color-fill {
+  color: var(--background-secondary);
+}
+
+/*color for the circle stroke */
+.graph-view.color-circle {
+  color: var(--text-normal);
+}
+
+/*color for the connecting line when not hover*/
+.graph-view.color-line {
+  color: var(--background-modifier-border);
+}
+
+/*color for texts*/
+.graph-view.color-text {
+  color: var(--text-normal);
+}
+
+/*filled color for the circle when hover*/
+.graph-view.color-fill-highlight {
+  color: var(--interactive-accent);
+}
+
+/*color for the connecting line when hover*/
+.graph-view.color-line-highlight {
+  color: rgb(var(--interactive-accent-rgb));
+}

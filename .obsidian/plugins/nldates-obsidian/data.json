@@ -5,7 +5,7 @@
   "format": "📝YY-MM-DD",
   "timeFormat": "HH:mm",
   "separator": " ",
-  "weekStart": "Monday",
+  "weekStart": "locale-default",
   "modalToggleTime": false,
   "modalToggleLink": false,
   "modalMomentFormat": "YYYY-MM-DD HH:mm"
