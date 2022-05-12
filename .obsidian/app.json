@@ -55,7 +55,7 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "readableLineLength": true,
+  "readableLineLength": false,
   "tabSize": 4,
   "communityPluginSortOrder": "download",
   "emacsyKeys": true,

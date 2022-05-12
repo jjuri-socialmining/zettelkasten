@@ -9,11 +9,12 @@
   "calendar",
   "templater-obsidian",
   "file-explorer-note-count",
-  "url-into-selection",
   "obsidian-excalidraw-plugin",
   "obsidian-kanban",
   "obsidian-tabs",
   "obsidian-annotator",
   "dataview",
-  "nldates-obsidian"
+  "nldates-obsidian",
+  "obsidian-outliner",
+  "url-into-selection"
 ]
