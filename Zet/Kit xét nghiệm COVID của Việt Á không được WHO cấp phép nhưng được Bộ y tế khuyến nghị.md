@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Dec/21'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Kit xét nghiệm COVID của Việt Á không được WHO cấp phép
 

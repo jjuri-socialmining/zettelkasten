@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Đa số chúng ta chỉ làm độc giả, khán giả mà không viết sách, trình diễn. Như thế chúng ta đơn thuần chứng kiến, bàng quan. Ít nhât ta cũng cần tham dự vào chính những sự kiện ấy

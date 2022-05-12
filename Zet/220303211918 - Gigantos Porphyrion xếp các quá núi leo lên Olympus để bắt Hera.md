@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220303211918
-publish: True
+publish: False
 ---
 ## Notes:
 Bị mê mẩn bởi sắc đẹp của Hera, [[Gigantos Porphyrion]] xếp các quá núi leo lên Olympus để bắt cho bằng được [[Nữ thần Hera|Hera]]

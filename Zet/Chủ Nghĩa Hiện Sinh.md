@@ -8,7 +8,7 @@ tags:
 aliases:
   - Existentialism
   - Hiện sinh
-publish: True
+publish: False
 ---
 #  Chủ Nghĩa Hiện Sinh
 

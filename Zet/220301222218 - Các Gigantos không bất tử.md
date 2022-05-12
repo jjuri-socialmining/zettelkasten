@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220301222218
-publish: True
+publish: False
 ---
 ## Notes:
 Các [[Gigantos]] không bất tử

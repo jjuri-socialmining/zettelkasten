@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Nov/14'
   - 'seed'
   - 'permanent/linking'
-publish: True
+publish: False
 ---
 # John F. Kennedy và Chiến tranh Việt Nam
 

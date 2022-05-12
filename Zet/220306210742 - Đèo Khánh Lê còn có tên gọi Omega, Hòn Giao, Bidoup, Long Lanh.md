@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220306210742
-publish: True
+publish: False
 ---
 ## Notes:
 [[Đèo Khánh Lê]] còn có tên gọi Omega, Hòn Giao, Bidoup, Long Lanh

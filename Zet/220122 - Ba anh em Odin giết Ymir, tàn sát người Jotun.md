@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Odin]] và hai người em thấy chủng tộc [[Người khổng lồ Jotun]] sinh sản nhanh lấn át chủng tộc mình thì bày mưu giết [[Người khổng lồ Ymir]] trong khi ông đang ngủ.

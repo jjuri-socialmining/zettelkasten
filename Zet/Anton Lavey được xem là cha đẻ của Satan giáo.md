@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Nov/13'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Anton Lavey được xem là cha đẻ của Satan giáo
 

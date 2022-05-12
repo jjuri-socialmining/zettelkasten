@@ -11,7 +11,7 @@ aliases:
   - Vladimir Ilyich Lenin
   - Lenin
   - V. I. Lenin
-publish: True
+publish: False
 ---
 # Vladimir Lenin
 

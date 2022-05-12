@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Nov/21'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Joseph là con của Jacob và Rachel
 

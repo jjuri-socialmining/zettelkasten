@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/21'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Sau khi [[Nữ thần Ereshkigal]] cưới [[Nergal]] làm chồng, Ereshkigal nhường quyền cai quản địa ngục cho ông.

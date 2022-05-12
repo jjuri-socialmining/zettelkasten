@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220228220610
-publish: True
+publish: False
 ---
 ## Notes:
 [[Nữ thần Metis]] chỉ cách [[Thần Zeus|Zeus]] cứu anh chị em mình khỏi bụng [[Titan Cronus|Cronus]], bà chỉ cho Zeus đi hái một loại cây và sắc cho Cronus uống thì sẽ cứu được 5 anh chị của mình.

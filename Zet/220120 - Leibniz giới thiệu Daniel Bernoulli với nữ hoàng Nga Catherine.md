@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Gottfried Wilhelm Leibniz]] đã giới thiệu [[Daniel Bernoulli]] với Nữ hoàng Nga để đảm nhiệm vị trí điều hành ngành toán Hàn lâm viện hoàng gia Saint-Petersburg.

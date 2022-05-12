@@ -5,7 +5,7 @@ tags:
   - 'created/2021/Jun/19'
   - 'seed'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # Ngôn ngữ Yiddish
 

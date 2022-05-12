@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thảm họa Fukushima]] và [[Thảm họa Chernobyl]] đều là thảm họa rò rỉ nhà máy điện hạt nhân

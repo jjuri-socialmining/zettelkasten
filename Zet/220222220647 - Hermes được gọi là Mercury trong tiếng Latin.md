@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Hermes]] được gọi là Mercury trong tiếng Latin

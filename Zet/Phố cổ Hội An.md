@@ -7,7 +7,7 @@ tags:
   - 'permanent/place'
 aliases:
   - Hội An
-publish: True
+publish: False
 ---
 # Phố cổ Hội An
 

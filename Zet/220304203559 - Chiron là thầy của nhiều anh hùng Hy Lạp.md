@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220304203559
-publish: True
+publish: False
 ---
 ## Notes:
 [[Centaur Chiron|Chiron]] là thầy của nhiều anh hùng Hy Lạp: [[Achilles]], [[Ulysse]], [[Diomede]]

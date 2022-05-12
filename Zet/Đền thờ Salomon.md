@@ -8,7 +8,7 @@ tags:
 aliases:
   - Đền thờ Salomon
   - Đền thờ thứ nhất
-publish: True
+publish: False
 ---
 # Đền thờ Salomon
 

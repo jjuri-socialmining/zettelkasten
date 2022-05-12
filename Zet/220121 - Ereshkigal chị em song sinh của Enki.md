@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/21'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Nữ thần Ereshkigal]] là chị em song sinh với [[Thần Enki]]

@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/22'
   - 'seeding'
   - 'permanent/think'
-publish: True
+publish: False
 ---
 ## Notes:
 Ba anh em [[Thần Odin]], [[Thần Ve]], [[Thần Vili]] là [[God|Đấng tạo hóa]] trong [[Thần thoại Bắc Âu]]:

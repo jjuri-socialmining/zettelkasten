@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Atum
-publish: True
+publish: False
 ---
 # Thần Ra
 

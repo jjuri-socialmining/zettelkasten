@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/27'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Sao Kim]] có tên Tiếng Anh là [[Nữ thần Aphrodite|Venus]], tên Latinh của [[Nữ thần Aphrodite|Aphrodite]]

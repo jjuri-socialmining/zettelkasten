@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/24'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Khi [[Isaac Newton]] ở tuổi 13, cậu học rất tệ, thường bị bắt nạt bởi cậu bét ên Storer to xác. Newton lại bất ngờ thắng trong cuộc đấu tay đôi. Sau sự kiện này, cậu cố gắng học.

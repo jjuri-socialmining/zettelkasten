@@ -10,7 +10,7 @@ death: null
 aliases:
   - J. P. Morgan
   - JP Morgan
-publish: True
+publish: False
 ---
 # John Pierpont Morgan
 

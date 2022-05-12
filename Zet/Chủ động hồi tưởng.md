@@ -5,7 +5,7 @@ tags:
   - 'created/2020/Oct/23'
   - 'seed'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # Chủ động hồi tưởng
 

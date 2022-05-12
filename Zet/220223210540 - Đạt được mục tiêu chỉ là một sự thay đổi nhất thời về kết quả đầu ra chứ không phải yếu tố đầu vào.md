@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/23'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Đạt được mục tiêu là một sự thay đổi nhất thời, sự thay đổi về kết quả đầu ra chứ không phải yếu tố đầu vào (hệ thống)

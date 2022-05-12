@@ -10,7 +10,7 @@ death: null
 aliases:
   - JFK
   - John Fitzgerald Kennedy
-publish: True
+publish: False
 ---
 # John F. Kennedy
 

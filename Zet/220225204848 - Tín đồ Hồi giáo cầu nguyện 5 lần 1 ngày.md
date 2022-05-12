@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/25'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Hồi Giáo|Đạo Hồi]] quy định nghĩa vụ của mỗi tín đồ là phải cầu nguyện 5 lần 1 ngày vào các buổi: sáng, trưa, chiều, tối và đêm.

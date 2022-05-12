@@ -9,7 +9,7 @@ birth: null
 death: null
 aliases:
   - Trotsky
-publish: True
+publish: False
 ---
 # Lev Davidovich Trotsky
 

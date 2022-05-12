@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Aruru]] tạo ra [[Enkidu]] từ đất sét để giúp người dân Uruk chống lại sự bạo tàn của vua [[Vua Gilgamesh]]

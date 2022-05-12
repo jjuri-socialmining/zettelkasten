@@ -9,7 +9,7 @@ tags:
 aliases:
   - Prometheus
   - Prométhée
-publish: True
+publish: False
 ---
 # Bảo Bình
 

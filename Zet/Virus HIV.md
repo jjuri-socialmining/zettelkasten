@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Dec/29'
   - 'seed'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # Virus HIV
 

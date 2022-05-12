@@ -10,7 +10,7 @@ aliases:
   - PCR test
   - RT-PCR test
   - RT-PCR
-publish: True
+publish: False
 ---
 # Real time PCR test
 

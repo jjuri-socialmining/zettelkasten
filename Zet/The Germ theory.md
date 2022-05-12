@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Lý thuyết mầm
-publish: True
+publish: False
 ---
 # The Germ theory
 

@@ -14,7 +14,7 @@ aliases:
   - Đấng tạo hóa
   - Đức Chúa Trời
   - Thượng Đế
-publish: True
+publish: False
 ---
 # God
 

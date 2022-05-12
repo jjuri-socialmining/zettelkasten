@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/18'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Nếu Trái Đất nổ tung vào sáng mai thì mọi ý nghĩ chủ quan của con khong còn vì thế ý nghĩa mà mỗi người gán cho đời họ cũng viển vông không khác gì ý nghĩa mà người tối cổ gán cho cuộc sống của họ.

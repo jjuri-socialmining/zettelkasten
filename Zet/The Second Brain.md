@@ -5,7 +5,7 @@ tags:
   - 'created/2020/Oct/21'
   - 'seed'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # The Second Brain
 

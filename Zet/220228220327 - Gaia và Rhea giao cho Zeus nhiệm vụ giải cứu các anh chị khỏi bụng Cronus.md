@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220228220327
-publish: True
+publish: False
 ---
 ## Notes:
 Khi [[Thần Zeus|Zeus]] đủ lớn khôn, [[Nữ thần Gaia|Gaia]] và [[Titan Rhea]] giao cho [[Thần Zeus|Zeus]] nhiệm vụ giải cứu các anh chị khỏi bụng [[Titan Cronus|Cronus]]

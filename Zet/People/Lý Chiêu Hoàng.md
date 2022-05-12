@@ -11,7 +11,7 @@ aliases:
   - Lý Phật Kim
   - Chiêu Thánh công chúa
   - Chiêu Thánh hoàng hậu
-publish: True
+publish: False
 ---
 # Lý Chiêu Hoàng
 

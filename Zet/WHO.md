@@ -10,7 +10,7 @@ aliases:
   - Tổ chức Y tế thế giới
   - World Health Organization
   - OMS
-publish: True
+publish: False
 ---
 # WHO
 

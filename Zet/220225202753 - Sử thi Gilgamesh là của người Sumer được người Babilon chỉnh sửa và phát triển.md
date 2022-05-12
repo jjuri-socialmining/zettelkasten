@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/25'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Sử thi Gilgamesh]] là của người [[Sumer]] được người [[Babilon]] chỉnh sửa và phát triển

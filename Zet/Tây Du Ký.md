@@ -7,7 +7,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Tây Du Ký
-publish: True
+publish: False
 ---
 # Tây Du Ký
 

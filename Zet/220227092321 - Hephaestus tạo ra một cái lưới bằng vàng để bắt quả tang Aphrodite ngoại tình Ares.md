@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/27'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Hephaestus|Hephaestus]] tạo ra một cái lưới bằng vàng để bắt quả tang [[Nữ thần Aphrodite|Aphrodite]] ngoại tình [[Thần Ares|Ares]] khi họ đang quan hệ với nhau.

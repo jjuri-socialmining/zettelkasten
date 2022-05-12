@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220321202522
-publish: True
+publish: False
 ---
 ## Notes:
 Cha của [[Harper Lee]] là luật sư, từng biện hộ cho một người da đen  và thua kiện.

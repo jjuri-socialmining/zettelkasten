@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/24'
   - 'evergreen'
   - 'permanent/think'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Temptation Bundling Method]] áp dụng học thuyết tâm lý mang tên là [[Nguyên tắc Premack]]

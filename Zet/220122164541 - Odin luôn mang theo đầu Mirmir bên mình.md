@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Odin|Odin]] mang theo đầu [[Thần Mirmir|Mirmir]] để nghe những lời thông thái

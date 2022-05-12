@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220306213504
-publish: True
+publish: False
 ---
 ## Notes:
 [[Đèo Ngoạn Mục]] có tên gọi là Đèo Sông Pha

@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/18'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Atlantis]] là quốc gia được nhắc đến trong tác phẩm [[@ Plato, Timaeus và Critias]] của [[Platon là thầy của Aristotle]]

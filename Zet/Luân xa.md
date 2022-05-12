@@ -9,7 +9,7 @@ tags:
 aliases:
   - Chakra
   - Kinh lạc
-publish: True
+publish: False
 ---
 # Luân xa
 

@@ -8,7 +8,7 @@ tags:
 aliases:
   - UTF
   - Unicode Transformation Format
-publish: True
+publish: False
 ---
 # UTF
 

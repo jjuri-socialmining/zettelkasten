@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/25'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Đẳng cấp Kshastriya]] là đẳng cấp của chiến sĩ

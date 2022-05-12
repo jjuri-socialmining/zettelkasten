@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/24'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Khi [[Jon Snow]] khuyên Mance quỳ gối quy phục để cứu người dân của ông ở phía bắc Black Wall, ông đã từ chối. Jon Show nói ông đã phạm sai lầm, Mance đáp lại 1 câu cực hay:

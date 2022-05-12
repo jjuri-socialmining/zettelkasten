@@ -9,7 +9,7 @@ death: null
 aliases:
   - Ulysses Simpson Grant
   - Hiram Ulysses Grant
-publish: True
+publish: False
 ---
 # Ulysses S. Grant
 

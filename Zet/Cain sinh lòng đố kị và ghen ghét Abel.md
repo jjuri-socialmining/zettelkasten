@@ -4,7 +4,7 @@ tags:
   - 'created/2021/Aug/14'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Cain sinh lòng đố kị và ghen ghét Abel
 

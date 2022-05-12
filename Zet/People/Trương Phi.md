@@ -9,7 +9,7 @@ birth: 163
 death: 221
 aliases:
   - Dực Đức
-publish: True
+publish: False
 ---
 # Trương Phi
 

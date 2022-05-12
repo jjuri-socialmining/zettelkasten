@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/23'
   - 'evergreen'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 ## Notes:
 Thói quen củng cố đặc tính và đặc tính biểu hiện qua thói quen

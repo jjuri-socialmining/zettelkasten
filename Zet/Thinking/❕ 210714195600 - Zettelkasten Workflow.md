@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Jul/14'
   - 'seeding'
   - 'permanent/think'
-publish: True
+publish: False
 ---
 ## Notes:
 Đôi khi là tạo reference note gồm những highlight từ sách hay một website. Sau đó tạo literature note để điễn đạt lại từng highlight theo lời văn của mình. Nếu không muốn tạo reference note, bạn có thể tạo trực tiếp [[Literature Note]] bằng cách tóm tắt lại nội dung một trang web, một quyển sách hay một bộ phim bằng lời văn của chính mình. Việc tóm tắt này giúp ta kiểm tra được mức độ ta hiểu vấn đề, phát hiện ra những lỗ hổng về cách hiểu của ta, thông qua đó mà có thể củng cố lập tức bằng cách đọc lại nội dung, tìm kiếm câu trả lời cho lỗ hổng đó. Những ghi chú này cần được ghi lại nguồn

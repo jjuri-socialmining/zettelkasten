@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/18'
   - 'evergreen'
   - 'permanent/think'
-publish: True
+publish: False
 ---
 ## Notes:
 Nghiên cứu lịch sử không phải để dự đoán tương lai mà để nhận biết hiện tại là kết quả của rất nhiều lựa chọn trong quá khứ, không phải do tất yếu

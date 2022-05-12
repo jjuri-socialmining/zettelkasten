@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Nov/21'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Jacob có hai vợ chính và 2 vợ lẽ
 

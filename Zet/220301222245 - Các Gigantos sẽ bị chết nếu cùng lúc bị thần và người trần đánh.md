@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220301222245
-publish: True
+publish: False
 ---
 ## Notes:
 Các [[Gigantos]] sẽ bị chết nếu cùng lúc bị thần và người trần đánh

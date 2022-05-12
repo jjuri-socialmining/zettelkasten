@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/23'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Loki]] biến thành hải cẩu ăn cắp chiếc vòng cổ của [[Freyja]]. [[Thần Heimdall|Heimdall]] biến thành hải cẩu để đánh bại Loki, lấy lại chiếc vòng và giao lại cho Freyja.

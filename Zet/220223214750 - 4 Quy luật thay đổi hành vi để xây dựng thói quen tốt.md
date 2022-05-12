@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/23'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Dựa vào [[220223214605 - Chu kỳ 4 bước của một thói quen]], ta có 4 Quy luật để thay đổi hành vi xây dựng thói quen tốt:

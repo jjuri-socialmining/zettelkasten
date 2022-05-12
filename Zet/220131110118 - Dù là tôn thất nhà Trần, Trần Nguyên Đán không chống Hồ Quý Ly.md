@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/31'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Trần Nguyên Đán]] là tôn thất cũng là đại thần [[Nhà Trần]]. Tuy nhiên, Trần Nguyên Đán không chống [[Hồ Quý Ly]] mà còn ký thác con của mình cho Quý Ly

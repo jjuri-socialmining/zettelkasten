@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220303211205
-publish: True
+publish: False
 ---
 ## Notes:
 [[Nữ thần Gaia|Gaia]] tặng [[Nữ thần Hera|Hera]] một vườn cây có những cây táo vàng nhân ngày Hera cưới [[Thần Zeus|Zeus]], những cây táo sinh ra những quả táo vàng nằm ở phía cực tây của vườn.

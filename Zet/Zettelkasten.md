@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Oct/01'
   - 'garden'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # Zettelkasten
 

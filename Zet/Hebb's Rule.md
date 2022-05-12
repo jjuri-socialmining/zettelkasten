@@ -7,7 +7,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Định luật Hebb
-publish: True
+publish: False
 ---
 # Hebb's Rule
 

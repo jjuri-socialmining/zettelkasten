@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Trong [[Sử thi Gilgamesh]], 1/3 số nhân vật là con người, 2/3 là thần linh.

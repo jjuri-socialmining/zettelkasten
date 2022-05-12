@@ -7,7 +7,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Ngũ hổ tướng
-publish: True
+publish: False
 ---
 # Ngũ hổ tướng
 

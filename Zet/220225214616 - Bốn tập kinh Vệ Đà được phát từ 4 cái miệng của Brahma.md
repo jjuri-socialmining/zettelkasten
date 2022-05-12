@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/25'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Bốn tập [[Kinh Vệ Đà]] được phát từ 4 cái miệng của [[Thần Brahma]]

@@ -12,7 +12,7 @@ aliases:
   - Thuận Trinh Hoàng hậu
   - Thiên Cực Công Chúa
   - Trần Thị Dung
-publish: True
+publish: False
 ---
 # Linh Từ Quốc mẫu
 

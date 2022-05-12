@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/19'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Hoàng tử Paris]] đến chơi thành Sparta, và gặp được [[Hoàng hậu Helene]] có sắc đẹp tuyệt trần. [[Nữ thần Aphrodite]] đã giúp Paris có được nàng. Khi Paris rời đi, Helen bỏ [[Vua Menelaus]] đi theo chàng Paris.

@@ -5,7 +5,7 @@ tags:
   - 'created/2021/Aug/31'
   - 'seed'
   - 'permanent/concept'
-publish: true
+publish: False
 ---
 # ASCII
 

@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Odin|Odin]] đã đến giếng [[Thần Mirmir|Mirmir]] và đánh đổi một con mắt để lấy sự thông thái và khả năng biết trước tương lai.

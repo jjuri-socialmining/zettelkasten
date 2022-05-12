@@ -5,7 +5,7 @@ tags:
   - 'created/2021/Jul/31'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Bản dịch Septuaginta còn được gọi là Bản bảy mươi
 

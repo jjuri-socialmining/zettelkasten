@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/19'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Hoàng tử Paris]] được thần [[Thần Apollo]] tiết lộ điểm yếu của [[Achilles]] ở nơi gót chân, Paris đã dùng cung bắn vào trúng gót chân và Achilles bị kết liễu.

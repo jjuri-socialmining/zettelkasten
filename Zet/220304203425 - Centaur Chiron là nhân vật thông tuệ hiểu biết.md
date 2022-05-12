@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220304203425
-publish: True
+publish: False
 ---
 ## Notes:
 [[Centaur Chiron]] là nhân vật thông tuệ hiểu biết.

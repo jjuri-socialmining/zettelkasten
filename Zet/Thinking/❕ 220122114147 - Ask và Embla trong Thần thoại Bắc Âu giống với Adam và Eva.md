@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/22'
   - 'seeding'
   - 'permanent/think'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Ask và Embla]] trong Thần thoại Bắc Âu giống với [[Adam và Eva]]

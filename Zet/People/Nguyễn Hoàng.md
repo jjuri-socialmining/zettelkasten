@@ -10,7 +10,7 @@ death: null
 aliases:
   - Chúa Tiên
   - Nguyễn Thái Tổ
-publish: True
+publish: False
 ---
 # Nguyễn Hoàng
 

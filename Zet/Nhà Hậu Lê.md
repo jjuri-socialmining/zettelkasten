@@ -7,7 +7,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Hậu Lê
-publish: True
+publish: False
 ---
 # Nhà Hậu Lê
 

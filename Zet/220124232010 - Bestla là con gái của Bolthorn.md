@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/24'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Bestla]] là con gái của [[Bolthorn]], một [[Người khổng lồ Jotun]]

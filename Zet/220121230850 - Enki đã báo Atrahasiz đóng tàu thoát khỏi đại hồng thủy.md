@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/21'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Enlil]] đã từng tạo ra [[Đại Hồng Thủy]] để tiêu diệt nhân loại nhưng [[Thần Enki|Enki]] đã can thiệp khiến ý định của Enlil thất bại. Enki đã báo cho một người tên là [[Atrahasiz]] để anh ta đóng một con tàu cứu người thân thoát khỏi trận đại hồng thủy.

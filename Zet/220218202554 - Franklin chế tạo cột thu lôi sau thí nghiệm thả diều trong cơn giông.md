@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/18'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Benjamin Franklin]] thả diều trong bão để chứng minh giả thuyết cho rằng set là sự giải phóng sự tích điện trong các đám mây. Ông cũng chính là người phát minh ra cột thu lôi sau đó.

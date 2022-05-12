@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/21'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Sau khi [[Nữ thần Ishtar|Ishtar]] bị giết, trần gian thiếu vắng tình yêu, con người không sinh nở, [[Thần Enki]] đã phải buộc [[Nữ thần Ereshkigal]] hồi sainh cho Ishtar.

@@ -9,7 +9,7 @@ aliases:
   - "Bảo Đại"
   - Vĩnh Thụy
   - Nguyễn Phúc Vĩnh Thụy
-publish: True
+publish: False
 ---
 
 # Bảo Đại

@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Định lý Gödel
-publish: True
+publish: False
 ---
 # Định lý bất toàn của Gödel
 

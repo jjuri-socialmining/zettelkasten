@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Nov/19'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Stalin là nhà cách mạng thuộc phe Bolshevik
 

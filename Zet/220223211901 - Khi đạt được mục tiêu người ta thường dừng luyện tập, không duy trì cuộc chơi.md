@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/23'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Khi đạt được một mục tiêu, người ta thường dừng luyện tập và họ thường trở lại thói quen cũ. Điều này dẫn đến sự thất bại trong quá trình lâu dài

@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/25'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Ấn Độ giáo|Đạo Hindu]] chia thành 2 phái Vishnu và Shiva

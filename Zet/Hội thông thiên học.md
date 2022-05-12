@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Theosophical Society
-publish: True
+publish: False
 ---
 # Hội thông thiên học
 

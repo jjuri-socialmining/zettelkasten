@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220303212625
-publish: True
+publish: False
 ---
 ## Notes:
 Sau khi phát hiện được mưu đồ xấu của Ixion với Hera vợ mình, [[Thần Zeus|Zeus]] sai [[Thần Hermes|Hermes]] bắt [[Ixion]] giam xuống [[Địa ngục Tartarus|Tartarus]]

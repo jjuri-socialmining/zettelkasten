@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/24'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Johannes Kepler]] chứng minh hành tinh chuyển động chậm dần khi đi xa mặt trời

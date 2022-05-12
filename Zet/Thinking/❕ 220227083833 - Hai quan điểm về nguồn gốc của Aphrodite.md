@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/27'
   - 'evergreen'
   - 'permanent/think'
-publish: True
+publish: False
 ---
 ## Notes:
 

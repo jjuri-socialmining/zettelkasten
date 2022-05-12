@@ -7,7 +7,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Tiên Tần
-publish: True
+publish: False
 ---
 # Tiên Tần
 

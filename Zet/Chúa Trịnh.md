@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Chúa Trịnh
-publish: True
+publish: False
 ---
 # Chúa Trịnh
 

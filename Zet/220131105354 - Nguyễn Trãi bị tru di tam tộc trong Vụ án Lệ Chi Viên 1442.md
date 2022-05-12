@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/31'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Nguyễn Trãi]] bị kết án tru di tam tộc trong [[Vụ án Lệ Chi Viên]] năm 1442

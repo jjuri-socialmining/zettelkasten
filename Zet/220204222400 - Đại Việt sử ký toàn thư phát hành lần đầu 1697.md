@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/04'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Đại Việt Sử ký toàn thư]] được phát hành lần đầu tiên năm 1697 dưới thời vua [[Lê Hy Tông]]

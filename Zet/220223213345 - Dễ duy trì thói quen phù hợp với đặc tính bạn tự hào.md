@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/23'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Nếu bạn tự hào về một đặc tính bất kỳ nào của bản thân, bạn dễ duy trì thói quen gắn với đặc tính đó:

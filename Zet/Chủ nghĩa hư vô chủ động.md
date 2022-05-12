@@ -5,7 +5,7 @@ tags:
   - 'created/2021/Jun/04'
   - 'seed'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # Chủ nghĩa hư vô chủ động
 

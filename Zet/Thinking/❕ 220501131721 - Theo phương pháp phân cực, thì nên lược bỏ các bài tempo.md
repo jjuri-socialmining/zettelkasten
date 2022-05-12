@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/think'
 aliases: 220501131721
-publish: True
+publish: False
 ---
 ## Notes:
 Theo [[Phương pháp luyện tập phân cực]], khi tập luyện chạy bộ, tập trung vào các bài tập easy thả lỏng và các bài interval, các bài tempo nên bị loại bỏ.

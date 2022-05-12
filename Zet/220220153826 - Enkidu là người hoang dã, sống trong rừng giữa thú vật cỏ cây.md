@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Enkidu]] là một người hoang dã sống trong rừng giữa cây cối thú vật

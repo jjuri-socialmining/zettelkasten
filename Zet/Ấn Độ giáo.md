@@ -9,7 +9,7 @@ aliases:
   - Đạo Hindu
   - Hindu
   - Hindu giáo
-publish: True
+publish: False
 ---
 # Ấn Độ giáo
 

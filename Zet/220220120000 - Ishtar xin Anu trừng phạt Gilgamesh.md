@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Tức giận vì bị [[Vua Gilgamesh|Gilgamesh]] khước từ tình cảm, [[Nữ thần Ishtar|Ishtar]] xin [[Thần Anu|Anu]] sai [[Bò Gugalanna]] để chừng phạt Gilgamesh. Ishtar cùng Gugalanna đến tàn phá Uruk, Gugalanna uống cạn nước sông Euphrates

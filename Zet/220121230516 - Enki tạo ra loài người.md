@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/21'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Enki]] được coi là cha đẻ của loài người, ông đã nặn đất sét thành hình con người và thổi hơi để tạo ra sự sống.

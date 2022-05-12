@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/18'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Sau khi khám phá ra các ngôn ngữ thuộc hệ Ấn Âu xuất phát chung từ 1 nguồn, người ta tìm ra rằng những người nói tiếng [[Tiếng Sanskrit]] đầu tiên là những người từ Trung Á đến Ấn Độ khoảng hơn 3000 năm trước, họ được gọi là [[Người Aryan]]

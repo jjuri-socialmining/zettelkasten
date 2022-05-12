@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220301224355
-publish: True
+publish: False
 ---
 ## Notes:
 Sau khi được hai con trai là [[Thần Hermes|Hermes]] và Pan cứu khỏi tay [[Typhon]], Zeus giao chiến với Typhon và đánh bại hắn

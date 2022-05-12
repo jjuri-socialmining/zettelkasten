@@ -9,7 +9,7 @@ tags:
   - 'Qmap'
 aliases:
   - sao Thổ
-publish: True
+publish: False
 ---
 # Saturn
 

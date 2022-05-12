@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/05'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Theo [[Đại Việt Sử ký toàn thư]], [[Đế Minh]] đi tuần thú xuống phía nam đến [[Núi Ngũ Lĩnh]] thì sinh [[Kinh Dương Vương|Lộc Tục]]

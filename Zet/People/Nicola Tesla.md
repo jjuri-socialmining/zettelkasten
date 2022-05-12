@@ -9,7 +9,7 @@ birth: 1856
 death: 1943
 aliases:
   - Tesla
-publish: True
+publish: False
 ---
 # Nicola Tesla
 

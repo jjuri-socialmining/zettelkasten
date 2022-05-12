@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220301222714
-publish: True
+publish: False
 ---
 ## Notes:
 Sau khi [[Gigantos]] bị [[Thần Zeus|Zeus]] đánh bại, [[Nữ thần Gaia|Gaia]] tiếp tục nhờ [[Typhon]]

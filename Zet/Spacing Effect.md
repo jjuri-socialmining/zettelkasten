@@ -5,7 +5,7 @@ tags:
   - 'created/2020/Nov/21'
   - 'seed'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # Spacing Effect
 

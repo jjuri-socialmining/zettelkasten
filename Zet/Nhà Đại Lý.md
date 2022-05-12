@@ -6,7 +6,7 @@ tags:
   - 'permanent/concept'
   - 'flashcards'
 aliases: [Nước Đại Lý]
-publish: True
+publish: False
 ---
 # Nước Đại Lý
 

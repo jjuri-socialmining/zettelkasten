@@ -4,7 +4,7 @@ tags:
   - 'created/2021/Aug/14'
   - 'seed'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # Không dung nạp Gluten
 

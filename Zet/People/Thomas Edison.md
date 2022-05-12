@@ -9,7 +9,7 @@ birth: null
 death: null
 aliases:
   - Thomas Alva Edison
-publish: True
+publish: False
 ---
 # Thomas Edison
 

@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - The Dead Sea Scrolls
-publish: True
+publish: False
 ---
 # Các cuộn sách biển Chết
 

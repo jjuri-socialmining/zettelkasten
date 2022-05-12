@@ -9,7 +9,7 @@ tags:
   - 'Qmap'
 birth: null
 death: null
-publish: True
+publish: False
 ---
 # Adolf Hitler
 

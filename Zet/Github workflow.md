@@ -8,7 +8,7 @@ tags:
   - 'permanent/howto'
 aliases:
   - Github action
-publish: True
+publish: False
 ---
 # Github workflow
 

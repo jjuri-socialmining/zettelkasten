@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Astrology
-publish: True
+publish: False
 ---
 # Chiêm tinh học
 

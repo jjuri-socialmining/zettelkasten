@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Jun/28'
   - 'seed'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # Obsidian
 

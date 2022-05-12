@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Nihilism
-publish: True
+publish: False
 ---
 #  Chủ nghĩa Hư vô
 

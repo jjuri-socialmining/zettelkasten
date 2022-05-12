@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220302213932
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Zeus|Zeus]] ban cho [[Thần Hermes|Hermes]] một đôi dép có cánh

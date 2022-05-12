@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/25'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Cây Thế Giới Yggdrasil|Cây Yggdrasil]] mọc ra từ xác [[Người khổng lồ Ymir|Ymir]]

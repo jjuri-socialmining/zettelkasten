@@ -7,7 +7,7 @@ tags:
   - 'flashcards'
 aliases:
   - Mông Kha Hãn
-publish: True
+publish: False
 ---
 # Mông Kha
 

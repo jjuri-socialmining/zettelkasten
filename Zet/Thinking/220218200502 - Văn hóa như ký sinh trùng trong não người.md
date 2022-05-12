@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/18'
   - 'evergreen'
   - 'permanent/think'
-publish: True
+publish: False
 ---
 ## Notes:
 Nhiều học giả so sánh văn hóa như ký sinh trùng trong não người

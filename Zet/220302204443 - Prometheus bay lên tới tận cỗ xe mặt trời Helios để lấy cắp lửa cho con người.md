@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220302204443
-publish: True
+publish: False
 ---
 ## Notes:
 [[Bảo Bình|Prometheus]] bay lên tới tận cỗ xe mặt trời [[Titan Helios|Thần mặt trời Helios]] để lấy cắp lửa cho con người.

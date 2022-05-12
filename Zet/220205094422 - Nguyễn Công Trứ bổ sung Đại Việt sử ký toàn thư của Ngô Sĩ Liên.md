@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/05'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Nhóm của [[Nguyễn Công Trứ]] tiếp tục biên soạn và bổ sung trên bản [[Đại Việt Sử ký toàn thư]] của [[Ngô Sĩ Liên]]

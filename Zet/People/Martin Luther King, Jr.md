@@ -7,7 +7,7 @@ tags:
   - 'permanent/people'
 birth: 1929-01-15
 death: 1968-04-04
-publish: True
+publish: False
 ---
 # Martin Luther King, Jr
 

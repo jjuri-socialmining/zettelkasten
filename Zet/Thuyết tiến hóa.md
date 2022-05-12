@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Học thuyết Darwin
-publish: True
+publish: False
 ---
 # Thuyết tiến hóa
 

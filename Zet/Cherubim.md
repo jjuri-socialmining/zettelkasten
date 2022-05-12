@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Kêrubim
-publish: True
+publish: False
 ---
 # Cherubim
 

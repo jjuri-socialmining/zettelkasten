@@ -8,7 +8,7 @@ tags:
   - 'permanent/place'
 aliases:
   - Sistine Chapel
-publish: True
+publish: False
 ---
 # Nhà nguyện Sistine
 

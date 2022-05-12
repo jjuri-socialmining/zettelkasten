@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/19'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Daedalus]] đưa cho [[Icarus]] đôi cánh và dặn rằng khi bay, không được bay quá cao vì sức nóng mặt trời sẽ làm chảy sáp ong.

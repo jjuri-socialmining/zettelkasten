@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Freyr|Freyr]] yêu đơn phương [[Gerd]], một người [[Người khổng lồ Jotun]]

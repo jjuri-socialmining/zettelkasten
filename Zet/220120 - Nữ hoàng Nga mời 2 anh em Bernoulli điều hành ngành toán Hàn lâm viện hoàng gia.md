@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Năm 1725, [[Nữ hoàng Nga Catherine I]] mời [[Daniel Bernoulli]] và anh trai là Nicolas II điều hành ngành Toán của Hàn lâm Viện Hoàng gia Saint-Petersburg.

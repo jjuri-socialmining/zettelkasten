@@ -11,7 +11,7 @@ aliases:
   - Các Mác
   - Marx
   - Karl Heinrich Marx
-publish: True
+publish: False
 ---
 # Karl Marx
 

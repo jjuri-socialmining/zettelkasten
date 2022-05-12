@@ -11,7 +11,7 @@ death: null
 aliases:
   - Trump
   - Tổng thống Trump
-publish: True
+publish: False
 ---
 # Donald J. Trump
 

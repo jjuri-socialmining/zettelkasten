@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Hành tinh Maldek
-publish: True
+publish: False
 ---
 # Sao Maldek
 

@@ -5,7 +5,7 @@ tags:
   - 'created/2021/Sep/03'
   - 'seed'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # autophagy
 

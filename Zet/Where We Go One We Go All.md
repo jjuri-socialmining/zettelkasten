@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - WWG1WGA
-publish: True
+publish: False
 ---
 # Where We Go One We Go All
 

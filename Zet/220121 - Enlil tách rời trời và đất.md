@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/21'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Theo [[Thần thoại Lưỡng Hà]], ban đầu trời đất gắn liền nhau, [[Thần Enlil]] đã lấy không khí phân tách ra, [[Thần Anu]] cai quản trời, [[thần Ki]] cai quản phần đất.

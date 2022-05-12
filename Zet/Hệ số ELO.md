@@ -6,7 +6,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - ELO
-publish: True
+publish: False
 ---
 # Hệ số ELO
 

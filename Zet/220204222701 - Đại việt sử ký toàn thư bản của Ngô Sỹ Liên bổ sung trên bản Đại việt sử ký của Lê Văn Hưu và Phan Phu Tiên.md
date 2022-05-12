@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
   - 'history'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Đại Việt Sử ký toàn thư]] bản của Ngô Sỹ Liên được biên soạn và bổ sung dựa trên hai bộ [[Đại Việt sử ký]] của [[Lê Văn Hưu]] và [[Phan Phu Tiên]]

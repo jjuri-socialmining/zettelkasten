@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/25'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Trái đất là một cái đĩa nằm trên cây [[Cây Thế Giới Yggdrasil|Yggdrasil]]

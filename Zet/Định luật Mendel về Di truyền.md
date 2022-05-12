@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/13'
   - 'seed'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # Định luật Mendel về Di truyền
 

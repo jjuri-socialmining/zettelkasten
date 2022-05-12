@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Odin]] là người cai quản [[Vùng đất Asgard]]. Odin cũng chính là người cai quản các vị thần.

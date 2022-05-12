@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Đức Quốc Xã
-publish: True
+publish: False
 ---
 # Đảng Quốc Xã
 

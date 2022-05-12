@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Illuminati
-publish: True
+publish: False
 ---
 # Hội Illuminati
 

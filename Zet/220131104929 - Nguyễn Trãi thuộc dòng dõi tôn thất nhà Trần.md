@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/31'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Nguyễn Trãi]] là con của [[Nguyễn Phi Khanh]] và [[Trần Thị Thái]], cháu ngoại của [[Trần Nguyên Đán]]. Trần Nguyên Đán là dòng dõi của [[Trần Quang Khải]]

@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/24'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Người khổng lồ Ymir|Ymir]] dần trở nên độc ác nên 3 anh em [[Thần Odin|Odin]] quyết định tiêu diệt Ymir

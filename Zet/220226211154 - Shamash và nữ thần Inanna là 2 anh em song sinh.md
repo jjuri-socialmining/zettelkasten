@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/26'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Shamash]] và [[Nữ thần Inanna]] là 2 anh em song sinh

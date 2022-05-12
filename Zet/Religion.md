@@ -10,7 +10,7 @@ tags:
 aliases:
   - Tôn giáo
   - Religion
-publish: True
+publish: False
 ---
 # Tôn giáo
 

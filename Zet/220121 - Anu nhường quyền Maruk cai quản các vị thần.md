@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/21'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Anu|Anu]] về sau nhường quyền cho người cháu nội mình là [[Thần Marduk]] thay ông cai quản các vị thần

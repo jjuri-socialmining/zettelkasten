@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/21'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Hàm Nghi]] bị [[Nước Pháp|Pháp]] đày sang Algérie

@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/24'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Dựa vào nguyên tắc 1 (Cue) dấu hiệu: hãy tạo dấu hiệu thói quen ở nơi dễ nhìn thấy. Ví dụ, để giày ngay cửa ra vào để tập thể dục, để sách ngay trên bàn hoặc cạnh giường nếu bạn muốn xây dựng thói quen đọc sách trước khi ngủ.

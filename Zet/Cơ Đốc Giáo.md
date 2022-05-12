@@ -6,7 +6,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Kito Giáo
-publish: True
+publish: False
 ---
 # Cơ Đốc giáo
 

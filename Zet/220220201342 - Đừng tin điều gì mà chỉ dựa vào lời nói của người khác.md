@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Đừng tin điều gì mà chỉ thông qua lời nói của người khác, hãy tự suy nghĩ phân tích bằng chính trí tuệ của bạn và nó phải thỏa lòng bạn trước khi điều đó được chính bạn chấp nhận.

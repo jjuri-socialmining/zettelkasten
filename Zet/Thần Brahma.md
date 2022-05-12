@@ -9,7 +9,7 @@ tags:
 aliases:
   - Brahma
   - Phạm Thiên
-publish: True
+publish: False
 ---
 # Thần Brahma
 

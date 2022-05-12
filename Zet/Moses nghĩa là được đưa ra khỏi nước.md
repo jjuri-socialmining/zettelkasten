@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Nov/20'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Moses nghĩa là được đưa ra khỏi nước
 

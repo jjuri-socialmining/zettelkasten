@@ -10,7 +10,7 @@ tags:
 aliases:
   - Thuyết ưu sinh
   - Phong trào ưu sinh
-publish: True
+publish: False
 ---
 # Eugenics
 

@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Jun/29'
   - 'seed'
   - 'permanent/think'
-publish: True
+publish: False
 ---
 # ❕ Chủ nghĩa hư vô và chủ nghĩa hiện sinh
 

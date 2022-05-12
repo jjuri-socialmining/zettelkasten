@@ -9,7 +9,7 @@ birth: null
 death: null
 aliases:
   - null
-publish: True
+publish: False
 ---
 # Đế Nghiêu
 

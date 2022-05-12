@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/14'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Định luật entropy phủ định quá trình tiến hóa
 

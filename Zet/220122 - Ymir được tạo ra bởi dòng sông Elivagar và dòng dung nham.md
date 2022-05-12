@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Người khổng lồ Ymir]] được tạo ra khi [[Dòng sông băng Elivagar]] từ [[Vùng đất Niflheim]] chảy xuống [[Vùng đất Ginnungagap]] đóng thành một lớp dày. Dòng dung nham bắt nguồn từ [[Vùng đất Muspelheim]] cũng tràn xuống Ginnungagap làm tan chảy băng, trong dòng nước sinh ra một

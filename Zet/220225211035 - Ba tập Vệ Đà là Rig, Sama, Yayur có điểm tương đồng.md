@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/25'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Ba tập Vệ Đà là [[Rig Veda]], [[Sama Veda]], [[Yayur Veda]] có điểm tương đồng

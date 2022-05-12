@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220303203546
-publish: True
+publish: False
 ---
 ## Notes:
 Vua đầu tiên của Ai Cập là con của [[Thần Zeus|Zeus]] và [[Nữ thần Io]] theo thần thoại Hy Lạp

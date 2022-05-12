@@ -5,7 +5,7 @@ tags:
   - 'created/2021/Jul/31'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Bản dịch Vulgate là bản dịch Cựu ước từ tiếng Hipri của Thánh Jerome
 

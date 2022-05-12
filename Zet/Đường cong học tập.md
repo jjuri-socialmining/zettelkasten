@@ -8,7 +8,7 @@ tags:
 aliases:
   - Learning Curl
   - Learning Curl - Đường cong học tập
-publish: True
+publish: False
 ---
 # Đường cong học tập
 

@@ -11,7 +11,7 @@ aliases:
   - Tất-đạt-đa Cồ-đàm
   - Đức Phật
   - Phật Thích ca
-publish: True
+publish: False
 ---
 # Siddhartha Gautama
 

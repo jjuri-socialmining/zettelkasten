@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Mặc môn giáo
-publish: True
+publish: False
 ---
 # Mormon giáo
 

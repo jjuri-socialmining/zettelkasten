@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220302212744
-publish: True
+publish: False
 ---
 ## Notes:
 Biểu tượng [[Ngọn lửa Prometheus]] tượng trưng cho tự do, tiến bộ, dựa theo câu chuyện [[Bảo Bình|Prometheus]] ăn cắp lửa, đem ánh sáng đến cho con người.

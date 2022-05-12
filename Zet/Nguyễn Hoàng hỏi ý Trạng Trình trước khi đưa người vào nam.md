@@ -4,7 +4,7 @@ tags:
   - 'created/2021/Jul/15'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Nguyễn Hoàng hỏi ý Trạng Trình trước khi đưa người vào nam
 

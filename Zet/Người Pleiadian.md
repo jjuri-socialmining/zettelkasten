@@ -9,7 +9,7 @@ tags:
 aliases:
   - Người Pleiades
   - Người Pleiadian
-publish: True
+publish: False
 ---
 # Người Pleiadian
 

@@ -10,7 +10,7 @@ aliases:
   - Madame Blavatsky
 birth: 1831-08-12
 death: 1891-08-05
-publish: True
+publish: False
 ---
 # Helena Blavatsky
 

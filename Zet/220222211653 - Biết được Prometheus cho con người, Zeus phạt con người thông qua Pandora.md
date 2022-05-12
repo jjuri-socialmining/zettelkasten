@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Biết được [[Bảo Bình|Prometheus]] ăn cắp lửa cho con người, [[Thần Zeus]] quyết định trừng phạt ông và con người. Zeus sai [[Thần Hephaestus]] tạo ra một người phụ nữ tên là [[Pandora]]. Zeus gả Pandora cho [[Epimetheus]] và tặng cho Pandora 1 chiếc hộp cất giữ tất cả các điều xấu xa. Mặc dù được căn dặn không được mở nhưng Pandora đã không thể thắng tính tò mò của mình. Khi chiếc hộp được mở, mọi thứ xấu xa thoát ra: lòng tham, sự xấu xa.

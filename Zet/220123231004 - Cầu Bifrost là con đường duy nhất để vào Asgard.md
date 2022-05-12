@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/23'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Cầu Bifrost|Cầu vồng Bifrost]] là con đường duy nhất để đến được [[Vùng đất Asgard|Asgard]]

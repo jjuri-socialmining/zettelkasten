@@ -5,7 +5,7 @@ tags:
   - 'created/2020/Oct/21'
   - 'seed'
   - 'permanent/howto'
-publish: True
+publish: False
 ---
 # How to use Bibliography
 

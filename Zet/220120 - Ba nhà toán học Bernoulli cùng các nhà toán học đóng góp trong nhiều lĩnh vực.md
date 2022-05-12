@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Ba nhà toán học gia đình Bernoulli ([[Jacob Bernoulli]], [[Johann Bernoulli]], [[Daniel Bernoulli]]) cùng với các nhà toán học Isaac Newton, Gottfried Leibniz, Leonhard Euler, và Joseph Lagrange đóng góp vào quá trình hình thành phát triển Tính vi-Tích- phân, Hình học, Cơ học, Nhiệt động học, Thủy động học (Hydrodynamics), Quang học, Thiên văn học, Xác suất học

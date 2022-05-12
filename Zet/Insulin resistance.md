@@ -7,7 +7,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Kháng Insulin
-publish: True
+publish: False
 ---
 # Insulin resistance
 

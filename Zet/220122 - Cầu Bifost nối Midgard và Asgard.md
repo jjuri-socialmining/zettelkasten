@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Vùng đất Midgard]] và [[Vùng đất Asgard]] được nối với nhau bởi cây [[Cầu Bifrost]]

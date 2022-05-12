@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Vùng đất Ginnungagap]] là vùng đất hư vô ở trung tâm ngăn cách [[Vùng đất Niflheim]] và [[Vùng đất Muspelheim]]

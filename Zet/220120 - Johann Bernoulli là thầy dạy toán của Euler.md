@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Johann Bernoulli]] là thầy dạy toán của [[Leonhard Euler]] 

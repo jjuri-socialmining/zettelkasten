@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/18'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Huyền thoại vua [[Vua Gilgamesh]] của người [[Sumer]] kể rằng ông là một vị vua bách chiến bách thằng. Sau khi chứng kiến cái chết của người bạn thân, ông quyết tâm đánh bại cái chết, ông đi cùng trời cuối đất, tìm đường sang thế giới bên kia. Cuối cùng ông không thoát khỏi nó. Và ông nhận ra rằng [[God|Thượng Đế]] tạo ra sự sống thì cũng tạo ra cái chết.

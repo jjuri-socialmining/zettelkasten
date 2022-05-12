@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/18'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Trong quyển Của cải của các dân tộc, [[Adam Smith]] cho rằng sự gia tăng của cải của cá nhân là cơ sở gia tăng sự giàu có của tập thể.

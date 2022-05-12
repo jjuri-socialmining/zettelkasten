@@ -10,7 +10,7 @@ aliases:
   - Thư viện Akashic
   - Akashic
   - Tàng thư Akasha
-publish: True
+publish: False
 ---
 # Akashic records
 

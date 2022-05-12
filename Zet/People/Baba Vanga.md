@@ -7,7 +7,7 @@ tags:
   - 'permanent/people'
 birth: 1911-01-31
 death: 1996-08-11
-publish: True
+publish: False
 ---
 # Baba Vanga
 

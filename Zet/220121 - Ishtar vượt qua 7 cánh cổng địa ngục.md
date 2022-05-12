@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/21'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Nữ thần Ishtar]] đã vượt qua 7 cánh cổng để đến địa ngục. Sau đó, Ishtar bị nữ thần cai quản địa ngục - [[Nữ thần Ereshkigal]] - giết chết và treo xác trên một chiếc cọc.

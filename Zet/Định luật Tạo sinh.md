@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - The Law of Biogenesis
-publish: True
+publish: False
 ---
 # Định luật Tạo sinh
 

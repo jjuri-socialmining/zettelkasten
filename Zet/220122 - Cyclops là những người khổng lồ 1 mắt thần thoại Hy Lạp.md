@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Người khổng lồ Cyclops]] là tên để gọi những tên khổng lồ một mắt trong [[Thần thoại Hy Lạp]]

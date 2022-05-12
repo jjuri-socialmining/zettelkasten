@@ -7,7 +7,7 @@ tags:
   - 'permanent/people'
 aliases:
   - Doanh Chính
-publish: True
+publish: False
 ---
 # Tần Thủy Hoàng
 

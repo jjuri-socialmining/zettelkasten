@@ -4,7 +4,7 @@ tags:
   - 'created/2021/Jul/31'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Moise được cho là đã viết Ngũ Kinh Cựu Ước
 

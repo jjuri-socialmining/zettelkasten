@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/think'
-publish: True
+publish: False
 ---
 ## Notes:
 Đau khổ không phải khi nào cũng đem lại cho bạn điều xấu. Nhờ đau khổ ta biết được giới hạn của bản thân

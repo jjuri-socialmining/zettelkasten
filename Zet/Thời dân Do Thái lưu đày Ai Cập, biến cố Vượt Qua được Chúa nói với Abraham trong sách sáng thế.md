@@ -7,7 +7,7 @@ tags:
   - 'created/2021/Oct/06'
   - 'seed'
   - 'permanent/linking'
-publish: True
+publish: False
 ---
 # Thời dân Do Thái lưu đày Ai Cập, biến cố Vượt Qua được Chúa nói với Abraham trong sách sáng thế
 

@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/27'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Sau khi [[Cronus]] lật đổ cha mình là [[Thần bầu trời Uranus|Uranus]] giải thoát cho [[Người khổng lồ Cyclops|Cyclops]] và [[Hecatonchire]], Cronus xích mích với họ và lại nhốt họ lại trong [[Địa ngục Tartarus|Tartarus]] lần nữa.

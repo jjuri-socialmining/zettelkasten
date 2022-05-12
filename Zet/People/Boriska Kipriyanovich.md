@@ -8,7 +8,7 @@ tags:
 birth: 1996-01-11
 aliases:
   - Cậu bé sao Hỏa
-publish: True
+publish: False
 ---
 # Boriska Kipriyanovich
 

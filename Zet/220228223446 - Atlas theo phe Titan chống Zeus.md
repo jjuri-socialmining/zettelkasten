@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220228223446
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Atlas|Atlas]] theo phe [[Người khổng lồ Titan|Titan]] chống [[Thần Zeus]]

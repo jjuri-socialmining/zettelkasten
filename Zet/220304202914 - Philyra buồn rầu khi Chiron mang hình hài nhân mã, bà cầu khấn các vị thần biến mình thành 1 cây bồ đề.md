@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220304202914
-publish: True
+publish: False
 ---
 ## Notes:
 [[Tiên nữ Philyra]] buồn rầu khi [[Centaur Chiron]] con mình mang hình hài nhân mã. Bà cầu khấn các vị thần giải thoát mình khỏi sự đau khổ này, các thần đã biến bà thành 1 cây bồ đề

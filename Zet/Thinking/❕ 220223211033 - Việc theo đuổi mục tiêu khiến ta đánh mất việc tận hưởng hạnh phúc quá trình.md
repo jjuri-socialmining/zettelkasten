@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/23'
   - 'evergreen'
   - 'permanent/think'
-publish: True
+publish: False
 ---
 ## Notes:
 Khi theo đuổi một mục tiêu, chúng ta thường gạt hạnh phúc sang một bên. Đây là một cái bẫy tâm lý của việc thiết lập  và theo đuổi mộ mục tiêu. Cho đến cuối quá trình việc bạn đạt được mục tiêu cũng không thể giúp bạn thực sự sống lại từng phút giây hạnh phúc suốt quá trình trước đó, tai hại hơn nếu mục tiêu thất bại, bạn sẽ lạnh một sự thất vọng.

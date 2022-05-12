@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Trong lúc ngủ, những giọt mồ hôi dưới cánh tay của [[Người khổng lồ Ymir]] tạo ra hai [[Người khổng lồ Jotun|người khổng lồ]] một nam một nữ. Cặp chân của Ymir tạo ra một người khổng lồ nữa là [[Thrudgelmir - Strength Yeller|Thrudgelmir “Strength Yeller”]] .

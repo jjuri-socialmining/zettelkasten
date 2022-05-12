@@ -6,7 +6,7 @@ tags:
   - 'permanent/fact'
 aliases:
   - Counsil of Nicaea
-publish: True
+publish: False
 ---
 # Công Đồng Nicea 325
 

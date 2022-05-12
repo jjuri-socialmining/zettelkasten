@@ -5,7 +5,7 @@ tags:
   - 'created/2020/Oct/22'
   - 'seed'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # Kỹ thuật học tập Feymann
 

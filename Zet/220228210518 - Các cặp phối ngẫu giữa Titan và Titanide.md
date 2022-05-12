@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220228210518
-publish: True
+publish: False
 ---
 ## Notes:
 Các cặp phối ngẫu giữa [[Người khổng lồ Titan|Titan]] và Titanide:

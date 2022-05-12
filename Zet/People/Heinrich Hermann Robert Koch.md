@@ -7,7 +7,7 @@ tags:
   - 'permanent/people'
 birth: null
 death: null
-publish: True
+publish: False
 ---
 # Heinrich Hermann Robert Koch
 

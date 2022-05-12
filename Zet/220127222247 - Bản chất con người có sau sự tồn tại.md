@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/27'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Các triết gia [[Chủ Nghĩa Hiện Sinh|Hiện sinh]] cho rằng con người phải tồn tại thì mới hình thành bản chất.

@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Nov/03'
   - 'seed'
   - 'permanent/linking'
-publish: True
+publish: False
 ---
 # Khoa học và các cú mị dân
 

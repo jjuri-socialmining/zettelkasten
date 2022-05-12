@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/definition'
 aliases: 'Aliases'
-publish: True
+publish: False
 ---
 ## Notes:
 

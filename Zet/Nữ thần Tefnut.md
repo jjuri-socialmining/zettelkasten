@@ -9,7 +9,7 @@ tags:
 aliases:
   - Tefenet
   - Tefnet
-publish: True
+publish: False
 ---
 # Nữ thần Tefnut
 

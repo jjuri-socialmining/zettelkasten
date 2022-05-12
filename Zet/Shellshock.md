@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Aug/30'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Shellshock
 

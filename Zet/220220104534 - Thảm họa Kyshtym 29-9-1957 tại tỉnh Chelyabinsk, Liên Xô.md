@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thảm họa Kyshtym]] xảy ra vào 29 tháng 9 năm 1957 tại nhà máy Mayak, tỉnh [[Chelyabinsk]].

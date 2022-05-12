@@ -9,7 +9,7 @@ birth: null
 death: null
 aliases:
   - Luhmann
-publish: True
+publish: False
 ---
 # Niklas Luhmann
 

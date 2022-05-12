@@ -10,7 +10,7 @@ aliases:
   - Kundalini yoga
   - Yoga nhận thức
   - Hỏa xà
-publish: True
+publish: False
 ---
 # Kundalini
 

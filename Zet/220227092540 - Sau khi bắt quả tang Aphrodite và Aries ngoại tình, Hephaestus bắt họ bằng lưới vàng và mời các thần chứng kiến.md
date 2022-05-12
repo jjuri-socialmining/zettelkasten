@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/27'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Sau khi bắt quả tang [[Nữ thần Aphrodite|Aphrodite]] và [[Thần Ares|Ares]] ngoại tình, [[Thần Hephaestus|Hephaestus]] bắt họ bằng lưới vàng và mời các [[Thần Apollo]], [[Thần Hermes|Hermes]] và [[Thần Poseidon|Poseidon]] đến chứng kiến.

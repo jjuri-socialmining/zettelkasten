@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Sau khi [[Người khổng lồ Ymir|Ymir]] bị [[Thần Odin]] giết, chỉ còn hai [[Người khổng lồ Jotun]] sống sót là [[Bergelmir]] và vợ. Hai vợ chồng họ chạy đến vùng đất sương mù [[Vùng đất Jotunheim]].

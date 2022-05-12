@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Atlas|Atlas]] xuất hiện trong câu chuyện 12 chiến công của [[Heracles]].

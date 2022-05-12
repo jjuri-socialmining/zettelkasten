@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Nghề nghiệp của chúng ta không chỉ là phương tiện mưu sinh, nó đặt trên nền tảng của sự ghen tị, nó hướng tới địa vị và quyền lực và điều này gây ra sự rối loạn

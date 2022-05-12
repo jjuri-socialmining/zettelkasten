@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/18'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thuyết tiến hóa|Học thuyết Darwin]] cùng với nghiên cứu nguồn gốc [[Người Aryan]] đã dẫn đến sự kỳ thị chủng tộc.

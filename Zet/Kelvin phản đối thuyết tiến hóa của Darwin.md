@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/12'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Kelvin phản đối thuyết tiến hóa của Darwin
 

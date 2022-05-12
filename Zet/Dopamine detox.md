@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Aug/10'
   - 'seed'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # Dopamine detox
 

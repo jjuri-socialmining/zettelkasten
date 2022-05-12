@@ -5,7 +5,7 @@ tags:
   - 'created/2021/Jul/25'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Gandhi ảnh hưởng bởi Lev Tolstoy và Henry Thoreau
 

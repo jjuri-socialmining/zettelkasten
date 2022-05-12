@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/19'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Nữ thần Thetis]] tiên đoán Achilles con mình sẽ chết tại thành Troy nên đã cải trang [[Achilles]] thành con gái và giấu trong cung điện của Lycomedes.

@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/23'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Theo [[Sử thi Gilgamesh]], [[Thần Enki|Enki]] là vị thần tạo ra con người. Trong khi [[Sử thi Enuma Elish]] cho rằng vị thần đó là [[Thần Marduk]], con của [[Thần Enki|Enki]]

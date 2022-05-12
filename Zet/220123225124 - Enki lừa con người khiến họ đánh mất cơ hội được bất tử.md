@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/23'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 - Người trần đầu tiên là [[Adapa]], vua của [[Eridu]]

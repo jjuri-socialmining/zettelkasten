@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220304211259
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Zeus]] rất ghét [[Thần Ares|Thần chiến tranh Ares]] dù là con của mình

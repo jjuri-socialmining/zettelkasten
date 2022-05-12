@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/21'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Khi các vị thần trẻ sinh sôi nhiều, [[Thần Abzu|Thần Apzu]] muốn giết bớt các vị thần trẻ. Tuy nhiên, [[Thần Enki]] đã giết Apzu trước khi ông thực hiện được ý định.

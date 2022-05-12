@@ -7,7 +7,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Ngôi sao sáu cánh
-publish: True
+publish: False
 ---
 # Ngôi sao David
 

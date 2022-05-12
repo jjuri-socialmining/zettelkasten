@@ -7,7 +7,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Tam Hoàng
-publish: True
+publish: False
 ---
 # Tam Hoàng Trung Hoa
 

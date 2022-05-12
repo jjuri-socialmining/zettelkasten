@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220228220208
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Zeus|Zeus]] sinh ra ở đảo Crete, và sống bí mật ở đó lúc bé để [[Titan Cronus|Cronus]] không phát hiện

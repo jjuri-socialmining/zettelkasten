@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Oct/05'
   - 'garden'
   - 'permanent/linking'
-publish: True
+publish: False
 ---
 # Các kênh thông tin trái chiều
 

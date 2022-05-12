@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Bảo Bình|Prometheus]]  yêu quý con người và ông ăn cắp lửa của các vị thần trao cho con người

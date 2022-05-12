@@ -10,7 +10,7 @@ death: 2005-02-13
 aliases:
   - Chị Lucia
   - Lucia of Fatima
-publish: True
+publish: False
 ---
 # Lúcia dos Santos
 

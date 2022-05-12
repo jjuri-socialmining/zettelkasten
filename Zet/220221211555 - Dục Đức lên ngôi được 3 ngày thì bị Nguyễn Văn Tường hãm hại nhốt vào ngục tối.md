@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/21'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Dục Đức]] lên ngôi được 3 ngày từ 20 cho đến ngày 23 tháng 7 năm 1883, sau đó bị [[Nguyễn Văn Tường]] hãm hại, giam vào ngục tối và bỏ đói. Vua Dục Đức mất năm 6 tháng 10 năm 1883

@@ -9,7 +9,7 @@ tags:
 aliases:
   - AZT
   - Azidothymidine
-publish: True
+publish: False
 ---
 # Zidovudin
 

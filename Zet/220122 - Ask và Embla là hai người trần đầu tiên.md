@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Theo [[Thần thoại Bắc Âu]], người phụ nữ đầu tiên tên là [[Ask và Embla|Embla]], người đàn ông tên là [[Ask và Embla|Ask]]. 

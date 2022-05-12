@@ -9,7 +9,7 @@ birth: null
 death: null
 aliases:
   - Lucius Annaeus Seneca
-publish: True
+publish: False
 ---
 # Seneca
 

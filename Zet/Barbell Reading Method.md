@@ -1,5 +1,5 @@
 ---
-publish: True
+publish: False
 ---
 # Barbell Reading Method
 

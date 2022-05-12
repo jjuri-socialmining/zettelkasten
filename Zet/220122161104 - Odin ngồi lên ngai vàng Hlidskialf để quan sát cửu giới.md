@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Ngai vàng của [[Thần Odin]] được gọi là [[Hlidskialf]], được ông dùng để quan sát cửu giới

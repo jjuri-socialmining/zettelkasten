@@ -9,7 +9,7 @@ tags:
 aliases:
   - Cục Điều tra Liên bang
   - Federal Bureau of Investigation
-publish: True
+publish: False
 ---
 # FBI
 

@@ -9,7 +9,7 @@ birth: null
 death: null
 aliases:
   - William Thomson
-publish: True
+publish: False
 ---
 # Lord Kelvin
 

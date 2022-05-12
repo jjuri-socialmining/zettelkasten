@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220304203917
-publish: True
+publish: False
 ---
 ## Notes:
  Asclepios bị chính sét từ tay thần Zeus đánh, vũ khí đó được tạo ra từ những Cyclops. Và đương nhiên là Apllo không thể trả thù [[Thần Zeus|Zeus]] được. [[Thần Apollo|Apollo]] giết 3 [[Người khổng lồ Cyclops|Cyclops]] để trả thù cho con mình là [[Asclepios]]. 

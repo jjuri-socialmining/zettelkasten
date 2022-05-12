@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/18'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Học giả William Jone đã khám phá ra sự tương đồng giữa [[Tiếng Sanskrit]] và các ngôn ngữ Latinh, Gothic mà sau này gọi là [[Ngữ hệ Ấn-Âu]]

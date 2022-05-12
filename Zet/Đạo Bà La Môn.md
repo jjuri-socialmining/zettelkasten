@@ -7,7 +7,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Brahmin
-publish: True
+publish: False
 ---
 # Đạo Bà La Môn
 

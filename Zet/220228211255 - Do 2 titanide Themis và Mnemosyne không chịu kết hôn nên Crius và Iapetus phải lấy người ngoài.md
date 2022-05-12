@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220228211255
-publish: True
+publish: False
 ---
 ## Notes:
 Do 2 titanide [[Titan Themis|Titanide Themis]] và [[Titan Mnemosyne|Titanide Mnemosyne]] không chịu kết hôn nên [[Titan Crius]] và [[Titan Iapetus]] phải lấy người ngoài

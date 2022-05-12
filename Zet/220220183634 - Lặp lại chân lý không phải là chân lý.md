@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Nếu ta lặp lại chân lý thì nó không còn là chân lý nữa. Chân lý phải dựa trên sự tự nhận biết của chính mình không thông qua hay phụ thuộc vào người khác.

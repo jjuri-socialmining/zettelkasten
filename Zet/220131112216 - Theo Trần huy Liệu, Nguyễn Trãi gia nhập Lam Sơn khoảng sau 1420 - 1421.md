@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/31'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Theo [[Trần Huy Liệu]], [[Nguyễn Trãi]] gia nhập [[Khởi nghĩa Lam Sơn]] sau năm 1420 hoặc 1421.

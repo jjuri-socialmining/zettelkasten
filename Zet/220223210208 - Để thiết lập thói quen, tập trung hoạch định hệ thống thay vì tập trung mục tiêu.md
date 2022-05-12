@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/23'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Để thiết lập thói quen, thay vì tập trung vào mục tiêu thì giành thời gian hoạch định hệ thống.

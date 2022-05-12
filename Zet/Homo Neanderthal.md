@@ -7,7 +7,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Người Neanderthal
-publish: True
+publish: False
 ---
 # Homo Neanderthal
 

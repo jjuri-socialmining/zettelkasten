@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/27'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Nữ thần Aphrodite|Aphrodite]] thường được cho là sinh ra ở đảo Síp, nên đôi khi ta sẽ bắt gặp bà được gọi là người Cypria

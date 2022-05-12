@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/18'
   - 'evergreen'
   - 'permanent/think'
-publish: True
+publish: False
 ---
 ## Notes:
 Hành động từ thiện của người giàu cũng chỉ như một hành động ăn ăn cho hành vi bóc lột của họ.

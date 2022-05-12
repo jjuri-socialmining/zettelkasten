@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/18'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Theo [[Phật Giáo]], giải thoát khỏi đau khổ là hiểu được sự vô thường của cảm xúc và ngưng thèm khát chúng.

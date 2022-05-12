@@ -5,7 +5,7 @@ tags:
   - 'created/2020/Dec/12'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Hoà thượng Thích Quảng Đức tự thiêu
 

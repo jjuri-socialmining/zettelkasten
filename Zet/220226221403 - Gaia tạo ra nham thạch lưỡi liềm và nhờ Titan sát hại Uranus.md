@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/26'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Nữ thần Gaia|Gaia]] tạo ra nham thạch lưỡi liềm và nhờ [[Người khổng lồ Titan|Các Titan]] sát hại [[Thần bầu trời Uranus|Uranus]]

@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/think'
 aliases: 220501131951
-publish: True
+publish: False
 ---
 ## Notes:
 Theo [[Phương pháp luyện tập phân cực]], mục đích loại bỏ các bài tập trung bình để cơ thể có thời gian nghỉ ngơi, và hoàn thành các bài nặng chất lượng.

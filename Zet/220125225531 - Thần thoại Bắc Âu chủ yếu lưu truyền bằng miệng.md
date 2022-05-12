@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/25'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần thoại Bắc Âu]] là những câu chuyện chủ yếu lưu truyền bằng miệng

@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Sau khi phe Titan thua cuộc, [[Thần Zeus]] giam giữ  [[Người khổng lồ Titan|Các Titan]] trong [[Địa ngục Tartarus]], Atlas nhận hình phạt nặng nhất là suốt đời gánh đỡ cả bẩu trời.

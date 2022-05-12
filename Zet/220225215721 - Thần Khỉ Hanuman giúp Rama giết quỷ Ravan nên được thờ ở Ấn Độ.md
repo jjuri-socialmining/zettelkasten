@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/25'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Khỉ Hanuman]] giúp [[Hoàng tử Rama]] giết quỷ Ravan nên được thờ ở Ấn Độ.

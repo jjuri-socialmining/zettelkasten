@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/18'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Hình tượng [[Atlantis]] của Plato được sử dụng lại trong [[@ Thomas Bacon, New Atlantis]] của [[Thomas Bacon]] và [[@ Thomas More, Utopia]] của [[Thomas More]].

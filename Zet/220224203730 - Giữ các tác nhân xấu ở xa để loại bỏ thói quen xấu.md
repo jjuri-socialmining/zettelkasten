@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/24'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Hãy giữ các tác nhân gây hại ở xa tầm tay, tầm mắt: bỏ điện thoại ở bên ngoài phòng làm việc để tập trung, đưa tivi ra khỏi phòng ngủ để đi ngủ đúng giờ.

@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/21'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Theo [[Thần thoại Lưỡng Hà]], [[Nữ thần Ishtar]] là nữ thần tình yêu và chiến tranh

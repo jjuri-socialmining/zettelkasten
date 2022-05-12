@@ -9,7 +9,7 @@ birth: null
 death: null
 aliases:
   - Pasteur
-publish: True
+publish: False
 ---
 # Louis Pasteur
 

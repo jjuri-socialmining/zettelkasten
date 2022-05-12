@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/21'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Marduk]] đã đại diện các vị thần chiến đấu với [[Thần Tiamat]] và con quái vật chỉ huy đội quân là [[Kingu]]. Ông được tôn làm vua các vị thần xứng đáng thừa kế vị trí [[Thần Anu|Anu]].

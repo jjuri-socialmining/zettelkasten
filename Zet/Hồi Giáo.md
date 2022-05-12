@@ -9,7 +9,7 @@ tags:
 aliases:
   - Islam
   - Đạo Hồi
-publish: True
+publish: False
 ---
 # Hồi Giáo
 

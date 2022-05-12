@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/05'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Đại Việt Sử ký toàn thư|Đại Việt Sử ký toàn thư bản Hồng Đức]] của [[Ngô Sĩ Liên]] hoàn thành năm 1479 nhưng không được in ấn và ban hành.

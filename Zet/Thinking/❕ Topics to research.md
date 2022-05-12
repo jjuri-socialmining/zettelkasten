@@ -5,7 +5,7 @@ tags:
   - 'created/2021/Sep/02'
   - 'garden'
   - 'permanent/think'
-publish: True
+publish: False
 ---
 # ❕ Topics to research
 

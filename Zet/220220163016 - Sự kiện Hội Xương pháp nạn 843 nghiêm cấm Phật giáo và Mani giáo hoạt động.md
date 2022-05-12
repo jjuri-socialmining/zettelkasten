@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Năm 843, triều đình Trung Quốc nghiêm cấm [[Phật Giáo]] và [[Mani giáo]] hoạt động, giết các giáo đồ, tịch thu tài sản. Lịch sử gọi sự kiện này là [[Hội Xương pháp nạn]]

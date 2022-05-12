@@ -9,7 +9,7 @@ birth: null
 death: null
 aliases:
   - Moise
-publish: True
+publish: False
 ---
 # Moses
 

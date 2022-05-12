@@ -5,7 +5,7 @@ tags:
   - 'created/2021/Aug/10'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Bạn khỏi cúm là do hệ miễn dịch của bạn
 

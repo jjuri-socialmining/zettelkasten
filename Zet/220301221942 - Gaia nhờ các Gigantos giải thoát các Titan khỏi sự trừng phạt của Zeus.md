@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220301221942
-publish: True
+publish: False
 ---
 ## Notes:
 [[Nữ thần Gaia|Gaia]] nhờ các [[Gigantos]] giải thoát các [[Người khổng lồ Titan|Titan]] khỏi sự trừng phạt của [[Thần Zeus|Zeus]].

@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220301222943
-publish: True
+publish: False
 ---
 ## Notes:
 [[Typhon]] là con của [[Nữ thần Gaia|Gaia]] và [[Địa ngục Tartarus|Tartarus]]

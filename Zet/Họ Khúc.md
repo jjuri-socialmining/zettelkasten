@@ -7,7 +7,7 @@ tags:
   - 'flashcards'
 aliases: 
   - "Họ Khúc"
-publish: True
+publish: False
 ---
 # Họ Khúc
 

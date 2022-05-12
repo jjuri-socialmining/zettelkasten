@@ -7,7 +7,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Phông chữ Sans Serif
-publish: True
+publish: False
 ---
 # Phông chữ Sans Serif
 

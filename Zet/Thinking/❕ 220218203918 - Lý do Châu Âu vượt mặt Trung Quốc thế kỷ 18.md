@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/18'
   - 'evergreen'
   - 'permanent/think'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Yuval N. Harari]] lý giải rằng nhờ khoa học và [[Chủ nghĩa tư bản]] mà đến thế kỷ, Châu Âu bắt đầu vượt mặt Trung Quốc.

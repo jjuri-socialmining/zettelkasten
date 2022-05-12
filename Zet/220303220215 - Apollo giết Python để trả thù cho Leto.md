@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220303220215
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Apollo|Apollo]] giết [[Quái vật Python]] để trả thù cho [[Leto]]

@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/21'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Marduk]] giết [[Thần Tiamat]], chặt xác bà làm đôi tạo ra trời và đất. Nước mắt từ 2 mắt của Tiamat chảy thành 2 dòng sông lớn của [[Lưỡng Hà]] là [[Sông Tigris]], [[Sông Euphrates]]

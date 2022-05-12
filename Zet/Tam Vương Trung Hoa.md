@@ -7,7 +7,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Tam Vương
-publish: True
+publish: False
 ---
 # Tam Vương Trung Hoa
 

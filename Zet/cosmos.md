@@ -5,7 +5,7 @@ tags:
   - 'created/2020/Nov/28'
   - 'seed'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # cosmos
 

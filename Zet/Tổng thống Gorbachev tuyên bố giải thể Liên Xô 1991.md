@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Nov/22'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Tổng thống Gorbachev tuyên bố giải thể Liên Xô 1991
 

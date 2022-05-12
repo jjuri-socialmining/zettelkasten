@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Nov/08'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Robert Malone phản đối việc ép buộc tiêm chủng Vaccine của các chính phủ
 

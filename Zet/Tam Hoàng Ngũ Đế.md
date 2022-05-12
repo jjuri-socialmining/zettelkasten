@@ -7,7 +7,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Tam Hoàng Ngũ Đế
-publish: True
+publish: False
 ---
 # Tam Hoàng Ngũ Đế
 

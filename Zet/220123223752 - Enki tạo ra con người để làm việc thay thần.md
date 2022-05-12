@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/23'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Trong [[Sử thi Gilgamesh]], ban đầu các vị thần phải làm việc cực nhọc, [[Thần Enki|Enki]] bèn lấy đất sét nặn ra con người để làm việc thay họ.

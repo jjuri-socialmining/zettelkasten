@@ -9,7 +9,7 @@ tags:
 aliases:
   - Malleus Maleficarum
   - The Hammer of Witches
-publish: True
+publish: False
 ---
 # The Hammer of Witches
 

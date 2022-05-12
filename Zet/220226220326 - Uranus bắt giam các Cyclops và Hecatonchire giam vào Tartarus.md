@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/26'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Uranus ghê tởm hình thù của Cyclops và Hecatonchire cũng chính là con đẻ của mình, [[Thần bầu trời Uranus]] bắt giam các [[Người khổng lồ Cyclops|Cyclops]] và [[Hecatonchire]] giam vào [[Địa ngục Tartarus]].

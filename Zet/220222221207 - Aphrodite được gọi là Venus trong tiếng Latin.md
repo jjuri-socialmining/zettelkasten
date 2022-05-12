@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Nữ thần Aphrodite]] được gọi là Venus trong tiếng Latin

@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/18'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Các cuộc khám phá, chinh phạt những vùng đất mới của người Châu Âu là những cuộc làm ăn, đầu tư có suy tính lời lãi

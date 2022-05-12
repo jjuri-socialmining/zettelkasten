@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Raphael
-publish: True
+publish: False
 ---
 # Thiên thần Raphael
 

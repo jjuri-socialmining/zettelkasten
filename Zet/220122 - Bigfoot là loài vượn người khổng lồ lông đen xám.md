@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Bigfoot]], hay có tên gọi khác là Sasquatch, là một loài vượn người khổng lồ khoảng 2-3m, thân mình phủ đầy lông lá màu đen. Bigfoot có nguồn gốc Bắc Mĩ.

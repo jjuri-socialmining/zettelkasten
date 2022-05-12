@@ -7,7 +7,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Sartre
-publish: True
+publish: False
 ---
 # Jean Paul Sartre
 

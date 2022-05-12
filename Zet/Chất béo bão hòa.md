@@ -7,7 +7,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - saturated fat
-publish: True
+publish: False
 ---
 # Chất béo bão hòa
 

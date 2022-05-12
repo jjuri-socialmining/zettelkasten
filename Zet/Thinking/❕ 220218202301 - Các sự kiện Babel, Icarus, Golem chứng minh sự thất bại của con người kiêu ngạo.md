@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/18'
   - 'evergreen'
   - 'permanent/think'
-publish: True
+publish: False
 ---
 ## Notes:
 Sự kiện [[Tháp Babel]], [[Icarus]], [[Golem]] là những sự kiện thảm bại khi con người kiêu ngạo trước thần linh, cố gắng vượt qua giới hạn của mình.

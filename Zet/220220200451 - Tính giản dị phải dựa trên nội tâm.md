@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Tính giản dị phải dựa trên nội tâm, vứt bỏ đồ đạc, mặc một vài bộ quần áo,... không hề hiệu quả.

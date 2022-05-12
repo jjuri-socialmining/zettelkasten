@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/05'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Bản Đại Việt sử ký toàn thư bản Hồng Đức của [[Ngô Sĩ Liên]] chỉ ghi chép từ thời kỳ Kinh Dương Vương 2879 TCN đến khi nhà [[Nhà Hậu Lê|Hậu Lê]] thành lập 1427

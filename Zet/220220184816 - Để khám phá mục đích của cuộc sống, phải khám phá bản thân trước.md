@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Để khám phá mục đích của cuộc sống này, trước tiên ta phải khám phá bản thân bởi vì đời sống này là phóng chiếu từ bản thân mỗi người

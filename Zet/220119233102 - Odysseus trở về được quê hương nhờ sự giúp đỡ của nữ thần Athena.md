@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/19'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Sau chiến thắng thành Troy, quân Hy Lạp quay về quê hương. Hầu hết binh lính đều chết trên biển. Chỉ [[Odysseus]] một phần may mắn và với sự giúp đỡ của [[Nữ thần Athena]] về tới [[Ithaca]].

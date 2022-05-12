@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/21'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Enlil]] là người chế tạo ra cái quốc, công cụ lao động quan trọng thời cổ.

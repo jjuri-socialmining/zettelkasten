@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/25'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Người khổng lồ Surt]] giết chết [[Thần Freyr]] trong [[Ragnarok]]

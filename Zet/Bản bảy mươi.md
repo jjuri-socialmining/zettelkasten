@@ -7,7 +7,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Bản dịch Septuaginta
-publish: True
+publish: False
 ---
 # Bản bảy mươi
 

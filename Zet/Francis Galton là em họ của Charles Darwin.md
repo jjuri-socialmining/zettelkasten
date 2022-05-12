@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Sep/19'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Francis Galton là em họ của Charles Darwin
 

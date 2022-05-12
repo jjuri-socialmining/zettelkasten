@@ -9,7 +9,7 @@ tags:
   - 'Qmap'
 aliases:
   - Chiến dịch kẹp giấy
-publish: True
+publish: False
 ---
 # Operation Paperclip
 

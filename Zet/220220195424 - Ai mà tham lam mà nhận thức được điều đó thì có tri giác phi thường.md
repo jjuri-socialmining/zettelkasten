@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Nếu ta tham lam, bạo lực mà ta nhận thức được điều đó thì đó là một tri giác phi thường

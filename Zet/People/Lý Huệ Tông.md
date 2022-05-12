@@ -9,7 +9,7 @@ birth: null
 death: null
 aliases:
   - Lý Hạo Sảm
-publish: True
+publish: False
 ---
 # Lý Huệ Tông
 

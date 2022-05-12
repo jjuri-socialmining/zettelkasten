@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/24'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Các nhà khoa học cũng thường khảo cứu về [[Siêu hình học]], trong đó phải kể đến [[Heisenberg]], [[Albert Einstein]], [[Plank]], [[Schrodinger]],...

@@ -10,7 +10,7 @@ aliases:
   - Quân Nguyên
   - Bắc Nguyên
   - Triều Nguyên
-publish: True
+publish: False
 ---
 # Nhà Nguyên
 

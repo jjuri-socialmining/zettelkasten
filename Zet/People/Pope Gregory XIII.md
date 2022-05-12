@@ -11,7 +11,7 @@ aliases:
   - Đức giáo hoàng Gregory XIII
   - Gregory XIII
   - Giáo hoàng Grêgôriô XIII
-publish: True
+publish: False
 ---
 # Pope Gregory XIII
 

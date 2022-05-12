@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/18'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Hernán Cortés]] hủy hoại nền văn minh [[Đế quốc Aztec]] còn [[Francisco Pizarro]] hủy hoại [[Inca]] sau khi đặt chân lên lãnh thổ của họ dưới danh nghĩa là sử giả hòa bình của vua [[Tây Ban Nha]]

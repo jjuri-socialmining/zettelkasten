@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/21'
   - 'evergreen'
   - 'permanent/linking'
-publish: True
+publish: False
 ---
 ## Notes:
 Có truyền thuyết cho rằng [[Nữ thần Ishtar|Ishtar]] xuống địa ngục để cứu chồng là [[Thần Tammuz]]. Có truyền thuyết thì cho rằng nàng muốn tranh quyền cai quản địa ngục với [[Nữ thần Ereshkigal]].

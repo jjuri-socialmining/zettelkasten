@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Pangaea
-publish: True
+publish: False
 ---
 # Lục địa Pan
 

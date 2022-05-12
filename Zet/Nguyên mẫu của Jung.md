@@ -8,7 +8,7 @@ tags:
 aliases:
   - Nguyên mẫu của Jung
   - Jungian Archetypes
-publish: True
+publish: False
 ---
 # Nguyên mẫu của Jung
 

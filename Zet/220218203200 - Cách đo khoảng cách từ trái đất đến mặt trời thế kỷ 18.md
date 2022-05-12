@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/18'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Thế kỷ 18, người ta đo khoảng cách từ trái đất đến mặt trời bằng cách đo đạc góc nhìn khi [[Sao Kim]] nằm giữa trái đất và mặt trời. Sau đó họ so sánh sự khác nhau trên nhiều vị trí quan sát trên trái đất.

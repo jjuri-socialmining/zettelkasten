@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/24'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Dựa vào quy luật 1 của thói quen (dấu hiệu), nên chuyên biệt hóa các khu vực trong không gian sống, chỗ nào là làm việc chỗ nào là đọc sách, chơi game,... đó chính là cách để tạo dấu hiệu, sự hiển nhiên của thói quen 

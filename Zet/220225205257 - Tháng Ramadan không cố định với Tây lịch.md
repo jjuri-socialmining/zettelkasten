@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/25'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Tháng Ramadan]] không cố định với Tây lịch. Tháng Ramadan rơi vào tháng 9 lịch Hồi giáo. Tuy nhiên, Mohamet thay đổi lịch âm cũ và bỏ tháng nhuận nên tháng Ramadan bị lệch mỗi năm so với tây lịch.

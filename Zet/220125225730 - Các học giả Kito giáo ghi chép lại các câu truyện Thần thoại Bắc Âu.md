@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/25'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Một số học giả [[Cơ Đốc Giáo|Kito Giáo]] đã chuyển các câu truyện truyền miệng của [[Thần thoại Bắc Âu]] sang chữ viết

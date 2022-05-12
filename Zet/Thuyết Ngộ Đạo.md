@@ -10,7 +10,7 @@ tags:
 aliases:
   - Gnosticism
   - Thuyết Trí Huệ
-publish: True
+publish: False
 ---
 # Thuyết Ngộ Đạo
 

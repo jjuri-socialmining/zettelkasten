@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/23'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Dẫn chứng về măng trúc, chỉ là măng trúc trong 5 năm đầu để bắt rễ và sau đó là thời gian vươn cao. Ví dụ này giống trong quyển [[@ Rando Kim, Trưởng thành sau ngàn lần tranh đấu]].

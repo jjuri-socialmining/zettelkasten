@@ -9,7 +9,7 @@ birth: null
 death: null
 aliases:
   - Camus
-publish: True
+publish: False
 ---
 # Albert Camus
 

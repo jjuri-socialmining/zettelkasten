@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/think'
-publish: True
+publish: False
 ---
 ## Notes:
 khi bạn nhận biết mọi vật đều có linh hồn, là sự biểu hiện của [[God|Đấng tạo hóa]] thì việc bạn yêu thương loài vật, yêu thiên nhiên thì đem lại cho bạn niềm hạnh phúc lớn lao hơn là việc bạn tàn phá, giết hại để phục vụ những nhu cầu, thú vui thể xác.

@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Aldous Huxley]] viết lời tựa cho quyển [[@ Krishnamurti, Tự do đầu tiên và cuối cùng|Tự do đầu tiên và cuối cùng]] của [[Jiddu Krishnamurti]]

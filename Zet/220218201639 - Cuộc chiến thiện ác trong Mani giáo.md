@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/18'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Mani giáo]] nói rằng có một cuộc chiến giữa thiện và ác, bên ác tạo ra vật chất, bên thiện tạo ra tinh thần.

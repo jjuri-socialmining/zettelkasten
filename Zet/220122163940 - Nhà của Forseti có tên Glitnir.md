@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Nhà của [[Thần Forseti]] có tên [[Glitnir]], mái của Glitnir làm bằng bạc và cột làm bằng vàng

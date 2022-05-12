@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Oct/23'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Thánh Gioan Thánh giá là học trò của Teresa of Avila
 

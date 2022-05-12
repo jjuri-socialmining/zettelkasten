@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Gabriel
-publish: True
+publish: False
 ---
 # Thiên thần Gabriel
 

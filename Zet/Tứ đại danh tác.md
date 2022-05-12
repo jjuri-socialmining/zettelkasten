@@ -7,7 +7,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Tứ đại danh tác
-publish: True
+publish: False
 ---
 # Tứ đại danh tác
 

@@ -6,7 +6,7 @@ tags:
   - 'permanent/linking'
 aliases:
   - phát triển bản thân
-publish: True
+publish: False
 ---
 # Self Improvement
 

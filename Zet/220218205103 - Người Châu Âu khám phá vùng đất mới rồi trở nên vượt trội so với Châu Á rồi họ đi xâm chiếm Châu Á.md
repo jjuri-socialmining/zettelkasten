@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/18'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Người Châu Âu nhờ của cải, kỹ thuật sau khi khám phá những vùng đất mới đã vượt mặt Châu Á và sau cùng họ đến xâm chiếm Châu Á

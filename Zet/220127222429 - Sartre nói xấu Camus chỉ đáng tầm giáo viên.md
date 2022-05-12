@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/27'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Sau khi nghỉ chơi với nhau, [[Jean Paul Sartre]] nói xấu [[Albert Camus]] rằng Camus chỉ đáng là giáo viên dạy học không đáng là triết gia.

@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/23'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Enki|Enki]] đã hấp thụ một phần sức mạnh của [[Thần Abzu]] để trở thành thần của nước.

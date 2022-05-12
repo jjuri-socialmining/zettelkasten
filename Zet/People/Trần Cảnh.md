@@ -9,7 +9,7 @@ birth: null
 death: null
 aliases:
   - Trần Thái Tông
-publish: True
+publish: False
 ---
 # Trần Cảnh
 

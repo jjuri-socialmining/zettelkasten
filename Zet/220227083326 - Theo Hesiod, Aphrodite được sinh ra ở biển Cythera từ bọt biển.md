@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/27'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Theo [[Hesiod]], [[Nữ thần Aphrodite|Aphrodite]] được sinh ra ở biển Cythera từ bọt biển.

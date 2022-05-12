@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/31'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Nguyễn Phi Khanh]] quan hệ nam nữ với [[Trần Thị Thái]], sau khi biết Trần Thị Thái có thai thì ông bỏ trốn. Gần tới ngày sinh, [[Trần Nguyên Đán]] cho người gọi Nguyễn Phi Khanh về gả con gái, sau đó sinh ra [[Nguyễn Trãi]].

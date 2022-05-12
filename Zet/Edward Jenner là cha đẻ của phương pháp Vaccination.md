@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Oct/10'
   - 'seed'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # Edward Jenner là cha đẻ của phương pháp Vaccination
 

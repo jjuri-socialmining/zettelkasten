@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Tây Sơn
-publish: True
+publish: False
 ---
 # Nhà Tây Sơn
 

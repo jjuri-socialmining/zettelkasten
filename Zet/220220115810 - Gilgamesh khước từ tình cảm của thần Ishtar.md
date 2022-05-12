@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Nữ thần Ishtar]] phải lòng [[Vua Gilgamesh|Gilgamesh]] nhưng Gilgamesh từ chối nàng.

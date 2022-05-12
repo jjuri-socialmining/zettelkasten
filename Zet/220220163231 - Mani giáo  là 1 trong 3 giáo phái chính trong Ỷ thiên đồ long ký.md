@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Mani giáo]] được nhắc đến là 1 trong 3 giáo phái chính trong [[Ỷ thiên đồ long ký]]. Hai giáo phái còn lại là [[Thiếu lâm]] và [[Cái Bang]]

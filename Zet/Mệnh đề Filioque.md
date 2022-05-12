@@ -5,7 +5,7 @@ tags:
   - 'created/2020/Dec/06'
   - 'seed'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # Mệnh đề Filioque
 

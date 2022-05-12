@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Njord|Njord]] đã sai [[Skirnir]] đến [[Vùng đất Jotunheim|Jotunheim]] để ép [[Gerd]] cưới [[Thần Freyr|Freyr]]. Gerd nhận lời cưới Freyr nhưng phải đợi 9 ngày

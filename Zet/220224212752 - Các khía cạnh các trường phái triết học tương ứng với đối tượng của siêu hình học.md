@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/24'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Các trường phái tư tưởng triết học chọn các khía cạnh của cuộc sống tương ứng với đối tượng của [[Siêu hình học]]

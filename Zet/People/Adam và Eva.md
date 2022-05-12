@@ -10,7 +10,7 @@ death: null
 aliases:
   - Adam
   - Eva
-publish: True
+publish: False
 ---
 # Adam và Eva
 

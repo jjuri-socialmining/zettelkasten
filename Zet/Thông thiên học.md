@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Oct/26'
   - 'seed'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # Thông thiên học
 

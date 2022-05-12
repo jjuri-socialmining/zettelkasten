@@ -9,7 +9,7 @@ tags:
 aliases:
   - Phát triển tâm linh
   - Spiritual awakening
-publish: True
+publish: False
 ---
 # Thức tỉnh tâm linh
 

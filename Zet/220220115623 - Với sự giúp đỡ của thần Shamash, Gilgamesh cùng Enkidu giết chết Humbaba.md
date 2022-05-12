@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Vua Gilgamesh|Gilgamesh]] và [[Enkidu]] cùng nhau lên rừng tuyết tùng để giết [[Quái vật Humbaba]].  [[Thần Shamash|Thần mặt trời]] sai 13 cơn gió trói Humbaba và chọc mù mắt con quái vật. Gilgamesh bắt được Humbaba, sau đó Humbaba van xin được sống và hứa sẽ làm nô lệ của Gilgamesh. Enkidu khuyên Gilgamesh giết chết Humbaba để lưu danh muôn thuở. Cuối cùng, Gilgamesh quyết định chém đầu Humbaba

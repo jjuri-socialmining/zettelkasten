@@ -5,7 +5,7 @@ tags:
   - 'created/2021/Jun/27'
   - 'seed'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # Homo Sapiens
 

@@ -8,7 +8,7 @@ tags:
 aliases:
   - HaKotel HaMa'aravi
   - Bức tường phía tây
-publish: True
+publish: False
 ---
 # Bức tường than khóc
 

@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/18'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Nếu không có những nhà buôn muốn kiếm tiền là chủ nghĩa tư bản thì lịch sử sẽ không có những sự kiện khám phá Châu Mỹ của [[Columbus]], hoặc khám phá Châu Úc của [[James Cook]]

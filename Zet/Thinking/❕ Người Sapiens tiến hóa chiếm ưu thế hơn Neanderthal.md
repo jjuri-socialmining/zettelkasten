@@ -5,7 +5,7 @@ tags:
   - 'created/2021/Jun/27'
   - 'seed'
   - 'permanent/think'
-publish: True
+publish: False
 ---
 # ❕ Người Sapiens tiến hóa chiếm ưu thế hơn Neanderthal
 

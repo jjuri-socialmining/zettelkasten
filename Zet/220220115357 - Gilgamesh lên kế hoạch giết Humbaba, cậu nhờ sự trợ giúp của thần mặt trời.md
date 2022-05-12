@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Vua Gilgamesh|Gilgamesh]] lên kế hoạch giết [[Quái vật Humbaba]] tại rừng tuyết tùng. Mặc dù mọi người can ngăn nhưng Gilgamesh không mảy may đổi ý. Gilgamesh đến thăm mẹ mình [[Nữ thần Ninsun]] để bà xin sự trợ giúp từ thần mặt trời [[Thần Shamash]]

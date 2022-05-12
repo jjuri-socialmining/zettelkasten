@@ -8,7 +8,7 @@ tags:
 aliases:
   - Virus cúm Vũ Hán
   - Virus cúm Tàu
-publish: True
+publish: False
 ---
 # SARS-CoV-2
 

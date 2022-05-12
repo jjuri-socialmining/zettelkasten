@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/27'
   - 'evergreen'
   - 'permanent/think'
-publish: True
+publish: False
 ---
 ## Notes:
 Đừng nên nói xấu người khác, lòng mình chất chứa điều xấu miệng mình mới nói ra điều xấu. Như trong sách [[Luke-06]] câu 45: *"vì lòng đầy, thì miệng mới nói ra"*

@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/18'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Các cuộc chinh phạt ở Châu Âu thì lấy nguồn tài chính từ tín dụng, đầu tư còn ở Châu Á thì là tiền thuế.

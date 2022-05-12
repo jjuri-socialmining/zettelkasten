@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Utnapishtim]] thử thách [[Vua Gilgamesh|Gilgamesh]] phải thức trong 7 ngày thì ông sẽ tiết lộ cho chàng mọi bí mật. Tới ngày thứ 6 thì Gilgamesh ngủ thiếp đi

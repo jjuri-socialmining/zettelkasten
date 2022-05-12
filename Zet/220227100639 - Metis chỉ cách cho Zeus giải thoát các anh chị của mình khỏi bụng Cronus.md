@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/27'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Nữ thần Metis]] chỉ cách cho [[Thần Zeus|Zeus]] giải thoát các anh chị của mình khỏi bụng [[Titan Cronus|Cronus]]. Bà đưa thuốc xổ cho Zeus, Zeus nhờ mẹ [[Titan Rhea|Rhea]] bỏ vào đồ ăn của Cronus. Cronus nôn hết tất cả 5 anh em của Zeus và hòn đá thế chỗ Zeus.

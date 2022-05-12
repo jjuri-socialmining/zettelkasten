@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Nov/21'
   - 'garden'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # Notion
 

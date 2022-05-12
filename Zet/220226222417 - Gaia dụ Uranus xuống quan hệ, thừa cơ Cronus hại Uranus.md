@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/26'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Nữ thần Gaia|Gaia]] dụ [[Thần bầu trời Uranus|Uranus]] xuống quan hệ với mình để ông tránh xa bầu trời, không còn sức mình. Thừa cơ hội, [[Titan Cronus|Cronus]] lấy lưỡi liềm thiến bộ phận sinh dục của [[Thần bầu trời Uranus|Uranus]]
