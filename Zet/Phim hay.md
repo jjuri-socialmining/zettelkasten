@@ -12,11 +12,10 @@ publish: True
 ## Notes:
 
 Các bộ phim thức thần và [[Ý nghĩa cuộc sống]]: [^1]
-- [[Waking Life]]
+- [[Waking Life (2001)]]
 - [[The tree of life]]
-- [[ It’s Such A Beautiful Day]]
+- [[It’s Such A Beautiful Day]]
 - [[Enter The Void]]
-
 - [[Fight Club]]
 - [[Garden state]]
 

@@ -7,7 +7,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Nam Phạn
-publish: True
+publish: False
 ---
 # Tiếng Pali
 
@@ -15,6 +15,7 @@ publish: True
 
 
 ## Ideas & thoughts:
-Tiếng Pali là ngôn ngữ kinh lễ của [[Phật giáo Nam Tông]]
-[[Ngữ hệ Ấn-Âu]]
-[[Tiếng Pali còn được gọi là Nam Phạn]]
+- Tiếng Pali là ngôn ngữ kinh lễ của [[Phật giáo Nam Tông]]
+- [[Ngữ hệ Ấn-Âu]]
+- [[Tiếng Pali còn được gọi là Nam Phạn]]
+- [[Tiếng Sanskrit|Bắc Phạn]]

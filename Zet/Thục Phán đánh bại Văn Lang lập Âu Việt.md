@@ -8,7 +8,6 @@ tags:
 publish: True
 ---
 # Thục Phán đánh bại Văn Lang lập Âu Việt
-
 ## Notes:
 [[An Dương Vương|Thục Phán]] sau khi đánh bại [[Văn Lang]], tự xưng là An Dương Vương lập nên nước [[Âu Lạc]], đóng đô ở Cổ Loa.
 

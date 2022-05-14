@@ -1,5 +1,6 @@
 {
   "format": "📝YY-MM-DD",
   "folder": "Spaces/Daily",
-  "template": "Bins/Templates/Daily Note Template"
+  "template": "Bins/Templates/Daily Note Template",
+  "autorun": true
 }

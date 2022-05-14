@@ -8,6 +8,7 @@ tags:
 ---
 # Long term reading list
 
+
 ## Notes:
 Danh sách bao gồm những tác phẩm kinh điển trên mọi thể loại trong suốt lịch sử mà mình thấy là đáng để đọc trong đời. Danh sách này lấy ý tưởng từ quyển [[@ Charles Van Doren, The Joy of Reading]] và tham khảo từ trang web [[minh.la]].
 

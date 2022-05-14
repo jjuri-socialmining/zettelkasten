@@ -292,15 +292,6 @@
       "key": "I"
     }
   ],
-  "file-explorer:move-file": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "I"
-    }
-  ],
   "editor:insert-link": [
     {
       "modifiers": [

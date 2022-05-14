@@ -5,19 +5,16 @@ tags:
   - 'created/2020/Oct/25'
   - 'garden'
   - 'permanent/concept'
-aliases:
-  - 
 publish: False
 ---
 # Sử thi Gilgamesh
 
 ## Notes:
-Gilgamesh Sử thi anh hùng babylon lưỡng hà, truyền thuyết về vua Gilgamesh cai trị nước Uruc khoảng năm 2700 TCN.
+[[Sử thi Gilgamesh]] Sử thi anh hùng babylon lưỡng hà, truyền thuyết về vua Gilgamesh cai trị nước Uruc khoảng năm 2700 TCN.
 
-Tham khảo
-
-[Gilgamesh - sử thi anh hùng cổ nhất thế giới](https://trandinhsu.wordpress.com/2014/02/15/gilgamesh-su-thi-anh-hung-co-nhat-the-gioi/)
+- Tham khảo
+	- [Gilgamesh - sử thi anh hùng cổ nhất thế giới](https://trandinhsu.wordpress.com/2014/02/15/gilgamesh-su-thi-anh-hung-co-nhat-the-gioi/)
 
 ## Ideas & thoughts:
-
+- [Tóm tắt bằng tiếng Anh](https://www.booksummary.net/epic-of-gilgamesh/)
 

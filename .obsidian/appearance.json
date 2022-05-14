@@ -1,10 +1,19 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Things",
+  "cssTheme": "Blue Topaz",
   "enabledCssSnippets": [
-    "cybertron"
+    "cybertron",
+    "My Font",
+    "bibleverse-formatting",
+    "better-bullet-points-in-edit-mode",
+    "bullet-point-relationship-lines",
+    "bigger-link-popup-preview",
+    "stylish-blockquotes",
+    "tag-pills"
   ],
   "translucency": false,
-  "baseFontSize": 14,
-  "baseFontSizeAction": true
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "",
+  "textFontFamily": ""
 }

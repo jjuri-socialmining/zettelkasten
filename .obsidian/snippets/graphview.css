@@ -1,34 +1,31 @@
-/*background of graph view pane*/
-.workspace-leaf-content[data-type = "graph"] .view-content{
-  background-color: var(--background-primary);
+
+canvas {
+    background-color: #161616;
+    background-image: var(--stars-svg), linear-gradient(134deg, rgba(72, 54, 153, 0.8) 0%, rgba(6, 1, 28, 0.8) 100%);
+    background-blend-mode: soft-light;
+    opacity: 0.8;
+    background-image: linear-gradient(134deg, #483699 0%, #06011C 100%);
 }
 
-/*filled color for the circle when not hover*/
 .graph-view.color-fill {
-  color: var(--background-secondary);
+  color: #afaaca;
 }
-
-/*color for the circle stroke */
 .graph-view.color-circle {
-  color: var(--text-normal);
+  color: #ffffff;
 }
-
-/*color for the connecting line when not hover*/
 .graph-view.color-line {
-  color: var(--background-modifier-border);
+  color: #3d3566;
 }
-
-/*color for texts*/
 .graph-view.color-text {
-  color: var(--text-normal);
+  color: #afaaca;
 }
-
-/*filled color for the circle when hover*/
 .graph-view.color-fill-highlight {
-  color: var(--interactive-accent);
+  color: #11083f;
+}
+.graph-view.color-line-highlight {
+  color: #afaaca;
 }
 
-/*color for the connecting line when hover*/
-.graph-view.color-line-highlight {
-  color: rgb(var(--interactive-accent-rgb));
+html {
+    --stars-svg: url("data:image/svg+xml,...");
 }

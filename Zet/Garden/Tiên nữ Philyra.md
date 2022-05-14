@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Philyra
-publish: True
+publish: False
 ---
 # Tiên nữ Philyra
 

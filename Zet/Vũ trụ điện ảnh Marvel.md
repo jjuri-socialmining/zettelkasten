@@ -11,6 +11,7 @@ publish: True
 
 ## Notes:
 Vũ trụ điện ảnh Marvel là một thương hiệu truyền thông của [[Marvel Studios]] về những loạt phim điện ảnh siêu anh hùng.
+
 Các loạt phim trong vũ trụ điện ảnh Marvel được lấy từ bộ truyện tranh của [[Marvel Comics]]
 - [[Ironman]]
 - [[The Avengers]]
@@ -21,5 +22,6 @@ Các loạt phim trong vũ trụ điện ảnh Marvel được lấy từ bộ t
 - [[Spiderman]]
 - [[Thor]]
 - [[Black panther]]
+- [[Venom]]
 
 ## Ideas & thoughts:

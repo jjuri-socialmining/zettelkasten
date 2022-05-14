@@ -8,11 +8,7 @@ tags:
   - 'permanent/linking'
 publish: False
 ---
-# Các trang tóm tắt sách
-
 ## Notes:
-
-
-## Ideas & thoughts:
-
-
+- [booksummary.net](https://www.booksummary.net/)
+- wikipedia
+- 

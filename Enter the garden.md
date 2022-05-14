@@ -28,4 +28,4 @@ Chào mừng bạn đã đến với khu vườn ghi chú.
 ### Personal
 - [[Self Improvement|Phát triển bản thân]]
 - [[❕ Topics to research]]
-- [[000 Daily list|Journal]]
+- [[query_daily_notes|Journal]]

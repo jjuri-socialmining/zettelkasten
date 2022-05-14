@@ -49,3 +49,8 @@ Nội dung ghi chú sẽ là một bảng tổng hợp, tập hợp nhiều **c�
 ![[Pasted image 20220227170927.png]]
 ![[Pasted image 20220227171007.png]]
 
+
+### [[Commonplace MOC]]
+- Sử dụng [[Readwise]] để trích xuất highlight trên web, phân loại và quay lại bước đầu.
+
+#task/todo Define các loại ghi chú như daily, journal.

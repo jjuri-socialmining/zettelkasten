@@ -7942,6 +7942,14 @@ div.markdown-source-view ul.floating-toc{
   border: none;
 }
 
+.tag[href^="#evergreen"] {
+  background-color: var(--stag3-bg) !important;
+  font-weight: 600;
+  font-family: var(--font-family-special-tag) !important;
+  color: var(--white) !important;
+  border: none;
+}
+
 .cm-s-obsidian:not([class="markdown-source-view cm-s-obsidian mod-cm6"]) span.cm-hashtag.cm-meta.cm-hashtag-end.cm-tag-important:not(.cm-formatting-hashtag) {
   font-family: var(--font-family-special-tag) !important;
   font-weight: 600;
