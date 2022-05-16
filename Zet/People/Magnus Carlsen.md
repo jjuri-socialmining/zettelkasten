@@ -5,7 +5,7 @@ tags:
   - 'created/2021/Aug/26'
   - 'seeding'
   - 'permanent/people'
-publish: True
+publish: False
 ---
 # Magnus Carlsen
 

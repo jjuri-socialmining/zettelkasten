@@ -7,7 +7,7 @@ tags:
   - 'seed'
   - 'permanent/place'
   - 'Qmap'
-publish: True
+publish: False
 ---
 # Atlantis
 

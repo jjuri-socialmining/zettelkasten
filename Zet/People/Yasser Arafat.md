@@ -9,7 +9,7 @@ birth: null
 death: null
 aliases:
   - Abu Ammar
-publish: True
+publish: False
 ---
 # Yasser Arafat
 

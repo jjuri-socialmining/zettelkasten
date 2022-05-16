@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/05'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Bản [[Đại Việt Sử ký toàn thư]] bản [[Hồng Đức]] của [[Ngô Sĩ Liên]] bao gồm 15 quyển.

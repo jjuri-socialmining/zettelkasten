@@ -9,7 +9,7 @@ aliases:
   - Apochrypha
   - Ngụy thư kinh thánh
   - Ngụy thư
-publish: True
+publish: False
 ---
 # Apochrypha - Ngụy thư kinh thánh
 

@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/26'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Sau khi phải chịu đựng những đau đớn vì Uranus nhốt các con của mình là các [[Người khổng lồ Cyclops|Cyclops]] và [[Hecatonchire]] trong [[Địa ngục Tartarus|Tartarus]], [[Nữ thần Gaia|Gaia]] nảy sinh ý định nhờ [[Người khổng lồ Titan]] ngăn chặn hành động tàn ác của [[Thần bầu trời Uranus|Uranus]].

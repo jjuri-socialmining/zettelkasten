@@ -7,7 +7,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Ghi chú văn học
-publish: True
+publish: False
 ---
 # Literature Note
 

@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Dòng họ Bernoulli]] thế kỷ 17,18 có đóng góp to lớn trên nhiều lĩnh vực toán học, ít nhất có 8 nhà toán học lớn trong đó nổi trội nhất là [[Jacob Bernoulli]] (1654 – 1705), [[Johann Bernoulli]] (1667 –1748) và [[Daniel Bernoulli]] (1700 – 1782).

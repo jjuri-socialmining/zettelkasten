@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/27'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Nữ thần Gaia|Gaia]] tức giận khi [[Titan Cronus|Cronus]] nhốt [[Người khổng lồ Cyclops|Cyclops]] và [[Hecatonchire]], nguyền rủa Cronus sẽ bị lật đổ bởi con mình

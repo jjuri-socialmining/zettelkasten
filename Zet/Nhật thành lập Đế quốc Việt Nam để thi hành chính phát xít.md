@@ -8,7 +8,7 @@ tags:
   - 'permanent/fact'
 aliases:
   - null
-publish: True
+publish: False
 ---
 # Nhật thành lập Đế quốc Việt Nam để thi hành chính phát xít
 

@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220228214022
-publish: True
+publish: False
 ---
 ## Notes:
 Theo [[Aristophane]], [[Chronos]] tồn tại trước [[Thần Hỗn Mang|Chaos]]

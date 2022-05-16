@@ -9,7 +9,7 @@ tags:
 aliases:
   - Bôn-sê-vích
   - Đảng Cộng sản Nga
-publish: True
+publish: False
 ---
 # Bolshevik
 

@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/05'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Bản [[Đại Việt Sử ký toàn thư]] của [[Nguyễn Công Trứ]] bổ sung thêm khoảng thời gian từ khi nhà [[Nhà Hậu Lê|Hậu Lê]] thành lập 1427 đến 1662 thời vua [[Lê Thần Tông]].

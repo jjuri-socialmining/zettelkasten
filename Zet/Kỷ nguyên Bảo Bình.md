@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Kỷ nguyên ánh sáng
-publish: True
+publish: False
 ---
 # Kỷ nguyên Bảo Bình
 

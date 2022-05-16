@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Giống người [[Người khổng lồ Jotun|Jotun]] là người khổng lồ băng trong [[Thần thoại Bắc Âu]], sinh sống tại [[Vùng đất Jotunheim|Jotunheim]].

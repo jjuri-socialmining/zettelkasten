@@ -9,7 +9,7 @@ tags:
 aliases:
   - Big Pharma
   - Mafia y tế
-publish: True
+publish: False
 ---
 # Big Medicine
 

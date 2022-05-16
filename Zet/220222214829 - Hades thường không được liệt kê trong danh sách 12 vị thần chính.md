@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Hades]] thường không có tên trong danh sách 12 vị thần chính vì ông ở dưới âm phủ phần lớn thời gian.

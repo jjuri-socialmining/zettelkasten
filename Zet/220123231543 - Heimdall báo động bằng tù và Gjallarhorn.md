@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/23'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Heimdall|Heimdall]] dùng chiếc [[Tù và Gjallahorn]] để báo có kẻ thù xâm nhập [[Vùng đất Asgard|Asgard]]

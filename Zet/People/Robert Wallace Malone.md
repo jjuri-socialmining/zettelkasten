@@ -9,7 +9,7 @@ birth: null
 death: null
 aliases:
   - Robert W. Malone
-publish: True
+publish: False
 ---
 # Robert Wallace Malone
 

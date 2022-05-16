@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Trái đất phẳng
-publish: True
+publish: False
 ---
 # Flat Earth
 

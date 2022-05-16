@@ -10,7 +10,7 @@ aliases:
   - Gia Long
   - Nguyễn Thế Tổ
   - Vua Gia Long
-publish: True
+publish: False
 ---
 # Nguyễn Ánh
 

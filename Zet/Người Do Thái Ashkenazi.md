@@ -7,7 +7,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Ashkenazi Jews
-publish: True
+publish: False
 ---
 # Người Do Thái Ashkenazi
 

@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Con cú của Minerva
-publish: True
+publish: False
 ---
 # Owl of Minerva
 

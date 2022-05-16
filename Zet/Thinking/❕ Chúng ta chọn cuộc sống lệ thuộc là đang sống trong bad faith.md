@@ -5,7 +5,7 @@ tags:
   - 'created/2021/Aug/31'
   - 'seed'
   - 'permanent/think'
-publish: True
+publish: False
 ---
 # ❕ Chúng ta chọn cuộc sống lệ thuộc là đang sống trong bad faith
 

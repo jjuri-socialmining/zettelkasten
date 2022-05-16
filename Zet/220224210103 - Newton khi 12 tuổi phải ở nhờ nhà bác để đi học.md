@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/24'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Khi 12 tuổi, [[Isaac Newton|Newton]] học trường xa nhà, cậu phải chuyển đến nhà bác. Nơi đây, cậu được tiếp cận với sách và giới trí thức.

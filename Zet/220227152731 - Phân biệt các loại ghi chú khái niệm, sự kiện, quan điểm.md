@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/27'
   - 'garden'
   - 'permanent/linking'
-publish: True
+publish: False
 ---
 ## Notes:
 - [Concepts vs facts (kaustavdm.in)](https://kaustavdm.in/concepts-vs-facts/)

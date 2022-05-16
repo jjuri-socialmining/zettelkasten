@@ -5,7 +5,7 @@ tags:
   - 'created/2021/Sep/02'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Chất dự trữ trong tế bào nấm là glycogen
 

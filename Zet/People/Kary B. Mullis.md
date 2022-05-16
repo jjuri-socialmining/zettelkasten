@@ -9,7 +9,7 @@ birth: null
 death: null
 aliases:
   - Kary Mullis
-publish: True
+publish: False
 ---
 # Kary B. Mullis
 

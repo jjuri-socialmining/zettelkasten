@@ -10,7 +10,7 @@ aliases:
   - Kay Pacha
   - Middle World
   - Trung giới
-publish: True
+publish: False
 ---
 # Trung thế giới
 

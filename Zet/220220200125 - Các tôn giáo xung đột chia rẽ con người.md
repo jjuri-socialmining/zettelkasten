@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Có đủ loại tín ngưỡng, tôn giáo và chúng ta xung đột chia rẽ con người, các tín ngưỡng đều ra sức cải đổi nhau.

@@ -11,7 +11,7 @@ aliases:
   - Đức Thánh Cha
   - Giáo Hoàng
   - White Pope
-publish: True
+publish: False
 ---
 # Đức Giáo Hoàng
 

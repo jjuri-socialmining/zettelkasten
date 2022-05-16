@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/31'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Toàn Việt thi lục]] của [[Lê Quý Đôn]] nói rằng [[Nguyễn Trãi]] về ở ẩn sau khi quân Minh đánh bại [[Nhà Hồ]]

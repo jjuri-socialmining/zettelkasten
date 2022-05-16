@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/26'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Trong [[Sử thi Gilgamesh]], [[Thần Shamash|Thần mặt trời Shamash]] giúp [[Vua Gilgamesh|Gilgamesh]] đánh bại [[Quái vật Humbaba]]

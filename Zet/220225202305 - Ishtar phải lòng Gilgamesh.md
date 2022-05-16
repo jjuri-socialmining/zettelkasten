@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/25'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Nữ thần Ishtar]] được [[Vua Gilgamesh|Gilgamesh]] giải cứu khỏi tay [[Quái vật Humbaba]] nên Ishtar đã phải lòng vua Gilgamesh.

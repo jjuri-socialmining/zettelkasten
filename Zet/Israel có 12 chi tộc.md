@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - 12 chi tộc Israel
-publish: True
+publish: False
 ---
 # Israel có 12 chi tộc
 

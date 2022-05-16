@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/31'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Trần Huy Liệu]] còn nhận định rằng không thể khẳng định 1407 đến năm 1417 [[Nguyễn Trãi]] ở Đông Quan hay có đi đâu khác không vì không có đủ tài liệu.

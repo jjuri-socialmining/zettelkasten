@@ -9,7 +9,7 @@ tags:
   - 'Qmap'
 aliases:
   - Thiên Thần mang ánh sáng
-publish: True
+publish: False
 ---
 # Lucifer
 

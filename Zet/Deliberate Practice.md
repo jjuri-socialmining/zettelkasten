@@ -7,7 +7,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Luyện tập có chủ đích
-publish: True
+publish: False
 ---
 # Deliberate Practice
 

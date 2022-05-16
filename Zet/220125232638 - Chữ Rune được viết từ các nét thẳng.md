@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/25'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Các ký tự của [[Chữ Rune]] được tạo thành từ các nét thẳng, không có nét cong

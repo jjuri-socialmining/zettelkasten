@@ -8,7 +8,7 @@ tags:
 aliases:
   - Globulin miễn dịch
   - Immunoglobulin
-publish: True
+publish: False
 ---
 # Kháng thể
 

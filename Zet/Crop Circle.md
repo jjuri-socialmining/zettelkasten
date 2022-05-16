@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Vòng tròn đồng ruộng
-publish: True
+publish: False
 ---
 # Crop Circle
 

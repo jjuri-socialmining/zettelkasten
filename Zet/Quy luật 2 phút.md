@@ -7,7 +7,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Two Minutes Rule
-publish: True
+publish: False
 ---
 # Quy luật 2 phút
 

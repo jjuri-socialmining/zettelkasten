@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220304200555
-publish: True
+publish: False
 ---
 ## Notes:
 [[Centaur Chiron]] là con của [[Titan Cronus|Cronus]] và [[Tiên nữ Philyra]]

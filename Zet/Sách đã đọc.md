@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Aug/11'
   - 'garden'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # Sách đã đọc
 

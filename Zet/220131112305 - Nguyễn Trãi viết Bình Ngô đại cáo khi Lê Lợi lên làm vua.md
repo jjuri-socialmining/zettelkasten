@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/31'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
  Ngày 29 tháng 4 năm 1428, [[Lê Lợi]] lên ngôi, [[Nguyễn Trãi]] viết [[Bình Ngô đại cáo]]

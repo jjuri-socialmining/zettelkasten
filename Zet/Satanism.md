@@ -9,7 +9,7 @@ tags:
   - 'Qmap'
 aliases:
   - Satan giáo
-publish: True
+publish: False
 ---
 # Satanism
 

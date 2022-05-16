@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220501155238
-publish: True
+publish: False
 ---
 ## Notes:
 Viết ghi chú bằng chính lời văn của bạn, đây là một nguyên tắc trong phương pháp [[Zettelkasten]]

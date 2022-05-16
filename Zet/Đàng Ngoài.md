@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Đàng Ngoài
-publish: True
+publish: False
 ---
 # Đàng Ngoài
 

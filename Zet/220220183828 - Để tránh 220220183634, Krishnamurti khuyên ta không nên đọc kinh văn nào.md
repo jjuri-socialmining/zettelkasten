@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Để tránh mắc phải lỗi [[220220183634 - Lặp lại chân lý không phải là chân lý|220220183634]], [[Jiddu Krishnamurti]] khuyên ta không đọc một loại kinh văn nào

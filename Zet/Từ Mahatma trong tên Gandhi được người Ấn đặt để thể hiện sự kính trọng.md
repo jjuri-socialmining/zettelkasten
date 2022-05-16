@@ -5,7 +5,7 @@ tags:
   - 'created/2021/Jul/25'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Từ Mahatma trong tên Gandhi được người Ấn đặt để thể hiện sự kính trọng
 

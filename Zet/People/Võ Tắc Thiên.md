@@ -10,7 +10,7 @@ death: 705-12-16
 aliases:
   - Vũ Tắc Thiên
   - Võ Hậu
-publish: True
+publish: False
 ---
 # Võ Tắc Thiên
 

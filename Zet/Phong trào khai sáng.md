@@ -9,7 +9,7 @@ tags:
 aliases:
   - Phong trào Duy lí
   - Thời kỳ khai sáng
-publish: True
+publish: False
 ---
 # Phong trào khai sáng
 

@@ -9,7 +9,7 @@ tags:
 aliases:
   - Centers for Disease Control and Prevention
   - Trung tâm kiểm soát và phòng ngừa dịch bệnh Hoa Kỳ
-publish: True
+publish: False
 ---
 # CDC
 

@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Shoah
-publish: True
+publish: False
 ---
 # Holocaust
 

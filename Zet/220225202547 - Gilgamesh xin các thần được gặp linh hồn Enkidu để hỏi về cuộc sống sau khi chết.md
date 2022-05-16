@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/25'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Vua Gilgamesh|Gilgamesh]] xin các thần được gặp linh hồn [[Enkidu]] để hỏi về cuộc sống sau khi chết

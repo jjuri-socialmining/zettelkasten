@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/18'
   - 'evergreen'
   - 'permanent/think'
-publish: True
+publish: False
 ---
 ## Notes:
 Thử nghiệm bom nguyên tử tại Alamogordo 16/07/1945 không chỉ thay đổi tiến trình lịch sử mà còn có thể kết thúc nó

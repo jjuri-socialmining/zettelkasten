@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/21'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Anu|Anu]], [[Thần Enlil]] và [[Thần Enki|Enki]] là 3 vị thần quyền lực nhất trong thần thoại Lưỡng Hà

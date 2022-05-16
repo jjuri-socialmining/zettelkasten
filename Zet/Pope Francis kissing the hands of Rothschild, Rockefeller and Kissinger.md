@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Dec/29'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Pope Francis kissing the hands of Rothschild, Rockefeller and Kissinger
 

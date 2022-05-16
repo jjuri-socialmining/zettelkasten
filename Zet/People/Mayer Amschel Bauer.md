@@ -10,7 +10,7 @@ death: null
 aliases:
   - Mayer A. Bauer
   - Mayer Bauer
-publish: True
+publish: False
 ---
 # Mayer Amschel Bauer
 

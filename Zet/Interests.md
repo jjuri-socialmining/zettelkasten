@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Interests
-publish: True
+publish: False
 ---
 # Interests 
 

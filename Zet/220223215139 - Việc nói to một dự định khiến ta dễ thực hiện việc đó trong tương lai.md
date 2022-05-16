@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/23'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Việc nói to một dự định làm tăng khả năng ta thực hiện việc đó trong tương lai. Kiểu trong tương lai, ta sẽ cảm thấy ta sẽ trở thành người nói dối nếu ta không thực hiện việc đó.

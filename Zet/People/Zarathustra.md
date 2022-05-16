@@ -9,7 +9,7 @@ birth: 628 TCN
 death: 511 TCN
 aliases:
   - Zoroaster
-publish: True
+publish: False
 ---
 # Zarathustra
 

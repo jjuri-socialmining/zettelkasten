@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Oct/30'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Andrew Hitchcock cho rằng Ashkenazi chính là Khazars
 

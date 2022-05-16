@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Oct/11'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Theo tài liệu FBI, Tesla là người Sao Kim
 

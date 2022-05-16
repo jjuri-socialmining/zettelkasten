@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/12'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Godel bác bỏ Thuyết tiến hóa Darwin
 

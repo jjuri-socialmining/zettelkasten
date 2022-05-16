@@ -9,7 +9,7 @@ tags:
 aliases:
   - The dark night of the soul
   - Đêm tối của linh hồn
-publish: True
+publish: False
 ---
 # Bóng tối linh hồn
 

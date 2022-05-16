@@ -7,7 +7,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Xích Thố
-publish: True
+publish: False
 ---
 # Xích Thố
 

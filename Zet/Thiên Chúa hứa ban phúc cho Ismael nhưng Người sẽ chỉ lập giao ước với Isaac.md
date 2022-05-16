@@ -7,7 +7,7 @@ tags:
   - 'seed'
   - 'permanent/concept'
   - 'religion'
-publish: True
+publish: False
 ---
 # Thiên Chúa hứa ban phúc cho Ismael nhưng Người sẽ chỉ lập giao ước với Isaac
 

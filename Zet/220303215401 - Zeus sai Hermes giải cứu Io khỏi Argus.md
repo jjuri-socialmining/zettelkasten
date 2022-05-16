@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220303215401
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Zeus|Zeus]] sai [[Thần Hermes|Hermes]] giải cứu [[Nữ thần Io]] khỏi [[Argus]]. Khi đó, Io đang dưới hình dạng một con bò trắng.

@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Nov/12'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Gabriel có nghĩa là người của Thiên Chúa
 

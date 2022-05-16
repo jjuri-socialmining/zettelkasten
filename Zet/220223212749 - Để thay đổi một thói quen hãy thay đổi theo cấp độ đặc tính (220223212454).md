@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/23'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Để thay đổi thói quen, Hãy hướng đến việc thay dổi đặc tính của con người (mức độ 3 theo [[220223212454 - Ba cấp độ thay đổi 1 thói quen|220223212454]]). Khi bạn đang cai thuốc lá, một người mời bạn 1 điếu, bạn từ chối với lý do:

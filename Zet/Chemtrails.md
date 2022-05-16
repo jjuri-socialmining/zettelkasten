@@ -7,7 +7,7 @@ tags:
   - 'seed'
   - 'permanent/concept'
   - 'todo/research'
-publish: True
+publish: False
 ---
 # Chemtrails
 

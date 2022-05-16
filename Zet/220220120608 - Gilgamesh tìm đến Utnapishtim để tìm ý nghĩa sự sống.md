@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Sau khi [[Enkidu]] chết, [[Vua Gilgamesh|Gilgamesh]] chán nản tìm đến [[Utnapishtim]] để tìm ý nghĩa của cuộc sống và muốn trở nên bất tử.

@@ -13,7 +13,7 @@ aliases:
   - Antoine Béchamp
   - Béchamp
   - Bechamp
-publish: True
+publish: False
 ---
 # Antoine Beauchamp
 

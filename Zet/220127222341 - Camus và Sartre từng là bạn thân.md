@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/27'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Albert Camus]] và [[Jean Paul Sartre]] từng là bạn thân

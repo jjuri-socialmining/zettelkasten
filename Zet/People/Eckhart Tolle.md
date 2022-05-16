@@ -5,7 +5,7 @@ tags:
   - 'created/2021/Oct/22'
   - 'seed'
   - 'permanent/people'
-publish: True
+publish: False
 ---
 # Eckhart Tolle
 

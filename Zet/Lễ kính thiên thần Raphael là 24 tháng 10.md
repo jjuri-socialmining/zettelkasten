@@ -8,7 +8,7 @@ tags:
   - 'permanent/fact'
 aliases:
   - Trước công đồng Vaticanô II, Lễ kính thiên thần Raphael là 24 tháng 10
-publish: True
+publish: False
 ---
 # Lễ kính thiên thần Raphael là 24 tháng 10
 

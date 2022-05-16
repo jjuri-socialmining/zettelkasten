@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Dec/30'
   - 'seed'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # Nghịch lý Fermi
 

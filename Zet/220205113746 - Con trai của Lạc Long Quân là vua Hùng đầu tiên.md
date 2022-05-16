@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/05'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Con trai của [[Lạc Long Quân]] là tù trưởng [[Văn Lang]], lập nước Văn Lang lấy hiệu là [[Vua Hùng]]

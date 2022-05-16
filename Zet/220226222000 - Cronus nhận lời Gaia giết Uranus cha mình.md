@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/26'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Titan Cronus]] nhận lời [[Nữ thần Gaia|Gaia]] giết [[Thần bầu trời Uranus|Uranus]] cha mình

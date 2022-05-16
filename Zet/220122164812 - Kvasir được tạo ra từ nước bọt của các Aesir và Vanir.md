@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Sau trận chiến, các [[Các vị thần Aesir|Aesir]] và [[Vanir]] đã nhổ nước bọt vào một các vạc tạo ra [[Thần Kvasir]]

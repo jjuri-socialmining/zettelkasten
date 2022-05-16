@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/23'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Trong [[Sử thi Enuma Elish]], [[Thần Marduk]] trộn đất sét và máu của [[Kingu]] để tạo ra con người.

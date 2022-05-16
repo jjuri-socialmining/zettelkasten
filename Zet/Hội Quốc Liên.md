@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - League of Nations
-publish: True
+publish: False
 ---
 # Hội Quốc Liên
 

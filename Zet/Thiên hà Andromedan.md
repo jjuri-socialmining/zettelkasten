@@ -10,7 +10,7 @@ aliases:
   - Messier 31
   - M31
   - NGC 224
-publish: True
+publish: False
 ---
 # Thiên hà Andromedan
 

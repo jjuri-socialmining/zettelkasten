@@ -6,7 +6,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Cách tính toán hệ số ELO
-publish: true
+publish: False
 ---
 # Cách tính toán hệ số ELO
 

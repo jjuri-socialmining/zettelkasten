@@ -9,7 +9,7 @@ tags:
 aliases:
   - Lý thuyết địa hình
   - Lý thuyết môi trường
-publish: True
+publish: False
 ---
 # The Terrain Theory
 

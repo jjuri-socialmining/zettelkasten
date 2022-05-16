@@ -7,7 +7,7 @@ tags:
   - 'permanent/nation'
 aliases:
   - Nước Tần
-publish: True
+publish: False
 ---
 # Nhà Tần
 

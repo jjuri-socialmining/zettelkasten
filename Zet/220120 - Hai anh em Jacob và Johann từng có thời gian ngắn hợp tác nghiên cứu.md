@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Hai anh em [[Jacob Bernoulli]] và [[Johann Bernoulli]] từng có thời gian hợp tác nghiên cứu nhưng nhanh chóng sinh mâu thuẫn nhau.

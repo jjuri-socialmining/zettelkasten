@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/24'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Tên của 11 dòng sông chảy ra từ [[Giếng Hvergelmir]] là Svöl, Gunnthrá, Fjörm, Fimbulthul, Slíd, Hríd, Sylgr, Ylgr, Víd, Leiptr và Gjöll.

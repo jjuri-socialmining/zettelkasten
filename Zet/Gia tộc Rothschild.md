@@ -10,7 +10,7 @@ tags:
 aliases:
   - Rothschild Family
   - Rothschild
-publish: True
+publish: False
 ---
 # Gia tộc Rothschild
 

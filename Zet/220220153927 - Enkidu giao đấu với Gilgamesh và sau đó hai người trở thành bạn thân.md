@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Khi [[Enkidu]] biết được sự bạo ngược của [[Vua Gilgamesh|Gilgamesh]], Enkidu đến Uruk để thách đấu với Gilgamesh. Enkidu sau đó thừa nhận sức mạnh của Gilgamesh và sau đó hai người kết thành bạn thân

@@ -8,7 +8,7 @@ tags:
 aliases:
   - Cầu Nhật Bản
   - Lai Viễn Kiều
-publish: True
+publish: False
 ---
 # Chùa Cầu
 

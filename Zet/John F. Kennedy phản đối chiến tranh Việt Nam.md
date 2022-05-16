@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Nov/14'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # John F. Kennedy phản đối chiến tranh Việt Nam
 

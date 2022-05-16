@@ -9,7 +9,7 @@ birth: null
 death: null
 aliases:
   - Ức Trai
-publish: True
+publish: False
 ---
 # Nguyễn Trãi
 

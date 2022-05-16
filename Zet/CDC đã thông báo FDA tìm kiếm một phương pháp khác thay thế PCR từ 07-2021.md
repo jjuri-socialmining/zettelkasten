@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Nov/01'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # CDC đã thông báo FDA tìm kiếm một phương pháp khác thay thế PCR từ 07-2021
 

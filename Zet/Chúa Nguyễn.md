@@ -7,7 +7,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Chúa Nguyễn
-publish: True
+publish: False
 ---
 # Chúa Nguyễn
 

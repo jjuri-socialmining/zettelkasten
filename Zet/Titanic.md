@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Nov/14'
   - 'seed'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # Titanic
 

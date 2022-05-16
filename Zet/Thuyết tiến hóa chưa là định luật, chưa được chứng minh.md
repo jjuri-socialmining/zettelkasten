@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/14'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Thuyết tiến hóa chưa là định luật, chưa được chứng minh
 

@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/26'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Nữ thần Gaia|Gaia]] và [[Thần bầu trời Uranus|Uranus]] sinh ra 12 Titan, 3 Cyclops, 3 Hecatonchire:

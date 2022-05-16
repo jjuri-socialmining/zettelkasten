@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thành phố Valhalla]] có 540 cánh cửa, mỗi cánh cửa to lớn đến mức 800 người có thể đi qua cùng lúc.

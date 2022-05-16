@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Sau [[Hội Xương pháp nạn]], [[Mani giáo]] bị gọi là Ma giáo, mang nghĩa tà giáo. Mani giáo phải hoạt động bí mật

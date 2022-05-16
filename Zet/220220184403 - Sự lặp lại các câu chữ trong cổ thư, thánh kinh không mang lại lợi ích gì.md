@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Sự lặp lại những câu chữ trong các cổ thư, thánh kinh với tâm trạng hoang mang, rối loạn không mang lại lợi ích gì

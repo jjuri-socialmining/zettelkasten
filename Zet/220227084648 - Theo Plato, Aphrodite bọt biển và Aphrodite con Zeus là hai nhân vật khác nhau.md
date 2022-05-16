@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/27'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Theo [[Plato]], [[Nữ thần Aphrodite|Aphrodite]] sinh ra từ bọt biển và [[Nữ thần Aphrodite|Aphrodite]] con [[Thần Zeus|Zeus]] là hai nhân vật khác nhau

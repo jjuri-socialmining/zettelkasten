@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/21'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Anu|Anu]] và [[Nữ thần Ishtar|Ishtar]] là 2 vị thần bảo trợ thành phố Uruk.

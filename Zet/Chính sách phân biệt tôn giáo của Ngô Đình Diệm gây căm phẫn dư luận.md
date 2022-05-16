@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Jul/18'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Chính sách phân biệt tôn giáo của Ngô Đình Diệm gây căm phẫn dư luận
 

@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220301223903
-publish: True
+publish: False
 ---
 ## Notes:
 Sau khi Zeus bị hạ gục bởi [[Typhon]], [[Thần Hermes|Hermes]] va [[Pan]] quyết định đi giải cứu [[Thần Zeus|Zeus]] khỏi tay hắn.

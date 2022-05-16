@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Dec/07'
   - 'seed'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # Ái kỷ tâm linh
 

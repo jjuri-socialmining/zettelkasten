@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Sep/07'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Tiếng Phạn là ngôn ngữ nghi lễ của một số tôn giáo, trong đó có Ấn Độ giáo, Phật giáo Bắc Tông
 

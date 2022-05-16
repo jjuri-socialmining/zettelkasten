@@ -7,7 +7,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Nhà Võ Chu
-publish: True
+publish: False
 ---
 # Nhà Võ Chu
 

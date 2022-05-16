@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/25'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Ba tập Kinh Vệ Đà [[Rig Veda]], [[Sama Veda]], [[Yayur Veda]] là các bài ca kể về tình hình  [[Người Aryan]] vào Ấn Độ, cuộc chiến với thiên nhiên,...

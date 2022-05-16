@@ -10,7 +10,7 @@ dates:
   - die:
 aliases:
   - Dương Diên Nghệ
-publish: True
+publish: False
 ---
 # Dương Đình Nghệ
 

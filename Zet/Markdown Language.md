@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Markdown
-publish: True
+publish: False
 ---
 # Markdown Language
 

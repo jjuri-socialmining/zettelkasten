@@ -9,7 +9,7 @@ birth: 1748-02-06
 death: 1830-11-18
 aliases:
   - Adam Weishaupt
-publish: True
+publish: False
 ---
 # Adam Weishaupt
 

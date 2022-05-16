@@ -9,7 +9,7 @@ aliases:
   - "Nhà Liêu"
   - Nước Khiết Đan
   - Liêu triều
-publish: True
+publish: False
 ---
 # Nhà Liêu
 

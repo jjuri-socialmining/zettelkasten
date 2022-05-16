@@ -12,7 +12,7 @@ aliases:
   - Tây lịch
   - Dương lịch
   - Công lịch
-publish: True
+publish: False
 ---
 # Lịch Gregorian
 

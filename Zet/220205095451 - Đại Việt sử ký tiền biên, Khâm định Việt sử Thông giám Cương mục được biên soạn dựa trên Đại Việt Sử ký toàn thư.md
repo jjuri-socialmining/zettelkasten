@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/05'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Đại Việt sử ký tiền biên]], [[Khâm định Việt sử Thông giám Cương mục]] được biên soạn dựa trên [[Đại Việt Sử ký toàn thư]]

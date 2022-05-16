@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/25'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Vua Gilgamesh|Gilgamesh]] và [[Enkidu]] giết [[Quái vật Humbaba]] giúp dân lành và giải cứu [[Nữ thần Ishtar]] khỏi tay con quái vật.

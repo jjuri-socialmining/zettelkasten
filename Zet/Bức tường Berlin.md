@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Bức tường ô nhục
-publish: True
+publish: False
 ---
 # Bức tường Berlin
 

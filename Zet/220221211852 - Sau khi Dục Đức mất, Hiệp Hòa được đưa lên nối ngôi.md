@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/21'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Sau khi [[Dục Đức]] mất, [[Tôn Thất Thuyết]], Nguyễn Văn Tường đưa [[Hiệp Hòa|Nguyễn Phúc Hồng Dật]] lên làm vua, lấy hiệu là Hiệp Hòa

@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Spiritual Bypassing
-publish: True
+publish: False
 ---
 # Lối tắt tâm linh
 

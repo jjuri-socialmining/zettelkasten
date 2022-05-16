@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/25'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Ba anh em [[Thần Odin|Odin]] tạo ra người nam [[Ask và Embla|Ask]] từ cây thân bì và người nữ [[Ask và Embla|Embla]] từ thân cây du

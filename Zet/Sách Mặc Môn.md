@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Book of Mormon
-publish: True
+publish: False
 ---
 # Sách Mặc Môn
 

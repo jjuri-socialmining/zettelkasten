@@ -10,7 +10,7 @@ death: null
 aliases:
   - Iosif Vissarionovich Stalin
   - Stalin
-publish: True
+publish: False
 ---
 # Joseph Stalin
 

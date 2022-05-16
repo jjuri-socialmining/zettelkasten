@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Anh em [[Jacob Bernoulli]] và [[Johann Bernoulli]] đứng về phía [[Gottfried Wilhelm Leibniz]] trong cuộc tranh luận người phát minh ra phép toán vi tích phân.

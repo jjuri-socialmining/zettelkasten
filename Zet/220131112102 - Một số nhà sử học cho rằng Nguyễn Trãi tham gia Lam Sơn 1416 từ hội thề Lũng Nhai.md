@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/31'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Hoàng Xuân Hãn]], [[Đặng Nghiêm Vạn]], [[Phan Huy Lê]] cho rằng [[Nguyễn Trãi]] gia nhập [[Khởi nghĩa Lam Sơn]] từ 1416 từ [[Hội thề Lũng Nhai]]

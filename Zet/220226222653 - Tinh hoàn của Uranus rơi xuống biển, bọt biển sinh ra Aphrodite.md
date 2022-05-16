@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/26'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Sau khi [[Thần bầu trời Uranus|Uranus]] bị [[Titan Cronus|Cronus]] thiến, tinh hoàn của ông rơi xuống biển, bọt biển sinh ra [[Nữ thần Aphrodite|Aphrodite]]

@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/23'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Enki|Enki]] là vị thần cố vấn sáng suốt. Các vị thần luôn tìm đến ông để xin lời khuyên.

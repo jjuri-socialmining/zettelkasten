@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/24'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Mẹ của [[Isaac Newton|Newton]] tái giá khi cậu mới 2 tuổi, cậu phải ở với bà ngoại

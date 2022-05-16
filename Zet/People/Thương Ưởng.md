@@ -7,7 +7,7 @@ tags:
   - 'permanent/people'
 aliases:
   - Vệ Ưởng
-publish: True
+publish: False
 ---
 # Thương Ưởng
 

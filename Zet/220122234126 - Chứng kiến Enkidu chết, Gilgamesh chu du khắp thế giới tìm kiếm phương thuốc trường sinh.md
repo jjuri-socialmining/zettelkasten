@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Enkidu]] mắc bệnh dịch và chết. [[Vua Gilgamesh]] chứng kiến cái chết của Enkidu thì vô cùng đau khổ. Ông quyết định chu du khắp thế giới tìm cách để tìm kiếm phương thuốc trường sinh.

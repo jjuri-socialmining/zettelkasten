@@ -9,7 +9,7 @@ birth: null
 death: null
 aliases:
   - Lev Nikolayevich Tolstoy
-publish: True
+publish: False
 ---
 # Leo Tolstoy
 

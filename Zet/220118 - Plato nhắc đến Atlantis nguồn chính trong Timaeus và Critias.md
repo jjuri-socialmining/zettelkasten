@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/18'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Alantis]] được nhắc đến chủ yếu trong các cuộc đối thoại của [[Plato]] trong [[@ Plato, Timaeus và Critias]]

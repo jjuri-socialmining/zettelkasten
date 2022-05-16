@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/31'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Theo [[Phan Huy Chú]] trong quyển Lịch triều hiến chương loại chí cho rằng [[Nguyễn Trãi]] bị giam lỏng ở Đông Quan cho tới khi được báo mộng thì bỏ trốn tham gia [[Khởi nghĩa Lam Sơn]] phù [[Lê Lợi]]

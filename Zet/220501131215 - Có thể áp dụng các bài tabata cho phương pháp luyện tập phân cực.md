@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220501131215
-publish: True
+publish: False
 ---
 ## Notes:
 Có thể áp dụng các bài tập [[Tabata interval HIIT|Tabata]] để tập các bài tập nặng theo [[Phương pháp luyện tập phân cực]].

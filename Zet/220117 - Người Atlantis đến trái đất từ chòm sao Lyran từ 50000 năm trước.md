@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/17'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Người Atlantis]] đến trái đất từ [[Chòm sao Lyran]] từ 50.000 năm trước

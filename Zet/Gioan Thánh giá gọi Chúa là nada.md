@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Oct/22'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Gioan Thánh giá gọi Chúa là nada
 

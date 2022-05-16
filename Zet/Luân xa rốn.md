@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Manipura chakra
-publish: True
+publish: False
 ---
 # Luân xa rốn
 

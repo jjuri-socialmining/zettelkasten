@@ -6,7 +6,7 @@ tags:
   - 'permanent/concept'
   - 'flashcards'
 aliases: [Nietzsche, Friedrich Wilhelm Nietzsche]
-publish: True
+publish: False
 ---
 # Friedrich Nietzsche
 

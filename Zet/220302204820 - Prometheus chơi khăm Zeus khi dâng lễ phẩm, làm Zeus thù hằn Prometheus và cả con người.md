@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220302204820
-publish: True
+publish: False
 ---
 ## Notes:
 Sau cuộc phân xử giữa thần bất tử và con người, [[Bảo Bình|Prometheus]] giết 1 con bò béo và chia thành 2 phần:

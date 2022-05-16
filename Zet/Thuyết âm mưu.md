@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Conspiracy Theory
-publish: True
+publish: False
 ---
 # Thuyết âm mưu
 

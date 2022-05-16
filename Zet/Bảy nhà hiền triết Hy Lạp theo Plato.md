@@ -4,7 +4,7 @@ tags:
   - 'created/2021/Jul/10'
   - 'garden'
   - 'permanent/linking'
-publish: True
+publish: False
 ---
 # Bảy nhà hiền triết Hy Lạp theo Plato
 

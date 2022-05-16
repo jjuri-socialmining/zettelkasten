@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/25'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Bẳng [[Chữ Rune]] giống bảng chữ cái [[Tiếng Anh]] nhưng ít hơn và các ký tự ít hơn đó là w, j, x, k, u

@@ -9,7 +9,7 @@ birth: null
 death: null
 aliases:
   - Giêrônimô
-publish: True
+publish: False
 ---
 # Thánh Jerome
 

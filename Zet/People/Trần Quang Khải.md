@@ -9,7 +9,7 @@ birth: 1241
 death: 1294-07-26
 aliases:
   - Chiêu Minh Đại Vương
-publish: True
+publish: False
 ---
 # Trần Quang Khải
 

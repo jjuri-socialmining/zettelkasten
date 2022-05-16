@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/concept'
 aliases: 220501130456
-publish: True
+publish: False
 ---
 ## Notes:
 Luyện tập phân cực là luyện tập với giáo án tập trung vào các bài tập nhẹ nhàng và các bài tập nặng, giảm thiểu (hoặc loại bỏ hoàn toàn) các bài tập trung bình

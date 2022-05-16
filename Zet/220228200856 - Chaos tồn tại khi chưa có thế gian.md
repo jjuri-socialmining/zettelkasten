@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220228200856
-publish: True
+publish: False
 ---
 ## Notes:
 Trong [[Thần thoại Hy Lạp]], [[Thần Hỗn Mang|Chaos]] tồn tại trước cùng, khi chưa có thế gian, chưa có các vị thần.

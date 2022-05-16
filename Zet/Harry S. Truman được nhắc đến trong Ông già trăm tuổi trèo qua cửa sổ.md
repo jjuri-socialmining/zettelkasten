@@ -4,7 +4,7 @@ tags:
   - 'created/2021/Aug/08'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Harry S. Truman được nhắc đến trong Ông già trăm tuổi trèo qua cửa sổ
 

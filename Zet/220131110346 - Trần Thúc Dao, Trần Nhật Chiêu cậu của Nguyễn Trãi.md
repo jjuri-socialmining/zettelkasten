@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/31'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Trần Thúc Dao]], [[Trần Nhật Chiêu]] là con trai của [[Trần Nguyên Đán]]. Tức Trần Thúc Dao, Trần Nhật Chiêu là cậu của [[Nguyễn Trãi]]

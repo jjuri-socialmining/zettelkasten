@@ -5,7 +5,7 @@ tags:
   - 'created/2021/Jul/04'
   - 'permanent/people'
   - 'flashcards'
-publish: True
+publish: False
 ---
 # Lão Tử
 

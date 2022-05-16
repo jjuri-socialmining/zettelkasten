@@ -8,7 +8,7 @@ tags:
 aliases:
   - Tiếng Phạn
   - Bắc Phạn
-publish: True
+publish: False
 ---
 # Tiếng Sanskrit
 

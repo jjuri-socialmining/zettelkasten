@@ -11,7 +11,7 @@ aliases:
   - Chúa Jesus
   - Jesus Christ
   - Chúa Giêsu
-publish: True
+publish: False
 ---
 # Đức Jesus
 

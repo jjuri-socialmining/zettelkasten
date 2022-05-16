@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Các thần Asynjur]] là tên gọi chung các nữ thần [[Thần thoại Bắc Âu]]

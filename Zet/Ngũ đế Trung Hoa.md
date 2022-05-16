@@ -7,7 +7,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Ngũ đế
-publish: True
+publish: False
 ---
 # Ngũ đế Trung Hoa
 

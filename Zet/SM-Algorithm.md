@@ -7,7 +7,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - SM
-publish: True
+publish: False
 ---
 # SM-Algorithm
 

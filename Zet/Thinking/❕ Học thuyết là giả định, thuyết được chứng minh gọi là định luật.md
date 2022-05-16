@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/14'
   - 'seed'
   - 'permanent/think'
-publish: True
+publish: False
 ---
 # ❕ Học thuyết là giả định, thuyết được chứng minh gọi là định luật
 

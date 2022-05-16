@@ -5,7 +5,7 @@ tags:
   - 'created/2021/Jul/18'
   - 'seed'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # Thuyết Domino
 

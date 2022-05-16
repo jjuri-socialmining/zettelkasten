@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220301223112
-publish: True
+publish: False
 ---
 ## Notes:
 [[Typhon]] có thể nói chuyện với muôn loài chim thú.

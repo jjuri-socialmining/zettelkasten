@@ -6,7 +6,7 @@ tags:
   - 'permanent/people'
 birth: null
 death: null
-publish: True
+publish: False
 ---
 # Mahatma Gandhi
 

@@ -9,7 +9,7 @@ tags:
 aliases:
   - Knights Templar
   - Hiệp sĩ Dòng Đền
-publish: True
+publish: False
 ---
 # Hiệp sĩ Đền Thánh
 

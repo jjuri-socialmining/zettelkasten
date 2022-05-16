@@ -5,7 +5,7 @@ tags:
   - 'created/2021/Jul/18'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Chủ nghĩa Stalin phát triển lý thuyết của Lenin
 

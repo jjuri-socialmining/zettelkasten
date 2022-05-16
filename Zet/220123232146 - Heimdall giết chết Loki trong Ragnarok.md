@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/23'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Heimdall|Heimdall]] đã giết chết [[Loki]] trong [[Ragnarok]], Heimdall cũng bị thương nặng và chết sau đó.

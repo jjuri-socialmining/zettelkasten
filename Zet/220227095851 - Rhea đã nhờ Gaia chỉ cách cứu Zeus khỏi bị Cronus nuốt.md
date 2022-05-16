@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/27'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Sau khi tất cả 5 người con đầu tiên đều bị [[Titan Cronus|Cronus]] nuốt, [[Titan Rhea|Rhea]] đã nhờ mẹ [[Nữ thần Gaia|Gaia]] chỉ cách cứu người con thứ 6 là [[Thần Zeus|Zeus]]. Gaia chỉ cho Rhea qua đảo Crete sinh con và lấy tã cuốn vào đá và đưa cho Cronus. Cronus bị lừa và nuốt tảng đá và Zeus được cứu.

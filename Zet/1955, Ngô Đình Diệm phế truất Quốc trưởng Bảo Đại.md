@@ -3,7 +3,7 @@ title: 1955, Ngô Đình Diệm phế truất Quốc trưởng Bảo Đại
 tags:
   - 'permanent/fact'
   - 'created/2021/Jul/17'
-publish: True
+publish: False
 ---
 # Ngô Đình Diệm phế truất Quốc trưởng Bảo Đại
 

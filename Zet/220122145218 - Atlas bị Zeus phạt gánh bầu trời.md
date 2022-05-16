@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Olympus giành chiến thắng trước phe [[Người khổng lồ Titan|Titan]]. Là một trong những người chỉ huy phe Titan chống [[Olympus]], [[Thần Atlas]] nhận hình phạt nặng nhất là suốt đời gánh đỡ cả bẩu trời.

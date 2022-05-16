@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220228202240
-publish: True
+publish: False
 ---
 ## Notes:
 Titan là tên gọi các nam thần khổng lồ, Titanide là các nữ thần khổng lồ con của [[Nữ thần Gaia|Gaia]] và [[Thần bầu trời Uranus|Uranus]]. Tuy nhiên, ta thường gọi chung là [[Người khổng lồ Titan|Các Titan]].

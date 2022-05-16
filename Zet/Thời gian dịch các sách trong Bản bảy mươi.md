@@ -5,7 +5,7 @@ tags:
   - 'created/2021/Jul/31'
   - 'seed'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # Thời gian dịch các sách trong Bản bảy mươi
 

@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Solar Plexus chakra
-publish: True
+publish: False
 ---
 # Luân xa xương cùng
 

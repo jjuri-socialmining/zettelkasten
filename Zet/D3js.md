@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Oct/02'
   - 'seed'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # D3js
 

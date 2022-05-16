@@ -9,7 +9,7 @@ birth: null
 death: null
 aliases:
   - Nữ Oa nương nương
-publish: True
+publish: False
 ---
 # Nữ Oa
 

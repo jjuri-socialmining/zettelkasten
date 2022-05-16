@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220302212314
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Zeus|Zeus]] trừng phạt [[Bảo Bình|Prometheus]] vì đã lấy lửa của thần ban cho con người. Zeus bắt Prometheus xích vào ngọn núi Caucase. Zeus còn sai một con đại bàn đến ăn gan của Prometheus

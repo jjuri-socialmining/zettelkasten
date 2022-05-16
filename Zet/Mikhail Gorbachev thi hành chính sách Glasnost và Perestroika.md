@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Nov/22'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Mikhail Gorbachev thi hành chính sách Glasnost và Perestroika
 

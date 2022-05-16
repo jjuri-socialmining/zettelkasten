@@ -6,7 +6,7 @@ tags:
   - 'permanent/concept'
   - 'flashcards'
 aliases: [Tiêu Phong, Kiều Phong]
-publish: True
+publish: False
 ---
 # Tiêu Phong
 

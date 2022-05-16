@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/31'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Nguyễn Trãi]] tham gia cuộc [[Khởi nghĩa Lam Sơn]] do [[Lê Lợi]] chỉ huy.

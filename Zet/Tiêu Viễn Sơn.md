@@ -6,7 +6,7 @@ tags:
   - 'permanent/concept'
   - 'flashcards'
 aliases: [Tiêu Viễn Sơn]
-publish: True
+publish: False
 ---
 # Tiêu Viễn Sơn
 

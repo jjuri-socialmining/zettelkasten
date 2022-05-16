@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Sep/29'
   - 'garden'
   - 'funny'
-publish: True
+publish: False
 ---
 # Sưu tầm mem chế
 

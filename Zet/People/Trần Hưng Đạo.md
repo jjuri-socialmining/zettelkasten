@@ -10,7 +10,7 @@ death: 1300
 aliases:
   - Hưng Đạo Vương
   - Trần Quốc Tuấn
-publish: True
+publish: False
 ---
 # Trần Hưng Đạo
 

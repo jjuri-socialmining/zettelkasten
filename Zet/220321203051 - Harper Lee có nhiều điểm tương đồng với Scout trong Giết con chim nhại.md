@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220321203051
-publish: True
+publish: False
 ---
 ## Notes:
 [[Harper Lee]] có nhiều điểm tương đồng với Scout trong [[@ Harper Lee, Giết con chim nhại]]:

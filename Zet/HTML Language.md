@@ -9,7 +9,7 @@ tags:
 aliases:
   - HTML
   - html
-publish: True
+publish: False
 ---
 # HTML Language
 

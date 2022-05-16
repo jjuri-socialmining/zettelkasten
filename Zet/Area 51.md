@@ -8,7 +8,7 @@ tags:
   - 'permanent/place'
 aliases:
   - Khu vực 51
-publish: True
+publish: False
 ---
 # Area 51
 

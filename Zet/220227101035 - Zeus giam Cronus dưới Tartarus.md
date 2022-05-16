@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/27'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Sau khi giải thoát 5 anh chị mình, tất cả 6 anh em chống lại và lật đổ Cronus. Sau đó,[[Thần Zeus|Zeus]] giam [[Titan Cronus|Cronus]] dưới [[Địa ngục Tartarus|Tartarus]]

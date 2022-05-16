@@ -9,7 +9,7 @@ tags:
 aliases:
   - Tiêm chủng
   - Chủng ngừa
-publish: True
+publish: False
 ---
 # Vaccination
 

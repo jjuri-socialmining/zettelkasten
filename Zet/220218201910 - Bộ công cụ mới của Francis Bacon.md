@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/18'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Tác phẩm "Bộ công cụ mới" của [[Francis Bacon]] lập luận rằng "tri thức là sức mạnh"

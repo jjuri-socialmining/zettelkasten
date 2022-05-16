@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220228221526
-publish: True
+publish: False
 ---
 ## Notes:
  Các [[Người khổng lồ Cyclops|Cyclops]] chế tạo vũ khí cho Zeus để chống lại [[Titan Cronus|Cronus]]. [[Cyclops Arges]] tạo ra chớp, [[Cyclops Brontes]] tạo ra sấm và [[Cyclops Steropes]] tạo sét cho Zeus

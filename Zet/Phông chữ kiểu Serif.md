@@ -7,7 +7,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Phông chữ kiểu serif
-publish: True
+publish: False
 ---
 # Phông chữ kiểu serif
 

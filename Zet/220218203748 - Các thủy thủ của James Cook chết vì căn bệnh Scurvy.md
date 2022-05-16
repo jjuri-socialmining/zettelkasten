@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/18'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Trong chuyến đi của [[James Cook]], nhiều thủy thủ bị chết do một căn bệnh là tên là [[Bệnh Scurvy]]

@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Oct/26'
   - 'seed'
   - 'permanent/linking'
-publish: True
+publish: False
 ---
 # Ba Chân lý của thông thiên học
 

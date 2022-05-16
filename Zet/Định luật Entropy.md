@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Định luật nhiệt động lực học
-publish: True
+publish: False
 ---
 # Định luật Entropy
 

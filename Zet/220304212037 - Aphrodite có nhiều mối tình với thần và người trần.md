@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220304212037
-publish: True
+publish: False
 ---
 ## Notes:
 [[Nữ thần Aphrodite]] có nhiều mối tình với thần và người trần

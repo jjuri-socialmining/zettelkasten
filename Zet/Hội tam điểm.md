@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Freemasonry
-publish: True
+publish: False
 ---
 # Hội tam điểm
 

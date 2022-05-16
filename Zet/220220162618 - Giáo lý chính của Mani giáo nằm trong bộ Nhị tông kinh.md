@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Giáo lý chính của [[Mani giáo]] nằm trong bộ [[Nhị Tông kinh]] với tư tưởng chính là "Nhị tông, tam tế".

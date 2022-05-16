@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Mirmir]] là vị thần thông thái, Mirmir có nghĩa là kẻ khôn ngoan

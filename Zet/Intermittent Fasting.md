@@ -7,7 +7,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Nhịn ăn cách quãng
-publish: True
+publish: False
 ---
 # Intermittent Fasting
 

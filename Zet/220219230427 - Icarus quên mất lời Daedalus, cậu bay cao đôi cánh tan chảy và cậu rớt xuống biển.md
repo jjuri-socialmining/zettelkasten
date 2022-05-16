@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/19'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Icarus]] khi bay trên bầu trời quên mất lời cha dặn, anh hưng phấn và trở nên kiêu ngạo. Anh nghĩ có thể bay cao hơn cả [[Thần Zeus]] và mặt trời đã làm tan chảy sáp ong

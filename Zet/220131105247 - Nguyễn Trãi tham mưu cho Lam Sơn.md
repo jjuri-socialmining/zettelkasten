@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/31'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Nguyễn Trãi]] là người soạn ra các chiến lược và các văn bản ngoại giao cho [[Khởi nghĩa Lam Sơn]]

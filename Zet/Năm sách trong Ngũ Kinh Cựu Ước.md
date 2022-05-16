@@ -5,7 +5,7 @@ tags:
   - 'created/2021/Jul/31'
   - 'garden'
   - 'permanent/linking'
-publish: True
+publish: False
 ---
 # Năm sách trong Ngũ Kinh Cựu Ước
 

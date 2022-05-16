@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/26'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Shamash]] thường được xem là con của thần mặt trăng [[Thần Nanna]] và [[nữ thần Ningal]]

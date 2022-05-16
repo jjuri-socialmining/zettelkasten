@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/21'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Nữ thần Ishtar]] mang hình tượng một phụ nữ sinh đẹp cầm một thanh gươm, một bàn chân dẫm lên sư tử.

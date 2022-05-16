@@ -9,7 +9,7 @@ tags:
 aliases:
   - Hanaq Pacha
   - Upper World
-publish: True
+publish: False
 ---
 # Thượng thế giới
 

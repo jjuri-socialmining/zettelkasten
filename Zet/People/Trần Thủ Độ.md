@@ -10,7 +10,7 @@ death: null
 aliases:
   - Trung Vũ đại vương
   - Thái sư Trần Thủ Độ
-publish: True
+publish: False
 ---
 # Trần Thủ Độ
 

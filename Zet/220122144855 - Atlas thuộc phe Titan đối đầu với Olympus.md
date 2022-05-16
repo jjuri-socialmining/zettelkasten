@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Atlas]] là một trong những người chỉ huy phe [[Người khổng lồ Titan]] đối đầu với  [[Các vị thần Olympus]]. 

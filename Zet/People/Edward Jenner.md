@@ -7,7 +7,7 @@ tags:
   - 'permanent/people'
 birth: 1749-05-17
 death: 1823-01-26
-publish: True
+publish: False
 ---
 # Edward Jenner
 

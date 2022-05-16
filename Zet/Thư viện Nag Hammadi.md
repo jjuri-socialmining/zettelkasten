@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Oct/27'
   - 'seed'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # Thư viện Nag Hammadi
 

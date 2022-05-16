@@ -7,7 +7,7 @@ tags:
   - 'seeding'
   - 'permanent/think'
 aliases: 220227164300
-publish: True
+publish: False
 ---
 ## Notes:
 Bản nâng cấp workflow thứ 2, workflow này giúp thuận tiện hơn rất nhiều trong việc tạo ghi chú. Bản cũ ở đây [[❕ 210714195600 - Zettelkasten Workflow]]

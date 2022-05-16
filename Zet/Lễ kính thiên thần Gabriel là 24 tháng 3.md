@@ -8,7 +8,7 @@ tags:
   - 'permanent/fact'
 aliases:
   - Trước công đồng Vaticanô II, lễ kính thiên thần Gabriel là 24 tháng 3
-publish: True
+publish: False
 ---
 # Lễ kính thiên thần Gabriel là 24 tháng 3
 

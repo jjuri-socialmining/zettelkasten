@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Khi đang điều hành ngành toán thuộc Hàn lâm viện hoàng gia Saint-Petersburg cùng với , Nicolas II chết vì bệnh lao, bạn thân của [[Daniel Bernoulli]] là [[Leonhard Euler]] sang thay thế.

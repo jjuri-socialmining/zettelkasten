@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220321202830
-publish: True
+publish: False
 ---
 ## Notes:
 Mẹ của [[Harper Lee]] có họ Finch, giống với họ của nhân vật chính trong [[@ Harper Lee, Giết con chim nhại]]

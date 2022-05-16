@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/31'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Tang thương ngẫu lục]] của [[Phạm Đình Hổ]] cho rằng [[Nguyễn Trãi]] lánh nạn ở Côn Sơn sau khi [[Nhà Hồ]] sụp đổ

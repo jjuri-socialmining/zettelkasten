@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220303215902
-publish: True
+publish: False
 ---
 ## Notes:
 [[Nữ thần Hera|Hera]] xin [[Nữ thần Gaia|Gaia]] tạo ra [[Quái vật Python]] để đánh ghen [[Leto]]

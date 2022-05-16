@@ -5,7 +5,7 @@ tags:
   - 'created/2021/Jul/01'
   - 'seed'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # Hub note
 

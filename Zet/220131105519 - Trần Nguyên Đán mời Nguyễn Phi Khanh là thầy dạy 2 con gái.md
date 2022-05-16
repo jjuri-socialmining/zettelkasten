@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/31'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Nguyễn Phi Khanh]] được [[Trần Nguyên Đán]] mời về làm thầy dạy cho hai con gái mình là [[Trần Thị Thái]] và Trần Thị Thai

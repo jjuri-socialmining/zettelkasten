@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/21'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Sau khi [[Tự Đức]] băng hà, [[Thái Hậu Từ Dũ]] và hai bà Trang Y và [[Học Phi]] gây sức ép lên các đại thần là [[Tôn Thất Thuyết]], [[Nguyễn Văn Tường]] và Trần Tiễn Thành để đưa Dục Đức lên làm vua

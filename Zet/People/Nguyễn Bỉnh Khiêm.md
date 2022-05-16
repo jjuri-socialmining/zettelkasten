@@ -11,7 +11,7 @@ aliases:
   - Trạng Trình
   - Bạch Vân Cư Sĩ
   - Tuyết Giang Phu Tử
-publish: True
+publish: False
 ---
 # Nguyễn Bỉnh Khiêm
 

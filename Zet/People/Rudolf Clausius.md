@@ -7,7 +7,7 @@ tags:
   - 'permanent/people'
 birth: 1822-01-02
 death: 1888-08-22
-publish: True
+publish: False
 ---
 # Rudolf Clausius
 

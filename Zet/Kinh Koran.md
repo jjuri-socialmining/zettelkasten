@@ -7,7 +7,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Qur’an
-publish: True
+publish: False
 ---
 # Kinh Koran
 

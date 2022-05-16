@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Không có sự phát triển nội tâm thì hành động bên ngoài chỉ như một hành động theo thói quen, tập quán

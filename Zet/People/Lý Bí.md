@@ -10,7 +10,7 @@ death: null
 aliases:
   - Lý Bôn
   - Lý Nam Đế
-publish: True
+publish: False
 ---
 # Lý Bí
 

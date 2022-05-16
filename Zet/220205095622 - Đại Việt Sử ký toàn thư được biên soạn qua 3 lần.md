@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/05'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 - [[Đại Việt Sử ký toàn thư]] được sửa chữa bổ sung nhiều lần trước khi được ban hành năm 1697

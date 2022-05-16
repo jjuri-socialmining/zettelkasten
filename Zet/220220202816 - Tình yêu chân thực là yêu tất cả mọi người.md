@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Tình yêu chân thực là yêu tất cả mọi người, yêu không điều kiện. Nếu bạn chỉ yêu một số người, đó cũng chỉ là tình yêu có điều kiện và đó không thực sự là tình yêu

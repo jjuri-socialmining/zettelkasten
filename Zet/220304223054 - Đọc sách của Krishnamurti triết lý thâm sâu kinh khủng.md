@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/think'
 aliases: 220304223054
-publish: True
+publish: False
 ---
 ## Notes:
 Đọc sách của [[Jiddu Krishnamurti|Krishnamurti]] triết lý thâm sâu kinh khủng, mới đọc được 1/3 quyển [[@ Krishnamurti, Tự do đầu tiên và cuối cùng]] là phải vận dụng hết công lực suy ngẫm mà vẫn chỉ hiểu được 20-30% ý ổng.

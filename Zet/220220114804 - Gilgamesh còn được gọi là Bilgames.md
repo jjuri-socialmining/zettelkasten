@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Vua Gilgamesh|Gilgamesh]] còn được gọi là Bilgames theo lịch sử người Sumerian

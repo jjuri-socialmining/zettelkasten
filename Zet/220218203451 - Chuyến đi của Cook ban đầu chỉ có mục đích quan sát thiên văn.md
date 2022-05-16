@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/18'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Chuyến đi của [[James Cook]] mục đích ban đầu là quan sát thiên văn nhưng như vậy thì quá lãng phí. Hoàng gia Anh đã lựa chọn những nhà khoa học các ngành khác để cùng đi nghiên cứu. Trong chuyến đi đó, lĩnh vực y học gặt hái nhiều thành tựu nhất.

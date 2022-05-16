@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Tổng thống Ngô Đình Diệm
-publish: True
+publish: False
 ---
 # Ngô Đình Diệm
 

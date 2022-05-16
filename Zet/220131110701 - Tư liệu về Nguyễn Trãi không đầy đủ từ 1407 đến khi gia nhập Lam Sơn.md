@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/31'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Không có một tư liệu nào đầy đủ, chính xác nói về [[Nguyễn Trãi]] trong khoảng thời gian từ 1407 đến khi ông gia nhập Lam Sơn. Các tư liệu nói về Nguyễn Trãi trong thời kỳ này cũng không thống nhất.

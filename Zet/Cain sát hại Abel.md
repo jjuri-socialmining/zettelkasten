@@ -9,7 +9,7 @@ tags:
   - 'religion'
 aliases:
   - Abel bị anh mình là Cain sát hại
-publish: True
+publish: False
 ---
 # Cain sát hại Abel
 

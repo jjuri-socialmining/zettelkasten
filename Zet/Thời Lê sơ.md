@@ -7,7 +7,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Thời Lê sơ
-publish: True
+publish: False
 ---
 # Thời Lê sơ
 

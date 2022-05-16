@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/25'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Ba chủng tộc thần thánh trong [[Thần thoại Bắc Âu]] là [[Các vị thần Aesir|Aesir]], [[Vanir]] và [[Người khổng lồ Jotun|Jotun]]

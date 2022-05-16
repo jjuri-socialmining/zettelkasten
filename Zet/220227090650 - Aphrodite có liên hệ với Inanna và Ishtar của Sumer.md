@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/27'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Nữ thần Aphrodite|Aphrodite]] có sự liên hệ với [[Nữ thần Inanna]] và [[Nữ thần Ishtar|Ishtar]] của Sumer

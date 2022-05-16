@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/05'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Bản [[Đại Việt Sử ký toàn thư]] của [[Ngô Sĩ Liên]] được chia làm hai phần Ngoại kỷ toàn thư và Bản kỷ toàn thư.

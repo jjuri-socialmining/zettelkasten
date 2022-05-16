@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/25'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Hồi Giáo]] không thờ ảnh tượng, các đền thờ chỉ được tranh trí, khắc chữ Arap.

@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Nov/20'
   - 'garden'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # Tra cứu Kinh thánh bằng Obsidian
 

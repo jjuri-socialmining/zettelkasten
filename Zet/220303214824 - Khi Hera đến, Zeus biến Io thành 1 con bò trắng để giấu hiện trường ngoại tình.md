@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220303214824
-publish: True
+publish: False
 ---
 ## Notes:
 Khi [[Nữ thần Hera|Hera]] đến, [[Thần Zeus|Zeus]] biến [[Nữ thần Io]] thành 1 con bò trắng để giấu hiện trường ngoại tình. Hera xin con bò và cất giữ không cho Zeus tìm gặp được con bò.

@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220321201754
-publish: True
+publish: False
 ---
 ## Notes:
 [[@ Harper Lee, Giết con chim nhại]] gần giống tự truyện của [[Harper Lee]], có nhiều sự kiện trong tác phẩm tương đồng với cuộc đời, gia đình và nơi bà sống.

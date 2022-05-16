@@ -5,7 +5,7 @@ tags:
   - 'created/2021/Sep/02'
   - 'seed'
   - 'permanent/think'
-publish: True
+publish: False
 ---
 # ❕ Ý nghĩa cuộc đời là sự định nghĩa của mỗi người
 

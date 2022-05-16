@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Fluid frameworks
-publish: True
+publish: False
 ---
 # LYT Framework
 

@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/27'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Người khổng lồ Cyclops|Cyclops]] và [[Hecatonchire]] bị [[Thần bầu trời Uranus|Uranus]] giam ở [[Địa ngục Tartarus|Tartarus]] vì vẻ bề ngoài xấu xí

@@ -9,7 +9,7 @@ tags:
 aliases:
   - Levi
   - Lê-vi
-publish: True
+publish: False
 ---
 # Chi tộc Levi
 

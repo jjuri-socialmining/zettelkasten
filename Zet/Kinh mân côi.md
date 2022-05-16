@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Sep/27'
   - 'seed'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # Kinh mân côi
 

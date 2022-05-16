@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Qanon map
-publish: True
+publish: False
 ---
 # Qmap
 

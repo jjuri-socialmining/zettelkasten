@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Chúng ta không thể sợ cái ta không biết, chúng ta sợ chết thực ra là chúng ta đang sợ mất đi những thứ mà ta đang có, nghĩa là những thứ chúng ta biết

@@ -5,7 +5,7 @@ tags:
   - 'created/2021/Jul/07'
   - 'garden'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # Python standard library
 

@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Biết được [[Bảo Bình|Prometheus]] ăn cắp lửa cho con người, [[Thần Zeus]] tức giận xích ông vào ngọn núi [[Caucasian]] và hằng ngày có 1 con chim khoét ruột gan của Prometheus.

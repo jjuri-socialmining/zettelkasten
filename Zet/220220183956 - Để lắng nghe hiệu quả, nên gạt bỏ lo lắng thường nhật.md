@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Để lắng nghe hiệu quả, ta phải gạt sang bên thiên kiến, những lo lắng thường nhật

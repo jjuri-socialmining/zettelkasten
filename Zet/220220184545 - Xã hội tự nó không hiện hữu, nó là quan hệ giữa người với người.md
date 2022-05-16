@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Xã hội không tự nó hiện hữu. Xã hội là các mối quan hệ giữa một người và một người khác tạo ra bởi thế giới nội tâm. Bởi vậy, cho tới khi nào bạn không hiểu nội tâm mà chỉ đơn giản thay đổi xã hội, thế giới bên ngoài thì đều vô nghĩa

@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Mirmir|Mirmir]] có một chiếc giếng ở trên [[Vùng đất Jotunheim]]. Chiếc giếng mang tên ông.

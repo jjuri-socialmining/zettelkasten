@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220304202611
-publish: True
+publish: False
 ---
 ## Notes:
 [[Centaur Chiron]] có hình hài nhân mã do [[Titan Cronus|Cronus]] mỗi lần ân ái với [[Tiên nữ Philyra]] thì đều biến thành nhân mã. Cronus làm điều này để qua mặt [[Titan Rhea]] vợ ông, điều này lại vô tình khiến Chiron mang hình hài dị dạng này.

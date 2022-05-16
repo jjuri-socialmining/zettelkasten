@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Oct/21'
   - 'seed'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # Các nốt nhạc được lấy theo tên của Solfeggio
 

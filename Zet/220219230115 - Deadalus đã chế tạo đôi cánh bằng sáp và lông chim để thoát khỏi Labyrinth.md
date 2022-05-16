@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/19'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Để thoát ra khỏi [[Mê cung Labyrinth]], [[Deadalus]] đã dùng sáp ong và lông chim có trong mê cung Labyrinth để tạo ra 2 đôi cánh cho ông và con ông thoát ra khỏi mê cung.

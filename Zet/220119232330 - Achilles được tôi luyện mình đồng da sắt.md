@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/19'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Nữ thần Thetis]], mẹ của [[Achilles]], muốn Achilles được trường tồn với mình nên đã dốc ngược Achilles và nhúng cậu vào dòng [[Sông Styx]] để cậu được mình đồng da sắt. Tuy nhiên, nơi gót chân cậu không được nhúng vào nước nên gót chân là nơi yếu nhất của Achilles.

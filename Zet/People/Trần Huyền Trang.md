@@ -10,7 +10,7 @@ death: null
 aliases:
   - Đường Tăng
   - Đường Tam Tạng
-publish: True
+publish: False
 ---
 # Trần Huyền Trang
 

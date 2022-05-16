@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Nov/18'
   - 'seed'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # Cách mạng tháng 10 Nga
 

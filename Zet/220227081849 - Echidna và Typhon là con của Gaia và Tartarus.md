@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/27'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Echidna]] và [[Typhon]] là con của [[Nữ thần Gaia|Gaia]] và [[Địa ngục Tartarus|Tartarus]]

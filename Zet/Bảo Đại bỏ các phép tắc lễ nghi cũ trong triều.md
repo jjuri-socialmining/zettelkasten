@@ -4,7 +4,7 @@ tags:
   - 'created/2021/Jul/17'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Bảo Đại bỏ các phép tắc lễ nghi cũ trong triều
 

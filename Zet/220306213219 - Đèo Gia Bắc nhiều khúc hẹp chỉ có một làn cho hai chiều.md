@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220306213219
-publish: True
+publish: False
 ---
 ## Notes:
 [[Đèo Gia Bắc]] nhiều khúc hẹp chỉ có một làn cho hai chiều

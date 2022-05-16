@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Jacob Bernoulli]] và [[Johann Bernoulli]] là hai anh em con trai của [[Nicolas Bernoulli]]. [[Daniel Bernoulli]] là con trai thứ của [[Johann Bernoulli]].

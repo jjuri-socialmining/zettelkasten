@@ -6,7 +6,7 @@ tags:
   - 'permanent/concept'
   - 'flashcards'
 aliases: [Đại Hãn, Khả Hãn]
-publish: True
+publish: False
 ---
 # Đại Hãn
 

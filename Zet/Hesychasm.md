@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Dec/04'
   - 'seed'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # Hesychasm
 

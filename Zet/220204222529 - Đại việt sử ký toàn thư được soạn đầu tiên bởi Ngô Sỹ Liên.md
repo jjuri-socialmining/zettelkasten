@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/04'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Đại Việt Sử ký toàn thư]] được soạn đầu tiên bởi [[Ngô Sỹ Liên]]

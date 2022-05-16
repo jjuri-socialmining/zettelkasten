@@ -9,7 +9,7 @@ tags:
 aliases:
   - Các định đề Thomas Rivers
   - Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
-publish: True
+publish: False
 ---
 # Các định đề Thomas Rivers
 

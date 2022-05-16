@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/think'
 aliases: 220302213046
-publish: True
+publish: False
 ---
 ## Notes:
 Hình tượng [[Pandora]] giống với [[Adam và Eva|Eva]] ăn trái cấm, đem lại hình phạt cho con người.

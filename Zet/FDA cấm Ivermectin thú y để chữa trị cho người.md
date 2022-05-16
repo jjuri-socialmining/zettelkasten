@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Nov/03'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # FDA cấm Ivermectin thú y để chữa trị cho người
 

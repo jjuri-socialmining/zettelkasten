@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - PLO
-publish: True
+publish: False
 ---
 # Tổ chức giải phóng Palestine
 

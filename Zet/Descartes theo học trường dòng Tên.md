@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Nov/13'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Descartes theo học trường dòng Tên
 

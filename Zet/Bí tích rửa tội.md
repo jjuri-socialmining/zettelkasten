@@ -10,7 +10,7 @@ aliases:
   - Báp têm
   - baptême
   - bí tích rửa tội
-publish: True
+publish: False
 ---
 # Bí tích rửa tội
 

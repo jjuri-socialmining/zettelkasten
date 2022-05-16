@@ -5,7 +5,7 @@ tags:
   - 'created/2021/Nov/25'
   - 'seed'
   - 'permanent/people'
-publish: True
+publish: False
 ---
 # Trần Thủ Huy
 

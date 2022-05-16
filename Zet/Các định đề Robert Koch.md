@@ -9,7 +9,7 @@ tags:
 aliases:
   - Các định đề Robert Koch để chứng minh một loại vi sinh vật là nguồn gốc gây
     bệnh
-publish: True
+publish: False
 ---
 # Các định đề Robert Koch
 

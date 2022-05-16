@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Từng xảy ra cuộc tranh luận giữa [[Isaac Newton]] và [[Gottfried Wilhelm Leibniz]] để chứng minh người đã phát minh ra phép toán vi-tích phân.

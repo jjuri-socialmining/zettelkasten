@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/24'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Hữu thể trong [[Siêu hình học]] được hiểu là sự vật, sự kiện (thing).

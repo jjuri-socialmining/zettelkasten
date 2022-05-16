@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Jacob Bernoulli]] đã dạy toán học cho người em út [[Johann Bernoulli]] và nhận ra tài năng toán học của người em.

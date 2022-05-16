@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Mục đích của cầu nguyện là cải thiện chính mình, không phải để làm đẹp lòng thượng đế. Bạn làm đẹp lòng [[God|Thượng Đế]] khi bạn làm theo ý Ngài.

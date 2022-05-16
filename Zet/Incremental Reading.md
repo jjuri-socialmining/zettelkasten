@@ -5,7 +5,7 @@ tags:
   - 'created/2020/Nov/12'
   - 'seed'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # Incremental Reading
 

@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Enkidu]] lúc đầu là người giám sát, sau trở thành bạn thân của [[Vua Gilgamesh]]

@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Nov/01'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Kary B. Mullis chết vào 08-2019, trước đại dịch Covid vài tháng
 

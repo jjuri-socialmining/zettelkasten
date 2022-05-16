@@ -7,7 +7,7 @@ tags:
   - 'permanent/people'
 birth:
 death:
-publish: True
+publish: False
 ---
 # Hoàng tử Paris
 

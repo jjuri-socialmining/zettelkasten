@@ -9,7 +9,7 @@ birth: 0900-01-28
 death: '649-07-10'
 aliases:
   - Đường Thái Tông
-publish: True
+publish: False
 ---
 # Lý Thế Dân
 

@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/21'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Anu|Anu]] là con trai của hai vị [[Thần Ansar]] và [[Thần Kisar]]

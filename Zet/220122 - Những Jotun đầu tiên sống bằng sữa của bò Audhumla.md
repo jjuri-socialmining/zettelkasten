@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Sữa của [[Con bò Audhumla|con bò khổng lồ Audhumla]] nuôi dưỡng những [[Người khổng lồ Jotun]] đầu tiên.

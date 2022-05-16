@@ -9,7 +9,7 @@ birth: 1863-09-22
 death: 1943-03-01
 aliases:
   - Thầy Năm
-publish: True
+publish: False
 ---
 # Alexandre Yersin
 

@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/23'
   - 'evergreen'
   - 'permanent/think'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Enki|Enki]] tạo ra sự kiện [[Babel]] chăng, vì ông đã tạo ra nhiều thứ tiếng khiến con người chia cắt, bất đồng ngôn ngữ.

@@ -6,7 +6,7 @@ tags:
   - 'created/2021/Nov/09'
   - 'seed'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # Xung đột Israel - Palestine
 

@@ -9,7 +9,7 @@ birth: null
 death: null
 aliases:
   - St John of the Cross
-publish: True
+publish: False
 ---
 # Thánh Gioan Thánh giá
 

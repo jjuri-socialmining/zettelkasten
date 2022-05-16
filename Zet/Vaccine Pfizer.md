@@ -10,7 +10,7 @@ aliases:
   - Pfizer-BioNTech
   - BNT162b2
   - Pfizer
-publish: True
+publish: False
 ---
 # Vaccine Pfizer
 

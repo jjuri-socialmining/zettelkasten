@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Toán học
-publish: True
+publish: False
 ---
 # Toán học
 

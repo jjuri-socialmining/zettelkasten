@@ -5,7 +5,7 @@ tags:
   - 'created/2021/Sep/07'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # Tiếng Sanskrit còn được gọi là Bắc Phạn
 

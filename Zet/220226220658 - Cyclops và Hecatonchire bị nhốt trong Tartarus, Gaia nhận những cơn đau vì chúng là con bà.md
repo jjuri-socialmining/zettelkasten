@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Feb/26'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Người khổng lồ Cyclops|Cyclops]] và [[Hecatonchire]] bị nhốt trong [[Địa ngục Tartarus|Tartarus]], [[Nữ thần Gaia|Gaia]] phải nhận những cơn đau vì chúng là con bà. 

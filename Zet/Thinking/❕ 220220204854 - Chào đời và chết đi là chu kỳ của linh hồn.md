@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/think'
-publish: True
+publish: False
 ---
 ## Notes:
 Thân xác này cần được ngủ và thức dậy nhiều lần. Có lẽ linh hồn ta cũng vậy, cuộc đời này là một ngày tỉnh thức của linh hồn cái chết cũng như một giấc ngủ để chuẩn bị một ngày mới cho linh hồn.

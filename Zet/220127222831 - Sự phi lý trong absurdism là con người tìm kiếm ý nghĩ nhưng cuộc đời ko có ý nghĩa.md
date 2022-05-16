@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/27'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Tính phi lý trong [[Chủ nghĩa phi lý|Absurdism]] của [[Albert Camus]] là bản chất của con người là đi tìm ý nghĩa nhưng cuộc sống lại không có ý nghĩa.

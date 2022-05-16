@@ -9,7 +9,7 @@ birth: null
 death: null
 aliases:
   - Xi Jinping
-publish: True
+publish: False
 ---
 # Tập Cận Bình
 

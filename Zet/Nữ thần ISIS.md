@@ -9,7 +9,7 @@ tags:
 aliases:
   - Aset
   - Iset
-publish: True
+publish: False
 ---
 # Nữ thần ISIS
 

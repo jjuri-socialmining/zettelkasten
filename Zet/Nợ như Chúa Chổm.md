@@ -5,7 +5,7 @@ tags:
   - 'created/2021/Jul/12'
   - 'seed'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # Nợ như Chúa Chổm
 

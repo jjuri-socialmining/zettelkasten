@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220303210532
-publish: True
+publish: False
 ---
 ## Notes:
 [[Chthonien]] thường được dùng để gọi để chỉ những vị thần liên quan đến đất như: [[Nữ thần Gaia|Gaia]], [[Hades]], [[Nữ thần Demeter|Demeter]], [[Persephone]], [[Dionysos]],..

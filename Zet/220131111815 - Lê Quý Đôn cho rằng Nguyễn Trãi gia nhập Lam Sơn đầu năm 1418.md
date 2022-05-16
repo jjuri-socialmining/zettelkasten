@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/31'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Theo [[Đại Việt thông sử]], [[Lê Quý Đôn]] cho rằng [[Nguyễn Trãi]] gia nhập [[Khởi nghĩa Lam Sơn]] khoảng đầu năm 1418

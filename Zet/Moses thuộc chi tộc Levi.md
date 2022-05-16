@@ -8,7 +8,7 @@ tags:
   - 'permanent/fact'
 aliases:
   - Moses là người Do thái thuộc chi tộc Levi
-publish: True
+publish: False
 ---
 # Moses thuộc họ Levi
 

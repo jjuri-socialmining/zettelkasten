@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220321202234
-publish: True
+publish: False
 ---
 ## Notes:
 Cha của [[Harper Lee]] có nhiều nét tương đồng với nhân vật [[Atticus Finch]]. Ông làm nghề luật sư và từng biện hộ cho người da đen và cũng bị thua kiện.

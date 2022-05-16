@@ -6,7 +6,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Lập trình
-publish: True
+publish: False
 ---
 # Programming
 

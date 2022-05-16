@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/think'
 aliases: 220302211422
-publish: True
+publish: False
 ---
 ## Notes:
 [[Deucalion]] và [[Pyrrha]] trong [[Thần thoại Hy Lạp]] là phiên bản của [[Noah]]

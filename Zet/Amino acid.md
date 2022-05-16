@@ -7,7 +7,7 @@ tags:
   - 'flashcards'
 aliases: 
   - 'Acid Amin'
-publish: True
+publish: False
 ---
 # Amino acid
 

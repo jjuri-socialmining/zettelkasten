@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220304205320
-publish: True
+publish: False
 ---
 ## Notes:
 Sau khi nuốt [[Nữ thần Metis]], sau đó ít lâu, [[Thần Zeus|Zeus]] cảm thấy đau đầu không thể chịu nổi, Zeus bèn kêu [[Thần Hephaestus]] bổ đầu mình ra, [[Nữ thần Athena|Athena]] chui ra từ đầu qua khỏi vết búa bổ.

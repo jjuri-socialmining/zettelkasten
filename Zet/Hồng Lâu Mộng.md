@@ -8,7 +8,7 @@ tags:
 aliases:
   - Thạch đầu ký
   - Kim Ngọc kì duyên
-publish: True
+publish: False
 ---
 # Hồng Lâu Mộng
 

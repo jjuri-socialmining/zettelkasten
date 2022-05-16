@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220228221025
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Zeus|Zeus]] giải thoát [[Người khổng lồ Cyclops|Các Cyclops]] và [[Hecatonchire]] để cùng chống [[Titan Cronus|Cronus]]

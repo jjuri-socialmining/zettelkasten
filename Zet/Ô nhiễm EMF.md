@@ -9,7 +9,7 @@ tags:
 aliases:
   - ô nhiễm điện từ
   - EMF
-publish: True
+publish: False
 ---
 # Ô nhiễm EMF
 

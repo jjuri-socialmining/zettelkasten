@@ -5,7 +5,7 @@ tags:
   - 'created/2021/Aug/30'
   - 'seed'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 # zsh là là phần mềm shell mặc định của hệ điều hành MacOS từ phiên bản Catalina
 

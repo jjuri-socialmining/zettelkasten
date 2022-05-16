@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/18'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Constantinus]] - hoàng đế La Mã đầu thế kỷ 4 nhận thấy đa thần ở vương quốc gây ra nội chiến. để giải quyết vấn đề này, ông lựa chọn một tôn giáo độc thần cho toàn bộ người dân, tôn giáo được chọn là [[Cơ Đốc Giáo|Kito Giáo]].

@@ -8,7 +8,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - AC
-publish: True
+publish: False
 ---
 # Điện xoay chiều
 

@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220301221155
-publish: True
+publish: False
 ---
 ## Notes:
 Sau khi đánh bại các Titan, Zeus đã đưa ra các hình phạt đối với [[Người khổng lồ Titan|Titan]]. [[Nữ thần Gaia|Gaia]] không bằng lòng với các hình phạt của [[Thần Zeus|Zeus]] vì bà cho rằng nó quá tàn nhẫn.

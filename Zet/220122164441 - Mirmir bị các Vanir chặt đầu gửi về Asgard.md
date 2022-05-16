@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Jan/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Thần Mirmir|Mirmir]] bị các [[Vanir]] chặt đầu gửi về [[Vùng đất Asgard|Asgard]]

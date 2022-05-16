@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/18'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Yuval N. Harari]] nói rằng không có bằng chứng nào chứng minh các nền văn hóa, tôn giáo... có ích cho con người thì sẽ nhất định lan rộng và những thứ lan rộng chưa chắc đã có ích cho con người.

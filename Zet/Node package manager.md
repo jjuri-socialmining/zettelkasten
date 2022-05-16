@@ -7,7 +7,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - npm
-publish: True
+publish: False
 ---
 # Node package manager
 

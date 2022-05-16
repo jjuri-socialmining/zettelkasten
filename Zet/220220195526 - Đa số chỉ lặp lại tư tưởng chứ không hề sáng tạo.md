@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/20'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Đa số chúng ta chỉ lặp lại tư tưởng, là một cái máy thu âm chứ không hề sáng tạo

@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/24'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 Dựa vào nguyên tắc 1 (Cue), thiết lập lại môi trường sống với việc sắp xếp, bố trí các dấu hiệu để xây dựng các thói quen tốt

@@ -7,7 +7,7 @@ tags:
   - 'evergreen'
   - 'permanent/fact'
 aliases: 220306210005
-publish: True
+publish: False
 ---
 ## Notes:
 [[Đèo Ngoạn Mục]] dài khoảng 18km

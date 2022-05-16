@@ -7,7 +7,7 @@ tags:
   - 'created/2022/Feb/22'
   - 'evergreen'
   - 'permanent/fact'
-publish: True
+publish: False
 ---
 ## Notes:
 [[Bảo Bình|Prometheus]] lấy đất sét nặn ra con người, [[Nữ thần Athena]] thổi hơi ban cho con người sự sống.

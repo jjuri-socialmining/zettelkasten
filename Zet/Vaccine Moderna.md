@@ -8,7 +8,7 @@ tags:
 aliases:
   - mRNA-1273
   - Moderna
-publish: True
+publish: False
 ---
 # Vaccine Moderna
 

@@ -9,7 +9,7 @@ birth: null
 death: null
 aliases:
   - Mặc Địch
-publish: True
+publish: False
 ---
 # Mặc Tử
 

@@ -12,7 +12,7 @@ aliases:
   - Ignatius Loyola
   - Thánh I-nhã
   - Thánh Inhaxiô
-publish: True
+publish: False
 ---
 # Ignatius of Loyola
 

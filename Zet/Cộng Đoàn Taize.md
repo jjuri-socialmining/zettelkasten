@@ -5,7 +5,7 @@ tags:
   - 'created/2020/Dec/07'
   - 'seed'
   - 'permanent/concept'
-publish: True
+publish: False
 ---
 # Cộng Đoàn Taize
 
