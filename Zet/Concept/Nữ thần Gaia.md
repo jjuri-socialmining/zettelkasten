@@ -4,7 +4,6 @@ UID: 220226214549
 created: 26-Feb-2022
 tags:
   - 'created/2022/Feb/26'
-  - 'garden'
   - 'permanent/concept'
 aliases:
   - Nữ thần đất mẹ Gaia

@@ -10,11 +10,5 @@ aliases:
   - Yayur Véda
 publish: False
 ---
-# Yayur Veda
-
 ## Notes:
-
-
-## Ideas & thoughts:
-
 

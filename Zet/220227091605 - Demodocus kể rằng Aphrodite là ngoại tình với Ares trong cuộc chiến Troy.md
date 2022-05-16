@@ -9,7 +9,7 @@ tags:
 publish: False
 ---
 ## Notes:
-Trong quyển 8 [[@ Homer, Odyssey]],  [[Demodocus]] kể rằng [[Nữ thần Aphrodite|Aphrodite]] là ngoại tình với [[Thần Ares|Ares]] trong [[Cuộc chiến thành Troy]].
+Trong quyển 8 [[@ Homer, The Odyssey]],  [[Demodocus]] kể rằng [[Nữ thần Aphrodite|Aphrodite]] là ngoại tình với [[Thần Ares|Ares]] trong [[Cuộc chiến thành Troy]].
 
 ## Source:
 - [[@ wiki, Aphrodite]]

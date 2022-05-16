@@ -23,6 +23,9 @@ tags:
 summary: TBD
 location: TBD
 ---
+
+up:: [[Daily notes]]
+
 <% "[[" + tp.date.yesterday("📝YY-MM-DD") + "|<- Yesterday]] | [[" + tp.date.tomorrow("📝YY-MM-DD")  + "|Tomorrow ->]]" %>
 # <% tp.date.now("dddd, MMM D, YYYY") %>
 

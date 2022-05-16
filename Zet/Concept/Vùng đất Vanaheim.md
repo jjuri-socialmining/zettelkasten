@@ -4,7 +4,6 @@ UID: 220122123114
 created: 22-Jan-2022
 tags:
   - 'created/2022/Jan/22'
-  - 'garden'
   - 'permanent/concept'
 aliases:
   - Vanaheim

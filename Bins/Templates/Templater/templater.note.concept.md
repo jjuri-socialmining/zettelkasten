@@ -5,24 +5,22 @@
     await tp.file.rename(title);
   }
 
-  note_type = "permanent/people"
-  await tp.file.move("/Zet/People/" + title);
-  birth = "birth:"
-  death = "death:"
+   await tp.file.move("/Zet/Concept/" + title);
+   
   tR += "---"
 %>
 title: <%* tR += title %>
 UID: <% tp.date.now("YYMMDDHHmmss") %>
+created: <% tp.date.now("DD-MMM-YYYY") %>
 tags:
   - 'created/<% tp.date.now("YYYY/MMM/DD") %>'
-  - '<%* tR += note_type %>'
-<%* tR += birth %>
-<%* tR += death %>
+  - 'permanent/concept'
+aliases:
+  - 
 publish: False
 ---
-up:: [[People MOC]]
-
 ## Notes:
 <% tp.file.cursor() %>
 
-## Ideas & thoughts:
+
+

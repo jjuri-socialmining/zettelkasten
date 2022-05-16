@@ -9,7 +9,7 @@ tags:
 publish: False
 ---
 ## Notes:
-Trong quyển 8 [[@ Homer, Odyssey]], [[Demodocus]] kể rằng [[Nữ thần Aphrodite|Aphrodite]] là vợ của [[Thần Hephaestus|Hephaestus]]
+Trong quyển 8 [[@ Homer, The Odyssey]], [[Demodocus]] kể rằng [[Nữ thần Aphrodite|Aphrodite]] là vợ của [[Thần Hephaestus|Hephaestus]]
 
 ## Source:
 - [[@ wiki, Aphrodite]]

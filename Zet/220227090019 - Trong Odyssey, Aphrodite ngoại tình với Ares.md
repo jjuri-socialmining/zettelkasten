@@ -9,7 +9,7 @@ tags:
 publish: False
 ---
 ## Notes:
-Trong [[@ Homer, Odyssey]], [[Nữ thần Aphrodite|Aphrodite]] ngoại tình với [[Thần Ares|Ares]]
+Trong [[@ Homer, The Odyssey]], [[Nữ thần Aphrodite|Aphrodite]] ngoại tình với [[Thần Ares|Ares]]
 
 ## Source:
 - [[@ wiki, Aphrodite]]

@@ -27,7 +27,8 @@ tags:
   - '<%* tR += note_type %>'
 publish: False
 ---
-- link:
-- author:
+- metadata:
+	- url:
+	- author:
 
 <% tp.file.cursor() %>
