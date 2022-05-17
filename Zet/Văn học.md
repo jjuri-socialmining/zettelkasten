@@ -2,7 +2,7 @@
 	- tags: #MOC %%
 	
 ### Các thể loại văn học:
-- [[Dystopia]]
+- [[Dystopian]]
 - [[Utopia]]
 
 ### Văn học Việt Nam

@@ -11,6 +11,7 @@
 
   note_type = await tp.system.suggester(["concept", "fact", "definition", "think", "place"], ["permanent/concept", "permanent/fact", "permanent/definition", "permanent/think", "permanent/place"]);
   
+  
   if (note_process == "seed") {
   	    await tp.file.move("/Inbox/" + title);
   }
@@ -20,6 +21,9 @@
 	    await tp.file.rename(title);
 		await tp.file.move("/Zet/Thinking/" + title);
 	  }
+	  else if (note_type == "permanent/fact") {
+  	    await tp.file.move("/Zet/Fact/" + title);
+		}
 	  else {
 	    await tp.file.move("/Zet/" + title);
 	  }

@@ -6,7 +6,6 @@
   "obsidian-git",
   "obsidian-emoji-toolbar",
   "tag-wrangler",
-  "calendar",
   "templater-obsidian",
   "file-explorer-note-count",
   "obsidian-excalidraw-plugin",
@@ -16,5 +15,6 @@
   "dataview",
   "nldates-obsidian",
   "obsidian-outliner",
-  "url-into-selection"
+  "url-into-selection",
+  "calendar"
 ]

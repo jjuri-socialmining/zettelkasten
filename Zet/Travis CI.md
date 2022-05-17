@@ -7,5 +7,5 @@
 	- related: [[CI - Continuous Integration]]
 
 ## Notes
-Travis CI là một công cụ [[CI - Continuous Integration]] mã nguồn mở giúp test các dự án trên [[Github]]. 
+Travis CI là một công cụ [[CI - Continuous Integration]] mã nguồn mở giúp test các dự án trên [[github]]. 
 

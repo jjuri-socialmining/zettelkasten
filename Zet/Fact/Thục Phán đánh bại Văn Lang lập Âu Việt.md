@@ -4,7 +4,7 @@ UID: 2107240904
 tags:
   - 'created/2021/Jul/24'
   - 'evergreen'
-  - 'permanent/concept'
+  - 'permanent/fact'
 publish: False
 ---
 # Thục Phán đánh bại Văn Lang lập Âu Việt

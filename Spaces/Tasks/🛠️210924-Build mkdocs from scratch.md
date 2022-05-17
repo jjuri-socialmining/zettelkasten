@@ -80,7 +80,7 @@ theme:
 ```
 theme: readthedocs
 ```
-Tham khảo theme trên wiki của makdocs trên [[Github]] [tại đây](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes)
+Tham khảo theme trên wiki của makdocs trên [[github]] [tại đây](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes)
 chọn `material` theme [repo](https://github.com/squidfunk/mkdocs-material)
 ```
 theme:

@@ -1,5 +1,5 @@
 ```dataview
 table project
-from #task/todo 
+from #task/todo or #todo/research 
 sort file.name asc
 ```

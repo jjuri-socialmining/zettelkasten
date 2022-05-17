@@ -5,7 +5,6 @@ created: 13-Nov-2021
 tags:
   - 'created/2021/Nov/13'
   - 'garden'
-  - 'permanent/fact'
 publish: False
 ---
 # Lịch Sử Do Thái

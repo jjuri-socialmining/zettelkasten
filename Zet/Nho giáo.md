@@ -22,13 +22,3 @@ Dựa trên sự phát triển học thuyết, nho giáo được chia ra làm 2
 [[Ngũ Kinh]]
 
 ## Ideas & thoughts:
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Nho giáo]]
-sort file.name asc
-```

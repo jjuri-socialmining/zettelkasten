@@ -90,7 +90,7 @@ Danh sách bao gồm những tác phẩm kinh điển trên mọi thể loại t
 - [ ] Charlie and the Chocolate Factory by Roald Dahl (1964)
 - [ ] The Lion, the Witch and the Wardrobe by C.S. Lewis (1950)
 - [x] Peter Pan by J.M. Barrie (1904)
-- [x] [[@ E.B. White, Charlotte's Web]]
+- [x] [[@ E.B. White, Charlotte's Web|Charlotte's Web]]
 - [ ] Alice’s Adventures in Wonderland by Lewis Carroll (1865)
 - Mark Twain
 	- [ ] The Adventures of Huckleberry Finn by Mark Twain (1884)
@@ -99,7 +99,7 @@ Danh sách bao gồm những tác phẩm kinh điển trên mọi thể loại t
 - [x] The Little Prince (Antoine de Saint-Exupéry, 1943)
 - [x] The Jungle (Upton Sinclair, 1906)
 
-## Dystopian
+## [[Dystopian]]
 - [[Aldous Huxley]]
 	- [x] [[@ Aldous Huxley, Brave New World]] (1932)
 - [[George Orwell]]

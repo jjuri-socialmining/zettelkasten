@@ -6,7 +6,7 @@ tags:
   - 'seed'
   - 'permanent/concept'
 aliases:
-  - null
+  - Gatsby
 ---
 # Gatsby website generator
 
@@ -57,14 +57,3 @@ npm install gatsby-source-filesystem gatsby-transformer-remark
 sau khi cài xong thì mở file `gatsby-config.js` để sửa theo đúng format của markdown file
 
 rối quá, chắc tìm hiều cơ bản [[Gatsby tutorial]]
-## Ideas & thoughts:
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Gatsby website generator]]
-sort file.name asc
-```

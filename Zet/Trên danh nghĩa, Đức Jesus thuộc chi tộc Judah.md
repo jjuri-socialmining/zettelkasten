@@ -20,5 +20,6 @@ publish: False
 Tuy nhiên, [[Thánh Cả Giuse]] trên danh nghĩa là đấng bảo trợ [[Đức Jesus|Chúa Jesus]], Chúa Giêsu được thụ thai khi Đức Mẹ được [[Thiên thần Gabriel]] truyền tin. Vì thế, nói Chúa Jesus thuộc chi tộc Judah, dòng dõi [[Vua David]] là trên danh nghĩa của thánh Giuse.
 
 ## Ideas & thoughts:
-- Trong trường hợp này, phải xem lại gia phả của [[Đức Maria]] mới đúng!? Gia phả Đức Mẹ #todo/research 
+- Trong trường hợp này, phải xem lại gia phả của [[Đức Maria]] mới đúng!?
+	- Gia phả Đức Mẹ #todo/research 
 

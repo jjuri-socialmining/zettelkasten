@@ -1,8 +1,3 @@
-
-
-[[Enter the garden]]
-
-
 ```dataview
 list
 from [[📑 Bookmark]]

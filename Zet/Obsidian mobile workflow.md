@@ -6,7 +6,7 @@
 %%
 ## Note
 [[Obsidian]] mobile [[Workflows MOC]]:
-- [[git]] repo on [[Github]]
+- [[git]] repo on [[github]]
 - [[termux]] console mobile app
 - Obsidian mobile app
 

@@ -9,9 +9,3 @@ birth:
 death:
 publish: False
 ---
-# Hồ Chí Minh
-
-## Notes:
-
-
-## Ideas & thoughts:
