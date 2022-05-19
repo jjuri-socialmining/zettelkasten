@@ -1,3 +1,12 @@
+---
+title: Note-makers
+UID: 220519213336
+created: 19-May-2022
+tags:
+  - 'created/2022/May/19'
+  - 'permanent/concept'
+publish: False
+---
 # Note-makers
 Note-makers are people who spend their thinking time in an active, engaged way—making sense of the stuff they encounter. 
 

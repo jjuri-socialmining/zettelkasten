@@ -32,6 +32,6 @@ publish: False
 - metadata:
 	- url:
 	- author:
-	- Thể loại:
+	- category:
 
 <% tp.file.cursor() %>

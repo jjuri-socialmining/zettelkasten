@@ -10,11 +10,5 @@ aliases:
   - Feedback loop
 publish: False
 ---
-# Vòng lặp phản hồi
-
 ## Notes:
 [[Deliberate Practice]]
-
-## Ideas & thoughts:
-
-

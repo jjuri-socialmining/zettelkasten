@@ -44,6 +44,6 @@ publish: False
 <% tp.file.cursor() %>
 
 ## Source:
-- [[@ youtube.com, Running Form Correct Technique and Tips to Avoid Injury]]
+- [[@ chungta.com, Khái niệm dystopia là gì trong khoa học viễn tưởng]]
 
 ## Relate:
