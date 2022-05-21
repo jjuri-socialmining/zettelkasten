@@ -17,20 +17,20 @@ Danh sách bao gồm những tác phẩm kinh điển trên mọi thể loại t
 - The Ramayana (attributed to Valmiki, 11th century BC)
 - [[Homer]]
 	- The Iliad by Homer (8th century BC)
-	- [ ] [[@ Homer, The Odyssey]] (8th century BC)
+	- [ ] [[@ Homer, The Odyssey|Odyssey]] (8th century BC)
 - Aesop's Fables (Aesop, circa 620 to 560 BC)
 - The Mahabharata (attributed to Vyasa, 4th century BC)
 - Medea (Euripides, 431 BC)
 - One Thousand and One Nights (various authors, 8th-18th centuries)
 
 ## Tiểu thuyết cổ điển
-- Fyodor Dostoyevsky
+- [[Fyodor Dostoevsky]]
 	- [ ] The Brothers Karamazov by Fyodor Dostoyevsky (1880)
-	- [x] [[@ Fyodor Dostoevsky, Crime and Punishment]] (1866)
+	- [x] [[@ Fyodor Dostoevsky, Crime and Punishment|Tội ác và trừng phạt]] (1866)
 - Leo Tolstoy
 	- [ ] Anna Karenina by Leo Tolstoy (1878)
 	- [ ] War and Peace by Leo Tolstoy (1867)
-- [[Charles Dickens ]]
+- [[Charles Dickens]]
 	- [ ] Great Expectations by Charles Dickens (1860)
 	- [x] A Tale of Two Cities by Charles Dickens (1859)
 	- [x] A Christmas Carol by Charles Dickens (1843)
@@ -45,11 +45,11 @@ Danh sách bao gồm những tác phẩm kinh điển trên mọi thể loại t
 
 - [[John Steinbeck]]
 	- [x] Of Mice and Men, by John Steinbeck
-	- The Grapes of Wrath by John Steinbeck (1939)
-	- East of Eden by John Steinbeck (1952)
+	- [ ] The Grapes of Wrath by John Steinbeck (1939)
+	- [ ] East of Eden by John Steinbeck (1952)
 - [x] Uncle Tom’s Cabin (Harriet Beecher Stowe, 1852)
-- [x] [[@ F. Scott Fitzgerald, Gatsby vĩ đại]] (1925)
-- [x] [[@ Harper Lee, Giết con chim nhại]] (1960)
+- [x] [[@ F. Scott Fitzgerald, Gatsby vĩ đại|Gatsby vĩ đại]] (1925)
+- [x] [[@ Harper Lee, Giết con chim nhại|Giết con chim nhại]] (1960), [[Harper Lee]]
 - [[@ Jack London, The Call of the Wild]] (1903)
 - [ ] The Outsiders by S. E. Hinton (1967)
 - Frankenstein by Mary Shelley (1823)
@@ -103,7 +103,7 @@ Danh sách bao gồm những tác phẩm kinh điển trên mọi thể loại t
 - [[Aldous Huxley]]
 	- [x] [[@ Aldous Huxley, Brave New World]] (1932)
 - [[George Orwell]]
-	- [x] [[@ George Orwell, Animal Farm]]
+	- [x] [[@ George Orwell, Animal Farm|Trại súc vật]]
 	- [x] [[@ George Orwell, 1984]] (1949)
 - [ ] The Handmaid's Tale by Margaret Atwood (1985)
 - [x] Lord of the Flies, by William Golding

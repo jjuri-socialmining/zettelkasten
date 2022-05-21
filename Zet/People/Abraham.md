@@ -9,8 +9,6 @@ birth: null
 death: null
 publish: False
 ---
-# Abraham
-
 ## Notes:
 Abraham là một nhân vật được nhắc đến trong [[The Bible|Kinh thánh]]. Ông được xem là tổ phụ của dân [[Người Do Thái]]. Ông được [[God|Thiên Chúa]] ban phước vì ông đặt trọn niềm tin vào Người.
 

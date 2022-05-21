@@ -286,10 +286,9 @@
   "file-explorer:reveal-active-file": [
     {
       "modifiers": [
-        "Ctrl",
         "Mod"
       ],
-      "key": "I"
+      "key": "R"
     }
   ],
   "editor:insert-link": [

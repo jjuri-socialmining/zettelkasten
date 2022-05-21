@@ -17,6 +17,6 @@ publish: False
 
 Ví dụ
 
-Bạn lười viết nhưng bạn thích đọc sách → bạn kết hợp thành bạn chỉ được đọc sách khi nào bạn viết lại tóm tắt những gì bạn đọc
+- Bạn lười viết nhưng bạn thích đọc sách → bạn kết hợp thành bạn chỉ được đọc sách khi nào bạn viết lại tóm tắt những gì bạn đọc
 
 [[220224204339 - Phương pháp Temptation bundling là liên kết 1 hành đồng muốn với 1 hành động phải làm]]
