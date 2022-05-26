@@ -23,5 +23,9 @@ Các loạt phim trong vũ trụ điện ảnh Marvel được lấy từ bộ t
 - [[Thor]]
 - [[Black panther]]
 - [[Venom]]
+- [[Thanos]]
 
 ## Ideas & thoughts:
+## Reference:
+- https://hosonhanvat.net/comics-manga/nhan-vat-marvel/
+- 

@@ -4,7 +4,7 @@
   	title = await tp.system.prompt("Input title of note");
   }
   await tp.file.rename(title);
-  note_type = await tp.system.suggester(["book📚", "article📰", "video🎞️"], ["source/book", "source/article", "source/video"]);
+  note_type = await tp.system.suggester(["book📚", "article📰", "film🎞️", "video🎞️"], ["source/book", "source/article", "source/film", "source/video"]);
 	
   let sub_dir = ""
   if (note_type == "source/book") {

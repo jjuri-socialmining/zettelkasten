@@ -16,5 +16,4 @@ Obsidian là một phần mềm ghi chú dựa trên ngôn ngữ [[Markdown Lang
 ![[Pasted image 20211107212210.png|300]]
 
 ## Ideas & thoughts:
-- [[Quản lý task bằng obsidian]]
 

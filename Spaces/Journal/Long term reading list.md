@@ -13,15 +13,15 @@ Danh sách bao gồm những tác phẩm kinh điển trên mọi thể loại t
 #task/doing : Cập nhật thường xuyên danh sách
 
 ## Sử thi, thần thoại, cổ tích
-- The Epic of Gilgamesh (author unknown, circa 22nd-10th centuries BC)
-- The Ramayana (attributed to Valmiki, 11th century BC)
+- [ ] The Epic of Gilgamesh (author unknown, circa 22nd-10th centuries BC)
+- [ ] The Ramayana (attributed to Valmiki, 11th century BC)
 - [[Homer]]
-	- The Iliad by Homer (8th century BC)
+	- [ ] The Iliad by Homer (8th century BC)
 	- [ ] [[@ Homer, The Odyssey|Odyssey]] (8th century BC)
-- Aesop's Fables (Aesop, circa 620 to 560 BC)
-- The Mahabharata (attributed to Vyasa, 4th century BC)
-- Medea (Euripides, 431 BC)
-- One Thousand and One Nights (various authors, 8th-18th centuries)
+- [ ] Aesop's Fables (Aesop, circa 620 to 560 BC)
+- [ ] The Mahabharata (attributed to Vyasa, 4th century BC)
+- [ ] Medea (Euripides, 431 BC)
+- [ ] One Thousand and One Nights (various authors, 8th-18th centuries)
 
 ## Tiểu thuyết cổ điển
 - [[Fyodor Dostoevsky]]
@@ -35,13 +35,13 @@ Danh sách bao gồm những tác phẩm kinh điển trên mọi thể loại t
 	- [x] A Tale of Two Cities by Charles Dickens (1859)
 	- [x] A Christmas Carol by Charles Dickens (1843)
 - [[Victor Hugo]]
-	- Les Miserables by Victor Hugo (1862)
+	- [ ] Les Miserables by Victor Hugo (1862)
 
 - Alexandre Dumas
-	- The Count of Monte Cristo by Alexandre Dumas (1844)
+	- [ ] The Count of Monte Cristo by Alexandre Dumas (1844)
 
-- Moby-Dick by Herman Melville (1851)
-- Wuthering Heights by Emily Bronte
+- [ ] Moby-Dick by Herman Melville (1851)
+- [ ] Wuthering Heights by Emily Bronte
 
 - [[John Steinbeck]]
 	- [x] Of Mice and Men, by John Steinbeck
