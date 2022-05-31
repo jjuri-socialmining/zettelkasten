@@ -21,7 +21,7 @@ Chất sơ hay còn gọi là ==[[Fiber]]== hay ==[[Cellose]]==
 
 ## Spaced Repetition
 Chất xơ tên tiếng Anh là gì?::Fiber hoặc Cellose
-<!--SR:!2021-09-16,20,250-->
+<!--SR:!2023-06-06,371,250-->
 
 ## Related:
 ```dataview

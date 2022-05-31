@@ -5,7 +5,7 @@
 let firstOrLastLine = 'last';
 
 //Name of the Quick Capture file. Do NOT include extension '.md'
-let qcFileName = tp.date.now("❓YYMMDD-HHmm");
+let qcFileName = tp.date.now("❔YYMMDD-HHmm");
 
 
 //Leave this blank if you want to use the default file path location (set to '/' to use root of vault)
@@ -42,13 +42,13 @@ if(!qcFile) {
 }
 
 if(qcFile) {
-    let qcNote = await tp.system.prompt("Enter a Question");
+    let qcNote = await tp.system.prompt("Enter a Quiz");
 	let answer_Note = await tp.system.prompt("Enter Answers");
     let isTodo = qcNote.startsWith(';');
     let finalNote = (isTodo ? '- [ ] ' : '') + finalTimestamp + (isTodo ? qcNote.substring(1) : qcNote);
     let curContent = await this.app.vault.read(qcFile);
     let newContents;
-    if(firstOrLastLine == 'last'){newContents = curContent + '\n\n#question❓: ' + finalNote + '\n?\n' + answer_Note + '\n\n'}
+    if(firstOrLastLine == 'last'){newContents = curContent + '\n\n#quiz❔: ' + finalNote + '\n?\n' + answer_Note + '\n\n'}
     else {
         if(bAddHeader) {
             let curDateHeader = '# ' + curDateFormat;
