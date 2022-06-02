@@ -8,7 +8,7 @@ tags:
 birth:
 death:
 aliases:
-  - Ánh
+  - Ánh A3
 publish: False
 ---
 # Phạm Ngọc Ánh
