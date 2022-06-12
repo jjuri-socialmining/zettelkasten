@@ -9,7 +9,7 @@ aliases: 220304214040
 publish: False
 ---
 ## Notes:
-Hồi đi chơi với nhóm [[Phạm Ngọc Ánh]], Tuyến, Trúc, Tân ra Phú Quý bằng SuperDong mấy đứa ói mửa thấy ghê, hồi đó mình cũng say sóng, chạy thêm tầm nửa tiếng nữa chắc cũng ói ỉa haha. 
+Hồi đi chơi với nhóm [[Phạm Ngọc Ánh]], [[Tô Anh Tuyến|Tuyến]], [[Thanh Trúc]], [[Tân]] ra [[Phú Quý]] bằng [[SuperDong]] mấy đứa ói mửa thấy ghê, hồi đó mình cũng say sóng, chạy thêm tầm nửa tiếng nữa chắc cũng ói ỉa haha. 
 
 Đi tàu cao tốc mà ngồi ngay đầu mũi tàu, lúc đầu còn khoái, tầm nửa tiếng là biết mùi. Trúc thì vừa vô tàu là cầm sẵn cái hộp rùi. Tiếp theo đến lượt Tuyến, mình lúc đó thì cảm thấy wtf ghê vậy á, vẫn hớn hở lắm. Mình thì tầm khoảng 1 tiếng rưỡi là ngồi yên, hai tay giữ hay bên, chân đạp lên ghế phía trước để giữ người cố định. Nhì đồng hồ phía trước chỉ mong được đến nơi ngay tức thì. Người trụ lại cuối cùng là Tân, tỉnh bơ.
 

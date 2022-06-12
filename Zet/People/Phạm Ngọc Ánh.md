@@ -11,9 +11,4 @@ aliases:
   - Ánh A3
 publish: False
 ---
-# Phạm Ngọc Ánh
-
 ## Notes:
-
-
-## Ideas & thoughts:
