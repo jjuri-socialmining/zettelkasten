@@ -23,4 +23,7 @@ Phim truyền hình
 - [[Breaking Bad]]
 - [[Prison Break]]
 
+Phim xoắn não:
+- [[Searching 2018]]
+
 [^1]: https://triethocduongpho.net/2021/07/20/thdp-translation-18-bo-phim-thuc-than-moi-du-than-gia-psychonaut-can-xem/
