@@ -3,7 +3,6 @@
   "obsidian-markdown-formatting-assistant-plugin",
   "obsidian-kindle-plugin",
   "table-editor-obsidian",
-  "obsidian-git",
   "obsidian-emoji-toolbar",
   "tag-wrangler",
   "templater-obsidian",
@@ -16,6 +15,5 @@
   "nldates-obsidian",
   "obsidian-outliner",
   "url-into-selection",
-  "calendar",
-  "obsidian-spaced-repetition"
+  "calendar"
 ]
