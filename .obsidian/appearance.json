@@ -13,7 +13,5 @@
   ],
   "translucency": false,
   "baseFontSize": 16,
-  "baseFontSizeAction": true,
-  "interfaceFontFamily": "",
-  "textFontFamily": ""
+  "baseFontSizeAction": true
 }

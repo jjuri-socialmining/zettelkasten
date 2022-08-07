@@ -1,4 +1,6 @@
 {
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
   "obsidianCss": false,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
