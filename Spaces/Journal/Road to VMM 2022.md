@@ -22,6 +22,13 @@ Plan: 5:30 Thứ 7 đi xe Hoa Mai ra núi Dinh với [[Dũng GG]], ăn sáng và
 
 [[Anh Khoa Haravan]] thì đi với sếp, còn [[Anh Thoàn]] CN đi với chị Điệu
 
+Kế hoạch diễn ra cũng gần khớp, chỉ có điều là đi trễ hơn và về sớm hơn.
+Sáng 6h30 mới xuất phát từ nhà xe Hoa Mai đi, 8h tới ngã ba lên Phật Quang, đi bộ lên đó cũng 8h30 và 9h hơn mới xuất phát chạy
+
+Chiều tầm hơn 15h30 đã về tới chỗ cô Kiều, tắm rửa đi bộ ra ăn hủ tíu và gọi xe Hoa Mai, 17h xe tới đón.
+
+Nay chạy thấy đuối đuối, đi rã cả cẳng. Gặp hai chập mữa xối xả. Lần này đi test đôi giày [[Altra Lone Peak 5]] mới mua tầm 2 tuần trước. Đôi Kalenji bị bung đế. Lúc đầu mới vô leo bị cứng hai má cẳng chân, do đôi này thiết kế theo phong cách [[zerodrop]]. Đi được tầm hơn 10km mới thấy chân bình thường lại.
+
 ### [[📝22-08-27]]
 Overnight in Kingdom 101
 
