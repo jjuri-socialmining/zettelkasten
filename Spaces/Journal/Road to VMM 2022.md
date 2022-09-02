@@ -40,3 +40,5 @@ Nghĩ lại, may mà vừa nãy không chạy mưa không thì tèo rùi. Ah, D�
 
 
 
+### Relate:
+- [[Tổng hợp kinh nghiệm bản thân đi ultratrail]]

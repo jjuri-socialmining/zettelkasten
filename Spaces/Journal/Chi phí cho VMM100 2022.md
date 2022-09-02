@@ -23,9 +23,9 @@ up:: [[VMM]]
 | Xe Hoa Mai [[📝22-08-20]] |          |                                 |
 | Đèn đầu                   |          | Mượn của anh [[Hùng Ngô]]       |
 | Cặp gậy                   |          | Mua từ [[VMM Sapa 21-Sep-2019]] |
-| Quần bó legging           |          |                                 |
-| Áo khoác chống nước       |          |                                 |
-| Tấm giữ nhiệt             |          |                                 |
+| Quần bó legging           | 69k      |                                 |
+| Áo khoác chống nước       | 490k     |                                 |
+| Tấm giữ nhiệt             | 33k      |                                 |
 |                           |          |                                 |
 
 Related:
