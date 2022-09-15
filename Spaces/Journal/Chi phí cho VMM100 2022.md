@@ -14,7 +14,7 @@ up:: [[VMM]]
 | Vé máy bay                | 2.800k   |                                 |
 | Phòng khách sạn           | 2.300k/3 |                                 |
 | Giày Altra Lone Peak 5    | 2.222k   |                                 |
-| Xe khứ hồi                | 800k     |                                 |
+| Xe khứ hồi                | 800k     | xe [[Sao Việt]]                 |
 | Bột năng lượng Tailwind   | 240k     | Mua chung với aKhoa, aVit, GG   |
 | 2 bình nước dẻo           | 230k     |                                 |
 | Tất ngón decathlon        | 175k     |                                 |

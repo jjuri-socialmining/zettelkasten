@@ -6,6 +6,7 @@ tags:
   - 'created/2022/Mar/15'
   - 'daily/journal'
 ---
+up::[[Recharge Weekend]]
 # Recharge Weekend 11-14 Mar, 2022
 
 ### Thứ 6, [[📝22-03-11]]
