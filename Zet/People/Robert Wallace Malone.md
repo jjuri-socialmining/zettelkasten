@@ -15,7 +15,7 @@ publish: False
 
 ## Notes:
 Robert Wallace Malone cha đẻ của [[Vaccine mRNA|Công nghệ vaccine mRNA]]
-![[Pasted image 20211108234856.png|300]]
+![[20211108234856 ~ Robert Wallace Malone.png|300]]
 
 ## Ideas & thoughts:
 - Ông từng đăng trên [[Twitter]] rằng ông có thể bị ám sát vì phản đối việc tiêm chủng

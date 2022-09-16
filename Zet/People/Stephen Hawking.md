@@ -13,7 +13,7 @@ publish: False
 
 ## Notes:
 Stephen Hawking nhà vật lý, thiên văn học người Anh
-![[Pasted image 20211015234306.png]]
+![[20211015234306 ~ Stephen Hawking.png]]
 
 ## Ideas & thoughts:
 

@@ -10,5 +10,5 @@ aliases: 220328213310
 publish: False
 ---
 ## Notes:
-![[Pasted image 20220328213326.png]]
+![[20220328213326 ~ Độ khó các đỉnh núi VN.png]]
 - [[Fansipan]] là cao nhất VN không phải bàn cãi rồi, nhưng về độ khó thì chỉ đứng ở nhóm khó thứ 7.

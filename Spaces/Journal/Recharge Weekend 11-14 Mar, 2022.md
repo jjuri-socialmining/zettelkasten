@@ -20,7 +20,7 @@ up::[[Recharge Weekend]]
 
 - đi thêm khúc nữa là tới [[Đèo Chuối]]
 
-![[Pasted image 20220315201929.png]]
+![[20220315201929 ~ Đèo Chuối.png]]
 
 - 12h30 vô tới chân đèo Bảo Lộc, ăn hết cái nắng trưa, lúc này lấy luôn trái bắp còn lại ra ăn, lười chẳng muốn ăn trưa luôn.
 
@@ -44,7 +44,7 @@ up::[[Recharge Weekend]]
 
 - Phòng của Thông của Ga Mây, giá 350k 1 phòng, mình đi một người và thứ 6 vắng khách, chị chủ tính 200k. Ga Mây nằm tít trên đỉnh của ngọn đồi, đi ngang qua [[Linh Quy Pháp Ấn]] luôn.
 
-![[Pasted image 20220315203218.png]]
+![[20220315203218 ~ Ga Mây phòng.png]]
 
 ![[Pasted image 20220315203028.png]]
 

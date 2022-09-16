@@ -16,7 +16,7 @@ publish: False
 
 ## Notes:
 John Fitzgerald Kennedy, thường được gọi là Jack Kennedy hoặc JFK.
-![[Pasted image 20211114153114.png]]
+![[20211114153114 ~ John F. Kennedy.png]]
 
 [[John F. Kennedy là tổng thống thứ 35 của Hoa Kỳ]]
 

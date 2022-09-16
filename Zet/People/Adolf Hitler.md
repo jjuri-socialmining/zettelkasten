@@ -16,7 +16,7 @@ publish: False
 ## Notes:
 **Adolf Hitler** (1989 -1945) là chính khách độc tài người Đức, ông trở thành lãnh tụ Đức vào năm 1934 . Hitler là người phát động chiến tranh thế giới thứ 2 bằng cuộc phát động chiến tranh xâm lược Ba Lan.
 
-![[Pasted image 20211120193715.png]]
+![[20211120193715 ~ Hitler.png]]
 
 Ông là nhân vật chính gây ra tội ác diệt chủng [[Holocaust]] [[Người Do Thái]]
 

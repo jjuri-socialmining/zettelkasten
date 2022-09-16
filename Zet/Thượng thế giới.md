@@ -17,5 +17,3 @@ publish: False
 Thượng thế giới là một cõi/thế giới trong hành trình thức tỉnh mà ta cần khám phá.
 
 ## Ideas & thoughts:
-
-

@@ -14,7 +14,7 @@ publish: False
 Grigori còn gọi là Watcher - Người canh gác
 Các Grigori ban đầu được sai xuống trái đất để hướng dẫn con người.
 Grigori bị trục xuất khỏi [[Thiên Đàng]] vì có quan hệ tình cảm với loài người [^1]
-![[Pasted image 20210922221959.png]]
+![[20210922221959 ~ Grigori.png]]
 
 ## Ideas & thoughts:
 - [[Grigori]] một thiên thần sa ngã thời [[Cựu Ước]] vì có quan hệ với loài người. [^2]

@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Aug/19'
   - 'daily/journal'
 ---
-up:: [[VMM]]
+up:: [[Vietnam Mountain Marathon]]
 
 [[Chi phí cho VMM100 2022]]
 
@@ -20,7 +20,7 @@ up:: [[VMM]]
 
 Plan: 5:30 Thứ 7 đi xe Hoa Mai ra núi Dinh với [[Nguyễn Dũng PTR]], ăn sáng và bắt đầu chạy. Tới 19h bắt xe Hoa Mai về.
 
-[[Anh Khoa Haravan]] thì đi với sếp, còn [[Anh Thoàn]] CN đi với chị Điệu
+[[Khoa Haravan]] thì đi với sếp, còn [[Anh Thoàn]] CN đi với chị Điệu
 
 Kế hoạch diễn ra cũng gần khớp, chỉ có điều là đi trễ hơn và về sớm hơn.
 Sáng 6h30 mới xuất phát từ nhà xe Hoa Mai đi, 8h tới ngã ba lên Phật Quang, đi bộ lên đó cũng 8h30 và 9h hơn mới xuất phát chạy

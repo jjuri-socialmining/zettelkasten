@@ -14,7 +14,7 @@ publish: False
 # Thánh Gioan Thánh giá
 
 ## Notes:
-![[Pasted image 20211022211416.png]]
+![[20211022211416 ~ Gioan Thanh Gia.png]]
 
 ## Ideas & thoughts:
 - Thánh Gioan Thánh giá là học trò của [[Teresa of Avila]]

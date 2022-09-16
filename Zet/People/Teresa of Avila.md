@@ -12,7 +12,7 @@ publish: False
 # Teresa of Avila
 
 ## Notes:
-![[Pasted image 20211023115557.png]]
+![[20211023115557 ~ Teresa of Avila.png]]
 
 ## Ideas & thoughts:
 - Teresa of Avila là thầy dạy cho [[Thánh Gioan Thánh giá]]

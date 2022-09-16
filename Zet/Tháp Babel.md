@@ -12,7 +12,7 @@ publish: False
 
 ## Notes:
 Tháp Babel là một tòa tháp được nhắc đến ở [[Gen-11|Sáng thế 11]]
-![[Pasted image 20211028234021.png|300]]
+![[20211028234021 ~ Tháp Babel.png|300]]
 
 ![[Gen-11#v2]]
 This is good. Humans are starting to spread out over the earth as they were called to.

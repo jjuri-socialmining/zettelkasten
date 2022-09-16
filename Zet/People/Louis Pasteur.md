@@ -14,7 +14,7 @@ publish: False
 # Louis Pasteur
 
 ## Notes:
-![[Pasted image 20211010173621.png]]
+![[20211010173621 ~ Louis Pasteur.png]]
 Louis Pasteur đưa ra [[The Germ theory]]
 
 ## Ideas & thoughts:

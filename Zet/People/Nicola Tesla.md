@@ -16,7 +16,7 @@ publish: False
 ## Notes:
 [[Theo tài liệu FBI, Tesla là người Sao Kim]]
 
-![[Pasted image 20211120203028.png]]
+![[20211120203028 ~ Tesla.png]]
 
 ## Ideas & thoughts:
 - Câu chuyện về [[Thomas Edison]] bắt chẹt các phát minh của Nicola Tesla có thực không?

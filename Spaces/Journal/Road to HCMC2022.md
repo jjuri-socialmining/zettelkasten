@@ -37,7 +37,7 @@ Sáng đấu tranh mãi mới dậy được, hôm nay bài easy 10k. Tập form
 ## [[📝22-03-29]]
 - Như mọi khi, cũng phải đấu tranh tư tưởng từ gần 6h30 đến 7h mới ra chạy được. Theo Plan là tập 10km T Pace, khởi động 2km rồi sẽ chạy 10km T tổng cộng là 12km. Mọi chuyện không như kế hoạch, sau 2 km khởi động, chạy được thêm 3,5km T thì mệt không thể tả. Phải dừng lại thở. Nên sửa plan đổi thành [[Cruise intervals]], T ngắt quãng, lúc đầu sau khi fail 10k thì tính sẽ thành bài 3x3km T, vẫn chạy được 3.5km tới 9km. Session cuối mới chạy được 1km thì đuối quá, thui dừng lại với ý nghĩ, mileage thấp quá mà T dài dễ chấn thương, thui nghỉ. Hehe. Các bài Cruise intervals sẽ giúp cơ thể làm quen với T Pace và tăng khả năng chịu dựng giúp kéo dài các phiên chạy T Pace
 
-![[Pasted image 20220329220507.png]]
+![[20220329220507 ~ Road2HCMC2022.png]]
 
 - Tối rảnh, ngồi nghiên cứu và ghi chú lại quyển [[@ Jack Daniels, Daniels' Running Formula]], phục vụ cho việc luyện tập và điều chỉnh kế hoạch, bài T Pace phải luyện tập đúng TPace hiện tại của cơ thể mới có hiệu quả. Sao kịp tích lũy đủ T Pace bây giờ haha.
 

@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Aug/19'
   - 'daily/journal'
 ---
-up:: [[VMM]]
+up:: [[Vietnam Mountain Marathon]]
 
 | Khoản                     | Tiền     |                                 |
 | ------------------------- | -------- | ------------------------------- |
@@ -22,7 +22,7 @@ up:: [[VMM]]
 | Quần ILR                  | 380k     |                                 |
 | Xe Hoa Mai [[📝22-08-20]] |          |                                 |
 | Đèn đầu                   |          | Mượn của anh [[Hùng Ngô]]       |
-| Cặp gậy                   |          | Mua từ [[VMM Sapa 21-Sep-2019]] |
+| Cặp gậy                   |          | Mua từ [[VMM100 Sapa 21-Sep-2019]] |
 | Quần bó legging           | 69k      |                                 |
 | Áo khoác chống nước       | 490k     |                                 |
 | Tấm giữ nhiệt             | 33k      |                                 |

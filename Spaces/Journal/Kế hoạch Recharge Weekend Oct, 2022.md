@@ -1,12 +1,13 @@
 ---
-title: Recharge Weekend Oct, 2022
+title: Kế hoạch Recharge Weekend Oct, 2022
 UID: 220915225829
 created: 15-Sep-2022
 tags:
   - 'created/2022/Sep/15'
   - 'daily/journal'
 ---
-## Notes:
+### [[📝22-09-15]]
+
 Dự định đi Côn Đảo
 - Sài Gòn - Sóc Trăng: 200km
 - Tiền vé tàu 1 chiều ra côn đảo: 350k

@@ -16,7 +16,7 @@ publish: False
 ## Notes:
 Seneca (4 TCN - 65), tên đầy đủ là Lucius Annaeus Seneca, là triết gia La Mã thuộc trường phái [[Chủ nghĩa khắc kỷ]]. Ông được sinh ra tại Tây Ban Nha. Ông có sức khỏe kém, ông qua Roma học tập sau phải qua Ai Cập để chữa bệnh. 
 
-![[Pasted image 20211122220005.png]]
+![[20211122220005 ~ Seneca.png]]
 
 [[Seneca là thầy dạy của hoàng đế Nero]]
 

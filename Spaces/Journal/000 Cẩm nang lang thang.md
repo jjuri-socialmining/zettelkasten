@@ -22,7 +22,7 @@ publish: False
 - [[DLUT Đà Lạt Mar-2019]]
 - [[Trekking Tà Năng Phan Dũng - Đồi lính 17-Jul-2019]]
 - [[DNIM 11-Aug-2019]]
-- [[VMM Sapa 21-Sep-2019]]
+- [[VMM100 Sapa 21-Sep-2019]]
 
 ### 2020
 - [[Lang thang Koh Rong - Campuchia 18-Jan-2020]]
@@ -38,4 +38,7 @@ publish: False
 - [[Đà Lạt 02-2022]]
 - [[Recharge Weekend 11-14 Mar, 2022]]
 - [[Du hí Bảo Lộc 11-12 Jun, 2022]]
+- [[Recharge Weekend 8-11 July, 2022]]
+- [[VMM100 Sapa 09-Sep-2022]]
+
 

@@ -13,5 +13,5 @@ Lên lịch
 - [[Đèo Ngoạn Mục]]
 
 
-![[20220702220723 - Lịch trình dự kiến.png]]
+![[20220702220723 ~ Lịch trình dự kiến.png]]
 

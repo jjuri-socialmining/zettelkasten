@@ -14,5 +14,5 @@ tags:
 - Theo tình hình này chắc nên đi 3 ngày thui, 4 ngày sợ sức đạp chưa đủ mạnh, train 1000 gain mà như hạch vậy.
 - Đang bị trùng lịch đi chơi Hồ Cố - Bình Châu với nhóm Ánh, Tuyến, Trúc, nên có thể phải sắp xếp đây là một địa điểm trong 3 ngày đó
 
-![[Pasted image 20220306220741.png]]
+![[20220306220741 ~ Recharge Mar 22.png]]
 

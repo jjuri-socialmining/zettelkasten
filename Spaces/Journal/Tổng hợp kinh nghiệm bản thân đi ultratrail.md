@@ -13,4 +13,4 @@ tags:
 - Tính toán thời gian và khoảng cách giữa các checkpoint để tránh dính COT một cách đáng tiếc.
 	- Cần in ra giấy và ghi lại để tránh quên. Nên tính các COT dư ra để tránh sự chênh lệch quãng đường giữa đồng hồ mình và vị trí đặt checkpoint. Sự xê dịch này có thể khiến bạn mất đến 15-20phut. Vì thế khi đồng hồ chỉ còn 1km là tới điểm có checkpoint thì chưa chắc phải vậy đâu.
 - Thứ quan trọng bậc nhất là một cái áo mưa nylong đủ dày: giúp tránh mưa và giữ nhiệt khi gặp trời lạnh, gió.
-	- Đây là một vũ khí giúp mình vượt qua cơn mưa đêm tại [[VMM Sapa 21-Sep-2019|VMM2019]] và lúc khoảng trưa khi đang trên những khoảng đồi mênh mông và sương xuống mù mịt. Không có áo mưa lúc này cũng quéo, nặng hơn là xuống thân nhiệt
+	- Đây là một vũ khí giúp mình vượt qua cơn mưa đêm tại [[VMM100 Sapa 21-Sep-2019|VMM2019]] và lúc khoảng trưa khi đang trên những khoảng đồi mênh mông và sương xuống mù mịt. Không có áo mưa lúc này cũng quéo, nặng hơn là xuống thân nhiệt

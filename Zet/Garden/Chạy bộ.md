@@ -1,5 +1,15 @@
-# ~Chạy bộ
-
+---
+title: Chạy bộ
+UID: 220916221855
+created: 16-Sep-2022
+tags:
+  - 'created/2022/Sep/16'
+  - 'garden'
+  - 'permanent/concept'
+aliases:
+  - Running
+publish: False
+---
 %%- metadata
 - tags: #MOC 
 %%

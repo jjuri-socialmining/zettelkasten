@@ -12,5 +12,5 @@ Recharge Weekend là một kỳ nghỉ của công ty [[Marvell]] nhằm xả h�
 
 - [[Recharge Weekend 11-14 Mar, 2022]]
 - [[Recharge Weekend 8-11 July, 2022]]
-- [[Recharge Weekend Oct, 2022]]
+- [[Kế hoạch Recharge Weekend Oct, 2022]]
 

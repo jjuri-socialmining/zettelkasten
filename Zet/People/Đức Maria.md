@@ -15,7 +15,7 @@ aliases:
 
 ## Notes:
 Đức Maria là một phụ nữ [[Người Do Thái]], được [[The Bible|Kinh thánh]] [[Cơ Đốc Giáo]] nhắc đến là mẹ của [[Đức Jesus]].
-![[Pasted image 20211115232629.png]]
+![[20211115232629 ~ Đức Maria.png]]
 
 [[Thánh Gioakim]] và [[Thánh Anna]] là cha mẹ của Đức Maria được nhắc đến trong [[Apochrypha - Ngụy thư kinh thánh|Ngụy thư]] và [[Kinh Koran|Qur’an]] của [[Hồi Giáo]].
 

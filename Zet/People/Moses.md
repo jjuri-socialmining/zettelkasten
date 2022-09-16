@@ -16,7 +16,7 @@ publish: False
 ## Notes:
 Moses là một vị tiên tri trong [[Torah]] của [[Do Thái Giáo]] và [[Cựu Ước]] của [[Cơ Đốc Giáo|Kito Giáo]]. Ông là một [[Người Do Thái]] sinh ra trong thời gian lưu đày bên [[Ai Cập]]. Sau khi thoát nạn chết, ông may mắn được nuôi dưỡng trong cung điện và trở thành hoàng tử Ai Cập. Về sau, ông có công dẫn [[Người Do Thái]] vượt biển đỏ vượt sa mạc trở về quê hương. Moses diện kiến [[God|Thiên Chúa]] và nhận [[Hòm bia giao ước]].
 
-![[Pasted image 20211120211330.png|300]]
+![[20211120211330 ~ Moses biển đỏ.png|300]]
 Hình ảnh Moses rẽ nước biển dẫn Người Do thái chạy khỏi Ai Cập.
 
 Xem chi tiết [[Tiểu sử tiên tri Moses]]
