@@ -18,7 +18,7 @@ publish: False
 Iosif Vissarionovich Stalin, Tiếng Anh gọi là Joseph Stalin hoặc Stalin. 
 Stalin là một chính trị gia [[Người Gruzia]]. [[Stalin là nhà cách mạng thuộc phe Bolshevik]]
 
-![[Pasted image 20211119224624.png]]
+![[20211119224624 ~ Joseph Stalin.png]]
 
 ## Ideas & thoughts:
 - [[Joseph Stalin là người Gruzia]]

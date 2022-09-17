@@ -5,10 +5,6 @@ tags:
   - 'created/2021/Sep/06'
   - 'seed'
   - 'permanent/people'
-birth: null
-death: null
-aliases:
-  - null
 ---
 # Thiết Phiến Công Chúa
 

@@ -16,7 +16,7 @@ publish: False
 ## Notes:
 Alexandre Yersin (22 tháng 9 năm 1863 – 1 tháng 3 năm 1943) là một bác sĩ, nhà vi khuẩn học người Pháp.
 
-![[Pasted image 20211127091717.png]]
+![[20211127091717 ~ Alexandre Yersin.png]]
 
 [[Yersin khám phá ra cao nguyên Lâm Viên 6-1893]]
 

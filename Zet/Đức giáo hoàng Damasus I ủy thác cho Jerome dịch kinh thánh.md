@@ -9,10 +9,3 @@
 Đức giáo hoàng [[Pope Damasus I]] ủy thác cho [[Thánh Jerome]] dịch kinh thánh
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Đức giáo hoàng Damasus I ủy thác cho Jerome dịch kinh thánh]]
-sort file.name asc
-```

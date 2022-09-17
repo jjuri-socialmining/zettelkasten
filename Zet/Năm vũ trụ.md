@@ -15,7 +15,7 @@ Năm vũ trụ là thời gian để mặt trời xê dịch hết 12 cung hoàn
 
 Điểm xuân phân là thời điểm kinh độ mặt trời bằng 0. Do lệch trục, nên điểm xuân phân bị xê dịch, sau thời gian dài nó sẽ ở một chòm sao hoàng đạo. Thời gian mặt trời xê dịch hết 1 cung hoàng 1 cung hoàng đạo được tình là 1 tháng vũ trụ. Một tháng vũ trụ dài khoảng 2160 năm trái đất. Một năm vũ trụ dài khoảng 26000 năm trái đất.
 
-![[Pasted image 20211124222804.png]]
+![[20211124222804 ~ Nam_vu_tru.png]]
 
 Mỗi một tháng vũ trụ, chúng ta gọi là thời đại hay kỷ nguyên:
 

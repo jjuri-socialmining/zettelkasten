@@ -10,7 +10,7 @@ aliases:
 publish: False
 ---
 ## Notes:
-![[Pasted image 20220821224135.png]]
+![[20220821224135 ~ Leucine.png]]
 
 
 

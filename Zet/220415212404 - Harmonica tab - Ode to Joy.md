@@ -11,5 +11,5 @@ publish: False
 ---
 ## Notes:
 
-![[Pasted image 20220415212248.png]]
-![[Pasted image 20220415213624.png]]
+![[20220415212248 ~ Ode to Joy.png]]
+![[20220415213624 ~ Ode to Joy.png]]

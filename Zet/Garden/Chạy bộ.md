@@ -37,3 +37,7 @@ publish: False
 - Đau ống đồng [[Shin Splints]]
 - Dải chậu chày [[IT Band]]
 - Viêm cân gan chân [[Plantar fasciitis]]
+
+
+### Personal
+- [[20220507084501 ~ BIDV running.png]]

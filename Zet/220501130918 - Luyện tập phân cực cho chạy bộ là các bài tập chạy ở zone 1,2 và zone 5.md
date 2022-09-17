@@ -10,7 +10,7 @@ aliases: 220501130918
 publish: False
 ---
 ## Notes:
-![[Pasted image 20220501130938.png]]
+![[20220501130938 ~ Heart zone.png]]
 
 Luyện tập phân cực cho chạy bộ là lược bỏ các bài trung bình ở trong ngưỡng Lactace. Chỉ chạy các bài nhẹ nhàng tương ững với nhịp tim zone 1, 2 và các bài tập nặng tương ứng với nhịp tim ở zone 5.
 
