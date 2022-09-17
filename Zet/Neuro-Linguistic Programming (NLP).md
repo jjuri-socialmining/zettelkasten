@@ -1,5 +1,5 @@
 ---
-title: Neuro-Linguistic Programming - NLP
+title: Neuro-Linguistic Programming
 UID: 211019231626
 created: 19-Oct-2021
 tags:
@@ -15,8 +15,6 @@ publish: False
 # Neuro-Linguistic Programming - NLP
 
 ## Notes:
-Lập trình ngôn ngữ tư duy
-
-## Ideas & thoughts:
+Cha đẻ của phương pháp lập trình ngôn ngữ tư duy là [[Richard Bandler]]
 
 
