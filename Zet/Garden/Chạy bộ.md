@@ -25,7 +25,7 @@ publish: False
 
 ### Các phương pháp chạy bộ
 - [[MAF Method - Phil Maffetone]]
-- [[VDOT - Jack Daniel]]
+- [[VDOT]]
 - [[Phương pháp luyện tập phân cực]]
 - [[Tabata interval HIIT]]
 
