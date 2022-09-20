@@ -17,13 +17,3 @@ Phông chữ được phiên âm theo từ tiếng Anh là Font. Từ này có n
 [[Uper case, lower case bắt nguồn từ việc sắp chữ bảng in]]
 
 ## Ideas & thoughts:
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Phông chữ]]
-sort file.name asc
-```

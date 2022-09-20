@@ -6,6 +6,28 @@ tags:
   - 'created/2022/Sep/15'
   - 'daily/journal'
 ---
+
+Các công việc cần làm:
+- [ ] Đưa xe LKLM lên Sài Gòn ⏳ 2022-09-18 ⏫ 
+- [ ] Đặt xe chiều đi tối thứ 5, có chở xe đạp [[📝22-09-29]] 📅 2022-09-24 🔼 
+- [ ] Book KS ngoài Côn Đảo 2 đêm thứ 6/7  [[📝22-09-30]], [[📝22-10-01]]
+- [ ] Book tàu khứ hồi từ Sóc Trăng - Côn Đảo
+
+Chi phí:
+
+| Khoản               | VND | Note                            |
+| ------------------- | --- | ------------------------------- |
+| Tiền xe đò chiều đi |     |                                 |
+| Tiền tàu khứ hồi    |     | Nên đặt khứ hồi để tránh hết vé |
+| Tiền nhà nghỉ 2 đêm |     |                                 |
+|                     |     |                                 |
+
+
+
+Thành viên:
+- [[Trịnh Phi Hùng|Hùng Trịnh]]
+- [[Khang Trần]]
+
 ### [[📝22-09-15]]
 
 Dự định đi Côn Đảo
@@ -19,3 +41,14 @@ Nếu đi thong thả  phải mất 1.5 ngày mới đạp tới nơi. Nếu đ�
  
  Chắc chiều đi sẽ đi xe đò, và chiều về sẽ đạp.
 
+### [[📝22-09-17]]
+- [ ] Các địa điểm tham quan tại Côn Đảo
+	- [Google map địa điểm Côn Đảo](https://www.google.com/maps/d/edit?mid=1iHDgChqJiiN_gKa7hA0IH94AQKtCE2c&ll=8.6957831061765%2C106.56369162216073&z=13)
+	- Mũi Cá Mập Côn Đảo: Ngắm bình minh
+	- Đỉnh Tình Yêu: Ngắm hoàng hôn
+	- Vân Sơn Tự Núi Một
+	- Vịnh Đầm Tre: Cắm trại
+		- Vịnh Đầm Tre cách trung tâm thị trấn Côn Đảo 17km về hướng Bắc. Để đến được vịnh, du khách phải đi theo lối nhỏ với những bậc thang đầy rong rêu và cỏ khô
+	- Cầu Tàu Lịch Sử 914
+- [ ] Các món ăn tại Côn Đảo
+	- Cháo hàu

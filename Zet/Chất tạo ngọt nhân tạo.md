@@ -9,11 +9,3 @@
 
 
 ## Questions & thoughts:
-
-
-## Related:
-```dataview
-list
-from [[Chất tạo ngọt nhân tạo]]
-sort file.name asc
-```

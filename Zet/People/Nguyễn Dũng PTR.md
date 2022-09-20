@@ -8,6 +8,7 @@ aliases:
   - Gâu Gâu
   - Dũng Gâu
   - Dũng GG
+  - GG
 publish: False
 ---
 # Nguyễn Dũng PTR

@@ -16,7 +16,7 @@ publish: False
 ## Notes:
 Lev Nikolayevich Tolstoy là một nhà văn, triết gia người Nga. Leo Tolstoy là một người theo [[Cơ Đốc Giáo]].
 
-![[Pasted image 20211203220819.png]]
+![[20211203220819 ~ Leo Tolstoy.png]]
 
 ## Ideas & thoughts:
 - Hai tác phẩm nổi tiếng của ông là [[Chiến tranh và hoà bình]] và [[Anna Karenina]]

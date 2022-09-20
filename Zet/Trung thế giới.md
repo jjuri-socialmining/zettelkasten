@@ -18,7 +18,7 @@ publish: False
 Trung thế giới, hay Kay Pacha, là cõi vật chất, là một cõi/thế giới trong [[Thức tỉnh tâm linh|Phát triển tâm linh]]. 
 
 Mục đích của giai đoạn này là phát triển nhân cách, bản ngã. Các kỹ thuật được sử dụng:[^1]
-- lập trình ngôn ngữ tư duy [[Neuro-Linguistic Programming - NLP]]
+- lập trình ngôn ngữ tư duy [[Neuro-Linguistic Programming (NLP)]]
 - liệu pháp nhận thức hành vi
 - kỹ thuật giao tiếp không bạo lực (non-violent communication techniques)
 

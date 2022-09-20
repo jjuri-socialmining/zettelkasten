@@ -9,10 +9,3 @@
 [[Mahatma Gandhi]] thuộc giai cấp thứ 3 [[Đẳng cấp Vaisya]] của [[Ấn Độ giáo]].
 
 ## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Gandhi thuộc đẳng cấp Vaisya]]
-sort file.name asc
-```

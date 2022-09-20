@@ -9,7 +9,8 @@ aliases:
   - VMM
 publish: False
 ---
-## Notes:
+
+- [[Topas Ecolodge]]
 
 ## Personal
 - [[VMM100 Sapa 21-Sep-2019]]

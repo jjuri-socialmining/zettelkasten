@@ -5,8 +5,6 @@ tags:
   - 'created/2021/Sep/05'
   - 'seed'
   - 'permanent/people'
-birth: null
-death: null
 aliases:
   - Chu Văn Vương
 ---

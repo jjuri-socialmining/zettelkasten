@@ -8,7 +8,7 @@ aliases:
 - 
 Có nhiều biến thể (tên gọi): Kang The Conqueror
 
-![[Pasted image 20220526221041.png]]
+![[20220526221041 ~ He Who Remains.png]]
 
 ## Reference:
 - https://congngheviet.com/kang-the-conqueror-phan-dien-tiep-theo-cua-mcu-se-manh-nhu-the-nao/

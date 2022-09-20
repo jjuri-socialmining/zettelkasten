@@ -13,7 +13,7 @@ publish: False
 ## Notes:
 Mahatma Gandhi (1869-1948) tên thật là Mohandas Karamchand Gandhi, là lãnh tụ tinh thần của người Ấn Độ chống thực dân Anh giành độc lập.
 
-![[Pasted image 20211203223811.png]]
+![[20211203223811 ~ Mahatma Gandhi.png]]
 
 ## Ideas & thoughts:
 - [[Khi ở Anh, Gandhi ăn chay và tìm hiểu các tôn giáo]]
