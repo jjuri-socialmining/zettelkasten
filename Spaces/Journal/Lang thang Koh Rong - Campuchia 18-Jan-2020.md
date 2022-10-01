@@ -13,7 +13,7 @@ publish: False
 Chuyến đi này  [[Phạm Ngọc Ánh|Ánh]] lo gần hết mọi thứ, kiếm thông tin lộ trình, đổi tiền liên hệ đặt xe này nọ.
 
 Thứ Sáu, [[📝20-09-17]]
-- Tối xuống bến xe miền tây đón xe xuống [[Kiên Giang]] qua [[cửa khẩu Hà Tiên]]. 
+- Tối xuống bến xe miền tây đón xe xuống [[Kiên Giang]] qua [[Cửa khẩu Hà Tiên]]. 
 
 Thứ Bảy, [[📝20-09-18]]
 - Tới nơi cũng còn khá sớm, trời chưa sáng, ghé chỗ ăn cơm, ăn hủ tiếu. Khoảng tầm tờ mờ sáng khoảng 6h30 7h bắt đầu làm việc. Cả bọn đi bộ qua cửa khẩu, Hải quan Việt Nam thì easy rùi. RỒi đi bộ một đoạn 300-400m qua hải Quan Campuchia, hình như hồi đó nó đòi bao nhiêu một hộ chiếu đó, chẳng rõ nữa.

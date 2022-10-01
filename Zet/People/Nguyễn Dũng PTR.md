@@ -11,7 +11,8 @@ aliases:
   - GG
 publish: False
 ---
-# Nguyễn Dũng PTR
+up::[[People MOC]], [[Chạy bộ]]
+
 Dũng Gâu PTR
 
 

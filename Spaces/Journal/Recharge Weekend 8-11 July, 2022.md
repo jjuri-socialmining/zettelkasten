@@ -6,7 +6,8 @@ tags:
   - 'created/2022/Jul/02'
   - 'daily/journal'
 ---
-## Notes:
+up:: [[Recharge Weekend]]
+
 Lên lịch
 - [[Đèo Tân Thanh]]
 - [[Đèo Tà Nung]]

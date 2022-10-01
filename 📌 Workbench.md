@@ -20,7 +20,7 @@ kanban-plugin: basic
 
 ## Waiting
 
-- [ ] [[Camping Trị An]]<br>- 22-09-24
+- [ ] [[Camping Trị An - Sep 24, 2022]]<br>- 22-09-24
 
 
 ***

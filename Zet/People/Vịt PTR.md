@@ -6,11 +6,7 @@ tags:
   - 'permanent/people'
 aliases:
   - anh Vịt
+  - anh Thoàn
 publish: False
 ---
-up:: [[People MOC]]
-
-## Notes:
-
-
-## Ideas & thoughts:
+up:: [[People MOC]], [[Chạy bộ]]

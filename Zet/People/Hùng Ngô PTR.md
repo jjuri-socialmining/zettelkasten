@@ -8,7 +8,7 @@ aliases:
   - anh Cọp
 publish: False
 ---
-up:: [[People MOC]]
+up:: [[People MOC]], [[Chạy bộ]]
 
 ## Notes:
 

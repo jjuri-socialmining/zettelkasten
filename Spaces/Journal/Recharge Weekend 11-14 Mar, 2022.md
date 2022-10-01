@@ -5,8 +5,11 @@ created: 15-Mar-2022
 tags:
   - 'created/2022/Mar/15'
   - 'daily/journal'
+aliases:
+  - 'Bảo Lộc - Lagi - Hồ Tràm'
 ---
 up::[[Recharge Weekend]]
+
 # Recharge Weekend 11-14 Mar, 2022
 
 ### Thứ 6, [[📝22-03-11]]
@@ -81,3 +84,6 @@ up::[[Recharge Weekend]]
 - Tổng cộng đi được 360km
 - Rút kinh nghiệm sẽ ăn uống điều độ hơn thay vì bỏ bữa trưa. Nghỉ ngơi và phân phối cự ly hợp lý hơn, không nên quá gồng lúc nào cũng phải kìm 20km/h đặc biệt những lúc trưa nắng.
 
+### Others:
+- [[Quốc Lộ 55]]
+- [[Quốc Lộ 55B]]

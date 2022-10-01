@@ -14,6 +14,3 @@ publish: False
 # Trịnh Phi Hùng
 
 ## Notes:
-
-
-## Ideas & thoughts:

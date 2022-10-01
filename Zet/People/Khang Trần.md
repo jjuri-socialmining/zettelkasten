@@ -6,7 +6,7 @@ tags:
   - 'permanent/people'
 publish: False
 ---
-up:: [[People MOC]]
+up:: [[People MOC]], [[Chạy bộ]]
 
 metadta:
 - Địa chỉ nhà: 190/19 Lý Thánh Tông, p. Hiệp Tân, Q. Tân Phú

@@ -6,6 +6,6 @@ tags:
   - 'permanent/people'
 publish: False
 ---
-up:: [[People MOC]]
+up:: [[People MOC]], [[Chạy bộ]]
 
 Quen anh Khoa đợt đi train Dinh chuẩn bị cho [[VMM100 Sapa 09-Sep-2022|VMM2022]]

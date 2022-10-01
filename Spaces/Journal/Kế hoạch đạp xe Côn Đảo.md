@@ -5,13 +5,15 @@ created: 15-Sep-2022
 tags:
   - 'created/2022/Sep/15'
   - 'daily/journal'
+aliases:
+  - Kế hoạch Recharge Weekend Oct, 2022
 ---
 
 Các công việc cần làm:
-- [ ] Đưa xe LKLM lên Sài Gòn ⏳ 2022-09-18 ⏫ 
-- [ ] Đặt xe chiều đi tối thứ 5, có chở xe đạp [[📝22-09-29]] 📅 2022-09-24 🔼 
-- [ ] Book KS ngoài Côn Đảo 2 đêm thứ 6/7  [[📝22-09-30]], [[📝22-10-01]]
-- [ ] Book tàu khứ hồi từ Sóc Trăng - Côn Đảo
+- Đưa xe LKLM lên Sài Gòn 
+- Đặt xe chiều đi tối thứ 5, có chở xe đạp
+- Book KS ngoài Côn Đảo 2 đêm thứ 6/7  
+- Book tàu khứ hồi từ Sóc Trăng - Côn Đảo
 
 Chi phí:
 
@@ -21,8 +23,6 @@ Chi phí:
 | Tiền tàu khứ hồi    |     | Nên đặt khứ hồi để tránh hết vé |
 | Tiền nhà nghỉ 2 đêm |     |                                 |
 |                     |     |                                 |
-
-
 
 Thành viên:
 - [[Trịnh Phi Hùng|Hùng Trịnh]]
@@ -52,3 +52,5 @@ Nếu đi thong thả  phải mất 1.5 ngày mới đạp tới nơi. Nếu đ�
 	- Cầu Tàu Lịch Sử 914
 - [ ] Các món ăn tại Côn Đảo
 	- Cháo hàu
+
+Haizz, Do [[Bão Noru 2022]] mới đổ bộ vào đất liền [[📝22-09-27|Yesterday]] nên trời còn mưa nhiều và biển động, nếu trời kịp quang đãng và khô ráo sẽ đi 9 cửa sông Cửu Long

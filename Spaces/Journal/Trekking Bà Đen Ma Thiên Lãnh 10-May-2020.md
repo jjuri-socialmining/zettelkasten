@@ -11,6 +11,6 @@ tags:
 ## Notes:
 [[Núi Bà Đen]]
 
-Khương Béo dẫn đi với mấy người bên Lê Thị Riêng Runner
+[[Khương Béo]] dẫn đi với mấy người bên Lê Thị Riêng Runner
 
 

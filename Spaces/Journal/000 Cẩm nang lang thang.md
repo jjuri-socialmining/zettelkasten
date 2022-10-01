@@ -40,5 +40,7 @@ publish: False
 - [[Du hí Bảo Lộc 11-12 Jun, 2022]]
 - [[Recharge Weekend 8-11 July, 2022]]
 - [[VMM100 Sapa 09-Sep-2022]]
+- [[Camping Trị An - Sep 24, 2022]]
+- [[Recharge Weekend Oct, 2022]]
 
 

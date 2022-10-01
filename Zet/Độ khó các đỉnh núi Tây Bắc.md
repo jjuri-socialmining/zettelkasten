@@ -12,3 +12,6 @@ publish: False
 ## Notes:
 ![[20220328213326 ~ Độ khó các đỉnh núi VN.png]]
 - [[Fansipan]] là cao nhất VN không phải bàn cãi rồi, nhưng về độ khó thì chỉ đứng ở nhóm khó thứ 7.
+
+Một phiên bản khác do Wetrek làm
+![[20221001225848 ~ 15 đỉnh núi cao nhất VN.png]]

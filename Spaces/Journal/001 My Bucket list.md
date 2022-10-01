@@ -16,6 +16,9 @@ tags:
 - [ ] [[Bucket list 5 - 200 medal chạy Half-Marathon]]
 - [ ] [[Bucket list 6 - Xuyên Việt bằng xe đạp]]
 - [ ] [[Bucket list 7 - Đọc 1000 quyển sách]]
+- [ ] [[Bucket list 8 - Đặt chân đến 4 điểm cực đất liền của Việt Nam]]
+- [ ] [[Bucket list 9 - Leo 20 đỉnh núi cao nhất Việt Nam]]
+- [ ] [[Bucket list 10 - Chinh phục 100 cái Century]]
 - [ ] [[Nói Thông Thạo tiếng Anh]]
 - [ ] [[Nói thông thạo tiếng Pháp]]
 
