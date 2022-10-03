@@ -7,6 +7,7 @@ tags:
   - 'permanent/fact'
 publish: False
 ---
+up:: [[Film]]
 # Phim hay
 
 ## Notes:

@@ -8,6 +8,8 @@ tags:
   - 'permanent/linking'
 publish: False
 ---
+up:: [[Bike]]
+
 # Tổng hợp route chạy xe đạp nhẹ nhàng, thể dục
 
 1. Gia Kiệm - Suối Nho - Tín Nghĩa: 30Km

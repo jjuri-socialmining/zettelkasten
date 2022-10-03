@@ -9,6 +9,8 @@ tags:
 aliases: '220507090659'
 publish: False
 ---
+up:: [[Chạy bộ|Running]]
+
 ## Notes:
 
 -   Interval: Tập chạy interval là vận tốc VO2Max, nếu bạn chạy nhanh hơn thì bạn chạy ở vùng Anerobic và đó là điều không cần thiết vì bạn chỉ cần chạy ở VO2Max. Cái đau của bạn vô ích ở trong trường hợp này. Theo [How to Recover Between Intervals - YouTube - V.O2](https://www.notion.so/How-to-Recover-Between-Intervals-YouTube-V-O2-53b68a6f06b84533ad8c0d76c89d4605), [[Jack Daniels]] dẫn chứng rằng các phiên nghỉ tích cực hiệu hiệu quả hơn nghỉ ngơi thụ động, tức là bạn sẽ phục hồi nhanh hơn nếu bạn đi bộ hoặc chạy nhẹ thay vì đứng nghỉ một chỗ.

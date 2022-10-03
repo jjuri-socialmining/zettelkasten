@@ -9,6 +9,7 @@ tags:
 aliases: '220514140728'
 publish: False
 ---
+up:: [[Film]]
 ## Notes:
 [[Venom]] và [[Spiderman]] kẻ thù của nhau trong [[Marvel Comics]]
 
