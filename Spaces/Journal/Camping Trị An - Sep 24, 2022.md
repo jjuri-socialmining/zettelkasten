@@ -6,6 +6,7 @@ tags:
   - 'created/2022/Sep/21'
   - 'daily/journal'
 ---
+up:: [[Bike]]
 
 Các thành viên:
 - [[Phạm Ngọc Ánh|Ánh A3]]

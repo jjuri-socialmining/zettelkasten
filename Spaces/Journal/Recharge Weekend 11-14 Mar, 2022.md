@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Mar/15'
   - 'daily/journal'
 aliases:
-  - 'Bảo Lộc - Lagi - Hồ Tràm'
+  - 'Tour xe đạp Bảo Lộc - Lagi - Hồ Tràm'
 ---
 up::[[Recharge Weekend]]
 

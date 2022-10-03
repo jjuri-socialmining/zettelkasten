@@ -18,6 +18,7 @@ Các bộ phim thức thần và [[Ý nghĩa cuộc sống]]: [^1]
 - [[Enter The Void]]
 - [[Fight Club]]
 - [[Garden state]]
+- [[@ Soul (2020)]]
 
 Phim truyền hình
 - [[Breaking Bad]]

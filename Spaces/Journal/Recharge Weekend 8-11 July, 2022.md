@@ -5,6 +5,9 @@ created: 02-Jul-2022
 tags:
   - 'created/2022/Jul/02'
   - 'daily/journal'
+aliases:
+  - Tour Sài Gòn - Đèo Triệu Hải - Bảo Lộc - Đèo Ngoạn Mục - Đà Lạt
+  - Tour xe máy Đèo Ngoạn Mục 2022
 ---
 up:: [[Recharge Weekend]]
 

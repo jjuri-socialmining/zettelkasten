@@ -15,6 +15,7 @@ Các đường Quốc lộ
 - [[Quốc Lộ 22]]
 - [[Quốc Lộ 22B]]
 - [[Quốc Lộ 27]]
+- [[Quốc Lộ 51]]
 - [[Quốc Lộ 55]]
 - [[Quốc Lộ 55B]]
-- [[Quốc Lộ 51]]
+- [[Quốc Lộ 56]]
