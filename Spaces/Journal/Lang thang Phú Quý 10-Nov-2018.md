@@ -7,6 +7,7 @@ tags:
   - 'daily/journal'
 publish: False
 ---
+up:: [[Cẩm nang lang thang]]
 # Du hí Phú Quý 10-Nov-2018
 
 ## Notes:

@@ -9,7 +9,7 @@ tags:
 # Lên kế hoạch lang thang 4 ngày recharge weekend Mar-2022
 
 ## Notes:
-- [[Recharge Weekend 11-14 Mar, 2022]]
+- [[Bike Tour Bảo Lộc - Lagi - Hồ Tràm]]
 
 - Theo tình hình này chắc nên đi 3 ngày thui, 4 ngày sợ sức đạp chưa đủ mạnh, train 1000 gain mà như hạch vậy.
 - Đang bị trùng lịch đi chơi Hồ Cố - Bình Châu với nhóm Ánh, Tuyến, Trúc, nên có thể phải sắp xếp đây là một địa điểm trong 3 ngày đó

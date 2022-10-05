@@ -7,6 +7,7 @@ tags:
   - 'daily/journal'
 ---
 up:: [[Film]], [[Khủng hoảng hiện sinh]]
+
 ## Notes:
 - [[@ Soul (2020)]]
 - [[@ Ghost Town (2008)|Ghost Town]]

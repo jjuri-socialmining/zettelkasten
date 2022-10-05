@@ -9,7 +9,7 @@ tags:
 ---
 up:: [[Ý nghĩa cuộc sống]]
 
-Kết luận rút ra từ phim [[@ Ghost Town (2008)|Ghost Town]]: Cuộc đời này, sự tồn tại này chỉ có ý nghĩa khi sống cho người khác
+Kết luận rút ra từ phim [[@ Ghost Town (2008)|Ghost Town]]: Cuộc đời này, sự tồn tại này chỉ có ý nghĩa khi sống cho người khác. Lấy cảm hứng từ câu nói của [[Albert Einstein]]: [[💬221003232242 ~ Sống cho mọi người thì cuộc đời mới có giá trị]].
 
 
 

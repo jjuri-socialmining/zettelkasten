@@ -7,9 +7,19 @@ tags:
   - 'daily/journal'
 publish: False
 ---
+up:: [[Cẩm nang lang thang]], [[Tà Năng - Phan Dũng]]
+
 # Tà Năng Phan Dũng - Đồi lính
 
 ## Notes:
+Thành viên 4 người:
+- [[Trần Anh Dũng|mình]]
+- [[Trịnh Phi Hùng|Hùng Trịnh]]
+- [[Chị Thủy Sw]]
+- [[Đỗ Ngọc Tiện]]
+
+Tóm tắt:
+
 - Mình dắt team Hùng, Tiện và chị Thủy
 - Lên tới nơi là tầm 4-5h
 - Ăn sáng xong, đi mua nước, Hùng vác nặng nhất

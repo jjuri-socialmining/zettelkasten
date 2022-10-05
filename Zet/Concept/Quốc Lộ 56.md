@@ -13,6 +13,6 @@ publish: False
 Tuyến đường Quốc Lộ 56 rẽ nhánh từ [[Quốc Lộ 1A]] đoạn ở Long Khánh - Đồng Nai dẫn qua tới tp Bà Rịa
 
 ## Personal:
-- [[Recharge Weekend 11-14 Mar, 2022]] đạp xe từ Hồ Tràm về Gia Kiệm, lên xe heo khúc gần tới Long Khánh. =))
+- [[Bike Tour Bảo Lộc - Lagi - Hồ Tràm]] đạp xe từ Hồ Tràm về Gia Kiệm, lên xe heo khúc gần tới Long Khánh. =))
 
 

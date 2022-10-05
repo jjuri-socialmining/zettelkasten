@@ -7,6 +7,7 @@ tags:
   - 'daily/journal'
 ---
 up:: [[Bike]]
+
 ## Notes:
 
 [[Quốc Lộ 55]]

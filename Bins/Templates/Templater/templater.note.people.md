@@ -20,9 +20,7 @@ tags:
 <%* tR += death %>
 publish: False
 ---
-up:: [[People MOC]]
+up:: [[People MOC]],
 
 ## Notes:
 <% tp.file.cursor() %>
-
-## Ideas & thoughts:

@@ -24,7 +24,7 @@ up:: [[001 My Bucket list]]
 | 9   | 1     | Long An    | Đám cưới Duy Nghi 2021                                                                               |
 | 10  | 1     | Lào Cai    | [[VMM100 Sapa 21-Sep-2019]]                                                                                             |
 | 11  | 1     | Bình Định  | VnExpress Quy Nhơn HM 2020                                                                           |
-| 12  | 4     | Tây Ninh   | Đám cưới Thảo Hoàng, Leo Bà Đen team Ánh x2, [[Recharge Weekend Oct, 2022]]                          |
+| 12  | 4     | Tây Ninh   | Đám cưới Thảo Hoàng, Leo Bà Đen team Ánh x2, [[Bike Tour Vườn QG Lò Gò Xa Mát]]                          |
 | 13  | 1     | Bến Tre    | Đi nhà thờ La Mã Trung Thu                                                                           |
 |     |       |            |                                                                                                      |
 

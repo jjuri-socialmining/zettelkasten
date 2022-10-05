@@ -7,6 +7,9 @@ tags:
   - 'daily/journal'
 publish: False
 ---
+up:: [[Cẩm nang lang thang]], [[Tà Năng - Phan Dũng]]
+next:: [[Trekking Tà Năng Phan Dũng - Đồi lính 17-Jul-2019]]
+
 # Tà Năng Phan Dũng - Thác Yavly
 
 ## Notes:
@@ -15,7 +18,7 @@ Cung thác Yaly 22-24 Feb 2019
 
 Nhờ người dẫn [[Bảo Lê]]
 
-- Chị Trang
+- Chị [[Đặng Thị Thùy Trang]]
 - [[Phạm Ngọc Ánh|Ánh]]
 - [[Thanh Trúc]]
 - [[Gia Nhật]]

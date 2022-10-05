@@ -9,7 +9,7 @@ aliases:
   - Cối
 publish: False
 ---
-up:: [[Bike]]
+up:: [[Bike]], [[Bảo trì xe đạp]]
 ## Notes:
 [[Đùm]] cho loại líp thả sẽ có thêm phần cối líp
 

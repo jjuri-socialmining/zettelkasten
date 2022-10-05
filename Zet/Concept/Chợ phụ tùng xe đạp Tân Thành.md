@@ -10,7 +10,8 @@ aliases:
   - Tân Thành
 publish: False
 ---
-up:: [[Bike]]
+up:: [[Bike]], [[Bảo trì xe đạp]]
+
 ## Notes:
 
 

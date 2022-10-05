@@ -5,8 +5,6 @@ tags:
   - 'created/2021/Sep/02'
   - 'seed'
   - 'permanent/think'
-aliases:
-  - null
 ---
 # ❕ Hạnh phúc của người hiện sinh không phụ thuộc vào kết quả việc anh ta làm
 

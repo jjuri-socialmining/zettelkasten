@@ -10,7 +10,8 @@ aliases:
   - Ti đùm
 publish: False
 ---
-up:: [[Bike]]
+up:: [[Bike]], [[Bảo trì xe đạp]]
+
 ## Notes:
 ![[20221003123021 ~ Ti trục bánh xe.png]]
 

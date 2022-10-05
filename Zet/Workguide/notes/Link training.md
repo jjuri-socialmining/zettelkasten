@@ -1,0 +1,5 @@
+---
+aliases:
+  - LT
+---
+# Link Training

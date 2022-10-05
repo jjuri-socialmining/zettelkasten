@@ -9,7 +9,8 @@ aliases:
   - 
 publish: False
 ---
-up:: [[Bike]]
+up:: [[Bike]], [[Bảo trì xe đạp]]
+
 ## Notes:
 
 ![[20221003113045 ~ Dao vặn tháo líp thả.png]]

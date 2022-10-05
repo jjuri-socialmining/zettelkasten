@@ -11,12 +11,13 @@
   "obsidian-kanban",
   "obsidian-tabs",
   "obsidian-annotator",
-  "dataview",
   "nldates-obsidian",
   "obsidian-outliner",
   "url-into-selection",
   "calendar",
   "obsidian-git",
   "obsidian-tasks-plugin",
-  "find-unlinked-files"
+  "find-unlinked-files",
+  "dataview",
+  "breadcrumbs"
 ]

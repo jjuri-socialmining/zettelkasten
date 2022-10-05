@@ -7,7 +7,14 @@ tags:
   - 'daily/journal'
 publish: False
 ---
+up:: [[Cẩm nang lang thang]]
 # Du hí Campuchia 01-2019
+Thành Viên
+- [[Thanh Trúc]]
+- [[Tô Anh Tuyến|Tuyến]]
+- [[Tân]]
+- [[Phạm Ngọc Ánh|Ánh A3]]
+- [[Hoàng Oanh]]
 
 ## Notes:
 Chuyến đi này  [[Phạm Ngọc Ánh|Ánh]] lo gần hết mọi thứ, kiếm thông tin lộ trình, đổi tiền liên hệ đặt xe này nọ.

@@ -1,0 +1,3 @@
+Debounced analog CDR lock detecttrue if the analog circuitry has switched from local reference to data lock and is locked to that data.  
+false when the analog is attempting to lock.  
+This should only be used as a debug step; the CDR state will be reset periodically while the FW is attempting to acquire lock.This should be ignored in refless mode, in that mode there is no reference to determine if the CDR is locked or not.

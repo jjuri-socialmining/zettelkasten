@@ -9,7 +9,7 @@ tags:
 aliases: '220507090659'
 publish: False
 ---
-up:: [[Chạy bộ|Running]]
+top:: [[Chạy bộ|Running]]
 
 ## Notes:
 

@@ -31,6 +31,9 @@ up:: [[Daily notes]]
 ## Notes:
 <% tp.file.cursor() %>
 
+Điều gì làm mình vui trong ngày? -> [[Những niềm vui giản dị]]
+
+
 <%* if (tp.date.now("ddd") == "Sun" ) { %>
 ## Weekly review:
 [[<% tp.date.now("📝YY-MM-DD", -6) %>|Mon]]

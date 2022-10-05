@@ -20,7 +20,7 @@ kanban-plugin: basic
 
 ## Waiting
 
-- [ ] [[Camping Trị An - Sep 24, 2022]]<br>- 22-09-24
+- [ ] [[Bike Tour Camping Trị An - Sep 24, 2022]]<br>- 22-09-24
 
 
 ***

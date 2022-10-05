@@ -71,7 +71,7 @@ Cái lưỡi gà nó nghẽn vào gân cổ chân, lúc về viêm sưng một c
 
 ### Personal
 
-Lúc về mua 1 kg hạt dẻ với 300k khô trâu gác bếp. Cái khô trâu gác bếp hôm [[📝22-09-05]] khui ra đưa cho [[Hoàng Duy]] với [[Gia Nghi]] một miếng, hôm sau mở bịch ra thấy có vết. Thế là đậy lại bỏ trong hộp, cũng không thoát nổi mốc. [[📝22-09-17|Hôm nay]], về GK nhờ má cạo đi, rửa sơ qua rùi bỏ vào nồi nướng điện nướng lại 20min. Mẻ này thấy còn chưa khô, vẫn còn chảy mỡ trâu, hèn chi bị mốc.
+Lúc về mua 1 kg hạt dẻ với 300k khô trâu gác bếp. Cái khô trâu gác bếp hôm [[📝22-09-05]] khui ra đưa cho [[Nguyễn Hoàng Duy]] với [[Gia Nghi]] một miếng, hôm sau mở bịch ra thấy có vết. Thế là đậy lại bỏ trong hộp, cũng không thoát nổi mốc. [[📝22-09-17|Hôm nay]], về GK nhờ má cạo đi, rửa sơ qua rùi bỏ vào nồi nướng điện nướng lại 20min. Mẻ này thấy còn chưa khô, vẫn còn chảy mỡ trâu, hèn chi bị mốc.
 
 - [ ] Tìm hiểu cách làm trâu khô gác bếp 
 - [ ] Khói bếp có làm làm thức ăn không bị mốc giống như kiểu Trâu gác bếp?

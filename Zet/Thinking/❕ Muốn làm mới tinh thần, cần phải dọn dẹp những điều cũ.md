@@ -5,9 +5,9 @@ tags:
   - 'created/2021/Sep/02'
   - 'seed'
   - 'permanent/think'
-aliases:
-  - null
 ---
+up:: [[Khủng hoảng hiện sinh|Existential Crisis]]
+
 # ❕ Muốn làm mới tinh thần, cần phải dọn dẹp những điều cũ
 
 ## Notes:
@@ -15,6 +15,6 @@ aliases:
 Muốn làm gột rửa tinh thần, bạn cần phải dọn dẹp những điều cũ để có chỗ cho những điều mới
 
 ## Ideas & thoughts:
-[[Khủng hoảng hiện sinh|Existential Crisis]]
+
 
 [^1]:https://www.quora.com/How-do-I-get-out-of-an-existential-crisis

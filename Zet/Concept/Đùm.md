@@ -9,7 +9,8 @@ aliases:
   - Moayo
 publish: False
 ---
-up:: [[Bike]]
+up:: [[Bike]], [[Bảo trì xe đạp]]
+
 ## Notes:
 ![[20221003121206 ~ Đùm.png]]
 

@@ -8,6 +8,6 @@ birth:
 death:
 publish: False
 ---
-up:: [[People MOC]]
+up:: [[People MOC]], [[Marvell]]
 
 Cofounder của [[Inphi]], Được học bổng để học tại [[Đại học Cornell]]

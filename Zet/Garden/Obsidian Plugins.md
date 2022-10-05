@@ -15,3 +15,5 @@ Tổng hợp các plugin trong Obsidian App:
 - [[Obsidian Dataview plugin]]
 - [[Obsidian Spaced Repetition Plugin]]
 - [[Obsidian Natural Language Date Plugin]]
+- [[Obsidian Leaflet]]
+- [[Obsidian ExcaliBrain Plugin]]

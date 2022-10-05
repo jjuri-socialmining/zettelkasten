@@ -8,8 +8,6 @@ aliases:
   - Ulysses
 publish: False
 ---
-up:: [[People MOC]]
-
 ## Notes:
 
 

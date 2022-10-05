@@ -9,7 +9,8 @@ aliases:
   - cảo giò đĩa
 publish: False
 ---
-up:: [[Bike]]
+up:: [[Bike]], [[Bảo trì xe đạp]]
+
 ## Notes:
 ![[20221003114527 ~ Cả giò đĩa cốt vuông.png]]
 

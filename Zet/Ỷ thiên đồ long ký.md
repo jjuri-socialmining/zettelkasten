@@ -8,9 +8,7 @@ tags:
 aliases:
   - Ỷ thiên đồ long ký
 ---
+up:: [[Kim Dung]]
 # Ỷ thiên đồ long ký
 
 ## Notes:
-
-
-## Ideas & thoughts:

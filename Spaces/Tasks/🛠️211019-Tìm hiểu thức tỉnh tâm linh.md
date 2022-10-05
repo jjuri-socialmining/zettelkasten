@@ -25,7 +25,7 @@ publish: True
 
 - [[Tần số rung động]]
 	- Được [[Nicola Tesla]] nhắc đến ![[💬211019-2345#Notes]]
-	- ![[💬211019-2350#Notes]]
+	- ![[💬211019-2350 Tình yêu phát triển bản tính tốt đẹp của con người#Notes]]
 - [[Luật hấp dẫn]]
 - [[Thiên nhãn]] -> [[Luân xa con mắt thứ 3]]
 - [[Cộng hưởng Schumann]]

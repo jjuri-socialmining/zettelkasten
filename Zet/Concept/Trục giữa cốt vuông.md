@@ -9,7 +9,8 @@ aliases:
   - Cốt vuông
 publish: False
 ---
-up:: [[Bike]]
+up:: [[Bike]], [[Bảo trì xe đạp]]
+
 ## Notes:
 
 ![[20221003114845 ~ Trục giữa cốt vuông.png]]
