@@ -15,4 +15,4 @@ up:: [[People MOC]]
 ## Notes:
 
 ### Personal notes:
-- [[📝22-08-07]]: Ở trọ tại 163/50 Đặng Văn Bi, Thủ Đức
+- [[2022-08-07]]: Ở trọ tại 163/50 Đặng Văn Bi, Thủ Đức

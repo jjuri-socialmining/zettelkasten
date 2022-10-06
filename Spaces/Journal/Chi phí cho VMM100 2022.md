@@ -20,7 +20,7 @@ up:: [[Vietnam Mountain Marathon]]
 | Tất ngón decathlon        | 175k     |                                 |
 | Quần boxer decathlon      | 99k      |                                 |
 | Quần ILR                  | 380k     |                                 |
-| Xe Hoa Mai [[📝22-08-20]] |          |                                 |
+| Xe Hoa Mai [[2022-08-20]] |          |                                 |
 | Đèn đầu                   |          | Mượn của anh [[Hùng Ngô PTR]]       |
 | Cặp gậy                   |          | Mua từ [[VMM100 Sapa 21-Sep-2019]] |
 | Quần bó legging           | 69k      |                                 |

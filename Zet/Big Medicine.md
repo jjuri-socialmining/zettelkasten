@@ -22,7 +22,7 @@ Mafia y tế là một khái niệm nói về một thế lực xấu đằng sa
 - [[QAnon]]
 - [[Bill Gates]]
 - [[Bệnh ung thư]]
-- [[📝21-10-04]]
+- [[2021-10-04]]
 - [[Vaccine]]
 - [[COVID-19]]
 - Đang tìm hiều sự liên quan giữa [[Bill Gates]] và các loại vaccine covide

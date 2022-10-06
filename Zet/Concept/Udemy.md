@@ -11,5 +11,5 @@ publish: False
 # Udemy
 
 ## Notes:
-Udemy là một nền tảng [[MOOC - Các khóa học trực tuyến]]
+Udemy là một nền tảng [[MOOC]]
 

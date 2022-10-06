@@ -11,15 +11,15 @@ aliases:
 # Chạy bộ Đà Nẵng 08-2019
 
 ## Notes:
-Thứ 7, 10-Aug-2019: [[📝19-08-10]]
+Thứ 7, 10-Aug-2019: [[2019-08-10]]
 
 - 15h lên máy bay đi Đà nẵng 
 - 17h lấy bib, đi ăn với nhóm anh Kim Cương, anh Phong và bạn anh Phong.
 - Đi với Hùng ra cầu rồng
 
-Chủ Nhật, 11-Aug-2019: [[📝19-08-11]]
+Chủ Nhật, 11-Aug-2019: [[2019-08-11]]
 
 - Pacer cho Hùng Trịnh
 
-Thứ 2, 12 Aug, 2019: [[📝19-08-12]]
+Thứ 2, 12 Aug, 2019: [[2019-08-12]]
 - Solo [[Lang thang Sơn Trà 12-Aug-2019]]

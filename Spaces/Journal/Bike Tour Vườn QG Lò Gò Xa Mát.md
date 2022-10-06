@@ -15,7 +15,7 @@ up:: [[Recharge Weekend]], [[Bike]]
 ## Notes:
 [[Kế hoạch đạp xe Côn Đảo 2022]]: Hủy kế hoạch đi Côn Đảo do [[Bão Noru 2022]]. Hùng và mình chốt phương án đi Lò Gò Xa Mát trong 2 ngày rùi về để chạy Ekiden.
 
-### [[📝22-09-30]]
+### [[2022-09-30]]
 Mình và [[Trịnh Phi Hùng|Hùng Trịnh]] hẹn nhau ở ngã 4 [[Nguyễn Văn Bứa]] và QL22. Đúng 5h sáng, theo đúng kế hoạch, mình xuất phát từ Thiên Phước đi An Xương - Nguyễn Văn Bứa. Xe hôm nay trục trặc, mới sáng ra tự dưng xe bị non hơi cực kỳ. Nhìn cái bánh xe thấy hơi nản, tính đạp lên tới chỗ hẹn rồi tìm chỗ bơm xe luôn. Khoảng 5h50 thì tới nơi, Hùng đợi sẵn và xuất phát. Mượn Hùng cái bơm xe luôn. Cái bơm decathlon của H bao ngon, mua có 60k mà có cái chốt 2 khấc để giữ/thả đầu van xe đạp. Khi về sẽ mua một cái.
 
 Khoảng 7h30, hai đứa ghé quán cơm tấm ven đường ăn sáng. Quán cơm mình dừng đúng ngay quán cơm hồi [[Khương Béo]] dẫn mọi người đi leo [[Núi Bà Đen]] [[Trekking Bà Đen Ma Thiên Lãnh 10-May-2020|hồi 2020]].
@@ -29,7 +29,7 @@ Hai đứa kéo ra cây cầu sắt ngay trước cổng khu du lịch, nó có 
 
 ![[~ Lò Gò Xa Mát.jpg]]
 
-### [[📝22-10-01]]
+### [[2022-10-01]]
 Thanh toán tiền xong xuôi, dắt xe ra thì thấy bánh sau mình lại xuống hơi nặng. Lòng lại nghĩ tới vụ cái bánh xe máy hôm trước trở [[Phạm Ngọc Ánh|Ánh A3]] về quê rồi ghé qua Trị An. Hùng nói lấy xăm mới ra thay đi, kẻo đi nửa đường lại xuống hơi nữa. Mình đồng ý vì chắc nó cũng bị dính dăm cmnr.
 
 ![[20221002193418 ~ Tòa Thánh Tây Ninh.png]]

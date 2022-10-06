@@ -17,7 +17,7 @@ publish: False
 - [[Getting things done method]]
 - [[Deliberate Practice]]
 - [[Phương pháp ghi chú Cornell]]
-- [[MOOC - Các khóa học trực tuyến]]
+- [[MOOC]]
 - [[FlowCreation MOC]]
 - [[Zettelkasten]]
 - [[Incremental Reading]]

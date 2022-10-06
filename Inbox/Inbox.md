@@ -6,5 +6,5 @@ tags:
   - 'created/2022/Oct/02'
   - 'daily/journal'
 ---
-### [[📝22-10-02]]
+### [[2022-10-02]]
 - [ ] Lên tour đạp xe Campuchia 🔽 

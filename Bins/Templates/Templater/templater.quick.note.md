@@ -5,7 +5,7 @@
 let firstOrLastLine = 'last';
 
 //Name of the Quick Capture file. Do NOT include extension '.md'
-//let qcFileName = tp.date.now("📝YYMMDD");
+//let qcFileName = tp.date.now("YYYYMMDD");
 let qcFileName = "⏩ Quick note";
 
 //Leave this blank if you want to use the default file path location (set to '/' to use root of vault)
@@ -15,7 +15,7 @@ let folderOverride = '';
 //Add a header for each day to nest the quick capture notes under (only works when firstOrLastLine = 'first')
 let bAddHeader = false;
 
-let curDateFormat = '[' + '[📝' + tp.date.now("YY-MM-DD") + ']]';
+let curDateFormat = '[' + '[' + tp.date.now("YYYY-MM-DD") + ']]';
 let finalTimestamp = curDateFormat;
 let curTimeFormat = tp.date.now("hh:mm A");
 if(curTimeFormat != ''){finalTimestamp = finalTimestamp + ' ' + curTimeFormat}

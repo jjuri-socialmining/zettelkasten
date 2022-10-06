@@ -15,7 +15,7 @@ Xong [[VMM100 Sapa 09-Sep-2022]] rồi, bắt đầu luyện tập road để c�
 
 [[@ Jack Daniels, Daniels' Running Formula]]
 
-Ngày Race: [[📝22-12-11]], Còn 3 tháng nữa.
+Ngày Race: [[2022-12-11]], Còn 3 tháng nữa.
 Target: Sub130
 
 | Week(Sun) | Sun  | Mon        | Tue        | Wed   | Thu        | Fri        | Sat | Note                                        | VDOT |
@@ -44,7 +44,7 @@ Target: Sub130
 [^W10Q1]: W10Q1 = 6E + 2 x  (2T w/2 min rests) + 1T + 2E = 13
 [^W10Q2]: W10Q2 = 2E + 8M + 1E + 2M+ 2E = 15miles
 
-### [[📝22-09-21]]
+### [[2022-09-21]]
 - [[VDOT]] = 44
 	- M = 5:03
 	- T = 4:43
@@ -57,7 +57,7 @@ Target: Sub130
 	- I = 4:16
 
 
-### [[📝22-09-21]]
+### [[2022-09-21]]
 Dùng lại [[vdoto2.com]] để tạo giáo án theo phương pháp của [[Jack Daniels]].
 
 

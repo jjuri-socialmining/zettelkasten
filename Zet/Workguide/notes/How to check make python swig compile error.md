@@ -11,7 +11,7 @@ check error in
 <PRODUCT>\api\build-output\python\products\<PRODUCT>\Release\Intermediate\hsc_api.log
 ```
 
-### [[2022-08-29]]
+### [[@2022-08-29]]
 Content of `hsc_api.log`
 ```
   hsc_rtos.c

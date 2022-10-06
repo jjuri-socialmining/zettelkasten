@@ -24,7 +24,7 @@ Bảng protocol mode của [[Porrima Gen4|PG4]]
 Description tương ứng với baudrate tại đây [[Baudrate name in PG4]]
 
 Personal notes:
-- [[2022-05-27]]
+- [[@2022-05-27]]
 	- **R**eady in GUI Gen2
 	- API+GUI: Mis on API and GUI
 	- **GUI**: mis on PG4 GUI Gen2

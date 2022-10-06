@@ -22,7 +22,7 @@ Các dụng cụ cần để bảo dưỡng xe đạp:
 [[Bảo trì trục giữa]]
 
 ### Personal
-- Để tháo trục bánh xe cần cái khóa dẹt size 16, [[📝22-10-03|Today]] tính mở ra mà bộ đồ nghề dưới nhà cô cũng không có. Đành phải ráp lại
+- Để tháo trục bánh xe cần cái khóa dẹt size 16, [[2022-10-03|Today]] tính mở ra mà bộ đồ nghề dưới nhà cô cũng không có. Đành phải ráp lại
 
 ### Related:
 - [[Đùm]]

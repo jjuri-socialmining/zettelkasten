@@ -13,7 +13,7 @@ up::[[Recharge Weekend]], [[Bike]]
 
 # Recharge Weekend 11-14 Mar, 2022
 
-### Thứ 6, [[📝22-03-11]]
+### Thứ 6, [[2022-03-11]]
 - 6h30 dậy dọn dẹp xíu, má đi mua phở bò cả nhà ăn sáng.
 - 7h30 xuất phát đi Bảo Lộc
 - Đi được tầm 17km có một chỗ bán bắp luộc bên đường, mua 2 trái, ăn luôn 1 trái, một trái treo lên xe phòng lúc nào đói hay nghỉ dọc đường thì lấy ăn.
@@ -54,7 +54,7 @@ up::[[Recharge Weekend]], [[Bike]]
 
 - Tối anh nhân viên nấu ăn cho, tính vào tiền dịch vụ là 70k, tiếc là mình chỉ ăn được có chút xíu, nói chuyện xơ xơ rồi đi vòng vòng về phòng ngủ sớm mai dậy sớm đón bình minh.
 
-### Thứ Bảy, [[📝22-03-12]]
+### Thứ Bảy, [[2022-03-12]]
 - Garmin báo là 6h mặt trời mới mọc, 5h dậy trời còn tối thui, ráng ngủ thêm nửa tiếng nữa rồi dậy vừa  xếp đồ vừa ngắm bình minh qua khung cửa luôn.
 
 ![[IMG_20220312_060719.jpg]]
@@ -77,7 +77,7 @@ up::[[Recharge Weekend]], [[Bike]]
 - Sai lầm lớn nhất là lúc rẽ đi quốc lộ 55B thay vì đi 55 để ra Quốc Lộ 1A. Rõ là thấy 55 phẳng lì, còn 55b đục núi này nọ. Vô đó tính bỏ cuộc liên tục, đầu ngoái lại liên tục để quá giang xe bán tải. Nghỉ không biết bao nhiêu chập. Cuối cùng cũng ra khỏi rừng.
 - Đoạn mạnh nhất là từ cắt Quốc Lộ 1 đi vô La Gi và về tới Bình Châu. Lúc hỏi đường thì cái camping mãi ở dưới Hồ Tràm. Đi thêm 10km nữa. 10km cuối đi ra đường ven biển, người tự dưng lạnh toát như sắp trúng gió, trời tối thui. Cuối cùng cũng đến [[Camping rừng và biển]]. Mừng quá mừng, nhiệm vụ đã hoàn thành
 
-### Chủ Nhật, [[📝22-03-13]]
+### Chủ Nhật, [[2022-03-13]]
 - Sáng dậy đón bình minh, tắm biển rồi tính tranh thủ về trước. Cuối cùng cũng ở tới tận khi các bạn nhổ lều và ra cầu chụp hình. Lúc đó cũng 10h30 rùi
 - Lại ăn nguyên cái nắng bể đầu, đau vcl. Mà cái nắng của miền biển thì khỏi chê. Người lại kiệt nữa, sáng ăn có một tô mì đến trưa cũng còn ráng không thèm ăn trưa, một sai lầm chết người. Đi ra tới QL56 trời nắng như thiêu, lúc này là cảm thấy không còn tỉnh táo rùi. Có mấy khúc hiện ra ý nghĩ rằng mình có thể ngất xỉu nếu cố gắng đi tiếp.
 - Liên tục chờ đợi một cái xe bus 22 để vác xe bỏ lên. Và cuối cùng còn 30km nữa tới nhà thì Bus cũng ngay ở sau lưng. và mình đã bắt được thiệt hại là 100k cả người và xe. Ôi, mấy cái ông tài xế bus ba trợn, mà thui, dù gì đây cũng là một lựa chọn sáng suốt đúng đắn nhất. Về nhà mình rã rời, gần như chưa bao giờ mệt như vậy, kiểu mệt ở bên trong mọi sự trao đổi đều ảnh hưởng. Về đến nhà là gần 15h30 chiều, nằm vật ra, đói quá lại đi đánh bơ trộn sữa ăn. Ăn xong nằm mê man tới gần 17h dậy đi lễ, về lễ thấy mệt mỏi, bụng dạ cũng yếu thế là đi mua cháo. Ăn xong ngủ mê man từ 7h30 tới 7h sáng hôm sau. Vẫn còn mệt vãi chưởng.

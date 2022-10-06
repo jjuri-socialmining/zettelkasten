@@ -28,7 +28,7 @@ publish: False
 - [[Tháp Wardenclyffe]] là một trạm truyền năng lượng không dây được tài trợ từ tập đoàn [[John Pierpont Morgan|JP Morgan]]
 - Máy tạo động đất
 
-- [[📝21-10-11]]
+- [[2021-10-11]]
 ## Source:
 - [FBI](https://vault.fbi.gov/nikola-tesla)
 - [https://hello-earth.com/](https://hello-earth.com/)

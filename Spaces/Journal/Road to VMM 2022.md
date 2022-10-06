@@ -16,7 +16,7 @@ up:: [[Vietnam Mountain Marathon]]
 ### Núi Dinh lần 2
 35km, 2000m gain
 
-### [[📝22-08-20]]: Luyện công [[Núi Dinh]] lần 3
+### [[2022-08-20]]: Luyện công [[Núi Dinh]] lần 3
 
 Plan: 5:30 Thứ 7 đi xe Hoa Mai ra núi Dinh với [[Nguyễn Dũng PTR]], ăn sáng và bắt đầu chạy. Tới 19h bắt xe Hoa Mai về.
 
@@ -29,7 +29,7 @@ Chiều tầm hơn 15h30 đã về tới chỗ cô Kiều, tắm rửa đi bộ 
 
 Nay chạy thấy đuối đuối, đi rã cả cẳng. Gặp hai chập mữa xối xả. Lần này đi test đôi giày [[Altra Lone Peak 5]] mới mua tầm 2 tuần trước. Đôi Kalenji bị bung đế. Lúc đầu mới vô leo bị cứng hai má cẳng chân, do đôi này thiết kế theo phong cách [[zerodrop]]. Đi được tầm hơn 10km mới thấy chân bình thường lại.
 
-### [[📝22-08-27]]
+### [[2022-08-27]]
 Overnight in Kingdom 101 -> Cancel 
 
 Chiều chạy long run, start lúc 2h30 chiều trong [[trường đua Phú Thọ]], chạy được tầm 1h30 thì xụi mịa. Lúc đó chỉ cảm thấy không muốn chạy.

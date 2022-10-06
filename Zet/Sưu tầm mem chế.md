@@ -11,7 +11,7 @@ publish: False
 # Sưu tầm mem chế
 
 ## Notes:
-### [[📝21-09-29]]
+### [[2021-09-29]]
 ***
 ![[Pasted image 20210929224457.png]] 
 ***

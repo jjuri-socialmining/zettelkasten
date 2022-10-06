@@ -17,13 +17,13 @@ Các thành viên:
 - [[Dung (bạn Hùng)]]
 - mình
 
-### [[📝22-09-21]]
+### [[2022-09-21]]
 
 Thêm [[Trịnh Phi Hùng|Hùng Trịnh]] vào group đi chơi với [[Phạm Ngọc Ánh|Ánh A3]], [[Tân]] và chị Trang.
 
 Hùng share thông tin về đất trại, Ánh tìm được 1 chỗ có phí 20k/người. Mọi người chốt phương án đó. Hùng có ý định dẫn ghệ đi.
 
-### [[📝22-09-24]]
+### [[2022-09-24]]
 Mình, [[Trịnh Phi Hùng|Hùng Trịnh]] và Dung (bạn Hùng) hẹn nhau ở cầu Bình Lợi lúc 6h. Mình đến trễ đến 20 phút. Sáng sớm dậy ngọ nguậy mãi mới ra khỏi nhà được.
 
 Đạp đi [[Chùa Châu Thới]], lên 1 vòng rồi xuống, đây là lần đầu tiên đạp lên Châu Thới, khúc sau bở hơi tai.
@@ -36,7 +36,7 @@ Xong mấy đứa rủ nhau ghé ăn sáng rùi qua [[Cù lao Phố]], rùi đi 
 
 [[Mây Camping]] phía bắc của hồ
 
-### [[📝22-09-25]]
+### [[2022-09-25]]
 Đi về phía đường chiến khu D và vòng về Đập Trị An lại, tính ra với đoạn hôm qua thì được 1 vòng
 
 ### Chi phí:

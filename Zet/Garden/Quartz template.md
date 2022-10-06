@@ -19,4 +19,4 @@ Quartz template là một template dùng để publish các ghi chú markdown th
 - Mẫu: https://jzhao.xyz/
 
 Issues:
-- [[📝22-05-03]]: Quartz template load graph lên sao quá chậm, tầm 100 notes là xoay cũng phải 5s, quartz v3 thì nhanh nhưng thử chưa được
+- [[2022-05-03]]: Quartz template load graph lên sao quá chậm, tầm 100 notes là xoay cũng phải 5s, quartz v3 thì nhanh nhưng thử chưa được

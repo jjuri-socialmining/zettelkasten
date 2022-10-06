@@ -33,7 +33,7 @@ https://github.com/Greaby/galaxie-gd
 https://github.com/Greaby/telescope
 
 ## Limitation
-- [[📝22-05-02]]
+- [[2022-05-02]]
 	- YAML error with some type of data
 		- ![[Pasted image 20220502100545.png]]
 		- ![[Pasted image 20220502101511.png]]
@@ -52,5 +52,5 @@ https://github.com/Greaby/telescope
 
 ## Ideas & thoughts:
 - Template này chưa thực sự support good lắm cho Zettelkasten publish. Limitation khá nhiều, không autolink notes được. Được cái telecopes parse được cái [[Backlink Graph View]] khá đẹp, có thể ref để tự improve feature này cho mình.
-- [[📝22-05-02]] Chốt: chưa dùng được, sẽ ref code telescope để làm graph view feature.
+- [[2022-05-02]] Chốt: chưa dùng được, sẽ ref code telescope để làm graph view feature.
 

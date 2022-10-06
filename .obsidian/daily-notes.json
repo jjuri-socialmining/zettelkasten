@@ -1,5 +1,5 @@
 {
-  "format": "📝YY-MM-DD",
+  "format": "YYYY-MM-DD",
   "folder": "Spaces/Daily",
   "template": "Bins/Templates/Templater/templater.daily",
   "autorun": true

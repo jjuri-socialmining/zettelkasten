@@ -12,8 +12,8 @@ Du hí [[Bảo Lộc]] cùng với [[Phạm Ngọc Ánh|Ánh A3]], [[Tân]] và 
 Lịch trình Ánh gửi:
 ![[Pasted image 20220612190958.png]]
 
-### [[📝22-06-11]]
-Do mình đang ở [[Gia Kiệm]] nên mình đi xe máy để CN tiện về, do có plan tuần sau lên SG làm lại. [[📝22-06-11|Hôm qua]], mình xuất phát lúc khoảng 8h45 gì đó, dậy thì từ lúc 7h30 hơn, xếp đồ đạc, rồi má nói ăn sáng rồi đi. Ra khỏi nhà là 8h45. Chạy tầm 50-60km/h. Đi xe máy lần này gợi lại các mốc khoảng cách từ Dốc Mơ mà hôm [[Bike Tour Bảo Lộc - Lagi - Hồ Tràm|đạp xe đi Bảo Lộc]]:
+### [[2022-06-11]]
+Do mình đang ở [[Gia Kiệm]] nên mình đi xe máy để CN tiện về, do có plan tuần sau lên SG làm lại. [[2022-06-11|Hôm qua]], mình xuất phát lúc khoảng 8h45 gì đó, dậy thì từ lúc 7h30 hơn, xếp đồ đạc, rồi má nói ăn sáng rồi đi. Ra khỏi nhà là 8h45. Chạy tầm 50-60km/h. Đi xe máy lần này gợi lại các mốc khoảng cách từ Dốc Mơ mà hôm [[Bike Tour Bảo Lộc - Lagi - Hồ Tràm|đạp xe đi Bảo Lộc]]:
 - Dốc Mơ - [[Cầu La Ngà]]: 20km
 - Dốc Mơ - [[Đá Ba Chồng]]: 30km
 - Dốc Mơ - [[Chợ Phương Lâm]]: 50km
@@ -32,7 +32,7 @@ Chạy ra đường Nguyễn Công Trứ thấy có quán nướng Miso, điểm
 
 Đi ăn bánh tráng nướng + sữa đậu nành.
 
-### [[📝22-06-12]]
+### [[2022-06-12]]
 6h15 đi lễ với Ánh, chở Ánh ra [[nhà thờ Bảo Lộc]] vì hôm qua thấy có lễ 6h30. Ra tới nhà thờ thì vắng teo, chỉ thấy mấy đứa thiếu nhi đang đi học giáo lý, hỏi ra mới biết là lễ tầm 8h. Thế là mình và Ánh quay về [[nhà thờ Thiện Lộc]] ngay góc đường Chu Văn An và Nguyễn Công Trứ gần khách sạn, vô hỏi thì biết có lễ 7h. Thế là quyết định đi lễ này luôn. Hôm qua tìm chắc cả nửa tiếng đồng hồ không có một thông tin gì về giờ lễ ở đây.
 
 Lễ xong về phòng và dọn dẹp đồ đạc trước, cả bọn đi ăn sáng. Ánh và chị Trang đi xem đất hướng QL 55, và dự định sẽ đi [[Linh Quy Pháp Ấn]]. Đi vô chỗ đất chị Trang và Ánh đường đốc, xình hơi khó đi, nó có một đoạn sông, trên google map thì không có lối đi sang sông. Nhưng cả bọn cũng ráng đi sâu vô tới đoạn sông. May thay, có một cây cầu sắt treo, rộng đủ một chiều đi xe máy, Ánh đi trước, mình đi được 1/3 cầu thì lắc dữ dội. Chỉ sợ gạt tay lái vô thành rồi té xuống, vã cả mồ hôi. Lúc đó, đã hơn 10h rùi, thay đổi quyết định sẽ đi [[Chùa Trà]] vì đã quá trễ, phải về trả phòng trước 12h trưa.

@@ -14,14 +14,14 @@ publish: False
 Đây là một clip [[Youtube]] nói về vấn đề trái chiều về những thế lực quyền lực giàu có khủng kìm hãm xã hội nhằm đem lại lợi nhuận của mình
 
 ### Clip 1:
-[[📝21-10-04]]: [Clip 1](https://www.youtube.com/watch?v=TXuqezns1k0)
+[[2021-10-04]]: [Clip 1](https://www.youtube.com/watch?v=TXuqezns1k0)
 
 Các ý từ clip cần tìm hiểu thêm #todo/research 
 - [[John D. Rockefeller]] kìm hãm những loại năng lượng ưu việt hơn dầu mỏ để tiếp tục kiếm lợi nhuận từ ngành dầu mỏ??
 - Ung thư tự chữa được -> cơ thể tự chữa lành.
 
 ### Clip 2:
-[[📝21-10-04]]: [Clip 2](https://www.youtube.com/watch?v=lMBZ-GSlLyo)
+[[2021-10-04]]: [Clip 2](https://www.youtube.com/watch?v=lMBZ-GSlLyo)
 Các ý từ clip cần tìm hiểu thêm #todo/research 
 - Chỉ số đường huyết giới hạn bị mafia y tế quy ước ngày càng giảm để càng nhiều người bị bệnh, để bán thuốc?
 	- Trước 1997, [[Đường huyết]] khi đói mà trên 140 thì là bệnh tiểu đường

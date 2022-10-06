@@ -28,7 +28,7 @@ Thành viên:
 - [[Trịnh Phi Hùng|Hùng Trịnh]]
 - [[Khang Trần]]
 
-### [[📝22-09-15]]
+### [[2022-09-15]]
 
 Dự định đi Côn Đảo
 - Sài Gòn - Sóc Trăng: 200km
@@ -41,7 +41,7 @@ Nếu đi thong thả  phải mất 1.5 ngày mới đạp tới nơi. Nếu đ�
  
  Chắc chiều đi sẽ đi xe đò, và chiều về sẽ đạp.
 
-### [[📝22-09-17]]
+### [[2022-09-17]]
 - [ ] Các địa điểm tham quan tại Côn Đảo
 	- [Google map địa điểm Côn Đảo](https://www.google.com/maps/d/edit?mid=1iHDgChqJiiN_gKa7hA0IH94AQKtCE2c&ll=8.6957831061765%2C106.56369162216073&z=13)
 	- Mũi Cá Mập Côn Đảo: Ngắm bình minh
@@ -53,4 +53,4 @@ Nếu đi thong thả  phải mất 1.5 ngày mới đạp tới nơi. Nếu đ�
 - [ ] Các món ăn tại Côn Đảo
 	- Cháo hàu
 
-Haizz, Do [[Bão Noru 2022]] mới đổ bộ vào đất liền [[📝22-09-27|Yesterday]] nên trời còn mưa nhiều và biển động, nếu trời kịp quang đãng và khô ráo sẽ đi 9 cửa sông Cửu Long
+Haizz, Do [[Bão Noru 2022]] mới đổ bộ vào đất liền [[@2022-09-27|Yesterday]] nên trời còn mưa nhiều và biển động, nếu trời kịp quang đãng và khô ráo sẽ đi 9 cửa sông Cửu Long
