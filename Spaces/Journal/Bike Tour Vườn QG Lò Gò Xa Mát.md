@@ -34,7 +34,7 @@ Thanh toán tiền xong xuôi, dắt xe ra thì thấy bánh sau mình lại xu�
 
 ![[20221002193418 ~ Tòa Thánh Tây Ninh.png]]
 
-#task/todo Viết tiếp note
+#tasks/todo Viết tiếp note
 
 Google map toàn chặng [tại đây](https://www.google.com/maps/@11.1859464,106.0767562,10z/data=!3m1!4b1!4m2!6m1!1s1EailV6xJrtKzS3K_vkaa1VudlPXycDg)
 
@@ -53,4 +53,4 @@ Google map toàn chặng [tại đây](https://www.google.com/maps/@11.1859464,1
 - Tiền KS: 250k
 
 ### Personal
-- [ ] Mua bơm xe đạp decathlon giống cái bơm của Hùng
+- [ ] Mua bơm xe đạp decathlon giống cái bơm của Hùng #tasks/todo

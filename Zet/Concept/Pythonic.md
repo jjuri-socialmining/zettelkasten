@@ -20,5 +20,5 @@ Pythonic là một đoạn code python tối ưu cho một mục đích.
 	- https://docs.python-guide.org/writing/style/
 
 ## Questions & thoughts:
-- [ ] Trang web chính thức của pythonic #task/todo 
+- [ ] Trang web chính thức của pythonic #tasks/todo 
 

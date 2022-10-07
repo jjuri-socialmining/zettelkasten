@@ -2,7 +2,7 @@
 title: 🛠️210829-Làm templater routine
 tags:
   - '#created/2021/Aug/29'
-  - '#task'
+  - '#tasks'
   - '#Next'
 is_done: True
 ---

@@ -10,5 +10,10 @@ tags:
 
 - [[Git commit with author info]]
 
+Các hosting Git lớn hiện nay phải kể đến
+- [[GitHub]]
+- [[GitLab]]
+- [[BitBucket]]
+
 
 

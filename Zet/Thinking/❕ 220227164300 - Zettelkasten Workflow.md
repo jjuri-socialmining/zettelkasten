@@ -53,4 +53,4 @@ Nội dung ghi chú sẽ là một bảng tổng hợp, tập hợp nhiều **c�
 ### [[Commonplace MOC]]
 - Sử dụng [[Readwise]] để trích xuất highlight trên web, phân loại và quay lại bước đầu.
 
-#task/todo Define các loại ghi chú như daily, journal.
+#tasks/todo Define các loại ghi chú như daily, journal.

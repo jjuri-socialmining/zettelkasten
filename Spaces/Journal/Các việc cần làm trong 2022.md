@@ -10,5 +10,6 @@ tags:
 - [ ] Biking and Camping Dầu Tiếng
 	- [[Trịnh Phi Hùng|Hùng Trịnh]] và Dung rủ nhóm
 - [ ] [[Học Java]] 🛫 2022-10-06 
+- [ ] Advanced Python Level
 - [ ] Đưa ba mẹ du lịch bằng máy bay trong nước
 

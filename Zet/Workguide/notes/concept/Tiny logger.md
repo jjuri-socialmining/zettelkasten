@@ -5,6 +5,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - tlog
+  - Tinylog
 ---
 
 [[Log dictionary]]

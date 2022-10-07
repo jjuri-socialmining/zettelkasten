@@ -3,7 +3,7 @@ title: 🛠️211022-Viết bài về giai đoạn đêm tối linh hồn và ha
   giá, Teresa Avila
 tags:
   - '#created/2021/Oct/22'
-  - '#task'
+  - '#tasks'
   - '#Someday'
 is_done: False
 ---

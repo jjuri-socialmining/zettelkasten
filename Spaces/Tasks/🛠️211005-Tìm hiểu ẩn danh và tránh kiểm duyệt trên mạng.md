@@ -2,7 +2,7 @@
 title: 🛠️211005-Tìm hiểu ẩn danh và tránh kiểm duyệt trên mạng
 tags:
   - '#created/2021/Oct/05'
-  - '#task'
+  - '#tasks'
   - '#Inbox'
 is_done: False
 ---

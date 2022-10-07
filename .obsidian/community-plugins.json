@@ -20,5 +20,6 @@
   "find-unlinked-files",
   "dataview",
   "breadcrumbs",
-  "obsidian-bulk-rename-plugin"
+  "obsidian-bulk-rename-plugin",
+  "sliding-panes-obsidian"
 ]

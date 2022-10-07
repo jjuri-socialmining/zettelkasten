@@ -2,11 +2,11 @@
 %%
 - metadata
 	- UID: T-210717-1115
-	- tags: #created/2021/Jul/17, #task/doing
+	- tags: #created/2021/Jul/17, #tasks/doing
 	- project: 
 	- source: 
 %%
-#task/doing
+#tasks/doing
 ## Works to finished
 - [ ] Tìm khóa học [[Udemy]]  về [[Jenkins]] -> [[2021 Complete Python Bootcamp From Zero to Hero in Python]]
 - [ ] Hoàn thành khóa học đó

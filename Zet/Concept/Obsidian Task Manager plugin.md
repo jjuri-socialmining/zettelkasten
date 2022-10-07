@@ -22,3 +22,19 @@ Sample query
 not done
 ```
 %%
+
+
+Find in specific tags
+```tasks
+not done
+tags include task
+```
+
+Find in specific folder
+```tasks
+not done
+path includes Spaces/Projects
+```
+
+### Reference:
+https://obsidian-tasks-group.github.io/obsidian-tasks/quick-reference/

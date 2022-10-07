@@ -1,9 +1,9 @@
 ---
-title: {{title}}
-UID: {{date:YYMMDDHHmmss}}
+title: { ? { title } }
+UID: { ? { date:YYMMDDHHmmss } }
 tags:
   - '#created/{{date:YYYY/MMM/DD}}'
-  - '#task/todo'
+  - '#tasks/todo'
 ---
 # {{title}}
 

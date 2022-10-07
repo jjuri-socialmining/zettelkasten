@@ -2,7 +2,7 @@
 %%
 - metadata
 	- UID: T-210717-1047
-	- tags: #created/2021/Jul/17, #task/todo 
+	- tags: #created/2021/Jul/17, #tasks/todo 
 	- project: [[Research Jenkins]]
 	- source: https://viblo.asia/p/tim-hieu-ve-jenkins-va-cicd-eW65GbDxlDO
 %%
@@ -18,7 +18,7 @@
 > Ở đây chúng ta còn cần phải sử dụng Github webhook để trigger những sự kiện như tạo PR hoặc merge PR, mà webhook cần phải có một public domain để hoạt động. Các bạn có thể dùng các tool để public cổng 8080 trên local thành public domain. Ví dụ như [ngrok.com](http://ngrok.com/) và làm theo hướng dẫn hoặc chạy lệnh `ssh -R 80:localhost:8080 ssh.localhost.run`.
 
 ### Cấu hình CI
-Trước tiên, Jenkins cần biết được lúc nào có 1 trigger để Pull code, nó sẽ thông qua một plugin của Jenkins, ví dụ trong trường hợp repo là [[github]] thì bạn phải cài [[GitHub Pull Request Builder]] 
+Trước tiên, Jenkins cần biết được lúc nào có 1 trigger để Pull code, nó sẽ thông qua một plugin của Jenkins, ví dụ trong trường hợp repo là [[GitHub]] thì bạn phải cài [[GitHub Pull Request Builder]] 
 
 - Bước 1: Tạo [[Webhook]] trên repo
 > Tạo webhook trên repo: Vào setting webhook, chọn Add webhook. Tại payload url, điền với format sau: `<PUBLIC_DOMAIN>/ghprbhook/` ví dụ: `http:/my-domain.com/ghprbhook/`. Content type chọn application/json và thêm Secret nếu cần. Cuối cùng tại mục action chọn Issue comments và Pull requests.

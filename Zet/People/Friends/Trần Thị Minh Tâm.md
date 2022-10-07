@@ -7,7 +7,7 @@ tags:
   - 'permanent/people'
 birth: 1991-11-29
 aliases:
-  - Tâm
+  - Tâm A3
 publish: False
 ---
 up:: [[People MOC]], [[A3 Thống Nhất B]]

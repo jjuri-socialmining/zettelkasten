@@ -15,4 +15,4 @@ Ngày 10-05-2022, [[Google]] đăng tải ảnh của [[Tôn Thất Tùng]] trê
 ![[Pasted image 20220514140440.png]]
 
 ## Ideas:
-- Bác sĩ [[Tôn Thất Tùng]] là ai? Có đóng góp gì cho khoa học? #task/todo 
+- Bác sĩ [[Tôn Thất Tùng]] là ai? Có đóng góp gì cho khoa học? #tasks/todo 

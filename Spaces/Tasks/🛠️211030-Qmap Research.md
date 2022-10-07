@@ -2,7 +2,7 @@
 title: 🛠️211030-Qmap Research
 tags:
   - 'created/2021/Oct/30'
-  - 'task'
+  - 'tasks'
   - 'Next'
 is_done: False
 publish: True

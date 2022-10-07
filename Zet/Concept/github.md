@@ -12,6 +12,6 @@ publish: False
 
 ## Notes:
 
-## Ideas & thoughts:
+## Relate:
 - [[Git]]
-- [[Gitlab]]
+- [[GitLab]]

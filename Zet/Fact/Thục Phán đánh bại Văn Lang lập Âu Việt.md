@@ -12,7 +12,7 @@ publish: False
 [[An Dương Vương|Thục Phán]] sau khi đánh bại [[Văn Lang]], tự xưng là An Dương Vương lập nên nước [[Âu Lạc]], đóng đô ở Cổ Loa.
 
 ## Ideas & thoughts:
-- [ ] Âu Lạc là được ghép từ Âu Việt và Lạc Việt, hai bộ tộc sống ở vùng Bắc Bộ Việt Nam và phía nam Trung Quốc. thời các vua Hùng, hai bộ tộc này sống xen kẽ nhau #task/todo 
+- [ ] Âu Lạc là được ghép từ Âu Việt và Lạc Việt, hai bộ tộc sống ở vùng Bắc Bộ Việt Nam và phía nam Trung Quốc. thời các vua Hùng, hai bộ tộc này sống xen kẽ nhau 
 - [ ] Lạc Việt là bộ tộc do các vua Hùng cai trị
 - [ ] Âu Việt là bộ tộc do Thục Vương cai trị.
 

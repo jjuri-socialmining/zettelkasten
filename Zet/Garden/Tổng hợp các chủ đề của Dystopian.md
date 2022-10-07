@@ -14,7 +14,7 @@ publish: False
 	- Kinh tế: Các tập đoàn kinh tế tư nhân phát triển chi phối và điều khiển chính phủ, bộ [[WALL‑E (2008)|Phim WALL-E]] thuộc chủ đề này.
 	- Phân hóa xã hội: làm tương phản hóa các tầng lớp, mỗi tầng lớp có một chức năng, hưởng một đời sống được lập trình sẵn trong não bộ, tiêu biểu là tác phẩm [[@ Aldous Huxley, Brave New World]]
 	- Gia Đình: xóa bỏ khái niệm gia đình [[@ Aldous Huxley, Brave New World]], [[@ George Orwell, 1984]]
-	- Tôn giáo: #task/todo [[Margaret Atwood]]
+	- Tôn giáo: #tasks/todo [[Margaret Atwood]]
 	- Bản ngã
 	- Bạo lực
 	- Thiên nhiên

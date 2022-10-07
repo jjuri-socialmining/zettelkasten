@@ -2,7 +2,7 @@
 title: 🛠️211003-Tóm tắt sách Sáng Thế
 tags:
   - '#created/2021/Oct/03'
-  - '#task'
+  - '#tasks'
   - '#Next'
 is_done: False
 ---

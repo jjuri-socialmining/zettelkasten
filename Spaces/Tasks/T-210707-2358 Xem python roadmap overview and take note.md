@@ -2,7 +2,7 @@
 
 - metadata
 	- UID: P-210708-0000
-	- tags: #created/2021/Jul/08, #task/todo 
+	- tags: #created/2021/Jul/08, #tasks/todo 
 	- previous note: 
 	- source: https://www.youtube.com/watch?v=d5BzuLlII_Y
 

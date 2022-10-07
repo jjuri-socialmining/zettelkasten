@@ -1,6 +1,6 @@
 # Obsidian Dataview Research
 %% - metadata:
-	- tags: #task/todo %% 
+	- tags: #tasks/todo %% 
 
 ## Notes
 Trên forum cho show được cách dùng table cho [[Obsidian]]

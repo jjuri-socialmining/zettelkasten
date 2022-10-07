@@ -3,7 +3,7 @@ title: The Donut of Knowledge
 tags:
   - 'created/2021/Jul/10'
   - 'permanent/concept'
-  - 'task/someday'
+  - 'tasks/someday'
 publish: False
 ---
 ## Notes:

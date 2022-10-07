@@ -2,7 +2,7 @@
 title: 🛠️210924-Build mkdocs from scratch
 tags:
   - '#created/2021/Sep/24'
-  - '#task'
+  - '#tasks'
   - '#Next'
 is_done: True
 publish: True
@@ -80,7 +80,7 @@ theme:
 ```
 theme: readthedocs
 ```
-Tham khảo theme trên wiki của makdocs trên [[github]] [tại đây](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes)
+Tham khảo theme trên wiki của makdocs trên [[GitHub]] [tại đây](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes)
 chọn `material` theme [repo](https://github.com/squidfunk/mkdocs-material)
 ```
 theme:

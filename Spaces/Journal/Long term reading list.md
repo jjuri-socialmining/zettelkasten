@@ -10,7 +10,7 @@ publish: True
 
 Danh sách bao gồm những tác phẩm kinh điển trên mọi thể loại trong suốt lịch sử mà mình thấy là đáng để đọc trong đời. Danh sách này lấy ý tưởng từ quyển [[@ Charles Van Doren, The Joy of Reading]] và tham khảo từ trang web [[minh.la]].
 
-#task/doing : Cập nhật thường xuyên danh sách
+#tasks/doing : Cập nhật thường xuyên danh sách
 
 ## Sử thi, thần thoại, cổ tích
 - [ ] The Epic of Gilgamesh (author unknown, circa 22nd-10th centuries BC)

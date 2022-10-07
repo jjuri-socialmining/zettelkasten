@@ -15,7 +15,7 @@ publish: False
 ## Notes:
 Quartz template là một template dùng để publish các ghi chú markdown thành một website có tích hợp các tính năng của phương pháp [[Zettelkasten]] như tag, backlink, graph view,...
 
-- Link [[github]]: https://github.com/jackyzha0/quartz
+- Link [[GitHub]]: https://github.com/jackyzha0/quartz
 - Mẫu: https://jzhao.xyz/
 
 Issues:

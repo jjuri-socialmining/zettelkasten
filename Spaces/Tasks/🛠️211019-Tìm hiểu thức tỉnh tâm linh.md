@@ -2,7 +2,7 @@
 title: 🛠️211019-Tìm hiểu thức tỉnh tâm linh
 tags:
   - '#created/2021/Oct/19'
-  - '#task'
+  - '#tasks'
   - '#Next'
 is_done: False
 publish: True

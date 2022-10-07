@@ -2,7 +2,7 @@
 title: 🛠️210829-Research get notion subpage link by Python notion api
 tags:
   - '#created/2021/Aug/29'
-  - '#task'
+  - '#tasks'
   - '#Inbox'
 is_done: False
 ---

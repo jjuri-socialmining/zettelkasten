@@ -10,7 +10,7 @@ aliases: '220517210439'
 publish: False
 ---
 ## Notes:
-Command để publish trong action ghpages trên [[github]]
+Command để publish trong action ghpages trên [[GitHub]]
 
 ```
 git branch -f gh-pages

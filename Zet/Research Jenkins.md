@@ -2,7 +2,7 @@
 %%
 - metadata
 	- UID: T-210717-1114
-	- tags: #created/2021/Jul/17, #task/todo 
+	- tags: #created/2021/Jul/17, #tasks/todo 
 	- project: 
 	- source: 
 %%
