@@ -326,5 +326,13 @@
       ],
       "key": "M"
     }
+  ],
+  "editor:set-heading": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
   ]
 }

@@ -24,3 +24,7 @@ permanent -> evergreen -> think
 ### [[2022-10-07]]
 - [[❕ 221007203736 - Buổi tối trời mát, đạp xe hóng gió]]
 
+### [[2022-10-08]]
+- [[❕ 221008222911 - Ống đồng đang đau buốt tự nhiên hôm nay thấy êm]]
+- [[❕ 221008223337 - Được chạy theo pacer xe đạp]]
+

@@ -5,6 +5,8 @@ tags:
   - 'created/2020/Oct/21'
   - 'seed'
   - 'permanent/concept'
+aliases:
+  - Second brain
 publish: False
 ---
 # The Second Brain

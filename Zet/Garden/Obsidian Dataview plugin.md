@@ -14,5 +14,10 @@ publish: False
 ## Notes:
 - Dataview sử dụng [[YAML]] truy xuất dữ liệu
 
+
+Tác dụng của `::` là giúp dataview có thể query được.
+![[20221008233500 ~ Key query in dataview.png]]
+
+
 ## Ideas & thoughts:
 - [ ] Tìm hiểu cú pháp [[YAML]], [[Obsidian Yaml]]

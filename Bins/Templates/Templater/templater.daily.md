@@ -29,10 +29,10 @@ up:: [[Daily notes]]
 # <% tp.date.now("dddd, MMM D, YYYY") %>
 
 ## Notes:
-<% tp.file.cursor() %>
 
 Điều gì làm mình vui trong ngày? -> [[Những niềm vui giản dị]]
-
+Cập nhật running log [[Road to HIM 2022]]
+<% tp.file.cursor() %>
 
 <%* if (tp.date.now("ddd") == "Sun" ) { %>
 ## Weekly review:
