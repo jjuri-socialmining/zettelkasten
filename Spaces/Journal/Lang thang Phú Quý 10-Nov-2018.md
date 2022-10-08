@@ -6,6 +6,7 @@ tags:
   - 'created/2022/Mar/04'
   - 'daily/journal'
 publish: False
+locations: 
 ---
 up:: [[Cẩm nang lang thang]]
 # Du hí Phú Quý 10-Nov-2018
@@ -24,4 +25,6 @@ up:: [[Cẩm nang lang thang]]
 - Lịch trình đi chơi
 - Lịch trình ăn uống
 
-
+### Map Locations:
+- [[Đảo Phú Quý]]
+- [Đảo Phú Quý](geo:10.53395077967105,108.94988695472269)

@@ -5,6 +5,7 @@ created: 07-Mar-2022
 tags:
   - 'created/2022/Mar/07'
   - 'daily/journal'
+locations: 
 ---
 # Lang thang Hà Nội 20-Oct-2018
 
@@ -17,3 +18,5 @@ tags:
 - Hôm thứ 2 đi bộ gần hết phố cổ, đi mỏi cả chân. Đi qua lăng ông Hồ xui xui lại không mở cửa, lần đầu mới biết không mở cửa một vài ngày trong tuần. Ghé vào [[Chùa Một Cột]]. Đi Quốc tử giám nè. Đi vòng qua chùa cột cờ rồi vòng các cổng Hà Nội rồi về. Chiều tối đi lang thang [[Hồ Gươm]].
 
 [[Hanoi International Heritage Marathon 2018]]
+
+[Chùa Một Cột](geo:21.036031734705784,105.83362029755318)

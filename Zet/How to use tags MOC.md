@@ -18,6 +18,9 @@ Một ghi chú vĩnh viễn sẽ được chia thành nhiều loại
 - #permanent/concept là diễn đạt một khái niệm, tức một khái niệm/từ ngữ đứng riêng cũng đầy đủ nghĩa
 - #permanent/fact để diễn tả một sự kiện
 - #permanent/linking để so sánh, liên kết các ghi chú liên quan.
+- #permanent/place địa điểm
+	- #permanent/place/pass Đèo
+	- #permanent/place/hotel
 
 Mỗi ghi chú khi được tạo sẽ mặc định có tag
 #created/YYYY/MMM/DD để có thể thống kê số lượng ghi chú tạo trong từng ngày, từng tháng hoặc năm. Hoặc dùng để lọc hiển thị [[Backlink graph view]] rất hữu dụng.

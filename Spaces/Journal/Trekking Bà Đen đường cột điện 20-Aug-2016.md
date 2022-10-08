@@ -5,6 +5,7 @@ created: 07-Mar-2022
 tags:
   - 'created/2022/Mar/07'
   - 'daily/journal'
+locations:
 ---
 # Trekking Bà Đen đường cột điện 20-Aug-2016
 
@@ -25,3 +26,5 @@ Thành viên:
 - Tân?
 - Tuyến?
 - Mình
+
+[Núi Bà Đen](geo:11.383234009729604,106.17535091768418)

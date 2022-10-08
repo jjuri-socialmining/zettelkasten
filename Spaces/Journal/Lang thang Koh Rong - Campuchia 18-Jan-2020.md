@@ -5,7 +5,10 @@ created: 04-Mar-2022
 tags:
   - 'created/2022/Mar/04'
   - 'daily/journal'
+aliases:
+  - Du lịch Campuchia 2020
 publish: False
+locations: 
 ---
 up:: [[Cẩm nang lang thang]]
 # Du hí Campuchia 01-2019
@@ -42,3 +45,7 @@ Thứ Hai, [[2020-09-20]]
 
 ## Sum
 Cuối cùng, mọi chỗ đi tham quan, đi thăm quan cung điện này nọ, đi chợ này nọ cũng không có cái cảm giác như lúc được ở trên đảo Koh Rong. Du lịch là vậy, đi và ở lại nơi đó là một thứ gì đó rất đặc biệt, đặc biệt là thiên nhiên, không ồn ào tấp nập, không khói bụi chỉ có không khí trong lành. Điểm cực kỳ đặc biệt là chỗ Nest Beach Club họ trang trí rất hoang dã, kiểu hòa mình với thiên nhiên. Kê mấy cái bàn ngoài bãi biển, mắc mấy cái võng ngay bờ biển. Đêm ra đó nằm nghe sóng biển, mọi người ăn uống nói chuyên.
+
+## Map Location
+- [Koh Rong](geo:10.729251828312348,103.23178685006492)
+- [Cửa khẩu mộc bài](geo:11.076985845121301,106.17501972811438)

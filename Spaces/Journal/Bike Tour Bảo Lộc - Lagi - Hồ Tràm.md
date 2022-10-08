@@ -8,6 +8,7 @@ tags:
 aliases:
   - 'Tour xe đạp Bảo Lộc - Lagi - Hồ Tràm'
   - 'Recharge Weekend 11-14 Mar, 2022'
+locations: 
 ---
 up::[[Recharge Weekend]], [[Bike]]
 
@@ -88,3 +89,6 @@ up::[[Recharge Weekend]], [[Bike]]
 ### Others:
 - [[Quốc Lộ 55]]
 - [[Quốc Lộ 55B]]
+
+### Map Locations:
+- [Linh Quy Pháp Ấn](geo:11.41895272129495,107.82301041277093)

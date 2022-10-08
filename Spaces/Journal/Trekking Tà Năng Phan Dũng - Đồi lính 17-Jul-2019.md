@@ -6,6 +6,7 @@ tags:
   - 'created/2022/Mar/04'
   - 'daily/journal'
 publish: False
+locations: 
 ---
 up:: [[Cẩm nang lang thang]], [[Tà Năng - Phan Dũng]]
 
@@ -32,3 +33,6 @@ Tóm tắt:
 - Sáng dậy, chụp choẹt bắt mây, không gian cực đã
 - Đi tới trưa hết nước, Tiện xụi lơ.
 - Ra tới đập thủy điện
+- 
+### Map view locations:
+- [Cột mốc 3 Tỉnh](geo:11.555527242523125,108.5819710509293)

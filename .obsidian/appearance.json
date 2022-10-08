@@ -1,19 +1,32 @@
 {
-  "theme": "obsidian",
+  "theme": "moonstone",
   "cssTheme": "Blue Topaz",
   "enabledCssSnippets": [
     "cybertron",
     "My Font",
-    "bibleverse-formatting",
+    "S - Images Adjustments",
+    "S - Kanban",
+    "S - Folder Styles",
+    "S - External Link Icons",
+    "S - Encoded Icons",
+    "S - Embed Adjustments",
+    "S - Dataview Cards",
+    "S - Checkboxes",
+    "S - Callouts",
+    "S - Aside",
+    "S - Admonitions",
+    "tag-pills",
+    "collapsing-sidebar",
+    "header_hx",
+    "outliner-for-the-outline-and-file-explorer",
     "better-bullet-points-in-edit-mode",
-    "bullet-point-relationship-lines",
-    "bigger-link-popup-preview",
+    "Theme - D&D WOTC",
     "stylish-blockquotes",
-    "tag-pills"
+    "bibleverse-formatting"
   ],
   "translucency": false,
   "baseFontSize": 15,
   "baseFontSizeAction": true,
-  "interfaceFontFamily": "",
+  "interfaceFontFamily": "Times New Roman,Verdana",
   "textFontFamily": ""
 }

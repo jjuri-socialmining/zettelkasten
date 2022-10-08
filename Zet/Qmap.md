@@ -15,7 +15,12 @@ publish: False
 ## Notes:
 Qmap là một biểu đồ liệt kê rất nhiều thông tin, sự kiện bí ẩn trong lịch sử nhân loại có nguồn gốc từ [[QAnon]].
 
-![[Pasted image 20211016215716.png]]
+[[20211016215716 ~ QAnon Map.png]]
+
+```leaflet 
+id: 20211016215716
+image: [[20211016215716 ~ QAnon Map.png]] 
+```
 
 ## Un-category:
 - [[Lucifer]]

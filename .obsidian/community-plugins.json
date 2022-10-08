@@ -7,7 +7,6 @@
   "tag-wrangler",
   "templater-obsidian",
   "file-explorer-note-count",
-  "obsidian-excalidraw-plugin",
   "obsidian-kanban",
   "obsidian-tabs",
   "obsidian-annotator",
@@ -21,5 +20,9 @@
   "dataview",
   "breadcrumbs",
   "obsidian-bulk-rename-plugin",
-  "sliding-panes-obsidian"
+  "sliding-panes-obsidian",
+  "obsidian-map-view",
+  "obsidian-leaflet-plugin",
+  "excalibrain",
+  "obsidian-excalidraw-plugin"
 ]

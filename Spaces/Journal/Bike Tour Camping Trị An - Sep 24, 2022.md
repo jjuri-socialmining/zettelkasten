@@ -5,6 +5,7 @@ created: 21-Sep-2022
 tags:
   - 'created/2022/Sep/21'
   - 'daily/journal'
+locations:
 ---
 up:: [[Recharge Weekend]], [[Bike]]
 next:: [[Bike Tour Vườn QG Lò Gò Xa Mát]]
@@ -41,3 +42,6 @@ Xong mấy đứa rủ nhau ghé ăn sáng rùi qua [[Cù lao Phố]], rùi đi 
 
 ### Chi phí:
 Tổng cộng: 300k (trả Hùng(tiền nước mía và 2 bữa ăn): 200k, Ánh(đất trại 20k/người, tiền ăn tối và ăn sáng): 100k)
+
+### Map View Locations:
+[Mây Camping](geo:11.12487545467918,107.0005307685853)

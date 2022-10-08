@@ -10,26 +10,14 @@ aliases: '221007212216'
 publish: False
 ---
 ## Notes:
-```mermaid
-graph TD
 
-A[Java]
-A1[Build Tool]
-B[Gradle]
-B1[Marven]
-C[Java CLI]
-C1[JCommander]
+[[20221007211644 ~ Java Roadmap.png]]
 
-A  --> A1
-A1 --> B
-A1 --> B1
-A --> C
-C --> C1
-
-class A,A1,B,B1,C,C1 internal-link;
+```leaflet 
+id: 20221007211644
+image: [[20221007211644 ~ Java Roadmap.png]] 
 ```
 
-![[20221007211644 ~ Java Roadmap.png]]
 
 ![[2022-10-07 21.24.51 java roadmap.excalidraw]]
 

@@ -6,6 +6,7 @@ tags:
   - 'created/2022/Mar/04'
   - 'daily/journal'
 publish: False
+locations: 
 ---
 up:: [[Cẩm nang lang thang]], [[Tà Năng - Phan Dũng]]
 next:: [[Trekking Tà Năng Phan Dũng - Đồi lính 17-Jul-2019]]
@@ -27,5 +28,6 @@ Nhờ người dẫn [[Bảo Lê]]
 - Bạn của Lùn
 - [[Hoàng Oanh]]
 
-
-
+### Map view Locations:
+- [[Thác Yavly]]
+- [Thác Yavly](geo:11.513236863335608,108.61596114523599)

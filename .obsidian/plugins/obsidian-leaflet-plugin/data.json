@@ -1,0 +1,633 @@
+{
+  "mapMarkers": [
+    {
+      "id": 20221007211644,
+      "lastAccessed": 1665206336526,
+      "markers": [
+        {
+          "id": "ID_e919fad82b1a",
+          "type": "default",
+          "loc": [
+            -1.34375,
+            2.88671875
+          ],
+          "link": "Java",
+          "layer": "%5B%5B20221007211644%20~%20Java%20Roadmap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4170428893905192,
+            0.08916537065837221
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_d9085889cab8",
+          "type": "default",
+          "loc": [
+            -2.5859375,
+            6.0703125
+          ],
+          "link": "JCommander",
+          "layer": "%5B%5B20221007211644%20~%20Java%20Roadmap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8769751693002258,
+            0.1715914981855884
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9a8aab281948",
+          "type": "default",
+          "loc": [
+            -2.3260498046875,
+            2.1796875
+          ],
+          "layer": "%5B%5B20221007211644%20~%20Java%20Roadmap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Zet/221007212216 - Java roadmap github s4kibs4mia.md"
+      ]
+    },
+    {
+      "id": 20221008114500,
+      "lastAccessed": 1665213350602,
+      "markers": [
+        {
+          "id": "ID_0b683ab85b8b",
+          "type": "default",
+          "loc": [
+            -0.165252685546875,
+            0.251953125
+          ],
+          "link": "Ỷ thiên đồ long ký",
+          "layer": "%5B%5B20221008114500.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Zet/Garden/How to use excalidraw and Leaflet to create Map of Notes in Obsidian.md"
+      ]
+    },
+    {
+      "id": 20221008141119,
+      "lastAccessed": 1665213350603,
+      "markers": [
+        {
+          "id": "ID_a8d8a99b99e8",
+          "type": "default",
+          "loc": [
+            -0.453125,
+            0.4375
+          ],
+          "layer": "%5B%5B20221008141119%20~%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.1763779527559055,
+            0.2013888888888889
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e988b9cb4a99",
+          "type": "Home",
+          "loc": [
+            -0.454345703125,
+            0.677734375
+          ],
+          "layer": "%5B%5B20221008141119%20~%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb583918fa68",
+          "type": "Home",
+          "loc": [
+            -0.466064453125,
+            0.763671875
+          ],
+          "layer": "%5B%5B20221008141119%20~%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c84a7bdb886b",
+          "type": "Home",
+          "loc": [
+            -0.509033203125,
+            0.439453125
+          ],
+          "layer": "%5B%5B20221008141119%20~%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7828b96bda8a",
+          "type": "Camping",
+          "loc": [
+            -0.602783203125,
+            1.669921875
+          ],
+          "layer": "%5B%5B20221008141119%20~%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5bfa7b9b2a3b",
+          "type": "default",
+          "loc": [
+            -0.532470703125,
+            0.681640625
+          ],
+          "layer": "%5B%5B20221008141119%20~%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a8b9a9093848",
+          "type": "Home",
+          "loc": [
+            -0.501220703125,
+            0.822265625
+          ],
+          "layer": "%5B%5B20221008141119%20~%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Zet/Garden/How to use excalidraw and Leaflet to create Map of Notes in Obsidian.md"
+      ]
+    },
+    {
+      "id": "leaflet-map",
+      "lastAccessed": 1665214855606,
+      "markers": [
+        {
+          "id": "ID_883afa28daea",
+          "type": "default",
+          "loc": [
+            -0.31036376953125,
+            0.126953125
+          ],
+          "link": "📑 Bookmark",
+          "layer": "%5B%5B20221008114500.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_888bbb4bf8a9",
+          "type": "default",
+          "loc": [
+            -0.3258056640625,
+            0.6328125
+          ],
+          "link": "Ỷ thiên đồ long ký",
+          "layer": "%5B%5B20221008114500.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Zet/Garden/Leaflet sample map syntax.md"
+      ]
+    },
+    {
+      "id": 20211016215716,
+      "lastAccessed": 1665214855606,
+      "markers": [
+        {
+          "id": "ID_7a39ea8bab59",
+          "type": "default",
+          "loc": [
+            -0.2237396240234375,
+            0.54931640625
+          ],
+          "link": "Lucifer",
+          "layer": "%5B%5B20211016215716%20~%20QAnon%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Lucifer hay Satan, là một nhân vật trong Kinh Thánh bị Thiên Chúa đày xuống địa ngục",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d82a4a8bbb7a",
+          "type": "default",
+          "loc": [
+            -0.1171875,
+            2.41015625
+          ],
+          "link": "Ignatius of Loyola",
+          "layer": "%5B%5B20211016215716%20~%20QAnon%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7869897959183674,
+            0.028708133971291867
+          ],
+          "description": "Thánh Inhaxio",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca980a092989",
+          "type": "default",
+          "loc": [
+            -0.0792083740234375,
+            1.51220703125
+          ],
+          "link": "Vatican",
+          "layer": "%5B%5B20211016215716%20~%20QAnon%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb289a2999d8",
+          "type": "default",
+          "loc": [
+            -1.205078125,
+            1.013671875
+          ],
+          "link": "Eugenics",
+          "layer": "%5B%5B20211016215716%20~%20QAnon%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3309948979591837,
+            0.2952153110047847
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5b1b9a3aaa39",
+          "type": "default",
+          "loc": [
+            -0.134979248046875,
+            1.1845703125
+          ],
+          "link": "Khazarian Mafia",
+          "layer": "%5B%5B20211016215716%20~%20QAnon%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3be8c879e80b",
+          "type": "default",
+          "loc": [
+            -1.121307373046875,
+            0.5390625
+          ],
+          "link": "Vril",
+          "layer": "%5B%5B20211016215716%20~%20QAnon%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8991b2aebc9",
+          "type": "default",
+          "loc": [
+            -1.681640625,
+            0.455078125
+          ],
+          "link": "Area 51",
+          "layer": "%5B%5B20211016215716%20~%20QAnon%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_38c8bbb86969",
+          "type": "default",
+          "loc": [
+            -2.308807373046875,
+            0.15625
+          ],
+          "link": "Bill Gates",
+          "layer": "%5B%5B20211016215716%20~%20QAnon%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6aa9086a3929",
+          "type": "default",
+          "loc": [
+            -1.808807373046875,
+            1.322265625
+          ],
+          "link": "Henry Alfred Kissinger",
+          "layer": "%5B%5B20211016215716%20~%20QAnon%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_db3a290b895b",
+          "type": "default",
+          "loc": [
+            -1.431854248046875,
+            1.34375
+          ],
+          "layer": "%5B%5B20211016215716%20~%20QAnon%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b929bb1b5b78",
+          "type": "default",
+          "loc": [
+            -1.148651123046875,
+            1.59375
+          ],
+          "link": "Nazi",
+          "layer": "%5B%5B20211016215716%20~%20QAnon%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c9cb797a884a",
+          "type": "default",
+          "loc": [
+            -0.259979248046875,
+            0.787109375
+          ],
+          "link": "Thuyết Ngộ Đạo",
+          "layer": "%5B%5B20211016215716%20~%20QAnon%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8a8bd86a58f9",
+          "type": "default",
+          "loc": [
+            -2.558807373046875,
+            2.572265625
+          ],
+          "layer": "%5B%5B20211016215716%20~%20QAnon%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6859a8c978e8",
+          "type": "default",
+          "loc": [
+            -2.724822998046875,
+            1.3828125
+          ],
+          "link": "George W. Bush",
+          "layer": "%5B%5B20211016215716%20~%20QAnon%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Zet/Qmap.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#0cad00",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "Hotel",
+      "iconName": "hotel",
+      "color": "#03a300",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Home",
+      "iconName": "home",
+      "color": "#0cad00",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Camping",
+      "iconName": "campground",
+      "color": "#0cad00",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Sightseeing",
+      "iconName": "camera",
+      "color": "#0cad00",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Bike",
+      "iconName": "biking",
+      "color": "#0cad00",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "5.0.4",
+  "version": {
+    "major": 5,
+    "minor": 0,
+    "patch": 4
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>."
+}

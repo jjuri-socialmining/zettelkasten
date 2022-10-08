@@ -7,7 +7,9 @@ tags:
   - 'garden'
   - 'permanent/concept'
 publish: False
+locations: 
 ---
+[](geo:11.383234009729604,106.17535091768418)
 # Núi Bà Đen
 
 ## Notes:

@@ -6,6 +6,7 @@ tags:
   - 'created/2022/Oct/01'
   - 'permanent/concept'
 publish: False
+location: [10.424541049999998,104.45516349768388]
 ---
 ## Notes:
 Cửa khẩu thuộc địa phần Hà Tiên, giáp ranh biên giới giữa Việt Nam và Campuchia.

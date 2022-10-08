@@ -4,10 +4,11 @@ UID: 220612210410
 created: 12-Jun-2022
 tags:
   - 'created/2022/Jun/12'
-  - 'permanent/concept'
+  - 'permanent/place'
 aliases:
   - 
 publish: False
+location: [11.576161235133094,107.81698613181536]
 ---
 ## Notes:
 Chùa Trà là một ngôi chùa phía bắc [[Bảo Lộc]], nằm cạnh bên [[Hồ Nam Phương]]. 
@@ -20,4 +21,4 @@ Tên của ngôi chùa được đặt tên theo một loại cây, vị sư tro
 
 
 
-
+[Chùa Trà](geo:11.576161235133094,107.81698613181536)

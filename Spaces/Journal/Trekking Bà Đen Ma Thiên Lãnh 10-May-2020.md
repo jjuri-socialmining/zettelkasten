@@ -5,6 +5,7 @@ created: 07-Mar-2022
 tags:
   - 'created/2022/Mar/07'
   - 'daily/journal'
+locations:
 ---
 # Bà Đen Ma Thiên Lãnh 10-May-2020
 
@@ -14,3 +15,4 @@ tags:
 [[Khương Béo]] dẫn đi với mấy người bên Lê Thị Riêng Runner
 
 
+[](geo:11.383234009729604,106.17535091768418)
