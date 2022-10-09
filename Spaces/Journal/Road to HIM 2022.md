@@ -43,7 +43,7 @@ Target: Sub130
 [^W11Q2]: W11Q2 = 3 E + 6 × (2 min I w/2 min jg between) + 4 × (1 min R w/2 min jg) + 2 E
 
 [^W10Q1]: W10Q1 = 6E + 2 x  (2T w/2 min rests) + 1T + 2E = 13
-[^W10Q2]: W10Q2 = 2E + 8M + 1E + 2M+ 2E = 15miles
+[^W09Q1]: W10Q2 = 2E + 8M + 1E + 2M+ 2E = 15miles -> Change to Longrun E 25km
 
 ### [[2022-09-21]]
 - [[VDOT]] = 44

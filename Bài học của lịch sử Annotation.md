@@ -375,13 +375,13 @@ annotation-target:: [[BAI HOC CUA LICH SU - Will.pdf]]
 
 >%%
 >```annotation-json
->{"created":"2022-10-09T05:01:47.829Z","text":"Khi con cái không phải là mối lợi kinh tế, con người ít muốn sinh đẻ hơn, ít muốn kết hôn hơn. và tự nhiên khó có thể tiết dục được sinh ra tự phóng túng về tình dục","updated":"2022-10-09T05:01:47.829Z","document":{"title":"BÀI HỌC CỦA LỊCH SỬ","link":[{"href":"urn:x-pdf:6020e5c14d76fa49fe6fecb95f94d0a5"},{"href":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf"}],"documentFingerprint":"6020e5c14d76fa49fe6fecb95f94d0a5"},"uri":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","target":[{"source":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","selector":[{"type":"TextPositionSelector","start":49961,"end":50218},{"type":"TextQuoteSelector","exact":"Cứ mươi năm thì máy móc lại nhiều hơn,phức tạp hơn; cái tuổi già dặn về kinh tế (nghĩa là cáikhả năng nuôi được gia đình) lùi lại[31]; trẻ con khôngcòn là mối lợi về kinh tế nữa, hôn nhân trễ hơn vàcon người khó tiết dục được trong thời kì chưa lậpgia đình.","prefix":"không phải để con ngườiđoàn tụ. ","suffix":" Đời sống ở các thị trấn lớn có "}]}]}
+>{"text":"Khi con cái không phải là mối lợi kinh tế, con người ít muốn sinh đẻ hơn, ít muốn kết hôn hơn. Và khi đó, con người tự nhiên khó có thể tiết dục được, từ đó sinh ra tự phóng túng về tình dục để thỏa mãn nhu cầu tự nhiên","target":[{"source":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","selector":[{"type":"TextPositionSelector","start":49961,"end":50218},{"type":"TextQuoteSelector","exact":"Cứ mươi năm thì máy móc lại nhiều hơn,phức tạp hơn; cái tuổi già dặn về kinh tế (nghĩa là cáikhả năng nuôi được gia đình) lùi lại[31]; trẻ con khôngcòn là mối lợi về kinh tế nữa, hôn nhân trễ hơn vàcon người khó tiết dục được trong thời kì chưa lậpgia đình.","prefix":"không phải để con ngườiđoàn tụ. ","suffix":" Đời sống ở các thị trấn lớn có "}]}],"created":"2022-10-09T05:01:47.829Z","updated":"2022-10-09T05:01:47.829Z","document":{"title":"BÀI HỌC CỦA LỊCH SỬ","link":[{"href":"urn:x-pdf:6020e5c14d76fa49fe6fecb95f94d0a5"},{"href":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf"}],"documentFingerprint":"6020e5c14d76fa49fe6fecb95f94d0a5"},"uri":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf"}
 >```
 >%%
 >*%%HIGHLIGHT%%Cứ mươi năm thì máy móc lại nhiều hơn,phức tạp hơn; cái tuổi già dặn về kinh tế (nghĩa là cáikhả năng nuôi được gia đình) lùi lại[31]; trẻ con khôngcòn là mối lợi về kinh tế nữa, hôn nhân trễ hơn vàcon người khó tiết dục được trong thời kì chưa lậpgia đình.*
 >%%LINK%%[[#^bqgnzfea6b|show annotation]]
 >%%COMMENT%%
->Khi con cái không phải là mối lợi kinh tế, con người ít muốn sinh đẻ hơn, ít muốn kết hôn hơn. và tự nhiên khó có thể tiết dục được sinh ra tự phóng túng về tình dục
+>Khi con cái không phải là mối lợi kinh tế, con người ít muốn sinh đẻ hơn, ít muốn kết hôn hơn. Và khi đó, con người tự nhiên khó có thể tiết dục được, từ đó sinh ra tự phóng túng về tình dục để thỏa mãn nhu cầu tự nhiên
 >%%TAGS%%
 >
 ^bqgnzfea6b
@@ -525,3 +525,242 @@ annotation-target:: [[BAI HOC CUA LICH SU - Will.pdf]]
 >%%TAGS%%
 >
 ^72s7pj28pbw
+
+
+>%%
+>```annotation-json
+>{"created":"2022-10-09T14:42:41.944Z","text":"Vương Mãng là người có học thức, thực hiện cải cách có lợi cho nông dân và hạng nghèo khó. Tuy nhiên, những cải cách đố là thiệt hại tới giới trung lưu, và giới này xúi nông dân lật đổ Vương Mãng","updated":"2022-10-09T14:42:41.944Z","document":{"title":"BÀI HỌC CỦA LỊCH SỬ","link":[{"href":"urn:x-pdf:6020e5c14d76fa49fe6fecb95f94d0a5"},{"href":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf"}],"documentFingerprint":"6020e5c14d76fa49fe6fecb95f94d0a5"},"uri":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","target":[{"source":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","selector":[{"type":"TextPositionSelector","start":97451,"end":98204},{"type":"TextQuoteSelector","exact":"Vương Mãng (làm vua từ 9 đến 23 sau T.L.) làmột  học  giả,  bảo  trợ  văn  nghệ,  một  đại  phú  giathường giúp đỡ bạn bè và người nghèo. Khi tiếmđược ngôi rồi[67], ông trọng dụng các văn nhân thi sĩ,triết gia và các người giỏi về khoa học. Ông quốchữu hóa đất đai[68], phân phát đều cho nông dân[69],chấm dứt chế độ nô tì. Cũng như Vũ Đế, ông rángkiểm soát giá cả bằng cách trữ hàng hóa để bán rahợp lúc. Ông cho các tư nhân kinh doanh vay tiềnvới lãi nhẹ. Những biện pháp ấy làm thiệt hại một sốngười cho vay nặng lãi, họ liên kết nhau để lật đổông đúng vào lúc trong nước bị nạn lụt rồi hạn hán,mà lại bị ngoại nhân xâm lăng[70]. Một họ giàu có, họLưu[71] cầm đầu cuộc nổi loạn, giết Vương Mãng vàhủy bỏ chế độ của Vương. Mọi việc lại trở lại như cũ.","prefix":"hiền triết lại đem ra thực hành.","suffix":"Một  ngàn  năm  sau,  Vương  An "}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%Vương Mãng (làm vua từ 9 đến 23 sau T.L.) làmột  học  giả,  bảo  trợ  văn  nghệ,  một  đại  phú  giathường giúp đỡ bạn bè và người nghèo. Khi tiếmđược ngôi rồi[67], ông trọng dụng các văn nhân thi sĩ,triết gia và các người giỏi về khoa học. Ông quốchữu hóa đất đai[68], phân phát đều cho nông dân[69],chấm dứt chế độ nô tì. Cũng như Vũ Đế, ông rángkiểm soát giá cả bằng cách trữ hàng hóa để bán rahợp lúc. Ông cho các tư nhân kinh doanh vay tiềnvới lãi nhẹ. Những biện pháp ấy làm thiệt hại một sốngười cho vay nặng lãi, họ liên kết nhau để lật đổông đúng vào lúc trong nước bị nạn lụt rồi hạn hán,mà lại bị ngoại nhân xâm lăng[70]. Một họ giàu có, họLưu[71] cầm đầu cuộc nổi loạn, giết Vương Mãng vàhủy bỏ chế độ của Vương. Mọi việc lại trở lại như cũ.*
+>%%LINK%%[[#^tuejkymix5p|show annotation]]
+>%%COMMENT%%
+>Vương Mãng là người có học thức, thực hiện cải cách có lợi cho nông dân và hạng nghèo khó. Tuy nhiên, những cải cách đố là thiệt hại tới giới trung lưu, và giới này xúi nông dân lật đổ Vương Mãng
+>%%TAGS%%
+>
+^tuejkymix5p
+
+
+>%%
+>```annotation-json
+>{"created":"2022-10-09T14:49:04.190Z","updated":"2022-10-09T14:49:04.190Z","document":{"title":"BÀI HỌC CỦA LỊCH SỬ","link":[{"href":"urn:x-pdf:6020e5c14d76fa49fe6fecb95f94d0a5"},{"href":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf"}],"documentFingerprint":"6020e5c14d76fa49fe6fecb95f94d0a5"},"uri":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","target":[{"source":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","selector":[{"type":"TextPositionSelector","start":100230,"end":100549},{"type":"TextQuoteSelector","exact":"Cho tới ngày nay, chế độ xã hội tồn tại lâu nhất làchế độ do các vua chúa dân tộc Incas thành lập ởthế kỉ XIII, không rõ từ năm nào, tại miền ngày naychúng ta gọi là Pérou. Các vua chúa Incas tin rằngThần Mặt Trời trao quyền cho họ để trị dân; họ tổchức và điều khiển hoàn toàn nông nghiệp, tiểu côngnghệ và thương mại.","prefix":"và kêu cựu đảng trở licầm quyền.","suffix":" Chính quyền làm kế toán tinhxác"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%Cho tới ngày nay, chế độ xã hội tồn tại lâu nhất làchế độ do các vua chúa dân tộc Incas thành lập ởthế kỉ XIII, không rõ từ năm nào, tại miền ngày naychúng ta gọi là Pérou. Các vua chúa Incas tin rằngThần Mặt Trời trao quyền cho họ để trị dân; họ tổchức và điều khiển hoàn toàn nông nghiệp, tiểu côngnghệ và thương mại.*
+>%%LINK%%[[#^ibrjl05v4i|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^ibrjl05v4i
+
+
+>%%
+>```annotation-json
+>{"created":"2022-10-09T14:51:49.166Z","text":"Sự tự do trao cho con người cần phải được hạn chế bằng phát luật","updated":"2022-10-09T14:51:49.166Z","document":{"title":"BÀI HỌC CỦA LỊCH SỬ","link":[{"href":"urn:x-pdf:6020e5c14d76fa49fe6fecb95f94d0a5"},{"href":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf"}],"documentFingerprint":"6020e5c14d76fa49fe6fecb95f94d0a5"},"uri":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","target":[{"source":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","selector":[{"type":"TextPositionSelector","start":107337,"end":107588},{"type":"TextQuoteSelector","exact":"Con ngườivốn yêu tự do mà muốn được tự do thì các phần tửtrong một xã hội phải theo một số phép tắc cư xửnào đó, cho nên điều kiện đầu tiên để được tự do làsự tự do phải bị hạn chế; để cho tuyệt đối tự do thìsẽ sinh ra hỗn loạn mà tự do sẽ chết nghẹt.","prefix":"sự “thống trị” nào cũng có lợi. ","suffix":" Vậynhiệm vụ đầu tiên của một ch"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%Con ngườivốn yêu tự do mà muốn được tự do thì các phần tửtrong một xã hội phải theo một số phép tắc cư xửnào đó, cho nên điều kiện đầu tiên để được tự do làsự tự do phải bị hạn chế; để cho tuyệt đối tự do thìsẽ sinh ra hỗn loạn mà tự do sẽ chết nghẹt.*
+>%%LINK%%[[#^fmrbeiq5c8p|show annotation]]
+>%%COMMENT%%
+>Sự tự do trao cho con người cần phải được hạn chế bằng phát luật
+>%%TAGS%%
+>
+^fmrbeiq5c8p
+
+
+>%%
+>```annotation-json
+>{"created":"2022-10-09T15:52:43.663Z","text":"Will Durant trong phụ lục quyển Bài học lịch sử khuyên ta nên giữ gìn sức khỏe, nên vận động ít nhất mỗi ngày 1 giờ.","updated":"2022-10-09T15:52:43.663Z","document":{"title":"BÀI HỌC CỦA LỊCH SỬ","link":[{"href":"urn:x-pdf:6020e5c14d76fa49fe6fecb95f94d0a5"},{"href":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf"}],"documentFingerprint":"6020e5c14d76fa49fe6fecb95f94d0a5"},"uri":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","target":[{"source":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","selector":[{"type":"TextPositionSelector","start":189175,"end":189260},{"type":"TextQuoteSelector","exact":"Bạn nên gìn giữ sức khỏe: đó là điều tôi khuyênbạn trước hết. Hễ có nghị lực là được.","prefix":"đối với kẻ đầu bạc.[156]SỨC KHOẺ","suffix":" Trừ nhữngbệnh có từ hồi sơ sinh"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%Bạn nên gìn giữ sức khỏe: đó là điều tôi khuyênbạn trước hết. Hễ có nghị lực là được.*
+>%%LINK%%[[#^d2la7isy4|show annotation]]
+>%%COMMENT%%
+>Will Durant trong phụ lục quyển Bài học lịch sử khuyên ta nên giữ gìn sức khỏe, nên vận động ít nhất mỗi ngày 1 giờ.
+>%%TAGS%%
+>
+^d2la7isy4
+
+
+>%%
+>```annotation-json
+>{"created":"2022-10-09T15:55:04.802Z","text":"The Durant, mặc dù tính dục là một nhu cầu chỉ đứng sau sinh tồn ăn uống. Nhưng chế ngự được bản năng tính dục là nền tảng của mọi văn minh.","updated":"2022-10-09T15:55:04.802Z","document":{"title":"BÀI HỌC CỦA LỊCH SỬ","link":[{"href":"urn:x-pdf:6020e5c14d76fa49fe6fecb95f94d0a5"},{"href":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf"}],"documentFingerprint":"6020e5c14d76fa49fe6fecb95f94d0a5"},"uri":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","target":[{"source":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","selector":[{"type":"TextPositionSelector","start":190954,"end":191126},{"type":"TextQuoteSelector","exact":"Để biện hộ chosự túng dục, chúng ta không ngần ngại tạo ra mộtthuyết về những tai hại của sự tiết dục, mà khôngbiết rằng, chế ngự được bản năng là nền tảng củamọi văn minh.","prefix":"ó rầm rộ, bày nó ra ở khắp nơi. ","suffix":"TƯ CÁCHTư  cách  cũng  gần  quan"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%Để biện hộ chosự túng dục, chúng ta không ngần ngại tạo ra mộtthuyết về những tai hại của sự tiết dục, mà khôngbiết rằng, chế ngự được bản năng là nền tảng củamọi văn minh.*
+>%%LINK%%[[#^dq0sp69y1a|show annotation]]
+>%%COMMENT%%
+>The Durant, mặc dù tính dục là một nhu cầu chỉ đứng sau sinh tồn ăn uống. Nhưng chế ngự được bản năng tính dục là nền tảng của mọi văn minh.
+>%%TAGS%%
+>
+^dq0sp69y1a
+
+
+>%%
+>```annotation-json
+>{"created":"2022-10-09T15:57:08.225Z","text":"Không nên nói xấu ai, nếu đã không nói được điều tốt đẹp thì thôi im lặng là vàng.","updated":"2022-10-09T15:57:08.225Z","document":{"title":"BÀI HỌC CỦA LỊCH SỬ","link":[{"href":"urn:x-pdf:6020e5c14d76fa49fe6fecb95f94d0a5"},{"href":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf"}],"documentFingerprint":"6020e5c14d76fa49fe6fecb95f94d0a5"},"uri":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","target":[{"source":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","selector":[{"type":"TextPositionSelector","start":191406,"end":191789},{"type":"TextQuoteSelector","exact":"Bạn đừng bao giờ nói xấu ai cả. Những lời nóixấu, không sớm thì muộn, luôn luôn sẽ rớt xuốngđầu chính kẻ thốt ra, và có thể làm hại cho sự thànhcông của ta trên đường đời. Nói xấu người khác làmột cách bất lương để tự khoe mình. Nếu không nóiđược những lời nhân từ, khuyến khích thì thôi, đừngnói gì cả. Chẳng làm gì cả đôi khi là khôn, nhưngchẳng nói gì cả thì lúc nào cũng là khôn.","prefix":"ôn  luôn  chú  ý  tớingười khác.","suffix":"TÔN GIÁONếu bạn chỉ học khoa học"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%Bạn đừng bao giờ nói xấu ai cả. Những lời nóixấu, không sớm thì muộn, luôn luôn sẽ rớt xuốngđầu chính kẻ thốt ra, và có thể làm hại cho sự thànhcông của ta trên đường đời. Nói xấu người khác làmột cách bất lương để tự khoe mình. Nếu không nóiđược những lời nhân từ, khuyến khích thì thôi, đừngnói gì cả. Chẳng làm gì cả đôi khi là khôn, nhưngchẳng nói gì cả thì lúc nào cũng là khôn.*
+>%%LINK%%[[#^ih8m195vr4p|show annotation]]
+>%%COMMENT%%
+>Không nên nói xấu ai, nếu đã không nói được điều tốt đẹp thì thôi im lặng là vàng.
+>%%TAGS%%
+>
+^ih8m195vr4p
+
+
+>%%
+>```annotation-json
+>{"created":"2022-10-09T15:58:45.527Z","text":"Durant khuyên ta xây dựng đời sống vật chất trên nền tẳng kinh tế nhưng không dồn hết tâm trí vào nó. Vì của cải cũng chỉ gây cho ta thú vui nhất thời chứ không đem lại hạnh phúc.","updated":"2022-10-09T15:58:45.527Z","document":{"title":"BÀI HỌC CỦA LỊCH SỬ","link":[{"href":"urn:x-pdf:6020e5c14d76fa49fe6fecb95f94d0a5"},{"href":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf"}],"documentFingerprint":"6020e5c14d76fa49fe6fecb95f94d0a5"},"uri":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","target":[{"source":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","selector":[{"type":"TextPositionSelector","start":192488,"end":192822},{"type":"TextQuoteSelector","exact":"Bạn nên dựng cuộc đời vật chất của mình trênnhững nền tảng kinh tế vững chắc, nhưng đừng đemcả tâm trí, tài lực ra mà kiếm tiền đấy nhé. Đừng đểmc bẫy. Vì cũng như bản năng tính dục, sự khaokhát của cải có thể biến thành một thứ bệnh sốt nungnấu, chỉ gây cho ta được vài thú vui nhất thời, chứkhông sao tạo được một hạnh phúc lâu bền.","prefix":", tế nhịvà mênh mông kia.KINH TẾ","suffix":"Nếu bạn làm chủ một xí nghiệp th"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%Bạn nên dựng cuộc đời vật chất của mình trênnhững nền tảng kinh tế vững chắc, nhưng đừng đemcả tâm trí, tài lực ra mà kiếm tiền đấy nhé. Đừng đểmc bẫy. Vì cũng như bản năng tính dục, sự khaokhát của cải có thể biến thành một thứ bệnh sốt nungnấu, chỉ gây cho ta được vài thú vui nhất thời, chứkhông sao tạo được một hạnh phúc lâu bền.*
+>%%LINK%%[[#^32sd6h5z2ei|show annotation]]
+>%%COMMENT%%
+>Durant khuyên ta xây dựng đời sống vật chất trên nền tẳng kinh tế nhưng không dồn hết tâm trí vào nó. Vì của cải cũng chỉ gây cho ta thú vui nhất thời chứ không đem lại hạnh phúc.
+>%%TAGS%%
+>
+^32sd6h5z2ei
+
+
+>%%
+>```annotation-json
+>{"created":"2022-10-09T16:04:24.395Z","text":"Durant cho rằng câu nói Knowledge is power của Francis Bacon. Những tiến bộ khoa học đã gây biết bao hậu quả, sản sinh ra cái xấu","updated":"2022-10-09T16:04:24.395Z","document":{"title":"BÀI HỌC CỦA LỊCH SỬ","link":[{"href":"urn:x-pdf:6020e5c14d76fa49fe6fecb95f94d0a5"},{"href":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf"}],"documentFingerprint":"6020e5c14d76fa49fe6fecb95f94d0a5"},"uri":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","target":[{"source":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","selector":[{"type":"TextPositionSelector","start":171407,"end":171528},{"type":"TextQuoteSelector","exact":"ời nói ngạo mạnnày của Francis Bacon[137]: Knowledge is power (Biếtlà có thể làm được) thời này có vẻ huênh hoang làmsao!","prefix":"đắc lực hơn là kiến thiết nữa. L","suffix":" Đôi khi chúng tôi tự hỏi thời T"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%ời nói ngạo mạnnày của Francis Bacon[137]: Knowledge is power (Biếtlà có thể làm được) thời này có vẻ huênh hoang làmsao!*
+>%%LINK%%[[#^xln6uq0b98j|show annotation]]
+>%%COMMENT%%
+>Durant cho rằng câu nói Knowledge is power của Francis Bacon. Những tiến bộ khoa học đã gây biết bao hậu quả, sản sinh ra cái xấu
+>%%TAGS%%
+>
+^xln6uq0b98j
+
+
+>%%
+>```annotation-json
+>{"created":"2022-10-09T16:08:42.664Z","text":"Nghịch lý của hiện đại, tăng tốc độ thông tin lên gấp bội nhưng lại muốn có thời gian yên tĩnh một mình","updated":"2022-10-09T16:08:42.664Z","document":{"title":"BÀI HỌC CỦA LỊCH SỬ","link":[{"href":"urn:x-pdf:6020e5c14d76fa49fe6fecb95f94d0a5"},{"href":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf"}],"documentFingerprint":"6020e5c14d76fa49fe6fecb95f94d0a5"},"uri":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","target":[{"source":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","selector":[{"type":"TextPositionSelector","start":173047,"end":173221},{"type":"TextQuoteSelector","exact":"Chúng ta đã tăng lên gấptrăm khả năng bắt và truyền những tin tức về cácbiến cố xảy ra trong ngày trên thế giới, nhưng có lúcchúng ta ước ao được yên ổn như ông cha chúng ta,","prefix":"ổ, tàntật hoặc chán đời của ta. ","suffix":"chỉ bận tâm về các tin tức trong"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%Chúng ta đã tăng lên gấptrăm khả năng bắt và truyền những tin tức về cácbiến cố xảy ra trong ngày trên thế giới, nhưng có lúcchúng ta ước ao được yên ổn như ông cha chúng ta,*
+>%%LINK%%[[#^zbejtenjlk|show annotation]]
+>%%COMMENT%%
+>Nghịch lý của hiện đại, tăng tốc độ thông tin lên gấp bội nhưng lại muốn có thời gian yên tĩnh một mình
+>%%TAGS%%
+>
+^zbejtenjlk
+
+
+>%%
+>```annotation-json
+>{"created":"2022-10-09T16:10:17.178Z","text":"Luân lý tự nhiên mà Durant nhắc đến là gì?\nLuân lý không lệ thuộc tôn giáo để kiềm giữ mình khỏi những bản năng tự nhiên.","updated":"2022-10-09T16:10:17.178Z","document":{"title":"BÀI HỌC CỦA LỊCH SỬ","link":[{"href":"urn:x-pdf:6020e5c14d76fa49fe6fecb95f94d0a5"},{"href":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf"}],"documentFingerprint":"6020e5c14d76fa49fe6fecb95f94d0a5"},"uri":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","target":[{"source":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","selector":[{"type":"TextPositionSelector","start":173566,"end":173972},{"type":"TextQuoteSelector","exact":"Chúng ta rất mừng rỡ thoát khỏi sự chi phối củathần học, nhưng chúng ta đã tìm cho mình được mộtluân  lí  tự  nhiên  chưa?  Tôi  muốn  nói  một  luân  líkhông lệ thuộc tôn giáo, đủ mạnh để hãm các bảnnăng thủ đắc, hiếu chiến, và săn đàn bà (hoặc sănđàn ông), để ngăn chúng không cho chúng biến nềnvăn  minh  của  chúng  ta  thành  một  vũng  ô  uế  đầynhững  tham  lam,  tội  ác  và  chung  đụng  thể  xác.","prefix":"của chúng ta, thấy mà lợm giọng.","suffix":"Chúng  ta  đã  thực  sự  diệt  đ"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%Chúng ta rất mừng rỡ thoát khỏi sự chi phối củathần học, nhưng chúng ta đã tìm cho mình được mộtluân  lí  tự  nhiên  chưa?  Tôi  muốn  nói  một  luân  líkhông lệ thuộc tôn giáo, đủ mạnh để hãm các bảnnăng thủ đắc, hiếu chiến, và săn đàn bà (hoặc sănđàn ông), để ngăn chúng không cho chúng biến nềnvăn  minh  của  chúng  ta  thành  một  vũng  ô  uế  đầynhững  tham  lam,  tội  ác  và  chung  đụng  thể  xác.*
+>%%LINK%%[[#^34naneadf29|show annotation]]
+>%%COMMENT%%
+>Luân lý tự nhiên mà Durant nhắc đến là gì?
+>Luân lý không lệ thuộc tôn giáo để kiềm giữ mình khỏi những bản năng tự nhiên.
+>%%TAGS%%
+>
+^34naneadf29
+
+
+>%%
+>```annotation-json
+>{"created":"2022-10-09T16:12:24.268Z","text":"Con người càng tiến bộ, thì đời sống luân lý, văn minh, nhân cách càng suy đồi","updated":"2022-10-09T16:12:24.268Z","document":{"title":"BÀI HỌC CỦA LỊCH SỬ","link":[{"href":"urn:x-pdf:6020e5c14d76fa49fe6fecb95f94d0a5"},{"href":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf"}],"documentFingerprint":"6020e5c14d76fa49fe6fecb95f94d0a5"},"uri":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","target":[{"source":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","selector":[{"type":"TextPositionSelector","start":170469,"end":170517},{"type":"TextQuoteSelector","exact":"CHƯƠNG XIII: LOÀI NGƯỜI CÓ THỰC SỰ TIẾNBỘ KHÔNG?","prefix":"ịch sử nhân loại (trang106-107).","suffix":"Nhìn các dân tộc, các luân lí, c"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%CHƯƠNG XIII: LOÀI NGƯỜI CÓ THỰC SỰ TIẾNBỘ KHÔNG?*
+>%%LINK%%[[#^hmi3ahh6urp|show annotation]]
+>%%COMMENT%%
+>Con người càng tiến bộ, thì đời sống luân lý, văn minh, nhân cách càng suy đồi
+>%%TAGS%%
+>
+^hmi3ahh6urp
+
+
+>%%
+>```annotation-json
+>{"created":"2022-10-09T16:16:40.393Z","updated":"2022-10-09T16:16:40.393Z","document":{"title":"BÀI HỌC CỦA LỊCH SỬ","link":[{"href":"urn:x-pdf:6020e5c14d76fa49fe6fecb95f94d0a5"},{"href":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf"}],"documentFingerprint":"6020e5c14d76fa49fe6fecb95f94d0a5"},"uri":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","target":[{"source":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","selector":[{"type":"TextPositionSelector","start":179011,"end":179119},{"type":"TextQuoteSelector","exact":"Chúng ta chỉ cầnbiết hạng trung nhân ngày nay có làm chủ được điềukiện sinh hoạt của mình hơn cổ nhân không.","prefix":"ong tất cả các thời đại đã qua. ","suffix":"Nếu chúng ta nhìn bao quát cả mấ"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%Chúng ta chỉ cầnbiết hạng trung nhân ngày nay có làm chủ được điềukiện sinh hoạt của mình hơn cổ nhân không.*
+>%%LINK%%[[#^smbnxj2s1o|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^smbnxj2s1o
+
+
+>%%
+>```annotation-json
+>{"created":"2022-10-09T16:20:27.690Z","updated":"2022-10-09T16:20:27.690Z","document":{"title":"BÀI HỌC CỦA LỊCH SỬ","link":[{"href":"urn:x-pdf:6020e5c14d76fa49fe6fecb95f94d0a5"},{"href":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf"}],"documentFingerprint":"6020e5c14d76fa49fe6fecb95f94d0a5"},"uri":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","target":[{"source":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","selector":[{"type":"TextPositionSelector","start":184419,"end":184738},{"type":"TextQuoteSelector","exact":"Nếu  giáo  dục  sự  truyền  đạt  văn  minh  thì  nhấtđịnh là chúng ta đã tiến bộ, không thể cãi được. Loàingười không phải sinh ra là văn minh ngay; mỗi thếhệ  phải  học  lại  nó,  tiếp  thu  nó  cho  đời  mình;  sựtruyền đạt đó mà gián đoạn trong một thế kỉ thì nềnvăn minh sẽ chết và chúng ta sẽ trở lại thành mọi rợ.","prefix":"ctiđ)[153] của lịch sử nhânloại.","suffix":"Vậy công trình đáng kể nhất của "}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%Nếu  giáo  dục  sự  truyền  đạt  văn  minh  thì  nhấtđịnh là chúng ta đã tiến bộ, không thể cãi được. Loàingười không phải sinh ra là văn minh ngay; mỗi thếhệ  phải  học  lại  nó,  tiếp  thu  nó  cho  đời  mình;  sựtruyền đạt đó mà gián đoạn trong một thế kỉ thì nềnvăn minh sẽ chết và chúng ta sẽ trở lại thành mọi rợ.*
+>%%LINK%%[[#^mi5s93jfgdo|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^mi5s93jfgdo
+
+
+>%%
+>```annotation-json
+>{"created":"2022-10-09T16:27:24.165Z","updated":"2022-10-09T16:27:24.165Z","document":{"title":"BÀI HỌC CỦA LỊCH SỬ","link":[{"href":"urn:x-pdf:6020e5c14d76fa49fe6fecb95f94d0a5"},{"href":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf"}],"documentFingerprint":"6020e5c14d76fa49fe6fecb95f94d0a5"},"uri":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","target":[{"source":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","selector":[{"type":"TextPositionSelector","start":133076,"end":133205},{"type":"TextQuoteSelector","exact":"Chúng ta đãchấp nhận rằng chiến tranh là hình thức phát triểnnhất của sự ganh đua, sự đào thải tự nhiên trong loàingười với nhau.","prefix":"68 năm là không có chiến tranh. ","suffix":" Triết gia Hi Lạp Héraclite (thế"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%Chúng ta đãchấp nhận rằng chiến tranh là hình thức phát triểnnhất của sự ganh đua, sự đào thải tự nhiên trong loàingười với nhau.*
+>%%LINK%%[[#^cir74dk4dr|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^cir74dk4dr
+
+
+>%%
+>```annotation-json
+>{"created":"2022-10-09T16:33:24.247Z","updated":"2022-10-09T16:33:24.247Z","document":{"title":"BÀI HỌC CỦA LỊCH SỬ","link":[{"href":"urn:x-pdf:6020e5c14d76fa49fe6fecb95f94d0a5"},{"href":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf"}],"documentFingerprint":"6020e5c14d76fa49fe6fecb95f94d0a5"},"uri":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","target":[{"source":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","selector":[{"type":"TextPositionSelector","start":146279,"end":146476},{"type":"TextQuoteSelector","exact":"Ngay triết gia Bergson năm 1936 cũng viết: “Cứđể cho nữ thần ái tình Vénus hành động thì chúng tasẽ thấy thần chiến tranh Mars xuất hiện nghĩa là loàingười sinh sản nhiều quá thì sẽ có chiến tranh.","prefix":"t với nhau mà đồng cam cộng khổ.","suffix":"Chúng tôi nhớ Napoléon sau một c"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%Ngay triết gia Bergson năm 1936 cũng viết: “Cứđể cho nữ thần ái tình Vénus hành động thì chúng tasẽ thấy thần chiến tranh Mars xuất hiện nghĩa là loàingười sinh sản nhiều quá thì sẽ có chiến tranh.*
+>%%LINK%%[[#^0onfmq7d9jpm|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^0onfmq7d9jpm
+
+
+>%%
+>```annotation-json
+>{"created":"2022-10-09T16:33:40.187Z","updated":"2022-10-09T16:33:40.187Z","document":{"title":"BÀI HỌC CỦA LỊCH SỬ","link":[{"href":"urn:x-pdf:6020e5c14d76fa49fe6fecb95f94d0a5"},{"href":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf"}],"documentFingerprint":"6020e5c14d76fa49fe6fecb95f94d0a5"},"uri":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","target":[{"source":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","selector":[{"type":"TextPositionSelector","start":146476,"end":146620},{"type":"TextQuoteSelector","exact":"Chúng tôi nhớ Napoléon sau một cuộc bại trận ởÁo (?) thấy sĩ tốt chết nhiều quá, bảo: “Không sao!Chỉ một đêm ái ân của dân Paris là đủ bù được”.","prefix":"nhiều quá thì sẽ có chiến tranh.","suffix":"Và Bouthoul kết luận rằng tài gi"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%Chúng tôi nhớ Napoléon sau một cuộc bại trận ởÁo (?) thấy sĩ tốt chết nhiều quá, bảo: “Không sao!Chỉ một đêm ái ân của dân Paris là đủ bù được”.*
+>%%LINK%%[[#^zkg2e2aix6n|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^zkg2e2aix6n
+
+
+>%%
+>```annotation-json
+>{"created":"2022-10-09T16:14:19.033Z","text":"Durant định nghĩa tiến bộ là sự gia tăng khả năng mà chủ thể đó tác động đến thế giới bên ngoài. Chủ thể là sinh vật/con người.","updated":"2022-10-09T16:14:19.033Z","document":{"title":"BÀI HỌC CỦA LỊCH SỬ","link":[{"href":"urn:x-pdf:6020e5c14d76fa49fe6fecb95f94d0a5"},{"href":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf"}],"documentFingerprint":"6020e5c14d76fa49fe6fecb95f94d0a5"},"uri":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","target":[{"source":"vault:/Zet/Images/BAI HOC CUA LICH SU - Will.pdf","selector":[{"type":"TextPositionSelector","start":177632,"end":177817},{"type":"TextQuoteSelector","exact":"Theo thiển kiếncủa chúng tôi thì tiến bộ là sự tăng tiến cái khả năngmà sinh vật tác động tới ngoại giới. Tiêu chuẩn đó cóthể áp dụng cho một cơ thể hạ đẳng nhất cũng nhưcho loài người.","prefix":"nghĩa nào khách quan hơn không? ","suffix":"Chúng ta không nên đòi hỏi sự ti"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%Theo thiển kiếncủa chúng tôi thì tiến bộ là sự tăng tiến cái khả năngmà sinh vật tác động tới ngoại giới. Tiêu chuẩn đó cóthể áp dụng cho một cơ thể hạ đẳng nhất cũng nhưcho loài người.*
+>%%LINK%%[[#^y7p4mqpd07i|show annotation]]
+>%%COMMENT%%
+>Durant định nghĩa tiến bộ là sự gia tăng khả năng mà chủ thể đó tác động đến thế giới bên ngoài. Chủ thể là sinh vật/con người.
+>%%TAGS%%
+>
+^y7p4mqpd07i
