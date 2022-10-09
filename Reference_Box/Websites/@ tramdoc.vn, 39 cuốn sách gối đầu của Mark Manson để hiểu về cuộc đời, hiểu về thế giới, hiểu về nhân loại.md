@@ -23,13 +23,13 @@ Dưới đây là danh sách 39 quyển sách mà [[Mark Manson]] đã đọc v�
 - This Life: Secular Faith and Spiritual Freedom của Martin Hagglund
 - Fundamental Principles of the Metaphysics of Morals
 - The Denial of Death (Tạm dịch: Chối từ cái chết) và Escape from Evil (Tạm dịch: Thoát khỏi cái ác) của Ernest Becker
-- [[@ Viktor Frank, Man’s Search for Meaning]]
+- [x] [[@ Viktor Frank, Man’s Search for Meaning]]
 - Thinking in Bets (Lựa chọn đúng quan trọng hơn nỗ lực) của Annie Duke
 - Fooled by Randomness (Trò đùa của sự ngẫu nhiên),  The Black Swan (Thiên nga đen), Antifragile (Khả năng cải thiện nghịch cảnh - Hưởng lợi từ hỗn loạn) của [[Nassim Nicholas Tableb]]
 
 ### 17 cuốn sách nên đọc để hiểu về thế giới
 - The Origins of Political Order (Nguồn gốc trật tự chính trị) và Political Order and Decay (Trật tự chính trị và suy tàn) của [[Francis Fukuyama]]
-- [ ] Lessons of History (Những bài học lịch sử) của William & Ariel Durant
+- [ ] [[@ William Durant, Lessons of History]] (Những bài học lịch sử) của William & Ariel Durant
 - [x] [[@ Yuval N. Harari, Sapiens lược sử loài người]]
 - [[Homo Deus]] của Yuval Noah Harari
 - Guns, Germs and Steel (Súng, vi trùng và thép) của [[Jared Diamond]]
@@ -46,7 +46,7 @@ Dưới đây là danh sách 39 quyển sách mà [[Mark Manson]] đã đọc v�
 - Democracy for Realists (Tạm dịch: Dân chủ cho chủ nghĩa hiện thực) của Christopher Achen và Larry Bartels
 
 ### 9 cuốn sách nên đọc để hiểu về bản chất tự nhiên của con người
-- The Selfish Gene (Gen vị kỷ) của Richard Dawkins
+- [[@ Richard Dawkins, The Selfish Gene]] (Gen vị kỷ) của Richard Dawkins
 - The Blank Slate: The Modern Denial of Human Nature (Tạm dịch: Phiến đá trống: Sự phủ nhận bản chất con người hiện đại) của Steven Pinker
 - The Evolving Self: Problem and Process in Human Development (Tạm dịch: Phát triển bản thân: Vấn đề và quy trình trong phát triển con người) của Robert Kegan
 - Stumbling on Happiness (Tình cờ gặp hạnh phúc) [[Daniel Gilbert]]

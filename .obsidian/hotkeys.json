@@ -334,5 +334,15 @@
       ],
       "key": "H"
     }
-  ]
+  ],
+  "editor:toggle-checklist-status": [],
+  "editor:cycle-list-checklist": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "editor:toggle-bullet-list": []
 }

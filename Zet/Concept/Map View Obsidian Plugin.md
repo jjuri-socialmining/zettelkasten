@@ -11,4 +11,4 @@ publish: False
 ---
 up:: [[Obsidian Plugins]]
 ## Notes:
-
+![[Tasks list]]

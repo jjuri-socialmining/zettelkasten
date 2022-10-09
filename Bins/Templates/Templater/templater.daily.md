@@ -30,9 +30,12 @@ up:: [[Daily notes]]
 
 ## Notes:
 
-Điều gì làm mình vui trong ngày? -> [[Những niềm vui giản dị]]
-Cập nhật running log [[Road to HIM 2022]]
+- Điều gì làm mình vui trong ngày? -> [[Những niềm vui giản dị]]
+- Cập nhật running log [[Road to HIM 2022]]
+
 <% tp.file.cursor() %>
+
+![[Tasks list]]
 
 <%* if (tp.date.now("ddd") == "Sun" ) { %>
 ## Weekly review:

@@ -4,28 +4,15 @@
   "enabledCssSnippets": [
     "cybertron",
     "My Font",
-    "S - Images Adjustments",
-    "S - Kanban",
-    "S - Folder Styles",
-    "S - External Link Icons",
-    "S - Encoded Icons",
-    "S - Embed Adjustments",
-    "S - Dataview Cards",
-    "S - Checkboxes",
-    "S - Callouts",
-    "S - Aside",
-    "S - Admonitions",
-    "tag-pills",
+    "bibleverse-formatting",
+    "bigger-link-popup-preview",
+    "autofading-ui",
     "collapsing-sidebar",
-    "header_hx",
-    "outliner-for-the-outline-and-file-explorer",
-    "better-bullet-points-in-edit-mode",
-    "stylish-blockquotes",
-    "bibleverse-formatting"
+    "tag-pills"
   ],
   "translucency": false,
   "baseFontSize": 15,
-  "baseFontSizeAction": true,
+  "baseFontSizeAction": false,
   "interfaceFontFamily": "Times New Roman,Verdana",
   "textFontFamily": ""
 }

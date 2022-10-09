@@ -28,3 +28,5 @@ permanent -> evergreen -> think
 - [[❕ 221008222911 - Ống đồng đang đau buốt tự nhiên hôm nay thấy êm]]
 - [[❕ 221008223337 - Được chạy theo pacer xe đạp]]
 
+### [[2022-10-09]]
+- [[❕ 221009101105 - Chủ Nhật dậy sớm đi lễ sáng, về bật nhạc rock, uống trà]]
