@@ -14,7 +14,7 @@ Vì viết bằng văn bản thô định dạng .md, mình có thể sư�
 
 Dưới đây là một đặc trưng của phương pháp [[Zettelkasten]]:
 
-![[Pasted image 20211107182048.png]]
+![[20211107182048 ~ Sample of webversion.png]]
 
 Mỗi trang ghi chú đều bao gồm nội dung, và phần metadata ở cuối trang bao gồm các Tags để phân loại ghi chú. Các [[Backlink]] được hiện thực hóa bằng box `Mentioned in` và bên phải là [[Backlink graph view]], lấy ý tưởng từ [[Obsidian Publish]]. Trang web này mình tham khảo rất nhiều từ một repo mang tên là [bluebook](https://github.com/lyz-code/blue-book). 
 

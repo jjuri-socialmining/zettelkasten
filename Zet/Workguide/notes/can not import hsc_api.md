@@ -12,5 +12,5 @@ The Python3.10 versions and environments are exactly the same. In fact, we teste
 Do you know if there is an extra dependency that must be installed in order to import Python3.10 compiled dll/pyd files?
 
 ## Relate:
-- [[python]]
+- [[Python]]
 - [[swig]]

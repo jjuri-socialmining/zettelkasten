@@ -17,5 +17,6 @@
   "obsidian-tasks-plugin",
   "templater-obsidian",
   "workbench-obsidian",
-  "obsidian-annotator"
+  "obsidian-annotator",
+  "file-explorer-note-count"
 ]

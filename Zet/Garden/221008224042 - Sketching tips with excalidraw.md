@@ -20,7 +20,8 @@ up:: [[Excalidraw Plugin]]
 
 ![[20221008224943 ~ Multiple colors.png]]
 
-[[Palette colors for Excalidraw]]
+- [[Palette colors for Excalidraw]]
+- [[Icon library for Excalidraw]]
 
 ## Source:
 - https://www.youtube.com/watch?v=r9oB1SlK1GU

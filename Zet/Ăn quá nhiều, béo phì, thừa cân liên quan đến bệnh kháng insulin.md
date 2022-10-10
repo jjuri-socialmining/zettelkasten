@@ -5,8 +5,6 @@ tags:
   - 'created/2021/Sep/03'
   - 'seed'
   - 'permanent/fact'
-aliases:
-  - null
 ---
 # Ăn quá nhiều, béo phì, thừa cân liên quan đến bệnh kháng insulin
 

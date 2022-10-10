@@ -30,3 +30,6 @@ permanent -> evergreen -> think
 
 ### [[2022-10-09]]
 - [[❕ 221009101105 - Chủ Nhật dậy sớm đi lễ sáng, về bật nhạc rock, uống trà]]
+
+### [[2022-10-10]]
+- [[❕ 221010203351 - Buổi chiều làm việc xong, nghỉ chạy đi tắm và ăn tối liền]]

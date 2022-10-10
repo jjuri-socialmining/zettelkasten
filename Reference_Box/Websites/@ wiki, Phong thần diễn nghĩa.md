@@ -7,7 +7,7 @@ tags:
   - '#source/website'
 URL: https://vi.wikipedia.org/wiki/Phong_th%E1%BA%A7n_di%E1%BB%85n_ngh%C4%A9a
 aliases:
-  - null
+  - Phong thần diễn nghĩa
 ---
 # @ wiki, Phong thần diễn nghĩa
 

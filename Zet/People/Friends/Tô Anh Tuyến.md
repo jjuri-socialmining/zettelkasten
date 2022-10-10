@@ -7,7 +7,7 @@ tags:
 birth:
 death:
 aliases:
-  - Tuyến
+  - Tuyến A3
 publish: False
 ---
 # Tô Anh Tuyến

@@ -5,8 +5,6 @@ tags:
   - 'created/2021/Aug/14'
   - 'seed'
   - 'permanent/people'
-birth: null
-death: null
 aliases:
   - Adam
   - Eva

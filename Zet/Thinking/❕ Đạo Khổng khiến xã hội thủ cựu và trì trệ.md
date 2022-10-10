@@ -5,8 +5,6 @@ tags:
   - 'created/2021/Sep/05'
   - 'seed'
   - 'permanent/think'
-aliases:
-  - null
 ---
 # ❕ Đạo Khổng khiến xã hội thủ cựu và trì trệ
 

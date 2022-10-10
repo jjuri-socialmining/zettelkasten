@@ -9,7 +9,7 @@
   "drawingFilenamePrefix": "Drawing ",
   "drawingEmbedPrefixWithFilename": true,
   "drawingFilnameEmbedPostfix": " ",
-  "drawingFilenameDateTime": "YYYY-MM-DD HH.mm.ss",
+  "drawingFilenameDateTime": "YYMMDDHHmmss",
   "useExcalidrawExtension": true,
   "displaySVGInPreview": true,
   "displayExportedImageIfAvailable": false,

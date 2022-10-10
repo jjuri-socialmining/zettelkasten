@@ -8,7 +8,7 @@ tags:
 birth:
 death:
 aliases:
-  - Nhật
+  - Nhật A3
 publish: False
 ---
 up:: [[People MOC]], [[A3 Thống Nhất B]]

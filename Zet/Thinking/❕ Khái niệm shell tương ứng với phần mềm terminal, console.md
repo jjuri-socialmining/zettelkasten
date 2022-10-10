@@ -5,8 +5,6 @@ tags:
   - 'created/2021/Aug/30'
   - 'seed'
   - 'permanent/think'
-aliases:
-  - null
 ---
 # ❕ Khái niệm shell tương ứng với phần mềm terminal, console
 

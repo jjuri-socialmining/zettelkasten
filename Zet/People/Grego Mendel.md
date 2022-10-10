@@ -14,7 +14,7 @@ publish: False
 ## Notes:
 Grego Mendel sinh ngày 22/7/1822 tại Đế quốc Áo (nay là Cộng Hòa Séc)
 
-![[Pasted image 20220113221422.png]]
+![[20220113221422 ~ Grego Mendel.png]]
 
 Grego Mendel là một tu sĩ tại [[Tu viện Augustinian]]
 Grego Mendel bắt đầu thí nghiệm di truyền trên giống đậu hà lan. Dựa trên các thí nghiệm trên đậu hà lan, ông đưa ra [[3 định luật di truyền học của Menden|3 định luật di truyền học]] nổi tiếng:

@@ -5,8 +5,6 @@ created: 03-Oct-2022
 tags:
   - 'created/2022/Oct/03'
   - 'permanent/concept'
-aliases:
-  - 
 publish: False
 ---
 up:: [[Bike]], [[Bảo trì xe đạp]]

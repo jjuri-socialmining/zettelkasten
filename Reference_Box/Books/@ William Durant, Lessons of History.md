@@ -10,5 +10,7 @@ publish: False
 ---
 - metadata:
 	- url::
-	- author::
-	- category::
+	- author:: [[William Durant]]
+	- category:: [[Lịch sử]]
+
+[[Bài học của lịch sử Annotation]]

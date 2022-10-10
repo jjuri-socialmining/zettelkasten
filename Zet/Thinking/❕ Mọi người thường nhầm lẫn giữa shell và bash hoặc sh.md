@@ -5,8 +5,6 @@ tags:
   - 'created/2021/Aug/30'
   - 'seed'
   - 'permanent/think'
-aliases:
-  - null
 ---
 # ❕ Mọi người thường nhầm lẫn giữa shell và bash
 

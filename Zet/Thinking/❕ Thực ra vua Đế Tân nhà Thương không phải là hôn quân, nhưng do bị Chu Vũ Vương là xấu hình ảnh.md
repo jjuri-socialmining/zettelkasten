@@ -6,8 +6,6 @@ tags:
   - 'created/2021/Aug/28'
   - 'seeding'
   - 'permanent/think'
-aliases:
-  - null
 ---
 # ❕ Thực ra vua Đế Tân nhà Thương không phải là hôn quân, nhưng do bị Chu Vũ Vương là xấu hình ảnh
 

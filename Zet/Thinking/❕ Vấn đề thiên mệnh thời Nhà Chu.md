@@ -5,8 +5,6 @@ tags:
   - 'created/2021/Aug/28'
   - 'garden'
   - 'permanent/think'
-aliases:
-  - null
 ---
 # ❕ Vấn đề thiên mệnh thời Nhà Chu
 

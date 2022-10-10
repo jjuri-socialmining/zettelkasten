@@ -8,4 +8,4 @@ is_done: False
 ---
 
 ## Notes:
-Tìm hiểu và viết một ứng dụng dùng [[Jinja]] [[python]]
+Tìm hiểu và viết một ứng dụng dùng [[Jinja]] [[Python]]
