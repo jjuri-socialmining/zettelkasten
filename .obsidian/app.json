@@ -84,5 +84,6 @@
     "en-US"
   ],
   "showIndentGuide": false,
-  "lineWrap": true
+  "lineWrap": true,
+  "mobilePullAction": "switcher:open"
 }

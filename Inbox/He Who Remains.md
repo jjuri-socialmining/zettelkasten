@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 aliases:
   - Kang The Conqueror
