@@ -7,8 +7,11 @@ tags:
   - 'howto'
 publish: False
 ---
+
 up:: [[termux]]
+
 url:: https://gist.github.com/Makeshift/43c7ecb3f1c28a623ea4386552712114
+
 # How to sync Obsidian with Git on Android
 
 ### Limitations

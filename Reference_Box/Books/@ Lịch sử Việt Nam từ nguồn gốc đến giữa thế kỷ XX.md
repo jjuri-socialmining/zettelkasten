@@ -40,7 +40,7 @@ Notes:
 
 ### p.108
 
-[[Untitled 2.png]]
+[[2022-10-12 Untitled 2.png]]
 
 Notes:
 - Lễ nghi Nho giáo dẫn đến chủ nghĩa quy phạm, phục tùng quân vương, người cai trị. Điều này dẫn đến trật tự xã hội phong kiến được ổn định
@@ -48,7 +48,7 @@ Notes:
 
 ### p.109
 
-[[Untitled 3.png]]
+[[2022-10-12 Untitled 3.png]]
 
 Notes:
 - Học thuyết Nho giáo mập mờ nước đôi trong việc trật tự của chế độ phong kiến

@@ -4,8 +4,6 @@ UID: 220625175956
 tags:
   - 'created/2022/Jun/25'
   - 'source/film'
-aliases:
-  - 
 publish: False
 ---
 - metadata:
