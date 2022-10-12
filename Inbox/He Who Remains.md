@@ -12,6 +12,7 @@ Có nhiều biến thể (tên gọi): Kang The Conqueror
 
 ## Reference:
 - https://congngheviet.com/kang-the-conqueror-phan-dien-tiep-theo-cua-mcu-se-manh-nhu-the-nao/
+<<<<<<< HEAD
 =======
 ---
 aliases:
@@ -30,3 +31,7 @@ Có nhiều biến thể (tên gọi): Kang The Conqueror
 - Nhân vật này xuất hiện trong tập cuối phim [[Loki (2021)]]
 - 
 >>>>>>> 7d371905 ( du lich)
+=======
+- Nhân vật này xuất hiện trong tập cuối phim [[Loki (2021)]]
+
+>>>>>>> fea94aea05f8a008cde66686888987960a9e7858
