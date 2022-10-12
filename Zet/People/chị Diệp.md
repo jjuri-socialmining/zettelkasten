@@ -1,3 +1,4 @@
+
 ---
 title: Trần Thị Ngọc Diệp
 UID: 210907225946
@@ -14,5 +15,10 @@ publish: False
 ---
 # Ngọc Diệp
 
-## Notes:
+## Notes
+- Tiền sách + ship: 500+ và ship 30k
+- [[📝22-07-07]] nhận lương giúp chị d: 2tr
+- ![[Screenshot_20220708-211148.png]]
+- [[📝22-07-08]] gửi cọc tiền sách giúp cDiep 1tr
+![[Screenshot_20220708-211648.png]]
 
