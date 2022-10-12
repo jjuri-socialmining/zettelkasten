@@ -33,3 +33,6 @@ permanent -> evergreen -> think
 
 ### [[2022-10-10]]
 - [[❕ 221010203351 - Buổi chiều làm việc xong, nghỉ chạy đi tắm và ăn tối liền]]
+
+### [[2022-10-12]]
+- [[❕ 221012220856 - Sáng dậy sớm hơn bình thường và đến công ty sớm hơn mọi ngày]]
