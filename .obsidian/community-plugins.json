@@ -19,5 +19,7 @@
   "workbench-obsidian",
   "obsidian-annotator",
   "file-explorer-note-count",
-  "obsidian42-brat"
+  "obsidian42-brat",
+  "obsidian-pandoc",
+  "cm-editor-syntax-highlight-obsidian"
 ]
