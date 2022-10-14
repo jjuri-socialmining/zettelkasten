@@ -4,6 +4,7 @@ UID: 2108142238
 tags:
   - 'created/2021/Aug/14'
   - 'source/book'
+aliases: "Daniels' Running Formula"
 publish: True
 ---
 # @ Jack Daniels, Daniels' Running Formula
@@ -12,9 +13,10 @@ publish: True
 
 ## Tóm tắt
 ### Chap4: Training Runs and Intensities
+
 Các tốc độ
 
-1. [[Easy Pace]]: 
+1. [[Easy Pace]] **E**: 
 	- Lợi ích của các bài chạy E:
 		- Phát triển sức mạnh của cơ tim, khiến tăng thể tích máu bơm mỗi lần tim co bóp.
 		- Phát triển các mạch máu nhỏ, các sợi cơ được nhận đầy đủ máu và oxy trong quá trình chạy giúp chúng phát triển, tránh chấn thương.
@@ -32,7 +34,7 @@ Các tốc độ
 - Tốc độ ngưỡng: T Pace là tốc độ khó trong tầm kiểm soát, thường khoảng 20-30 phút.
 - JD đưa ra 2 bài tập cho T Pace:
 	- [[Tempo Run]]: một bài chạy đều T Pace trong thời gian tối thiểu 20 phút
-		- Tự tin kiểm soát và giữ tốc độ trong khoảng thời gian dài
+		- Bài tập này giúp tự tin kiểm soát và giữ tốc độ trong khoảng thời gian dài
 	- [[Cruise intervals]]: Ngắt quãng các phiên chạy T Pace.
 		- Giúp cho cơ thể quen với những bài chạy T Pace trong thời gian dài hơn.
 		- Các bài mẫu ngắt quãng của JD theo nguyên tắc *x* Miles T xen kẽ  *x* min Rest.
@@ -56,3 +58,4 @@ Dưới đây là bảng chọn chi tiết linh hoạt tùy vào số tuần b�
 [[Running Formula_Phân bố bài tập.png]]
 ## Permanents
 - [[220401204130 - Tempo và Cruise intervals]]
+- [[Jack Daniels running formula.pdf]]

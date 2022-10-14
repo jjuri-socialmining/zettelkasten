@@ -16,7 +16,13 @@
   "workbench-obsidian",
   "obsidian-annotator",
   "file-explorer-note-count",
+<<<<<<< HEAD
   "recent-files-obsidian",
   "sliding-panes-obsidian",
   "customizable-page-header-buttons"
+=======
+  "obsidian42-brat",
+  "obsidian-pandoc",
+  "cm-editor-syntax-highlight-obsidian"
+>>>>>>> 8eddf429948265354a63aca81611dc867151902c
 ]
