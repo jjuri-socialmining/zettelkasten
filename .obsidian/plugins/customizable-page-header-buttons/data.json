@@ -1,0 +1,21 @@
+{
+  "enabledButtons": [
+    {
+      "id": "command-palette:open",
+      "icon": "command-glyph",
+      "name": "Command palette: Open command palette",
+      "showButtons": "both"
+    },
+    {
+      "id": "switcher:open",
+      "icon": "navigate-glyph",
+      "name": "Quick switcher: Open quick switcher",
+      "showButtons": "both"
+    }
+  ],
+  "desktop": false,
+  "titleLeft": [],
+  "titleRight": [],
+  "titleCenter": [],
+  "paneRelief": false
+}

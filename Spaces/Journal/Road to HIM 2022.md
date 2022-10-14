@@ -65,6 +65,9 @@ Dùng lại [[vdoto2.com]] để tạo giáo án theo phương pháp của [[Jac
 
 
 ### Ref:
+
 ![[20220920235505 ~ Marathon plan 66km 18w.png]]
 ![[20220920234928 ~ Marathon plan 66-89km 18w.png]]
 ![[Daniels running formula (Jack Daniels) (z-lib.org).pdf]]
+
+![[Screenshot_20221014-163214.png]]

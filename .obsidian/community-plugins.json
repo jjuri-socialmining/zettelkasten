@@ -2,7 +2,6 @@
   "obsidian-markdown-formatting-assistant-plugin",
   "table-editor-obsidian",
   "breadcrumbs",
-  "sliding-panes-obsidian",
   "calendar",
   "dataview",
   "obsidian-excalidraw-plugin",
@@ -12,12 +11,12 @@
   "nldates-obsidian",
   "obsidian-git",
   "obsidian-leaflet-plugin",
-  "obsidian-outliner",
-  "tag-wrangler",
   "obsidian-tasks-plugin",
   "templater-obsidian",
   "workbench-obsidian",
   "obsidian-annotator",
   "file-explorer-note-count",
-  "obsidian42-brat"
+  "recent-files-obsidian",
+  "sliding-panes-obsidian",
+  "customizable-page-header-buttons"
 ]

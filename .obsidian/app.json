@@ -60,12 +60,14 @@
   "communityPluginSortOrder": "download",
   "emacsyKeys": true,
   "mobileToolbarCommands": [
+    "switcher:open",
     "editor:insert-wikilink",
+    "editor:set-heading",
     "editor:insert-tag",
     "editor:attach-file",
-    "editor:set-heading",
     "editor:toggle-code",
     "editor:toggle-blockquote",
+    "editor:focus",
     "editor:toggle-bullet-list",
     "editor:toggle-numbered-list",
     "editor:toggle-checklist-status",
@@ -74,8 +76,7 @@
     "editor:undo",
     "editor:redo",
     "editor:toggle-keyboard",
-    "editor:configure-toolbar",
-    "editor:focus"
+    "editor:configure-toolbar"
   ],
   "legacyEditor": false,
   "livePreview": false,
@@ -85,5 +86,5 @@
   ],
   "showIndentGuide": false,
   "lineWrap": true,
-  "mobilePullAction": "switcher:open"
+  "mobilePullAction": "command-palette:open"
 }

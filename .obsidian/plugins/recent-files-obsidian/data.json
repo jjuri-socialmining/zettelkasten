@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-10-15",
+      "path": "Spaces/Daily/2022-10-15.md"
+    },
+    {
+      "basename": "Screenshot_20221015-011149",
+      "path": "Zet/Images/Screenshot_20221015-011149.png"
+    },
+    {
+      "basename": "Screenshot_20221014-163214",
+      "path": "Zet/Images/Screenshot_20221014-163214.png"
+    },
+    {
+      "basename": "Road to HIM 2022",
+      "path": "Spaces/Journal/Road to HIM 2022.md"
+    },
+    {
+      "basename": "2022-10-14",
+      "path": "Spaces/Daily/2022-10-14.md"
+    },
+    {
+      "basename": "Daniels running formula (Jack Daniels) (z-lib.org)",
+      "path": "Zet/Images/Daniels running formula (Jack Daniels) (z-lib.org).pdf"
+    },
+    {
+      "basename": "2022-10-13",
+      "path": "Spaces/Daily/2022-10-13.md"
+    },
+    {
+      "basename": "@ Jack Daniels, Daniels' Running Formula",
+      "path": "Reference_Box/Books/@ Jack Daniels, Daniels' Running Formula.md"
+    },
+    {
+      "basename": "@ Sascha, The Barbell Method of Reading",
+      "path": "Reference_Box/Articles/@ Sascha, The Barbell Method of Reading.md"
+    },
+    {
+      "basename": "Barbell Reading Method",
+      "path": "Zet/Barbell Reading Method.md"
+    },
+    {
+      "basename": "Bike",
+      "path": "Zet/Concept/Bike.md"
+    },
+    {
+      "basename": "Closed Reading Method",
+      "path": "Closed Reading Method.md"
+    },
+    {
       "basename": "Gen-16",
       "path": "Spaces/Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-16.md"
     },
@@ -77,10 +125,6 @@
       "path": "Spaces/Daily/Journal/📝21-10-02.md"
     },
     {
-      "basename": "Barbell Reading Method",
-      "path": "Zet/Barbell Reading Method.md"
-    },
-    {
       "basename": "Bảo Đại từng thay 5 thượng thư trong đợt cải cách",
       "path": "Zet/Bảo Đại từng thay 5 thượng thư trong đợt cải cách.md"
     },
@@ -155,50 +199,6 @@
     {
       "basename": "🛠️210927-Viết Journal về thời onsite Vũ Hán",
       "path": "Spaces/Tasks/🛠️210927-Viết Journal về thời onsite Vũ Hán.md"
-    },
-    {
-      "basename": "templater.daily",
-      "path": "Bins/Templates/Templater/templater.daily.md"
-    },
-    {
-      "basename": "templater.note.ref",
-      "path": "Bins/Templates/Templater/templater.note.ref.md"
-    },
-    {
-      "basename": "templater.question.format",
-      "path": "Bins/Templates/Templater/templater.question.format.md"
-    },
-    {
-      "basename": "templater.daily.routine",
-      "path": "Bins/Templates/Templater/templater.daily.routine.md"
-    },
-    {
-      "basename": "templater.tags",
-      "path": "Bins/Templates/Templater/templater.tags.md"
-    },
-    {
-      "basename": "templater.task.add",
-      "path": "Bins/Templates/Templater/templater.task.add.md"
-    },
-    {
-      "basename": "templater.test",
-      "path": "Bins/Templates/Templater/templater.test.md"
-    },
-    {
-      "basename": "🛠️210829-Làm templater routine",
-      "path": "Spaces/Tasks/🛠️210829-Làm templater routine.md"
-    },
-    {
-      "basename": "🛠️210927-Kinh Mân Côi và các đoạn Kinh Thánh",
-      "path": "Spaces/Tasks/🛠️210927-Kinh Mân Côi và các đoạn Kinh Thánh.md"
-    },
-    {
-      "basename": "Vũ Hán",
-      "path": "Zet/Vũ Hán.md"
-    },
-    {
-      "basename": "🛠️210924-Build mkdocs from scratch",
-      "path": "Spaces/Tasks/🛠️210924-Build mkdocs from scratch.md"
     }
   ],
   "omittedPaths": [],
