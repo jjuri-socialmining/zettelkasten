@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "58ae57922da950d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c8848dd5d0f8f13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cff2bec08a98e2b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Daily/2022-10-15.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e5d07b3105d0003",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ac3c0ebb1dce03a4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabeticalReverse"
+          }
+        }
+      },
+      {
+        "id": "2f7d7a85c9c622da",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#literature-notes",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "95434cff55ea42b7",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "04dd837f981de64d",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "e6d5a7d202f6c022",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "90e7b757d51ea625",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b072e61b4e4644e7",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "8929eb5284bd5e6e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Spaces/Daily/2022-10-15.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "13b67cbda1206536",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Spaces/Daily/2022-10-15.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b4ebc23778257847",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Spaces/Daily/2022-10-15.md"
+          }
+        }
+      },
+      {
+        "id": "6463164b1bb67ab0",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "cc9e0b48083659cf",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      },
+      {
+        "id": "c76504aa2a95cb99",
+        "type": "leaf",
+        "state": {
+          "type": "BC-matrix",
+          "state": {}
+        }
+      },
+      {
+        "id": "c3489246b0c219b2",
+        "type": "leaf",
+        "state": {
+          "type": "BC-tree",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "cff2bec08a98e2b9",
+  "lastOpenFiles": [
+    "Zet/Images/Screenshot_20221015-011149.png",
+    "Spaces/Daily/2022-10-15.md",
+    "Zet/Images/Screenshot_20221014-163214.png",
+    "Spaces/Journal/Road to HIM 2022.md",
+    "Spaces/Daily/2022-10-14.md",
+    "Spaces/Daily/2022-10-13.md",
+    "Reference_Box/Books/@ Jack Daniels, Daniels' Running Formula.md",
+    "Zet/Images/Daniels running formula (Jack Daniels) (z-lib.org).pdf",
+    "Reference_Box/Articles/@ Sascha, The Barbell Method of Reading.md",
+    "Zet/Barbell Reading Method.md"
+  ]
+}
