@@ -14,5 +14,6 @@
   "baseFontSize": 15,
   "baseFontSizeAction": false,
   "interfaceFontFamily": "Times New Roman,Verdana",
-  "textFontFamily": ""
+  "textFontFamily": "",
+  "accentColor": ""
 }

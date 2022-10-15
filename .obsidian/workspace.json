@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "3fb2f1f92276162a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cacc67dbb689708",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98f85ed5e5075429",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Journal/Marathon Training Guide by JD.md",
+                "mode": "source",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "6a51977fa81013f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Daily/2022-10-15.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "86e0051ca37d3909",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a245c4329ad41c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef34c23521ef6b44",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "97501fcad6d56807",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "<<<<",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5d270b2d6642a581",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275
+  },
+  "right": {
+    "id": "98ee6c8f963969f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d65db211cf53773",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91b839172ae5964f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "82eca43dcdb7d678",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spaces/Daily/2022-10-15.md"
+              }
+            }
+          },
+          {
+            "id": "64ebe141ff5f5da1",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Spaces/Daily/2022-10-15.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -2.3,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5359795996225967,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "835d0a44466bbce2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2613092dd4e1c6ba",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "map",
+              "state": {
+                "name": "Default",
+                "mapZoom": 7,
+                "mapCenter": {
+                  "lat": 11.113727282172755,
+                  "lng": 105.52368164062501
+                },
+                "query": "path:\"Spaces/Daily/2022-10-15.md\"",
+                "chosenMapSource": 0,
+                "queryError": false,
+                "followActiveNote": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "a2b5dad9bdc849d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Spaces/Daily/2022-10-15.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "14ad75caa771663c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Spaces/Daily/2022-10-15.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6bbddb1fbb50856a",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "488762b277a5a0f4",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "956739e42ac32ec6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c1c74ad4a417422b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 469
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "6a51977fa81013f5",
+  "lastOpenFiles": [
+    "index.md",
+    "Zet/Workguide/notes/daily/@2021-11-24.md",
+    "Spaces/Journal/Marathon Training Guide by JD.md",
+    "Inbox/He Who Remains.md",
+    "Zet/Workguide/notes/2022-07-04 - Alaska_A status.md",
+    "Pasted image 20220526221041.png.md",
+    "Pasted image 20220704141542.png.md",
+    "Reference_Box/Books/@ Jack Daniels, Daniels' Running Formula.md",
+    "Spaces/Daily/2022-10-15.md",
+    "Spaces/Journal/Reading MOC.md"
+  ]
+}

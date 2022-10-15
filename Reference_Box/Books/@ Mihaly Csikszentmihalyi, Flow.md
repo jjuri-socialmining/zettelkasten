@@ -12,3 +12,4 @@ publish: False
 	- url::
 	- author:: [[Mihaly Csikszentmihalyi]]
 	- category::
+	- tags:: #read/2022

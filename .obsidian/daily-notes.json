@@ -2,5 +2,5 @@
   "format": "YYYY-MM-DD",
   "folder": "Spaces/Daily",
   "template": "Bins/Templates/Templater/templater.daily",
-  "autorun": true
+  "autorun": false
 }
