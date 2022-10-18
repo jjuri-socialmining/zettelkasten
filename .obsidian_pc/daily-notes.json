@@ -1,0 +1,5 @@
+{
+  "folder": "Spaces/Daily",
+  "template": "Bins/Templates/Templater/templater.daily",
+  "format": "YYYY-MM-DD"
+}

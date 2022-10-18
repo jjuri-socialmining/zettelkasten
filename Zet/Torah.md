@@ -11,7 +11,7 @@ publish: False
 # Torah
 
 ## Notes:
-Torah là bản kinh thánh chính của [[Do Thái Giáo]]. [[Torah tương đương với Cựu Ước của Kito giáo]]
+Torah là bản kinh thánh chính của [[Do Thái Giáo]]. [[Torah tương đương với Cựu Ước của Kito giáo]]
 
 ## Ideas & thoughts:
 - [[Năm sách trong Ngũ Kinh Cựu Ước]]

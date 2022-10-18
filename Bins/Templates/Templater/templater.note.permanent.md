@@ -44,6 +44,6 @@ publish: False
 <% tp.file.cursor() %>
 
 ## Source:
-- [[@ chungta.com, Khái niệm dystopia là gì trong khoa học viễn tưởng]]
+up:: [[@ David Eagleman, Não bộ kể gì về bạn]]
 
 ## Relate:

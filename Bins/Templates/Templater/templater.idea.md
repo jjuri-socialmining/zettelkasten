@@ -34,7 +34,7 @@ if(qcFile) {
     let finalNote = idea;
     let curContent = await this.app.vault.read(qcFile);
     let newContents;
-    newContents = "---\ntitle: " + qcFileName + "\ncreated: " + tp.date.now("YYYY-MM-DD") + "\nresolve: \ntags:\n  - 'ideas'\n  - 'created/" + tp.date.now("YYYY/MM/DD") + "'\n---\n\n"+ finalNote + '\n' + curContent
+    newContents = "---\ntitle: " + qcFileName + "\ncreated: " + tp.date.now("YYYY-MM-DD") + "\nresolve: \ntags:\n  - 'ideas'\n  - 'created/" + tp.date.now("YYYY/MMM/DD") + "'\n---\n\n"+ finalNote + '\n' + curContent
 
     this.app.vault.modify(qcFile, newContents);
 }

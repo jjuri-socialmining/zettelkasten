@@ -4,7 +4,7 @@ created: 2022-01-05
 resolve: null
 tags:
   - 'ideas'
-  - 'created/2022/01/05'
+  - 'created/2022/Jan/05'
 ---
 
 Tượng nhân sư do nền văn minh [[Atlantis]] xây dựng

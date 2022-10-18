@@ -2,10 +2,10 @@
   "obsidianCss": false,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "foldHeading": false,
+  "foldHeading": true,
   "newFileLocation": "root",
   "newFileFolderPath": "Seedbox",
-  "foldIndent": false,
+  "foldIndent": true,
   "fileSortOrder": "alphabeticalReverse",
   "spellcheck": false,
   "showFrontmatter": false,
@@ -48,7 +48,7 @@
   "attachmentFolderPath": "Zet/Images",
   "useTab": true,
   "strictLineBreaks": true,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "pdfExportSettings": {
     "includeName": false,
     "pageSize": "Letter",
@@ -82,10 +82,17 @@
   "legacyEditor": false,
   "livePreview": false,
   "spellcheckLanguages": [
-    "vi",
-    "en-US"
+    "en-US",
+    "vi"
   ],
-  "showIndentGuide": false,
+  "showIndentGuide": true,
   "lineWrap": true,
-  "mobilePullAction": "command-palette:open"
+  "mobilePullAction": "command-palette:open",
+  "showUnsupportedFiles": false,
+  "userIgnoreFilters": [],
+  "autoConvertHtml": false,
+  "defaultViewMode": "preview",
+  "rightToLeft": false,
+  "showInlineTitle": true,
+  "smartIndentList": false
 }

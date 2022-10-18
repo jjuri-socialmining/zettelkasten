@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "676fcbc2409cda96",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e86dc522bf6a10d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b066f93fcc541d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference_Box/Books/@ David Eagleman, Não bộ kể gì về bạn.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "815980e93dff0079",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d0e2b674f5d5c02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2d4a245e7d37942",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b1c1380fb81937c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b6a9844b3347b2be",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4701fe7ed577666c",
+    "type": "split",
+    "children": [
+      {
+        "id": "da938bac4e9f7d8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a02441b697c7ee41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reference_Box/Books/@ David Eagleman, Não bộ kể gì về bạn.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "68b0316f57f93775",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Reference_Box/Books/@ David Eagleman, Não bộ kể gì về bạn.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d18297f09718036e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1e9928412d95b47d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Reference_Box/Books/@ David Eagleman, Não bộ kể gì về bạn.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "1b066f93fcc541d1",
+  "lastOpenFiles": [
+    "Zet/Fact/221018231546 - Não bộ xử lý dữ liệu hình ảnh phức tạp hơn dữ liệu âm thanh.md",
+    "Reference_Box/Books/@ David Eagleman, Não bộ kể gì về bạn.md",
+    "Zet/Fact/221018225627 - Mọi trải nghiệm giác quan về thế giới thực đều xảy ra trong não.md",
+    "Zet/Fact/221018225325 - Khi một phần của bộ não bị thoái hóa, vùng bộ não khác sẽ được rèn luyện để bù đắp.md",
+    "Zet/Fact/221018224145 - Toàn bộ cơ thể của con người được thay mới hoàn toàn sau 7 năm.md",
+    "Zet/Fact/221018224425 - Cơ thể ta hoàn toàn không bất biến, thứ kết nối ta với qua khứ chính là trí nhớ.md"
+  ]
+}

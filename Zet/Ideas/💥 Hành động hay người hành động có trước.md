@@ -4,7 +4,7 @@ created: 2022-02-20
 resolve: null
 tags:
   - 'ideas'
-  - 'created/2022/02/20'
+  - 'created/2022/Feb/20'
 ---
 
 Hành động hay người hành động có trước

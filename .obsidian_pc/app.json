@@ -1,0 +1,13 @@
+{
+  "showFrontmatter": false,
+  "spellcheckLanguages": [
+    "en-US",
+    "vi"
+  ],
+  "autoPairBrackets": true,
+  "legacyEditor": true,
+  "foldIndent": false,
+  "foldHeading": false,
+  "strictLineBreaks": true,
+  "promptDelete": false
+}

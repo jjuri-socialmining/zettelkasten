@@ -4,7 +4,7 @@ created: 2022-05-01
 resolve: 
 tags:
   - 'ideas'
-  - 'created/2022/05/01'
+  - 'created/2022/May/01'
 ---
 
 null

@@ -11,10 +11,7 @@ publish: True
 - author: [[Jack Daniels]]
 
 
-## Tóm tắt
-### Chap4: Training Runs and Intensities
-
-## I. Các tốc độ:
+## Chap4: Training Runs and Intensities
 ### 1. [[Easy Pace]] **E**: 
 
 Mục đích của các bài chạy E:
@@ -42,7 +39,8 @@ M Run < 110min và < 29 km (18 miles)
 
 ### 4. [[Threshold Pace]] **T**
 
-Tốc độ ngưỡng: T Pace là tốc độ khó nhưng vẫn trong tầm kiểm soát, thường khoảng 20-30 phút.
+Tốc độ ngưỡng: 
+T Pace là tốc độ khó nhưng vẫn trong tầm kiểm soát, các bài chạy T thường được thiết kế với thời gian khoảng 20-30 phút. Cơ thể có thể chịu liên tục tốc độ T liên tục khoảng 1 tiếng. Đối với những người chạy tích lũy số dặm T lớn, họ có thể hoàn thành cự ly HM với tốc độ T.
 
 JD đưa ra 2 bài tập cho T Pace:
 - [[Cruise intervals]]: Ngắt quãng các phiên chạy T Pace.
@@ -64,7 +62,7 @@ Trong 1 buổi tập: Tổng các phiên R < 8km và < 5% mileage tuần.
 ![[20221015093840 ~ R Workout sample.png]]
 
 ### 6. [[Interval Pace]] **I**/**H**
-Mục đích của bài tập I là tăng VO2Max. Một người bình thường có thể chịu đựng được việc chạy ở ngưỡng VO2Max là 11 phút. Các phiên chạy I tối ưu là từ 3-5 phút.
+Mục đích của bài tập I là tăng VO2Max. Một người bình thường có thể chịu đựng được việc chạy ở ngưỡng VO2Max liên tục là 11 phút. Các phiên chạy I tối ưu là từ 3-5 phút.
 
 Khi ở trạng thái bình thường, mất khoảng 2 phút chạy I thì mới đạt được ngưỡng VO2Max. Nên nếu giữa các phiên chạy I được nghỉ dài, ta phải chạy ít nhất là 3 phút. Nhưng nếu giữa các phiên có quãng nghỉ ngắn hơn, cơ thể chưa hồi phục hoàn toàn sau đợt chạy trước thì thời gian để đưa cơ thể trở về trạng thạng ngưỡng VO2Max sẽ ngắn hơn 2 phút, người chạy hoàn toàn có thể có các phiên chạy I ngắn.
 
@@ -76,14 +74,35 @@ Không chạy I quá nhanh so với khả năng cơ thể, vì khi cơ thể ho�
 
 
  ### Biểu đồ các mẫu bài chạy theo Pace
- 
-![[20220329215050 ~ Sample Interval workout.png]]
-
 ![[20220329204445 ~ Running workout pattern.png]]
 
-### Chap5: VDOT Values
+## Chap5: VDOT Values
 
-### Chap6: Luyện tập theo mùa
+### 1. Xác định VDOT
+
+Việc đầu tiên để xác định các pace luyện tập, người chạy cần xác định chỉ số VDOT hiện tại của bản thân. Việc này được thực hiện bằng cách lấy race gần nhất hoặc bài chạy tốt gần đây nhất. Cự ly có thể là 3km, 5km, 10km, HM,... và tra theo bảng dưới để xác định VDOT. Nên lấy cự ly càng dài tầm 10-21km để có được VDOT phù hợp nhất.
+
+Ví dụ: HM của người chạy tốt nhất và gần nhất là 2h, chỉ số VDOT tương ứng sẽ khoảng 36-37. Trong quá trình luyện tập, người chạy có thể điều chỉnh lên xuống tùy khả năng hiện tại của mình.
+
+![[20221014234643 ~ VDOT from Popular Distances.png]]
+
+### 2. Xác định pace luyện tập theo VDOT:
+
+Bước tiếp theo, từ VDOT trên, người chạy xác định các pace luyện tập theo bảng dưới đây:
+
+![[20221014235409 ~ Training pace of VDOT E,M,T.png]]
+![[20221014235431 ~ Training paces of VDOT I,R.png]]
+
+Ví dụ VDOT của người chạy xác định ở bước 1 là 37, các pace tương ứng sẽ là:
+![[Pasted image 20221015002432.png]]
+![[Pasted image 20221015002457.png]]
+
+- E  = Pace này tùy người, chạy sao thấy thoải mái là được.
+- M = 5:53
+- I = 1:59/5:00 (400/1km)
+- R = 55/83/1:51 (200/300/400)
+
+## Chap6: Luyện tập theo mùa
 Page 170:
 Điều chỉnh phân bố bài tập dựa theo thời gian tới cuộc đua. 
 
@@ -93,6 +112,7 @@ Dưới đây là bảng chọn chi tiết linh hoạt tùy vào số tuần b�
 
 ![[Zet/Images/@ Jack Daniels, Daniels' Running Formula_2022-09-20 23.20.10.excalidraw.md]]
 [[Running Formula_Phân bố bài tập.png]]
+
 ## Permanents
 - [[220401204130 - Tempo và Cruise intervals]]
 - [[Jack Daniels running formula.pdf]]

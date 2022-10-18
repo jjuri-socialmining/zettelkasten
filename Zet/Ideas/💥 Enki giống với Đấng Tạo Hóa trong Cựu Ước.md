@@ -4,7 +4,7 @@ created: 2022-01-21
 resolve: null
 tags:
   - 'ideas'
-  - 'created/2022/01/21'
+  - 'created/2022/Jan/21'
 ---
 
 [[Thần Enki|Enki]] giống với [[God|Đấng tạo hóa]] trong Cựu Ước:

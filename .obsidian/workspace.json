@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6cacc67dbb689708",
+        "id": "2b5d7f1de357d554",
         "type": "tabs",
         "children": [
           {
-            "id": "98f85ed5e5075429",
+            "id": "0c89cb4d3f6c2cd4",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Journal/Marathon Training Guide by JD.md",
+                "file": "Reference_Box/Books/@ David Eagleman, Não bộ kể gì về bạn.md",
                 "mode": "source",
                 "source": true
               },
@@ -22,13 +22,49 @@
             }
           },
           {
-            "id": "6a51977fa81013f5",
+            "id": "94a6befec8bc552d",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Spaces/Daily/2022-10-15.md",
-                "staged": false
+                "file": "Spaces/Daily/2022-10-17.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "64ebe141ff5f5da1",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Spaces/Daily/2022-10-17.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -2.3,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0534979423868385,
+                  "close": true
+                }
               }
             }
           }
@@ -57,12 +93,28 @@
             }
           },
           {
-            "id": "97501fcad6d56807",
+            "id": "5d270b2d6642a581",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "5f6b1da240bb885c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "df80e3bdf75af13b",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "<<<<",
+                "query": "tag:#tasks/event",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,20 +122,12 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "5d270b2d6642a581",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 275
+    "width": 300.5
   },
   "right": {
     "id": "98ee6c8f963969f5",
@@ -99,7 +143,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -109,40 +153,8 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "64ebe141ff5f5da1",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
               "state": {
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": true,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": -2.3,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.5359795996225967,
-                  "close": true
-                }
+                "file": "Spaces/Daily/2022-10-17.md"
               }
             }
           },
@@ -167,9 +179,9 @@
                   "lat": 11.113727282172755,
                   "lng": 105.52368164062501
                 },
-                "query": "path:\"Spaces/Daily/2022-10-15.md\"",
+                "query": "path:\"Cơ thể ta hoàn toàn không bất biến, thứ kết nối ta với qua khứ chính là trí nhớ.md\"",
                 "chosenMapSource": 0,
-                "queryError": false,
+                "queryError": true,
                 "followActiveNote": true
               },
               "pinned": true
@@ -181,6 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Daily/2022-10-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,25 +210,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Daily/2022-10-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "6bbddb1fbb50856a",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "488762b277a5a0f4",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {}
             }
           },
           {
@@ -235,26 +233,26 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 469
+    "width": 972.5
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6a51977fa81013f5",
+  "active": "94a6befec8bc552d",
   "lastOpenFiles": [
+    "Tasks list.md",
+    "Spaces/Daily/2022-10-18.md",
     "Spaces/Daily/2022-10-15.md",
-    "conflict-files-obsidian-git.md",
-    "index.md",
-    "Zet/Workguide/notes/daily/@2021-11-24.md",
-    "Spaces/Journal/Marathon Training Guide by JD.md",
-    "Inbox/He Who Remains.md",
-    "Zet/Workguide/notes/2022-07-04 - Alaska_A status.md",
-    "Pasted image 20220526221041.png.md",
-    "Pasted image 20220704141542.png.md",
-    "Reference_Box/Books/@ Jack Daniels, Daniels' Running Formula.md"
+    "Spaces/Daily/2022-10-13.md",
+    "about.md",
+    "Zet/Images/Tree of my life.excalidraw.md",
+    "Enter forest.md",
+    "Spaces/Daily/2022-11-12.md",
+    "Zet/People/Ngọc Thảo Lương.md",
+    "Zet/Images/20221018235312 ~ Graph of nao bo.png"
   ]
 }

@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "735f699767a12b87",
+    "type": "split",
+    "children": [
+      {
+        "id": "9af199bbc37409b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56c415ec16fe3dd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference_Box/Books/@ Barbara Oakley, Learn how to learn.md",
+                "mode": "source"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "894b3b80e69483fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "950a8340f8907118",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "045b78059a39c8bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e6f47698eeff3b1e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f0b2389e6ed14b36",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "0d672ebc4b01dd76",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3f6351d7e06b0786",
+    "type": "split",
+    "children": [
+      {
+        "id": "5820f6ffda766f93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef7d71464183e551",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reference_Box/Books/@ Barbara Oakley, Learn how to learn.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a8e5418a24944238",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Reference_Box/Books/@ Barbara Oakley, Learn how to learn.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "53563898f9af86bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4a49c4f93718e2c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Reference_Box/Books/@ Barbara Oakley, Learn how to learn.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "56c415ec16fe3dd7",
+  "lastOpenFiles": [
+    "Unicode Dựng Sẵn và Unicode Tổ Hợp.md",
+    "Zet/Concept/Đảo Phú Quý.md",
+    "Reference_Box/Books/@ Barbara Oakley, Learn how to learn.md",
+    "Tasks list.md",
+    "Enter forest.md",
+    "Torah tương đương với Cựu Ước của Kito giáo.md",
+    "Spaces/Daily/2022-10-17.md",
+    "Spaces/Daily/2022-10-18.md",
+    "2022-10-17.md",
+    "Zet/Concept/Hồi hải mã.md"
+  ]
+}

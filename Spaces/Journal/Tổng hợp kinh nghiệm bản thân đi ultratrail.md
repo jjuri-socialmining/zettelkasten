@@ -18,4 +18,4 @@ tags:
 	- Đây là một vũ khí giúp mình vượt qua cơn mưa đêm tại [[VMM100 Sapa 21-Sep-2019|VMM2019]] và lúc khoảng trưa khi đang trên những khoảng đồi mênh mông và sương xuống mù mịt. Không có áo mưa lúc này cũng quéo, nặng hơn là xuống thân nhiệt
 - Để tránh chaffing, đặc biệt là háng, cần mặc một quần lót boxer mỏng. Tuy nhiên, bạn cần làm thêm một bước nhỏ tăng hiệu quả sau đây: bạn dùng tay miết vào các rãnh để quần chèn ở giữa tránh chaffing
 	- Kinh nghiệm học được từ [[VMM100 Sapa 09-Sep-2022|VMM2022]]
-- Kỹ thuật đi dốc bê tông học được từ chị [[Hồng Thủy]] tại [[VMM100 Sapa 09-Sep-2022|VMM2022]]
+- Kỹ thuật đi dốc bê tông học được từ chị [[Hồng Thủy Runner]] tại [[VMM100 Sapa 09-Sep-2022|VMM2022]]

@@ -1,0 +1,20 @@
+{
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
+    }
+  ],
+  "editor:insert-link": [],
+  "editor:cycle-list-checklist": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "editor:open-link-in-new-leaf": []
+}

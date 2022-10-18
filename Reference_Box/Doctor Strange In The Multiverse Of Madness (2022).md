@@ -27,7 +27,7 @@ Cô bé này tên là [[America Chavez]]
 
 DStrange đi gặp [[Wanda Maximoff]], ai dè Wanda là người muốn tiêu diệt cô vé Chavez. Wanda đòi Strange giao cô bé cho mình. Cô hăm doạ Strange rằng nếu không giao Chavez, người đi người đi tìm không phải là wanda mà sẽ là [[Wanda Maximoff|Scarlet Witch]], ý nói là cũng chính là mình nhưng trong vai trò của kẻ phản diện ấy.
 
-Strange nói rằng Wanda đang giữ [[Darkhold Book]] #task/todo -> cái vẹo này là gì thế?
+Strange nói rằng Wanda đang giữ [[Darkhold Book]] #tasks/todo -> cái vẹo này là gì thế?
 
 > [!IDEA]
 > Tính ra [[Wanda Maximoff|Scarlet Witch]] mạnh he, viết lại được thực tại, mạnh hơn Strange còn gì

@@ -4,7 +4,7 @@ created: 2022-02-18
 resolve: null
 tags:
   - 'ideas'
-  - 'created/2022/02/18'
+  - 'created/2022/Feb/18'
 ---
 
 Lý do gì mà Constantinus chọn Kito giáo thay vì các tôn giáo độc thần khác

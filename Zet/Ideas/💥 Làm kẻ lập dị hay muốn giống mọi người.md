@@ -4,7 +4,7 @@ created: 2022-06-05
 resolve: 
 tags:
   - 'ideas'
-  - 'created/2022/06/05'
+  - 'created/2022/Jun/05'
 ---
 
 Trong phim [[Stranger thing]] season 2 tập 1, đoạn 2 anh em Jonathan và Will có nói chuyện về việc mình là kẻ lập dị, và không có bạn bè:

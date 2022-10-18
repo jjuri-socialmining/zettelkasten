@@ -5,7 +5,7 @@ created: 2022-02-20
 resolve: null
 tags:
   - 'ideas'
-  - 'created/2022/02/20'
+  - 'created/2022/Feb/20'
 ---
 
 Chúng ta thu nhận, chấp nhận 1 tín ngưỡng vì chúng ta sợ hãi trước những gì có thể xảy ra

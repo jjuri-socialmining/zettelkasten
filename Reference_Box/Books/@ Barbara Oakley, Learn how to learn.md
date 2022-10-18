@@ -4,6 +4,8 @@ UID: 2108112047
 tags:
   - 'created/2021/Aug/11'
   - 'source/book'
+aliases:
+  - Học cách học
 ---
 # @ Barbara Oakley, Learn how to learn
 
