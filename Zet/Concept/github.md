@@ -13,5 +13,5 @@ publish: False
 ## Notes:
 
 ## Relate:
-- [[Git]]
+- [[Git-SCM]]
 - [[GitLab]]

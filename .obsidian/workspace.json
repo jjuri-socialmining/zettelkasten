@@ -22,49 +22,14 @@
             }
           },
           {
-            "id": "94a6befec8bc552d",
+            "id": "31f771e468bbbc1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Daily/2022-10-17.md",
-                "mode": "source",
+                "file": "Reference_Box/Archives/@ nhandan.com.vn, Thông tin vaccine Pfizer-BioNTech và Moderna chứa graphene oxide gây độc hại là vô căn cứ.md",
+                "mode": "preview",
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "64ebe141ff5f5da1",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Spaces/Daily/2022-10-17.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": true,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": -2.3,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.0534979423868385,
-                  "close": true
-                }
               }
             }
           }
@@ -154,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Daily/2022-10-17.md"
+                "file": "Reference_Box/Archives/@ nhandan.com.vn, Thông tin vaccine Pfizer-BioNTech và Moderna chứa graphene oxide gây độc hại là vô căn cứ.md"
               }
             }
           },
@@ -193,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Daily/2022-10-17.md",
+                "file": "Reference_Box/Archives/@ nhandan.com.vn, Thông tin vaccine Pfizer-BioNTech và Moderna chứa graphene oxide gây độc hại là vô căn cứ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,9 +175,44 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Daily/2022-10-17.md",
+                "file": "Reference_Box/Archives/@ nhandan.com.vn, Thông tin vaccine Pfizer-BioNTech và Moderna chứa graphene oxide gây độc hại là vô căn cứ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92b3c6e6cdebb389",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Reference_Box/Archives/@ nhandan.com.vn, Thông tin vaccine Pfizer-BioNTech và Moderna chứa graphene oxide gây độc hại là vô căn cứ.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.18462326225858255,
+                  "close": false
+                }
               }
             }
           },
@@ -233,26 +233,27 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 972.5
+    "width": 651.5,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "94a6befec8bc552d",
+  "active": "31f771e468bbbc1e",
   "lastOpenFiles": [
-    "Tasks list.md",
-    "Spaces/Daily/2022-10-18.md",
-    "Spaces/Daily/2022-10-15.md",
-    "Spaces/Daily/2022-10-13.md",
-    "about.md",
-    "Zet/Images/Tree of my life.excalidraw.md",
-    "Enter forest.md",
-    "Spaces/Daily/2022-11-12.md",
-    "Zet/People/Ngọc Thảo Lương.md",
-    "Zet/Images/20221018235312 ~ Graph of nao bo.png"
+    "Reference_Box/Archives/CDC Mỹ dừng sử dụng xét nghiệm PCR sau khi Soros và Bill Gates cùng mua công ty xét nghiệm COVID.md",
+    "Reference_Box/Archives/Safechat được quảng bá mạnh trên DKN.TV.md",
+    "Reference_Box/Archives/TẠI SAO BIG TECH PHẢI KIỂM DUYỆT MỘT BÀI VIẾT VỀ MIỄN DỊCH TỰ NHIÊN.md",
+    "Zet/Images/zimmerman-fig04_003.jpg",
+    "Zet/Images/tE1BAA3ixuE1BB91ng28229.jpg",
+    "Zet/Images/XLR-00101-7.jpg",
+    "Reference_Box/Articles/@ mrquangchanh, Dinh dưỡng và sự bối rối/tE1BAA3ixuE1BB91ng.png",
+    "Zet/Images/IOM_Vit_D_DRI.jpg",
+    "Zet/Images/proper-nutrition.jpg",
+    "Zet/Images/5b2b0a4dbf9f8023934117c9_Bad-learning-method.png"
   ]
 }

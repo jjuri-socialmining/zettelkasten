@@ -19,6 +19,6 @@ publish: False
 - Tiền sách + ship: 500+ và ship 30k
 - [[📝22-07-07]] nhận lương giúp chị d: 2tr
 - ![[Screenshot_20220708-211148.png]]
-- [[📝22-07-08]] gửi cọc tiền sách giúp cDiep 1tr
+- [[22-07-08]] gửi cọc tiền sách giúp cDiep 1tr
 ![[Screenshot_20220708-211648.png]]
 

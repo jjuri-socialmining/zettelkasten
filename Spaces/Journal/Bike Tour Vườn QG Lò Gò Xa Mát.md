@@ -56,7 +56,7 @@ Google map toàn chặng [tại đây](https://www.google.com/maps/@11.1859464,1
 - Tiền KS: 250k
 
 ### Personal
-- [ ] Mua bơm xe đạp decathlon giống cái bơm của Hùng #tasks/todo
+- [x] Mua bơm xe đạp decathlon giống cái bơm của Hùng #tasks/done ✅ 2022-10-19
 
 
 [](https://www.google.com/maps/place/Chot+Mat+Ancient+Temple/@11.4429441,106.0105357,13.5z/data=!4m5!3m4!1s0x310b650cbd0ad523:0x448bc465292005b9!8m2!3d11.4637061!4d106.0102129)

@@ -33,7 +33,7 @@ publish: True
 ### Thực hành:
 - Thực hành thiền định để mở rộng khả năng tâm linh
 	- Sử dụng Đá Thạch Anh tím hỗ trợ việc thiền định tốt hơn
-	- Khi thiền, sóng não phải chậm lại, chuyển từ [[Sóng Beta]] sang [[Sóng Alpha]] -> sử dụng nhạc
+	- Khi thiền, sóng não phải chậm lại, chuyển từ [[Sóng não Beta]] sang [[Sóng não Alpha]] -> sử dụng nhạc
 - Nghe nhạc bằng cả thân thể, không chỉ nghe bằng tai, tận hưởng để cơ thể hòa vào tần số rung của âm nhạc
 - [[💬211020-2319]]
 - Phương pháp [[Soulwork]]

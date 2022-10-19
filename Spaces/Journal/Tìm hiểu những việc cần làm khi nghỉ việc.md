@@ -7,6 +7,10 @@ tags:
   - 'daily/journal'
 ---
 ## Notes:
+
+- Đã học được gì, và còn học được thêm gì ở công ty hiện tại
+- Update profile trên [[linkedin.com]]
+
 - Hưởng bảo hiểm thất nghiệp như thế nào
 - Hồ sơ nghỉ việc
 

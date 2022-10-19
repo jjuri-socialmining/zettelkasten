@@ -24,4 +24,5 @@ publish: True
 - Sống theo nguyên tắc [[To be in the world but not of it]]
 - [[Rat race]]
 - [[@ Soul (2020)]]
+- Đọc quyển triết học [[@ Thomas Nagel, What Does It All Mean - A Very Short Introduction to Philosophy]]
 

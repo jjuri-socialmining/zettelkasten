@@ -36,6 +36,12 @@ permanent -> evergreen -> think
 
 ### [[2022-10-12]]
 - [[❕ 221012220856 - Sáng dậy sớm hơn bình thường và đến công ty sớm hơn mọi ngày]]
-- 
+
 ### [[2022-10-18]]
 - [[❕ 221018235128 - Tối siêng năng mở Zoom meeting ODSP team ai dè anh Nam SW bị ốm thế là dời meeting sang tuần]]
+
+### [[2022-10-19]]
+- [[❕ 221019215508 - Chạy bộ dưới trời mưa, những hạt mưa bụi nhỏ nhẹ đều trải khắp trời]]
+
+### [[2022-10-20]]
+- [[❕ 221020005538 - Passed bài assessment trên linkedin.com]]
