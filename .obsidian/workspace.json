@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Daily/2022-10-21.md",
+                "file": "Spaces/Daily/2022-10-18.md",
                 "mode": "source",
                 "source": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cond half of 2020 - my first 6 months in Inphi, I",
+                "query": "tag:#created/2022/Oct/20",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,11 +110,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "98ee6c8f963969f5",
@@ -130,7 +132,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true
               }
             }
@@ -141,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Daily/2022-10-21.md"
+                "file": "Spaces/Daily/2022-10-18.md"
               }
             }
           },
@@ -180,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Daily/2022-10-21.md",
+                "file": "Spaces/Daily/2022-10-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Daily/2022-10-21.md",
+                "file": "Spaces/Daily/2022-10-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,11 +211,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/Daily/2022-10-21.md",
+                "file": "Spaces/Daily/2022-10-18.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
-                  "localJumps": 2,
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -232,7 +234,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224477,
+                  "scale": 1.0000000000000084,
                   "close": false
                 }
               }
@@ -255,26 +257,26 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 794.5
   },
   "ribbon": {
     "mostRecentAction": ""
   },
   "active": "b0487fd015d01d90",
   "lastOpenFiles": [
-    "Zet/Obsidian mobile workflow.md",
+    "Zet/People/Ngọc Thảo Lương.md",
+    "Zet/Garden/PTR Member MOC.md",
+    "Zet/People/Cá Nóc PTR.md",
+    "Spaces/Journal/VMM100 Sapa 21-Sep-2019.md",
+    "Zet/People/Friends/Nguyễn Dũng PTR.md",
+    "Spaces/Journal/Tham gia Marvell Global 5K tại Celadon.md",
+    "Zet/Thinking/❕ 221008222911 - Ống đồng đang đau buốt tự nhiên hôm nay thấy êm.md",
+    "Zet/Fact/221020235550 - GG gửi Plan leo Pusilung và Ngũ Chỉ Sơn 2023.md",
     "Spaces/Daily/2022-10-21.md",
-    "Zet/Ideas/💥 Sử dụng Google Keep hỗ trợ capture fleet note và import vào Obsidian.md",
-    "Spaces/Daily/2022-10-20.md",
-    "Reference_Box/Books/@ Benjamin Franklin, Tự Truyện của Benjamin Franklin.md",
-    "Spaces/Journal/Self Evaluation 2021.md",
-    "Zet/Workguide/notes/Self Evaluation 2022.md",
-    "Zet/Writing/Tóm tắt sách - Digital Minimalism.md",
-    "Reference_Box/Websites/@ Triết Học Đường Phố 2.0, Sổ tay – bảo bối của tôi.md",
-    "Reference_Box/Websites/@ spiderum.com, Tối ưu hóa phát triển bản thân bằng chiếc smartphone.md"
+    "Spaces/Daily/2020-10-09.md"
   ]
 }
