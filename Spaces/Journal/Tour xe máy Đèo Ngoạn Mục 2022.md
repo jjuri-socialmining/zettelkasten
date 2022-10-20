@@ -24,3 +24,5 @@ Lên lịch
 ![[20220702220723 ~ Lịch trình dự kiến.png]]
 
 [Đèo Ngoạn Mục](geo:11.835094115318457,108.66272447281865)
+
+[[GPS file các cung đường Sài Gòn Đà Lạt]]

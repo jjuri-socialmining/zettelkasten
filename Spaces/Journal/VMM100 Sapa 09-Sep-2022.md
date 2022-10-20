@@ -70,6 +70,17 @@ Cái lưỡi gà nó nghẽn vào gân cổ chân, lúc về viêm sưng một c
 
 
 ### Personal
+```
+Vmm2022
+VJ150
+Vietjet delay 20min
+18:30-18:50
+
+19:22 cất cánh
+21:10 hạ cánh
+10h xe đón ở sân bay ra nha xe
+22:40 xe sao viet xuat phat
+```
 
 Lúc về mua 1 kg hạt dẻ với 300k khô trâu gác bếp. Cái khô trâu gác bếp hôm [[2022-09-05]] khui ra đưa cho [[Nguyễn Hoàng Duy]] với [[Gia Nghi]] một miếng, hôm sau mở bịch ra thấy có vết. Thế là đậy lại bỏ trong hộp, cũng không thoát nổi mốc. [[2022-09-17|Hôm nay]], về GK nhờ má cạo đi, rửa sơ qua rùi bỏ vào nồi nướng điện nướng lại 20min. Mẻ này thấy còn chưa khô, vẫn còn chảy mỡ trâu, hèn chi bị mốc.
 

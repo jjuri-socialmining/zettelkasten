@@ -10,7 +10,7 @@ tags:
 
 - Đã học được gì, và còn học được thêm gì ở công ty hiện tại
 - Update profile trên [[linkedin.com]]
-
+- [ ] Tìm hiểu các công ty làm IoT trên thị trường VN #tasks/todo 🔼 
 - Hưởng bảo hiểm thất nghiệp như thế nào
 - Hồ sơ nghỉ việc
 

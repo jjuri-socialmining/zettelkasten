@@ -1,10 +1,12 @@
 ---
-title: Udemy - Java Programming Masterclass covering Java 11 & Java 17
+title: Java Programming Masterclass covering Java 11 & Java 17
 UID: 221006213804
 created: 06-Oct-2022
 tags:
   - 'created/2022/Oct/06'
   - 'daily/journal'
+aliases:
+  - Udemy - Java Programming Masterclass
 ---
 top:: [[MOOC]]
 up:: [[Udemy]]

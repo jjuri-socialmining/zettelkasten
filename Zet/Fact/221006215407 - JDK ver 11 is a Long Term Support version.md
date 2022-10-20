@@ -13,5 +13,5 @@ publish: False
 [[Java Development Kit (JDK)|JDK]] ver 11 is a Long Term  Support (LTS) version
 
 ## Source:
-- [[Udemy - Java Programming Masterclass covering Java 11 & Java 17]]
+- [[Java Programming Masterclass covering Java 11 & Java 17]]
 

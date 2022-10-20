@@ -4,31 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "2b5d7f1de357d554",
+        "id": "7ea1dc536a8e2ca9",
         "type": "tabs",
         "children": [
           {
-            "id": "0c89cb4d3f6c2cd4",
+            "id": "b43a2a50c421efb8",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference_Box/Books/@ David Eagleman, Não bộ kể gì về bạn.md",
+                "file": "Spaces/Journal/VMM100 Sapa 09-Sep-2022.md",
                 "mode": "source",
                 "source": true
-              },
-              "pinned": true
+              }
             }
           },
           {
-            "id": "31f771e468bbbc1e",
+            "id": "b0487fd015d01d90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference_Box/Archives/@ nhandan.com.vn, Thông tin vaccine Pfizer-BioNTech và Moderna chứa graphene oxide gây độc hại là vô căn cứ.md",
-                "mode": "preview",
+                "file": "Spaces/Daily/2022-10-21.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "46aef3e00c565d39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference_Box/Websites/@ spiderum.com, Tối ưu hóa phát triển bản thân bằng chiếc smartphone.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "85fc98439cf84865",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Daily/2020-10-09.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -79,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tasks/event",
+                "query": "cond half of 2020 - my first 6 months in Inphi, I",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference_Box/Archives/@ nhandan.com.vn, Thông tin vaccine Pfizer-BioNTech và Moderna chứa graphene oxide gây độc hại là vô căn cứ.md"
+                "file": "Spaces/Daily/2022-10-21.md"
               }
             }
           },
@@ -158,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference_Box/Archives/@ nhandan.com.vn, Thông tin vaccine Pfizer-BioNTech và Moderna chứa graphene oxide gây độc hại là vô căn cứ.md",
+                "file": "Spaces/Daily/2022-10-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference_Box/Archives/@ nhandan.com.vn, Thông tin vaccine Pfizer-BioNTech và Moderna chứa graphene oxide gây độc hại là vô căn cứ.md",
+                "file": "Spaces/Daily/2022-10-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Reference_Box/Archives/@ nhandan.com.vn, Thông tin vaccine Pfizer-BioNTech và Moderna chứa graphene oxide gây độc hại là vô căn cứ.md",
+                "file": "Spaces/Daily/2022-10-21.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -210,7 +232,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.18462326225858255,
+                  "scale": 0.7132754626224477,
                   "close": false
                 }
               }
@@ -233,27 +255,26 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 651.5,
-    "collapsed": true
+    "width": 345.5
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "31f771e468bbbc1e",
+  "active": "b0487fd015d01d90",
   "lastOpenFiles": [
-    "Reference_Box/Archives/CDC Mỹ dừng sử dụng xét nghiệm PCR sau khi Soros và Bill Gates cùng mua công ty xét nghiệm COVID.md",
-    "Reference_Box/Archives/Safechat được quảng bá mạnh trên DKN.TV.md",
-    "Reference_Box/Archives/TẠI SAO BIG TECH PHẢI KIỂM DUYỆT MỘT BÀI VIẾT VỀ MIỄN DỊCH TỰ NHIÊN.md",
-    "Zet/Images/zimmerman-fig04_003.jpg",
-    "Zet/Images/tE1BAA3ixuE1BB91ng28229.jpg",
-    "Zet/Images/XLR-00101-7.jpg",
-    "Reference_Box/Articles/@ mrquangchanh, Dinh dưỡng và sự bối rối/tE1BAA3ixuE1BB91ng.png",
-    "Zet/Images/IOM_Vit_D_DRI.jpg",
-    "Zet/Images/proper-nutrition.jpg",
-    "Zet/Images/5b2b0a4dbf9f8023934117c9_Bad-learning-method.png"
+    "Zet/Obsidian mobile workflow.md",
+    "Spaces/Daily/2022-10-21.md",
+    "Zet/Ideas/💥 Sử dụng Google Keep hỗ trợ capture fleet note và import vào Obsidian.md",
+    "Spaces/Daily/2022-10-20.md",
+    "Reference_Box/Books/@ Benjamin Franklin, Tự Truyện của Benjamin Franklin.md",
+    "Spaces/Journal/Self Evaluation 2021.md",
+    "Zet/Workguide/notes/Self Evaluation 2022.md",
+    "Zet/Writing/Tóm tắt sách - Digital Minimalism.md",
+    "Reference_Box/Websites/@ Triết Học Đường Phố 2.0, Sổ tay – bảo bối của tôi.md",
+    "Reference_Box/Websites/@ spiderum.com, Tối ưu hóa phát triển bản thân bằng chiếc smartphone.md"
   ]
 }

@@ -12,6 +12,6 @@ publish: False
 ---
 ## Notes:
 
-
+- [ ] What differrence of passing `arr[]` and `*arr` to function? #tasks/todo 🔼 
 
 

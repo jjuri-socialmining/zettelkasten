@@ -9,4 +9,4 @@ tags:
 ## Notes:
 
 
-[[Udemy - Java Programming Masterclass covering Java 11 & Java 17]]
+[[Java Programming Masterclass covering Java 11 & Java 17]]
