@@ -44,6 +44,6 @@ publish: False
 <% tp.file.cursor() %>
 
 ## Source:
-up:: [[@ David Eagleman, Não bộ kể gì về bạn]]
+up:: [[Advanced C Programming Course]], Section
 
 ## Relate:
