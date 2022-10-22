@@ -9,5 +9,4 @@
 Tháng 6 năm 1945, [[Nội các Trần Trọng Kim]] lấy quốc hiệu là [[Đế quốc Việt Nam]], lấy [[Cờ quẻ ly]] làm quốc kỳ.
 
 ## Questions & thoughts:
-- [ ] [[Quẻ ly]] trong [[Kinh Dịch]] #question❓ 
-
+- [ ] [[💥 Quẻ ly trong Kinh dịch là gì]]

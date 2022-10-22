@@ -1,7 +1,7 @@
 ---
 tags:
   - lab
-project: ctc
+project: ctca
 user: 'ott-lab-8734\ottlab'
 pass: 'Ottlab123'
 ---

@@ -39,4 +39,4 @@ Trước tiên, Jenkins cần biết được lúc nào có 1 trigger để Pull
 - [ ] Cấu hình Jenkins để chạy trên máy tính cá nhân
 - [ ] Chạy thử
 
-- [ ] Github Webhook là gì? #question❓ 
+- [ ] [[💥 Github Webhook là gì]]

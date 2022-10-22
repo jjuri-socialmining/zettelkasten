@@ -5,7 +5,7 @@ tags:
   - 'permanent/common'
 ---
 
-up:: [[Marvell]]
+up:: [[notes/Marvell]]
 
 ```
 \\marvell.com\data\Inphi\CSH\Temp(May_be_deleted)

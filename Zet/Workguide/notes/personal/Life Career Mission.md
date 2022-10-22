@@ -12,6 +12,7 @@ tags:
 | C provide                  | I have |     |
 | -------------------------- | ------ | --- |
 | Basic                      |        |     |
+| code size                  |        |     |
 | Build and make             |        |     |
 | IDE                        |        |     |
 | lib                        |        |     |

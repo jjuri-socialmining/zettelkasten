@@ -11,5 +11,4 @@ publish: False
 ---
 ## Notes:
 
-![[20220415212248 ~ Ode to Joy.png]]
 ![[20220415213624 ~ Ode to Joy.png]]

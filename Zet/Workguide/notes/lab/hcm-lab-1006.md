@@ -12,3 +12,5 @@ hcm-lab-1006
 User: MARVELL\hcmswlab
 Pass: hcmswlab123
 ```
+
+![[20221018103554 ~ hcm-lab-1006.png]]

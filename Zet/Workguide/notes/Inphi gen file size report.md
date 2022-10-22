@@ -7,6 +7,7 @@ tags:
 
 inphi script to gen file size of product `bin/legacy/gen_file_size_report.pl`, this script will `make legacy` then report file size.
 
+
 - the generated file 
 - ![[histo.png]]
 - ![[histo 1.png]]

@@ -9,5 +9,5 @@
 
 
 ## Questions & thoughts:
-- [ ] Taxonomy là một công cụ trong [[Wordpress]] #question❓ 
+- [ ] Taxonomy là một công cụ trong [[Wordpress]] #question  
 - [ ] Tìm hiểu taxonomy trong việc đặt tên file trong [[Zettelkasten]] #tasks/todo 

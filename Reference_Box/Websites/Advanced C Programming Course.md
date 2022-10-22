@@ -16,7 +16,7 @@ publish: False
 
 [[221021222506.excalidraw - Advanced C Programming Course]]
 
-- [[221021225051 - posix threads and C11 threads]]
+- [[221021225051 - Posix thread and C11 Threads]]
 - [[221021225342 - Posix Thread is also called pthread]]
 - [[221021225500 - C11 thread is in threads.h library]]
 - [[221021230607 - C99 không được sử dụng phổ biến, nhiều compiler không hỗ trợ chuẩn C99]]

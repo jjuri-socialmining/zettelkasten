@@ -13,3 +13,6 @@ Dùng [[Google Keep]] để note nhanh trên điện thoại và chuyển vào [
 - Chụp hình sách -> wrap text
 - Ghi âm giọng nói
 - vẽ hình
+- 
+
+Lấy ý tưởng từ [[221022091840 - Zsolt dùng Google Keep để ghi chú nhanh mọi thứ trên điện thoại]]

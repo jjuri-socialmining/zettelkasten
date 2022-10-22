@@ -14,5 +14,4 @@ CI & CD Pipeline là một chuỗi các công việc được hiện tuần tự
 - Deploy: Gửi cho người dùng cuối chạy thử hoặc triển khai trên môi trường thực.
 
 ## Questions & thoughts:
-- [ ] Code được build và triển khai qua các [[Docker]], Docker là gì? #question❓ 
-- [ ] 
+- [ ] Code được build và triển khai qua các [[Docker]], [[💥 Docker là gì]] #question  

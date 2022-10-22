@@ -17,4 +17,4 @@ up:: [[Advanced C Programming Course]], Section 1
 
 ## Relate:
 - [[221021225342 - Posix Thread is also called pthread]]
-- [[221021225051 - posix threads and C11 threads]]
+- [[221021225051 - Posix thread and C11 Threads]]

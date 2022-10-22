@@ -43,7 +43,6 @@ publish: False
 ## Notes:
 <% tp.file.cursor() %>
 
-## Source:
-up:: [[Advanced C Programming Course]], Section
+source:: [[Advanced C Programming Course]], Section
 
 ## Relate:

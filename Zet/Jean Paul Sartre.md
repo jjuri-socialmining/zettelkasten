@@ -18,4 +18,4 @@ Jean Paul Sartre (1905 - 1980) là triết gia hiện sinh, tiểu thuyết gia,
 
 ## Ideas & thoughts:
 - [[Albert Camus]]
-- Jean Paul Sartre uống thuốc kích thích để viết những tác phẩm cuối đời? tác phẩm đó là gì? #question❓ 
+- [ ] Jean Paul Sartre uống thuốc kích thích để viết những tác phẩm cuối đời? tác phẩm đó là gì? #question  

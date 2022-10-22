@@ -14,5 +14,5 @@ Globulin có ba loại chính:
 - [[Kháng thể]]
 
 ## Questions & thoughts:
--  Gamma protein là immunoglobulin, Huyết thanh miễn dịch, Globulin miễn dịch. Tức là Glubulin bao gồm huyết thanh miễn dịch... #question❓ 
+- [ ]  Gamma protein là immunoglobulin, Huyết thanh miễn dịch, Globulin miễn dịch. Tức là Glubulin bao gồm huyết thanh miễn dịch... #question  
 

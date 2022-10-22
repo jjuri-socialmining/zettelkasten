@@ -344,5 +344,6 @@
       "key": "Enter"
     }
   ],
-  "editor:toggle-bullet-list": []
+  "editor:toggle-bullet-list": [],
+  "graph:open": []
 }

@@ -9,7 +9,7 @@ aliases:
 
 https://dc5lp-vinetx000.marvell.com:8443/etx/
 
-[[@2022-08-11]]
+[[2022-08-11]]
 ```
 dutran
 3Kt#73Ib$

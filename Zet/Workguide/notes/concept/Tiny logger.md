@@ -5,7 +5,6 @@ tags:
   - 'permanent/concept'
 aliases:
   - tlog
-  - Tinylog
 ---
 
 [[Log dictionary]]
@@ -27,7 +26,7 @@ make -f build.inc ${exe_name} USE_TLOG=true defines="${defines} -DTLOG_CRC=$$(${
 ### Personal note
 - [[Tlog GUI integrate]]
 - [[RETCSW-229 - Add unittest for tlog]]
-- [[@2022-09-01 Final Tlog]]
+- [[2022-09-01 Final Tlog]]
 - Path to set:
 	- `C://Users//hcmswlab//Downloads//abcd_6_1_571//support//drivers//lynx_800//ucode//lynx_app_fw.tld`
 

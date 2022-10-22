@@ -16,11 +16,16 @@ kanban-plugin: basic
 
 - [ ] [[Cỗ máy Antikythera]]
 - [ ] [[@ trithucvn.org, Lemuria]]
+- [ ] Đọc sách [[@ Mihaly Csikszentmihalyi, Flow|Dòng chảy]]
 
 
 ## Waiting
 
-- [ ] [[Bike Tour Camping Trị An - Sep 24, 2022]]<br>- 22-09-24
+
+
+## Done
+
+**Complete**
 
 
 ***
@@ -45,9 +50,10 @@ kanban-plugin: basic
 - [ ] [[@ truyenxuatichcu.com, Heimdall - thần canh giữ chiếc cầu vồng Bifrost]]
 - [ ] [[@ wiki, Yggdrasil]]
 - [ ] [[@ wiki, Chữ Rune]]
+- [x] [[Bike Tour Camping Trị An - Sep 24, 2022]]<br>- 22-09-24
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic"}
+{"kanban-plugin":"basic","show-checkboxes":true,"hide-tags-display":false,"hide-tags-in-title":false}
 ```
 %%

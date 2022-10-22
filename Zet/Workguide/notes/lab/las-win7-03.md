@@ -13,3 +13,4 @@ las-win7-03
 user: LAS-WIN7-03\las-win7-03-user  
 pass: Ottlab123
 ```
+![[Pasted image 20221019121641.png]]

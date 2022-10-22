@@ -22,7 +22,7 @@ This is your launchpad and homebase. Your personal North Star. That's here. That
 	- 10 - [[PKM MOC]]
 
 ---
-| #question❓ |   [[Commonplace MOC|Commonplace]] | [[I want to]] 
+| #question  |   [[Commonplace MOC|Commonplace]] | [[I want to]] 
 
 `#project/active` | `#project/slowburn`
 `#project/idea` | `#project/idle` | `#project/archive` 

@@ -8,6 +8,11 @@ tags:
 ## Run
 - Register web browser has already ran on inphi server at http://sw.inphi-corp.local:8086/browser
 
+If you're working with the register browser to edit overlays and you want to start it you can speed it up by using the --asic=xyz flag. For example:  
+
+```shell
+python register_browser.py --asic=spicap
+```
 
 ## Develop
 Start local server on Cygwin on local windows

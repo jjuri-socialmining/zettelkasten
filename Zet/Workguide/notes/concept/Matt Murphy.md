@@ -7,6 +7,6 @@ aliases:
   - Marvell CEO
 ---
 
-Matt Murphy is President and Chief Executive Officer (CEO) of [[Marvell]]
+Matt Murphy is President and Chief Executive Officer (CEO) of [[notes/Marvell]]
 
 

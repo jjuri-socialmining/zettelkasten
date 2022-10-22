@@ -17,7 +17,7 @@
 ### Quy Điển
 - [[Cựu ước của Tin Lành lấy nguyên bản Tanakh của Do Thái Giáo]]
 - [[Cựu Ước Công giáo và Chính thống bao gồm Tanakh và thứ kinh]]
-- [[Giáo Hội Tin Lành không công nhận Thứ Kinh]] #question❓ 
+- [[Giáo Hội Tin Lành không công nhận Thứ Kinh]] #question  
 - [[Bản bảy mươi được sử dụng rộng rãi thời tiên khởi và được dùng trích dẫn trong Tân Ước]]
 - [[Moise được cho là đã viết Ngũ Kinh Cựu Ước]]
 - [[Năm sách trong Ngũ Kinh Cựu Ước]]

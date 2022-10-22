@@ -98,30 +98,57 @@ Enabling sw_counter
 export HSC_DIR=~/projects/hsc/
 make -C ${HSC_DIR}/spica5/capi clean
 make -C ${HSC_DIR}/spica5/capi PRODUCTS=spica5 PROJECT_PREFIX=spica5 CC_OPTIONS="-g3 -O0" legacy -j5
-
-# CLIB
-make -C ${HSC_DIR}/spica5/capi PRODUCTS=spica5_spicap PROJECT_PREFIX=spica5 CC_OPTIONS="-g3 -O0" legacy -j5
 ```
 ### Build Test
 
 ```shell
+cd ${HSC_DIR}/spica5/capi/tests
 meson setup --werror --warnlevel 2 -Db_coverage=true -DSIZE_T=size_t .x86
 
 
-make -C ${HSC_DIR}/spica5/api/capi/tests clean
-make -C ${HSC_DIR}/spica5/api/capi/tests xmlrpc
-make -C ${HSC_DIR}/spica5/api/capi/tests PRODUCTS=spica5 PROJECT_PREFIX=spica5 CC_OPTIONS="-g3 -O0" DEBUG=1 -j3
+make -C ${HSC_DIR}/spica5/capi/tests clean
+make -C ${HSC_DIR}/spica5/capi/tests xmlrpc
+make -C ${HSC_DIR}/spica5/capi/tests PRODUCTS=spica5 PROJECT_PREFIX=spica5 CC_OPTIONS="-g3 -O0" DEBUG=1 -j3
 ```
 
 
 ### Eclipse debug
 ```shell
-/home/dutran/projects/hsc/spica5/api/capi/build-output/tests/tests --rawtcp --ip 127.0.0.1 --port 50000 --product spica5
+/home/dutran/projects/hsc/spica5/capi/build-output/tests/tests --rawtcp --ip 127.0.0.1 --port 50000 --product spica5
 ```
 
 --rawtcp --ip 127.0.0.1 --port 50000 --product spica5
 
+### Simulator
+localhost: 127.0.0.1
+default port: 60010
 
+```
+python3 -m pip install zmq
+python3 -m pip install twisted
+```
+
+[[Cygwin]], python2
+
+```bash
+export HSC_DIR=/cygdrive/c/Users/dutran/projects/hsc/
+export PYTHONPATH=${HSC_DIR}/simulators:${HSC_DIR}/simulators/spica5:${HSC_DIR}/simulators/spica5/impl
+python3 ${HSC_DIR}/simulators/spica5/simulator.py
+```
+
+```log
+$ python3 ${HSC_DIR}/simulators/spica5/simulator.py
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 973, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 910, in run
+    self._target(*self._args, **self._kwargs)
+  File "/cygdrive/c/Users/dutran/projects/hsc/simulators/spica5/impl/spica5_impl.py", line 245, in _start_zmq
+    import zmq
+ModuleNotFoundError: No module named 'zmq'
+Creating local XMLRPC server on http://127.0.0.1:60009
+```
 
 ## Relate:
 - https://ewiki.marvell.com/pages/viewpage.action?pageId=242602988#NovaFW/APIWorkingEnvironment-Emulationenvironment

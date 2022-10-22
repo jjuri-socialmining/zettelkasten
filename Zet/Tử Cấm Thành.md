@@ -17,13 +17,3 @@ Tử Cấm Thành là một khu vực gồm nhiều cung điện nằm ở [[B�
 
 ## Ideas & thoughts:
 Mình đã từng đi thăm tử cấm thành
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Tử Cấm Thành]]
-sort file.name asc
-```

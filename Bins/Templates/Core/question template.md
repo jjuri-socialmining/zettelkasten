@@ -3,7 +3,7 @@ title: {{title}}
 UID: {{date:YYMMDDHHmmss}}
 tags:
   - '#created/{{date:YYYY/MMM/DD}}'
-  - '#question❓'
+  - '#quiz'
 ---
 
 ## Cards content:

@@ -9,11 +9,4 @@
 [[Baruch Spinoza]] khởi xướng việc đọc và phê bình [[Kinh thánh]]
 
 ## Questions & thoughts:
-- [ ] Trước thời kỳ này thì như thế nào #question❓ 
-
-## Related:
-```dataview
-list
-from [[Spinoza khởi xướng việc đọc và phê bình Kinh thánh]]
-sort file.name asc
-```
+- [ ] Trước thời kỳ này thì như thế nào #question  

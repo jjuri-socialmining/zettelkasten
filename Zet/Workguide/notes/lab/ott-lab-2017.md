@@ -1,7 +1,7 @@
 ---
 tags:
   - lab
-project: ctc
+project: ctca
 user: 'ott-lab-2017\lab'
 pass: 'Test@inphi'
 ---

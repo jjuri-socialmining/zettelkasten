@@ -22,8 +22,18 @@
     },
     {
       "type": "file",
-      "title": "Nhà Trần MOC",
-      "path": "Zet/Nhà Trần.md"
+      "title": "Tasks list",
+      "path": "Tasks list.md"
+    },
+    {
+      "type": "file",
+      "title": "Những niềm vui giản dị",
+      "path": "Zet/Thinking/Những niềm vui giản dị.md"
+    },
+    {
+      "type": "file",
+      "title": "📌 Workbench",
+      "path": "📌 Workbench.md"
     }
   ]
 }

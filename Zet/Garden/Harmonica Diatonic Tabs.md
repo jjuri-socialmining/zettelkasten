@@ -11,8 +11,8 @@ publish: False
 # Harmonica Diatonic Tabs
 
 Đồ, Mi, Son -> Thổi ra
-Rê, Fa, La, Si -> Hít vào
 
+Rê, Fa, La, Si -> Hít vào
 
 ## Notes:
 
@@ -25,4 +25,5 @@ Rê, Fa, La, Si -> Hít vào
 - [[220415214759 - Harmonica tab - Joy To the World]]
 - [[220415214936 - Harmonica tab - Oh My Darling Clementine]]
 - [[220415215358 - Harmonica tab - Yesterday]]
+- [[221022103448 - Harmonica tab - Thật là hay]]
 

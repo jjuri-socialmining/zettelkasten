@@ -15,7 +15,7 @@ Vaccine Vector sử dụng một loại virus trung gian an toàn (được gọ
 Sau đó, [[Hệ miễn dịch]] của cơ thể nhận biết mảnh [[ADN]] đó không thuộc về cơ thể. Và hệ miễn dịch kích hoạt cơ thể sản sinh [[Kháng thể]]. Cơ thể thể học được cách để bảo vệ mình.
 
 ## Ideas & thoughts:
-- [[Andenovirus]] là gì? #question❓ 
+- [ ] [[Andenovirus]] là gì? #question  
 - Hệ miễn dịch hoạt động như thế nào?
 - Kháng thể là gì?
 

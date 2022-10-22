@@ -18,7 +18,7 @@ Kháng thể là các phân tử protein Globulin. Kháng thể được cơ th�
 Kháng thể được sản xuất bởi bạch cầu [[Lympho B]] để [[Hệ miễn dịch]] nhận biết và vô hiệu hóa các vật thể lạ trong cơ thể như vi khuẩn hoặc virus, gọi chung là [[Kháng nguyên]].
 
 ## Ideas & thoughts:
-- epitope kháng nguyên là gì? #question❓ 
+- [[💥 epitope kháng nguyên là gì]]? 
 - Gamma protein, hay còn được gọi là [[Kháng thể]] là một loại [[Globulin]], Gamma protein là có hình cầu và tan trong Globulin???
 - Gamma protein bao gồm kháng thể IgA, IgD, IgE, IgG và IgM.
 

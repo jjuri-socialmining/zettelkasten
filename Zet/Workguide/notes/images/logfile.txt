@@ -1,0 +1,183 @@
+22243822:DEBUG:ipc.c:113:ipc_proc hdr.id = xabcd type = 16 len = 28
+22243831:DEBUG:lynx_ipc.c:323:msg_handler__bundle_delete_attr_req len rx = 28 exp = 28
+22247186:DEBUG:lynx_ipc_bundle.c:1896:Del f.f.f.f
+22247195:DEBUG:lynx_ipc_bundle.c:1923:LINE ANLT N
+22249360:DEBUG:lynx_ipc_bundle.c:1962:Delete RX chn = 0
+22251523:DEBUG:lynx_ipc_bundle.c:1971:Delete TX chn = 0
+22255826:DEBUG:lynx_ipc_bundle.c:1962:Delete RX chn = 1
+22260128:DEBUG:lynx_ipc_bundle.c:1971:Delete TX chn = 1
+22262293:DEBUG:lynx_ipc_bundle.c:1962:Delete RX chn = 2
+22264456:DEBUG:lynx_ipc_bundle.c:1971:Delete TX chn = 2
+22268759:DEBUG:lynx_ipc_bundle.c:1962:Delete RX chn = 3
+22273061:DEBUG:lynx_ipc_bundle.c:1971:Delete TX chn = 3
+22273069:DEBUG:lynx_ipc_bundle.c:1923:HOST ANLT N
+22275234:DEBUG:lynx_ipc_bundle.c:1962:Delete RX chn = 0
+22277397:DEBUG:lynx_ipc_bundle.c:1971:Delete TX chn = 0
+22281700:DEBUG:lynx_ipc_bundle.c:1962:Delete RX chn = 1
+22286002:DEBUG:lynx_ipc_bundle.c:1971:Delete TX chn = 1
+22288167:DEBUG:lynx_ipc_bundle.c:1962:Delete RX chn = 2
+22290330:DEBUG:lynx_ipc_bundle.c:1971:Delete TX chn = 2
+22294633:DEBUG:lynx_ipc_bundle.c:1962:Delete RX chn = 3
+22298935:DEBUG:lynx_ipc_bundle.c:1971:Delete TX chn = 3
+21941728:DEBUG:ipc.c:113:ipc_proc hdr.id = xabcd type = 12 len = 1552
+21941737:DEBUG:lynx_ipc.c:157:msg_handler__bundle_start_attr_req len exp = 1552 len = 1552
+22131256:DEBUG:lynx_ipc_bundle.c:1401:bundle_start0 oper0 bund_md2
+22131278:DEBUG:lynx_ipc_bundle.c:1557:xbar setup
+22131311:DEBUG:lynx_ipc_bundle.c:1561:Line setup
+22131319:DEBUG:lynx_ipc_bundle.c:1264:none_anlt LTX chn_idx = 0
+22133480:DEBUG:lynx_ipc_bundle.c:1273:cpl_init_rx
+22133511:DEBUG:lynx_ipc_bundle.c:1286:cpl_init_tx
+22133532:DEBUG:lynx_ipc_bundle.c:1264:none_anlt LTX chn_idx = 1
+22135693:DEBUG:lynx_ipc_bundle.c:1273:cpl_init_rx
+22135724:DEBUG:lynx_ipc_bundle.c:1286:cpl_init_tx
+22135745:DEBUG:lynx_ipc_bundle.c:1264:none_anlt LTX chn_idx = 2
+22137906:DEBUG:lynx_ipc_bundle.c:1273:cpl_init_rx
+22137937:DEBUG:lynx_ipc_bundle.c:1286:cpl_init_tx
+22137959:DEBUG:lynx_ipc_bundle.c:1264:none_anlt LTX chn_idx = 3
+22140119:DEBUG:lynx_ipc_bundle.c:1273:cpl_init_rx
+22140151:DEBUG:lynx_ipc_bundle.c:1286:cpl_init_tx
+22140172:DEBUG:lynx_ipc_bundle.c:1570:Host setup
+22140180:DEBUG:lynx_ipc_bundle.c:1264:none_anlt HTX chn_idx = 0
+22142341:DEBUG:lynx_ipc_bundle.c:1273:cpl_init_rx
+22142372:DEBUG:lynx_ipc_bundle.c:1286:cpl_init_tx
+22142393:DEBUG:lynx_ipc_bundle.c:1264:none_anlt HTX chn_idx = 1
+22144554:DEBUG:lynx_ipc_bundle.c:1273:cpl_init_rx
+22144585:DEBUG:lynx_ipc_bundle.c:1286:cpl_init_tx
+22144607:DEBUG:lynx_ipc_bundle.c:1264:none_anlt HTX chn_idx = 2
+22146767:DEBUG:lynx_ipc_bundle.c:1273:cpl_init_rx
+22146799:DEBUG:lynx_ipc_bundle.c:1286:cpl_init_tx
+22146820:DEBUG:lynx_ipc_bundle.c:1264:none_anlt HTX chn_idx = 3
+22148981:DEBUG:lynx_ipc_bundle.c:1273:cpl_init_rx
+22149012:DEBUG:lynx_ipc_bundle.c:1286:cpl_init_tx
+1101921:DEBUG:ipc.c:113:ipc_proc hdr.id = xabcd type = 16 len = 28
+1101930:DEBUG:lynx_ipc.c:323:msg_handler__bundle_delete_attr_req len rx = 28 exp = 28
+1105181:DEBUG:lynx_ipc_bundle.c:1896:Del f.f.f.f
+1105190:DEBUG:lynx_ipc_bundle.c:1923:LINE ANLT N
+1107355:DEBUG:lynx_ipc_bundle.c:1962:Delete RX chn = 0
+1109518:DEBUG:lynx_ipc_bundle.c:1971:Delete TX chn = 0
+1113821:DEBUG:lynx_ipc_bundle.c:1962:Delete RX chn = 1
+1118123:DEBUG:lynx_ipc_bundle.c:1971:Delete TX chn = 1
+1120288:DEBUG:lynx_ipc_bundle.c:1962:Delete RX chn = 2
+1122451:DEBUG:lynx_ipc_bundle.c:1971:Delete TX chn = 2
+1126754:DEBUG:lynx_ipc_bundle.c:1962:Delete RX chn = 3
+1131056:DEBUG:lynx_ipc_bundle.c:1971:Delete TX chn = 3
+1131064:DEBUG:lynx_ipc_bundle.c:1923:HOST ANLT N
+1133229:DEBUG:lynx_ipc_bundle.c:1962:Delete RX chn = 0
+1135392:DEBUG:lynx_ipc_bundle.c:1971:Delete TX chn = 0
+1139695:DEBUG:lynx_ipc_bundle.c:1962:Delete RX chn = 1
+1143997:DEBUG:lynx_ipc_bundle.c:1971:Delete TX chn = 1
+1146162:DEBUG:lynx_ipc_bundle.c:1962:Delete RX chn = 2
+1148325:DEBUG:lynx_ipc_bundle.c:1971:Delete TX chn = 2
+1152628:DEBUG:lynx_ipc_bundle.c:1962:Delete RX chn = 3
+1156930:DEBUG:lynx_ipc_bundle.c:1971:Delete TX chn = 3
+19748556:DEBUG:ipc.c:113:ipc_proc hdr.id = xabcd type = 12 len = 1552
+19748565:DEBUG:lynx_ipc.c:157:msg_handler__bundle_start_attr_req len exp = 1552 len = 1552
+19949953:DEBUG:lynx_ipc_bundle.c:1401:bundle_start0 oper0 bund_md2
+19949975:DEBUG:lynx_ipc_bundle.c:1557:xbar setup
+19950008:DEBUG:lynx_ipc_bundle.c:1561:Line setup
+19950016:DEBUG:lynx_ipc_bundle.c:1264:none_anlt LTX chn_idx = 0
+19955387:DEBUG:lynx_ipc_bundle.c:1273:cpl_init_rx
+19957558:DEBUG:lynx_ipc_bundle.c:1286:cpl_init_tx
+19959718:DEBUG:lynx_ipc_bundle.c:1264:none_anlt LTX chn_idx = 1
+19973645:DEBUG:lynx_ipc_bundle.c:1273:cpl_init_rx
+19976884:DEBUG:lynx_ipc_bundle.c:1286:cpl_init_tx
+19981183:DEBUG:lynx_ipc_bundle.c:1264:none_anlt LTX chn_idx = 2
+19986554:DEBUG:lynx_ipc_bundle.c:1273:cpl_init_rx
+19988724:DEBUG:lynx_ipc_bundle.c:1286:cpl_init_tx
+19990885:DEBUG:lynx_ipc_bundle.c:1264:none_anlt LTX chn_idx = 3
+20004811:DEBUG:lynx_ipc_bundle.c:1273:cpl_init_rx
+20008051:DEBUG:lynx_ipc_bundle.c:1286:cpl_init_tx
+20012350:DEBUG:lynx_ipc_bundle.c:1570:Host setup
+20012358:DEBUG:lynx_ipc_bundle.c:1264:none_anlt HTX chn_idx = 0
+20017729:DEBUG:lynx_ipc_bundle.c:1273:cpl_init_rx
+20019899:DEBUG:lynx_ipc_bundle.c:1286:cpl_init_tx
+20022060:DEBUG:lynx_ipc_bundle.c:1264:none_anlt HTX chn_idx = 1
+20035986:DEBUG:lynx_ipc_bundle.c:1273:cpl_init_rx
+20039226:DEBUG:lynx_ipc_bundle.c:1286:cpl_init_tx
+20043524:DEBUG:lynx_ipc_bundle.c:1264:none_anlt HTX chn_idx = 2
+20048895:DEBUG:lynx_ipc_bundle.c:1273:cpl_init_rx
+20051066:DEBUG:lynx_ipc_bundle.c:1286:cpl_init_tx
+20053226:DEBUG:lynx_ipc_bundle.c:1264:none_anlt HTX chn_idx = 3
+20067153:DEBUG:lynx_ipc_bundle.c:1273:cpl_init_rx
+20070392:DEBUG:lynx_ipc_bundle.c:1286:cpl_init_tx
+22407852:DEBUG:ipc.c:113:ipc_proc hdr.id = xabcd type = 14 len = 28
+22407860:DEBUG:lynx_ipc.c:205:msg_handler__bundle_query_attr_req
+22411005:DEBUG:lynx_ipc_bundle.c:1761:Query f.f.f.f
+24051123:DEBUG:ipc.c:113:ipc_proc hdr.id = xabcd type = 14 len = 28
+24051132:DEBUG:lynx_ipc.c:205:msg_handler__bundle_query_attr_req
+24054303:DEBUG:lynx_ipc_bundle.c:1761:Query f.f.f.f
+3372146:DEBUG:ipc.c:113:ipc_proc hdr.id = xabcd type = 16 len = 28
+3372155:DEBUG:lynx_ipc.c:323:msg_handler__bundle_delete_attr_req len rx = 28 exp = 28
+3375197:DEBUG:lynx_ipc_bundle.c:1896:Del f.f.f.f
+3375206:DEBUG:lynx_ipc_bundle.c:1923:LINE ANLT N
+3377371:DEBUG:lynx_ipc_bundle.c:1962:Delete RX chn = 0
+3379535:DEBUG:lynx_ipc_bundle.c:1971:Delete TX chn = 0
+3383838:DEBUG:lynx_ipc_bundle.c:1962:Delete RX chn = 1
+3388139:DEBUG:lynx_ipc_bundle.c:1971:Delete TX chn = 1
+3390304:DEBUG:lynx_ipc_bundle.c:1962:Delete RX chn = 2
+3392468:DEBUG:lynx_ipc_bundle.c:1971:Delete TX chn = 2
+3396771:DEBUG:lynx_ipc_bundle.c:1962:Delete RX chn = 3
+3401072:DEBUG:lynx_ipc_bundle.c:1971:Delete TX chn = 3
+3401080:DEBUG:lynx_ipc_bundle.c:1923:HOST ANLT N
+3403245:DEBUG:lynx_ipc_bundle.c:1962:Delete RX chn = 0
+3405409:DEBUG:lynx_ipc_bundle.c:1971:Delete TX chn = 0
+3409712:DEBUG:lynx_ipc_bundle.c:1962:Delete RX chn = 1
+3414013:DEBUG:lynx_ipc_bundle.c:1971:Delete TX chn = 1
+3416178:DEBUG:lynx_ipc_bundle.c:1962:Delete RX chn = 2
+3418342:DEBUG:lynx_ipc_bundle.c:1971:Delete TX chn = 2
+3422645:DEBUG:lynx_ipc_bundle.c:1962:Delete RX chn = 3
+3426946:DEBUG:lynx_ipc_bundle.c:1971:Delete TX chn = 3
+2931739:DEBUG:ipc.c:113:ipc_proc hdr.id = xabcd type = 12 len = 1552
+2931748:DEBUG:lynx_ipc.c:157:msg_handler__bundle_start_attr_req len exp = 1552 len = 1552
+3120345:DEBUG:lynx_ipc_bundle.c:1401:bundle_start0 oper0 bund_md2
+3120366:DEBUG:lynx_ipc_bundle.c:1557:xbar setup
+3120400:DEBUG:lynx_ipc_bundle.c:1561:Line setup
+3120408:DEBUG:lynx_ipc_bundle.c:1264:none_anlt LTX chn_idx = 0
+3125779:DEBUG:lynx_ipc_bundle.c:1273:cpl_init_rx
+3127950:DEBUG:lynx_ipc_bundle.c:1286:cpl_init_tx
+3130110:DEBUG:lynx_ipc_bundle.c:1264:none_anlt LTX chn_idx = 1
+3144036:DEBUG:lynx_ipc_bundle.c:1273:cpl_init_rx
+3147276:DEBUG:lynx_ipc_bundle.c:1286:cpl_init_tx
+3151575:DEBUG:lynx_ipc_bundle.c:1264:none_anlt LTX chn_idx = 2
+3156946:DEBUG:lynx_ipc_bundle.c:1273:cpl_init_rx
+3159116:DEBUG:lynx_ipc_bundle.c:1286:cpl_init_tx
+3161277:DEBUG:lynx_ipc_bundle.c:1264:none_anlt LTX chn_idx = 3
+3175203:DEBUG:lynx_ipc_bundle.c:1273:cpl_init_rx
+3178442:DEBUG:lynx_ipc_bundle.c:1286:cpl_init_tx
+3182741:DEBUG:lynx_ipc_bundle.c:1570:Host setup
+3182750:DEBUG:lynx_ipc_bundle.c:1264:none_anlt HTX chn_idx = 0
+3188121:DEBUG:lynx_ipc_bundle.c:1273:cpl_init_rx
+3190291:DEBUG:lynx_ipc_bundle.c:1286:cpl_init_tx
+3192451:DEBUG:lynx_ipc_bundle.c:1264:none_anlt HTX chn_idx = 1
+3206378:DEBUG:lynx_ipc_bundle.c:1273:cpl_init_rx
+3209617:DEBUG:lynx_ipc_bundle.c:1286:cpl_init_tx
+3213916:DEBUG:lynx_ipc_bundle.c:1264:none_anlt HTX chn_idx = 2
+3219287:DEBUG:lynx_ipc_bundle.c:1273:cpl_init_rx
+3221458:DEBUG:lynx_ipc_bundle.c:1286:cpl_init_tx
+3223618:DEBUG:lynx_ipc_bundle.c:1264:none_anlt HTX chn_idx = 3
+3237544:DEBUG:lynx_ipc_bundle.c:1273:cpl_init_rx
+3240784:DEBUG:lynx_ipc_bundle.c:1286:cpl_init_tx
+4278618:DEBUG:ipc.c:113:ipc_proc hdr.id = xabcd type = 14 len = 28
+4278626:DEBUG:lynx_ipc.c:205:msg_handler__bundle_query_attr_req
+4282338:DEBUG:lynx_ipc_bundle.c:1761:Query f.f.f.f
+15123201:DEBUG:ipc.c:113:ipc_proc hdr.id = xabcd type = 16 len = 28
+15123210:DEBUG:lynx_ipc.c:323:msg_handler__bundle_delete_attr_req len rx = 28 exp = 28
+15126708:DEBUG:lynx_ipc_bundle.c:1896:Del f.f.f.f
+15126717:DEBUG:lynx_ipc_bundle.c:1923:LINE ANLT N
+15128882:DEBUG:lynx_ipc_bundle.c:1962:Delete RX chn = 0
+15131045:DEBUG:lynx_ipc_bundle.c:1971:Delete TX chn = 0
+15135348:DEBUG:lynx_ipc_bundle.c:1962:Delete RX chn = 1
+15139650:DEBUG:lynx_ipc_bundle.c:1971:Delete TX chn = 1
+15141815:DEBUG:lynx_ipc_bundle.c:1962:Delete RX chn = 2
+15143978:DEBUG:lynx_ipc_bundle.c:1971:Delete TX chn = 2
+15148281:DEBUG:lynx_ipc_bundle.c:1962:Delete RX chn = 3
+15152583:DEBUG:lynx_ipc_bundle.c:1971:Delete TX chn = 3
+15152591:DEBUG:lynx_ipc_bundle.c:1923:HOST ANLT N
+15154756:DEBUG:lynx_ipc_bundle.c:1962:Delete RX chn = 0
+15156919:DEBUG:lynx_ipc_bundle.c:1971:Delete TX chn = 0
+15161222:DEBUG:lynx_ipc_bundle.c:1962:Delete RX chn = 1
+15165524:DEBUG:lynx_ipc_bundle.c:1971:Delete TX chn = 1
+15167689:DEBUG:lynx_ipc_bundle.c:1962:Delete RX chn = 2
+15169852:DEBUG:lynx_ipc_bundle.c:1971:Delete TX chn = 2
+15174155:DEBUG:lynx_ipc_bundle.c:1962:Delete RX chn = 3
+15178457:DEBUG:lynx_ipc_bundle.c:1971:Delete TX chn = 3
