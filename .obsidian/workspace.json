@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zet/Workguide/notes/daily/@2022-10-17.md",
-                "mode": "preview",
+                "file": "Spaces/Journal/Đám cưới Nhơn dưới Tiền Giang.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zet/Workguide/notes/daily/@2022-10-17.md"
+                "file": "Spaces/Journal/Đám cưới Nhơn dưới Tiền Giang.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zet/Workguide/notes/daily/@2022-10-17.md",
+                "file": "Spaces/Journal/Đám cưới Nhơn dưới Tiền Giang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zet/Workguide/notes/daily/@2022-10-17.md",
+                "file": "Spaces/Journal/Đám cưới Nhơn dưới Tiền Giang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Zet/Workguide/notes/daily/@2022-10-17.md",
+                "file": "Spaces/Journal/Đám cưới Nhơn dưới Tiền Giang.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,7 +219,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -230,15 +230,15 @@
   },
   "active": "eb2827a4bc6c3c22",
   "lastOpenFiles": [
-    "Zet/Workguide/notes/daily/@2022-10-19.md",
-    "Zet/Workguide/notes/daily/@2022-10-20.md",
     "Spaces/Daily/2022-10-22.md",
-    "Reference_Box/Books/@ viblo.asia, Sự khác nhau giữa trình biên dịch và trình thông dịch.md",
-    "Reference_Box/Books/@ Paul Barry, Head First Python - A Brain-Friendly Guide.md",
-    "Zet/Python Interpreters.md",
-    "Zet/Fact/221022220343 - IDLE sử dụng Python Shell trên môi trường REPL.md",
-    "Zet/Concept/IDLE.md",
-    "Zet/Fact/221022215538 - IDLE là IDE mặc định được cài đặt chung với gói Python 3.md",
-    "Zet/Concept/REPL Environment.md"
+    "Spaces/Daily/2022-10-21.md",
+    "Zet/Ideas/💥 Sử dụng Google Keep hỗ trợ capture fleet note và import vào Obsidian.md",
+    "Zet/Fact/221022091840 - Zsolt dùng Google Keep để ghi chú nhanh mọi thứ trên điện thoại.md",
+    "Spaces/Daily/2022-10-20.md",
+    "Zet/Fact/221020235550 - GG gửi Plan leo Pusilung và Ngũ Chỉ Sơn 2023.md",
+    "Spaces/Daily/2022-10-19.md",
+    "Spaces/Daily/2022-10-18.md",
+    "Spaces/Daily/2022-10-17.md",
+    "Reference_Box/Books/@ Paul Barry, Head First Python - A Brain-Friendly Guide.md"
   ]
 }
