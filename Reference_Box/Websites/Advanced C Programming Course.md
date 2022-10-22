@@ -44,3 +44,11 @@ IDE recommend in this course
 	- [[Static Variable]]
 		- [[221022000715 - Static Variable is alloacated on the heap]]
 	- [[Register]]
+	- [[221022200624 - Quiz of Storage Class]]
+- Section 7: Type Qualifier
+	- Const -> Just assign value when declare variable
+	- [[221022202021 - Advanced usecases of const keyword in C]]
+	- [[Volatile Type Qualifier]]
+	- [[Restrict Type Qualifier]]
+
+[[❔221022-2028 - Điều khác biệt lớn nhất giữa C11 và C99 là gì]]

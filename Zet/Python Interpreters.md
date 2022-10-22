@@ -7,7 +7,7 @@
 	- source: 
 
 ## Notes
-Python Interpreters, trình biên dịch python, là một công cụ dùng để chuyển đoạn code do con người tạo ra thành ngôn ngữ máy tính có thể đọc và thực thi.
+Python Interpreters, trình thông dịch python, là một công cụ dùng để chuyển đoạn code do con người tạo ra thành ngôn ngữ máy tính có thể đọc và thực thi.
 Các trình biên dịch phổ biến bao gồm
 - [[Cython]]
 - [[Jython]]
