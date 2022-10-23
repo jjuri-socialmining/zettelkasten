@@ -9,3 +9,4 @@ tags:
 ## Notes:
 Century là cự ly 100 dặm trong đạp xe
 
+![[Tổng hợp các chặng Century#Notes:]]

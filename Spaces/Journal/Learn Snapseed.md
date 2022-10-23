@@ -7,6 +7,6 @@ tags:
   - 'daily/journal'
 ---
 ## Notes:
-[[Snapseed]]
-
+- [[Snapseed]]
+- [[Master Curves in Snapseed]]
 

@@ -12,4 +12,4 @@ aliases:
 
 ## Notes:
 
-
+Lần đầu làm quen [[Mai Anh]] ở giải này, hai anh em hẹn nhau ăn ốc ở HN.

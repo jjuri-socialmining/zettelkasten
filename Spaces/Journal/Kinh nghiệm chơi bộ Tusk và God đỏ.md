@@ -6,6 +6,7 @@ tags:
   - 'created/2022/Aug/28'
   - 'daily/journal'
 ---
+up:: [[Autochess]]
 ## Notes:
 6 warrior ở level 6 và scroll tusk champion 3 sao
 - [[Tusk Champion]]

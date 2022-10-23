@@ -1,28 +1,16 @@
 <%*
-  title = tp.date.now("❓YYMMDD-HHmm")
-
+  let title = tp.file.title;
   if (title.startsWith("Untitled")) {
     await tp.file.rename(title);
   }
 
-  await tp.file.move("/Spaces/Daily/" + title);
+  await tp.file.move("/Spaces/Questions/" + title + "❓");
   tR += "---"
 %>
 title: <%* tR += title %>
 UID: <% tp.date.now("YYMMDDHHmmss") %>
+created: <% tp.date.now("DD-MMM-YYYY") %>
 tags:
-  - '#created/<% tp.date.now("YYYY/MM/DD") %>'
-  - '#question'
+  - 'created/<% tp.date.now("YYYY/MM/DD") %>'
+  - 'question/todo'
 ---
-# <%* tR += title %>
-
-## Cards content:
-
-<% tp.file.cursor() %>
-
-## Tham khảo:
-```dataview
-list
-from [[<%* tR += title %>]]
-sort file.name asc
-```

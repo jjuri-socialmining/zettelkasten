@@ -13,5 +13,7 @@
   "obsidian-tasks-plugin",
   "templater-obsidian",
   "file-explorer-note-count",
-  "obsidian-emoji-toolbar"
+  "obsidian-emoji-toolbar",
+  "breadcrumbs",
+  "obsidian-map-view"
 ]

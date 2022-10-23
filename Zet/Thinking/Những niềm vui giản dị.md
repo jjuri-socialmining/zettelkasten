@@ -49,3 +49,7 @@ permanent -> evergreen -> think
 ### [[2022-10-22]]
 - [[🙂 221022091530 - Vui vì hôm nay là thứ 7]]
 - [[🙂 221022113626 - Tìm được từ tiếng Việt diễn tả ý để ghi chú trong obsidian]]
+- 
+
+### [[2022-10-23]]
+- [[🙂 221023213250 - Đi đám cưới xa lên xe không mắc tè]]

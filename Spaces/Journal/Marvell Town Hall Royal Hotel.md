@@ -12,5 +12,7 @@ Sự kiện Marvell Town Hall là một sự kiện của Marvell Việt Nam đ�
 
 Anh Lợi Nguyễn là SVP của Inphi cũ. Anh qua chia sẻ chung về những gì Marvell toàn cầu đang làm, mình cũng nắm được đôi điều về Marvell, về các đối thủ của Marvell trong các lĩnh vực mà Marvell đang theo đuổi.
 
+Buffer cuối buổi bèo nhèo vl.
+
 - [[Silicon Photonics]]: Công nghệ mới của Marvell có tương lai thay thế bộ phát và thu optical đang độc bá của [[Qualcom]]
 - SPG Storage [[Compute Express Link (CXL)]] công nghệ mới:

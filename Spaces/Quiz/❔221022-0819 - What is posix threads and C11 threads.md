@@ -1,12 +1,10 @@
 ---
-title: ❓221022-0819
+title: What is posix threads and C11 threads
 UID: 221022081937
 tags:
   - '#created/2022/10/22'
   - '#quiz'
 ---
-# ❓221022-0819
-
 ## Cards content:
 
 ---

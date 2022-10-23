@@ -11,7 +11,9 @@ aliases:
 publish: False
 ---
 ## Notes:
-[[Phim hoạt hình bẩn bựa]]
+- [[Phim hoạt hình bẩn bựa]]
+- [[221010214722 - Mika hỏi bọn con trai có rửa tay sau khi đi tè không]]
+- 
 
-[[221010214722 - Mika hỏi bọn con trai có rửa tay sau khi đi tè không]]
+*Gọi em là cây xăng, vì không có tiền em đéo đổ*
 

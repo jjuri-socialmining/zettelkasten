@@ -16,4 +16,4 @@ publish: False
 
 ## Source:
 up:: [[Advanced C Programming Course]], section 1
-[[❓221022-0819 - What is posix threads and C11 threads]]
+[[❔221022-0819 - What is posix threads and C11 threads]]
