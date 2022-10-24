@@ -15,4 +15,3 @@ up:: [[People MOC]], [[Runner MOC]], [[PTR Member MOC]]
 
 Dũng Gâu PTR
 
-

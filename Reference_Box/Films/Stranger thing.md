@@ -23,4 +23,4 @@ Season 2:
 
 
 ## Ideas
-- [[💥 Làm kẻ lập dị hay muốn giống mọi người]]
+- [[Làm kẻ lập dị hay muốn giống mọi người❓]]

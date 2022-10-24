@@ -11,4 +11,4 @@ publish: False
 up:: [[People MOC]], [[BK-er]]
 
 ## Notes:
-Runner mình quen trên đường chạy 100k VMM 2022, ngay tren đồi Bò
+Runner mình quen trên đường chạy 100k [[VMM100 Sapa 09-Sep-2022|VMM2022]], ngay trên đồi Bò
