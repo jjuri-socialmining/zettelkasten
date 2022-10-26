@@ -13,4 +13,5 @@ tags:
 - [ ] Tìm hiểu các công ty làm IoT trên thị trường VN #tasks/todo 🔼 
 - Hưởng bảo hiểm thất nghiệp như thế nào
 - Hồ sơ nghỉ việc
+- [[List các công ty cần lưu ý]]
 

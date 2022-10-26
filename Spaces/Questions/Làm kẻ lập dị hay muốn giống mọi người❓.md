@@ -9,5 +9,6 @@ Trong phim [[Stranger thing]] season 2 tập 1, đoạn 2 anh em Jonathan và Wi
 
 https://www.youtube.com/watch?v=9rf-B9csjj0
 
+Sau đó, dưới video có một comment diễn tả video xuất sắc:
 - It's good to be a freak, it's no fun to be like everyone else.
 - Làm kẻ lập dị hay muốn giống mọi người

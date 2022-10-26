@@ -19,3 +19,5 @@ up:: [[Shin Splints]]
 ![[20221009221731 ~ Shin Splints exercise.png]]
 
 Động tác dễ thực hiện nhất là cử động duỗi, co cổ chân ở tư thế nằm, ngồi, đứng. Giúp máu lưu thông quanh vùng shin plints
+
+https://www.youtube.com/watch?v=HBwokYZxKGg

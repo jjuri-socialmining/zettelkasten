@@ -11,12 +11,10 @@
             "id": "54ceb341977d4b8a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Spaces/Daily/2022-10-26.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -65,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#created/2022/Oct/25",
+                "query": "tag:#question/todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spaces/Daily/2022-10-26.md"
-              }
+              "state": {}
             }
           },
           {
@@ -130,7 +126,7 @@
                   "lat": 10.036566932793646,
                   "lng": 105.78970596845001
                 },
-                "query": "path:\"Spaces/Daily/2022-10-26.md\"",
+                "query": "path:\"Spaces/Questions/Làm kẻ lập dị hay muốn giống mọi người❓.md\"",
                 "chosenMapSource": 0,
                 "queryError": true,
                 "followActiveNote": true
@@ -144,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Daily/2022-10-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +156,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Daily/2022-10-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,14 +167,13 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/Daily/2022-10-26.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
+                  "localInterlinks": true,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
@@ -196,7 +189,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.4019828977761162,
+                  "scale": 0.9189974811199607,
                   "close": false
                 }
               }
@@ -235,27 +228,26 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 460.5,
-    "collapsed": true
+    "width": 460.5
   },
   "ribbon": {
     "mostRecentAction": ""
   },
   "active": "54ceb341977d4b8a",
   "lastOpenFiles": [
-    "Spaces/Ideas/💥 How to send a signal to executed process from terminal.md",
-    "Spaces/Ideas/💥 what is difference between make and automake.md",
-    "Zet/Garden/Step by step to use Shared memory between 2 processes.md",
-    "Zet/Garden/Step by step to perform communication using Message Queues between 2 processes.md",
-    "Zet/Concept/Socket programming.md",
-    "Zet/Concept/signal() func.md",
-    "Spaces/Daily/2022-10-25.md",
-    "Reference_Box/Websites/Advanced C Programming Course.md",
-    "Zet/Fact/221025230213 - 2 process có thể giao tiếp với nhau bằng nhiều cách thức.md",
-    "Zet/Concept/Shared Memory.md"
+    "Spaces/Questions/Làm kẻ lập dị hay muốn giống mọi người❓.md",
+    "Spaces/Questions/Liệu bạn có chấp nhận một cuộc sống vô lo sống trong cái guồng quay của thế giới đánh đổi lấy sự tỉnh thức đau đớn❓.md",
+    "Spaces/Questions/Nếu bỏ bớt thứ gì đó trong đời, thứ mình muốn bỏ nhất là gì❓.md",
+    "Spaces/Questions/Nếu theo bài phát biểu Trọc phú kiến thức, thì cách mình đang xây dựng Obsidian cũng là một bản sao như vậy❓.md",
+    "Spaces/Questions/Thực chất vì lý do gì mình vẫn chạy bộ❓.md",
+    "Zet/Thinking/❕ Vấn đề thiên mệnh thời Nhà Chu.md",
+    "📑 Bookmark.md",
+    "📌 Workbench.md",
+    "Enter the garden.md",
+    "Enter forest.md"
   ]
 }

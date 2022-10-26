@@ -84,5 +84,6 @@ Vietjet delay 20min
 
 Lúc về mua 1 kg hạt dẻ với 300k khô trâu gác bếp. Cái khô trâu gác bếp hôm [[2022-09-05]] khui ra đưa cho [[Nguyễn Hoàng Duy]] với [[Gia Nghi]] một miếng, hôm sau mở bịch ra thấy có vết. Thế là đậy lại bỏ trong hộp, cũng không thoát nổi mốc. [[2022-09-17|Hôm nay]], về GK nhờ má cạo đi, rửa sơ qua rùi bỏ vào nồi nướng điện nướng lại 20min. Mẻ này thấy còn chưa khô, vẫn còn chảy mỡ trâu, hèn chi bị mốc.
 
-- [ ] Tìm hiểu cách làm trâu khô gác bếp #tasks/todo 
-- [ ] Khói bếp có làm làm thức ăn không bị mốc giống như kiểu Trâu gác bếp? #tasks/todo 
+- [x] Tìm hiểu [[Cách làm trâu gác bếp]] #tasks/done ✅ 2022-10-26
+- [x] Khói bếp có làm làm thức ăn không bị mốc giống như kiểu Trâu gác bếp? ✅ 2022-10-26
+	- Câu hỏi sai, vì thực ra cách làm Trâu gác bếp, thành phẩm chỉ 9-12 tiếng, chứ không phải để lâu, 9-12 tiếng thì thịt trâu làm gì kịp hư và việc gác bếp thực chất là dùng than, khói sấy khô miếng thịt trâu nên thịt trâu không kịp hư được. Sau khi thành phẩm, cần phải bảo quản kỹ không sẽ bị mốc đó nhe

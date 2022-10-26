@@ -9,7 +9,7 @@ tags:
 ## Notes:
 
 ### [[C Programming]]
-- [ ] Tìm hiểu Union trong C #tasks/todo 
+- [x] Tìm hiểu Union trong C #tasks/done  -> [[Advanced C Programming Course]] ✅ 2022-10-26
 - [ ] Investigate string in C #tasks/todo 
 	- print, pointer, declear, character,...
 - What a simplest C program
