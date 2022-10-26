@@ -10,7 +10,7 @@ publish: False
 ---
 - metadata:
 	- url:: https://marvell.udemy.com/course/advanced-c-programming-course/learn/lecture/17961842#overview
-	- author::
+	- author:: [[Jason Fedin]]
 	- category::
 
 
@@ -50,5 +50,25 @@ IDE recommend in this course
 	- [[221022202021 - Advanced usecases of const keyword in C]]
 	- [[Volatile Type Qualifier]]
 	- [[Restrict Type Qualifier]]
+
+- Section 9: Advanced Control Flow
+	- Program Counter?
+	- setjmp/longjmp in setjmp.h
+
+- Union
+	- Union giống struct ngoại trừ đặc điểm là size của union là member có size lớn nhất trong union đó -> tiết kiệm memory.
+	- Một lầ truy xuất chỉ truy xuất được 1 member tại 1 thời điểm
+	- Sử dụng union như một dạng dữ liệu đa hình, có thể là int/float/...
+- IPC
+	- 2 types of process
+		- Independent process: not affected/interact by/with another processes
+		- Co-operating process: affected by other processes
+	- IPC make processes work together
+	- 2 communication types
+		- Parent child
+		- 2 different processes
+		- [[221025230213 - 2 process có thể giao tiếp với nhau bằng nhiều cách thức]]
+	- [[💥 How to send a signal to executed process from terminal]]
+
 
 [[❔221022-2028 - Điều khác biệt lớn nhất giữa C11 và C99 là gì]]

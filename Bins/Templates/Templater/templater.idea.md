@@ -7,7 +7,7 @@ let qcFileName = "💥 " + idea
 
 //Leave this blank if you want to use the default file path location (set to '/' to use root of vault)
 //let folderOverride = '/Spaces/Daily/';
-let folderOverride = '/Zet/Ideas/';
+let folderOverride = '/Spaces/Ideas/';
 
 let qcFolderLocation;
 if(folderOverride) {
