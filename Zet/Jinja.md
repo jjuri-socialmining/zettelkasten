@@ -18,4 +18,4 @@ Jinja là một lib của [[Python]]
 ## Questions:
 
 ## Relate to:
-- [[🛠️210927-Tìm hiểu Lib Jinja của Python]]
+- [[210927 - Tìm hiểu Lib Jinja của Python]]

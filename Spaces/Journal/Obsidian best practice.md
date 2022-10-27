@@ -42,6 +42,9 @@ Dưới đây là 1 template: [[task_managerment_template]]
 ### Templater plugin
 ### Sử dụng Github để đồng bộ
 
+### Chrome
+Sử dụng [[MarkDownload Plugin]] -  để download website dạng markdown.
+
 ### Upcoming Features
 - Notion-db-like: https://github.com/RafaelGB/obsidian-db-folder
 

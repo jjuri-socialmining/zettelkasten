@@ -10,12 +10,3 @@
 
 Ví dụ: nước trong nước ngọt sẽ làm căng thành ruột, báo hiệu sự no thay vì Fructose.
 
-
-## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Fructose phải được dùng với các chất có khả năng kích thích sự no]]
-sort file.name asc
-```

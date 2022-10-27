@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a4fe4f277a29a307",
+        "id": "3bd94bf079c97d41",
         "type": "tabs",
         "children": [
           {
-            "id": "54ceb341977d4b8a",
+            "id": "821e1c528944d2cc",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Spaces/Tasks/221027 - Nguyên lý hoạt động của simulator app của hsc software.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -63,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#question/todo",
+                "query": "regression",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 318.5,
+    "collapsed": true
   },
   "right": {
     "id": "98ee6c8f963969f5",
@@ -102,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Tasks/221027 - Nguyên lý hoạt động của simulator app của hsc software.md"
+              }
             }
           },
           {
@@ -126,9 +131,9 @@
                   "lat": 10.036566932793646,
                   "lng": 105.78970596845001
                 },
-                "query": "path:\"Spaces/Questions/Làm kẻ lập dị hay muốn giống mọi người❓.md\"",
+                "query": "path:\"Spaces/Tasks/221027 - Nguyên lý hoạt động của simulator app của hsc software.md\"",
                 "chosenMapSource": 0,
-                "queryError": true,
+                "queryError": false,
                 "followActiveNote": true
               },
               "pinned": true
@@ -140,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Tasks/221027 - Nguyên lý hoạt động của simulator app của hsc software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,6 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Tasks/221027 - Nguyên lý hoạt động của simulator app của hsc software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,6 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Spaces/Tasks/221027 - Nguyên lý hoạt động của simulator app của hsc software.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,26 +236,24 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 460.5
+    "width": 460.5,
+    "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "54ceb341977d4b8a",
+  "active": "821e1c528944d2cc",
   "lastOpenFiles": [
-    "Spaces/Questions/Làm kẻ lập dị hay muốn giống mọi người❓.md",
-    "Spaces/Questions/Liệu bạn có chấp nhận một cuộc sống vô lo sống trong cái guồng quay của thế giới đánh đổi lấy sự tỉnh thức đau đớn❓.md",
-    "Spaces/Questions/Nếu bỏ bớt thứ gì đó trong đời, thứ mình muốn bỏ nhất là gì❓.md",
-    "Spaces/Questions/Nếu theo bài phát biểu Trọc phú kiến thức, thì cách mình đang xây dựng Obsidian cũng là một bản sao như vậy❓.md",
-    "Spaces/Questions/Thực chất vì lý do gì mình vẫn chạy bộ❓.md",
-    "Zet/Thinking/❕ Vấn đề thiên mệnh thời Nhà Chu.md",
-    "📑 Bookmark.md",
-    "📌 Workbench.md",
-    "Enter the garden.md",
-    "Enter forest.md"
+    "Bins/Templates/Templater/templater.task.add.md",
+    "Spaces/Tasks/221027 - Nguyên lý hoạt động của simulator app của hsc software.md",
+    "Spaces/Daily/2022-10-27.md",
+    "Zet/Concept/NoMa Method.md",
+    "Spaces/Projects/Bible Study Kit/Scripture (BPT)/19 - Psalms/Ps-95.md",
+    "Zet/Concept/Note-takers.md",
+    "Zet/Concept/Note-makers.md",
+    "Zet/Workguide/notes/How to debug pytest on vscode.md",
+    "Zet/Workguide/projects/lynx/Heatmap for regression Lynx.md",
+    "Zet/Workguide/notes/How to scan device via Olympus.md"
   ]
 }

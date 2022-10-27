@@ -6,4 +6,4 @@ In response to the Information Age, they've fallen into the trap of mindlessly t
 Related words: Passive thinkers, over-summarizers, over-collectors, Collector's Fallacy, Content Regurgitators
 
 ---
-Contrast with [[Note-makers]]
+Trái ngược với [[Note-makers]]

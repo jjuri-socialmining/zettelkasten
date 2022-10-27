@@ -14,7 +14,3 @@ publish: False
 
 ## Notes:
 
-
-## Ideas & thoughts:
-
-

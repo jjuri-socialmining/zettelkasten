@@ -13,4 +13,4 @@ publish: False
 ## Notes:
 Package manager for [[Hệ điều hành Windows|Windows]]
 
-[[🛠️220502-Tìm hiểu chocolatey và install hugo]]
+[[220502 - Tìm hiểu chocolatey và install hugo]]

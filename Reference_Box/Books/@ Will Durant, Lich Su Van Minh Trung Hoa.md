@@ -42,7 +42,7 @@ annotation-target:: [[📚 Will Durant, Lịch sử văn minh Trung Hoa.pdf]]
 >%%COMMENT%%
 >[[Kinh Dịch là một tác phẩm siêu hình học khởi đầu lịch sử tư tưởng Trung Hoa]]
 >
-[[🛠️210905-Tìm hiểu siêu hình học]]?
+[[210905 - Tìm hiểu siêu hình học]]?
 >%%TAGS%%
 >
 ^2bjiiph730y

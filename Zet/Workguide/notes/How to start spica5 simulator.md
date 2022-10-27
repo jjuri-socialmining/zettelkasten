@@ -5,6 +5,8 @@ tags:
   - 'permanent/howto'
 publish: True
 ---
+up:: [[hsc Simulator|Simulator.py]]
+
 ### Notes:
 localhost: 127.0.0.1
 default port: 60009

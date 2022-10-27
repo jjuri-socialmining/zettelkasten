@@ -49,29 +49,6 @@ Chip Info:             Name=PORRIMA-GEN4-EML-TOP, Chip ID=97(0x61)
   xx Phy=0x4 0ffff
   xx Phy=0x5 0ffff
   xx Phy=0x6 0ffff
-  xx Phy=0x7 0ffff
-  xx Phy=0x8 0ffff
-  xx Phy=0x9 0ffff
-  xx Phy=0xa 0ffff
-  xx Phy=0xb 0ffff
-  xx Phy=0xc 0ffff
-  xx Phy=0xd 0ffff
-  xx Phy=0xe 0ffff
-  xx Phy=0xf 0ffff
-  xx Phy=0x10 0ffff
-  xx Phy=0x11 0ffff
-  xx Phy=0x12 0ffff
-  xx Phy=0x13 0ffff
-  xx Phy=0x14 0ffff
-  xx Phy=0x15 0ffff
-  xx Phy=0x16 0ffff
-  xx Phy=0x17 0ffff
-  xx Phy=0x18 0ffff
-  xx Phy=0x19 0ffff
-  xx Phy=0x1a 0ffff
-  xx Phy=0x1b 0ffff
-  xx Phy=0x1c 0ffff
-  xx Phy=0x1d 0ffff
-  xx Phy=0x1e 0ffff
+
 
 ```

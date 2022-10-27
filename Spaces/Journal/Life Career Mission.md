@@ -36,7 +36,7 @@ tags:
 ### Python
 - [[swig]]
 - Test Framework
-	- Regression test frame work
+	- [ ] [[Tìm hiểu Regression test frame work]] #tasks/todo 
 
 ### Version Control
 [[Git-SCM|Git]]
@@ -52,7 +52,7 @@ tags:
 ### CD/CI
 - [[Jenkins]]
 - [[Gitlab CI & CD]]
-	- [ ] Learn Gitlab CD/CI
+	- [ ] Learn Gitlab CD/CI #tasks/todo 
 
 ## Knowledge
 ### Ethernet/TDM

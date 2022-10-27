@@ -21,7 +21,7 @@ Tần số này lần đầu tiên thay đổi vào 6/2014: 8.5Hz. Sau đó đ�
 
 ## Ideas & thoughts:
 - [[Người Rishis]] Ấn Độ cổ đại nói rằng: 7,83 Hz là tần số của âm OM Thiêng liêng[^1]  [[Âm Om thiêng liêng]]
-- [[🛠️220514-Tìm hiểu cách đo cộng hưởng Schuman]]
+- [[220514-Tìm hiểu cách đo cộng hưởng Schuman]]
 - Tần số này tăng có lợi cho tần số rung động của con người
 
 

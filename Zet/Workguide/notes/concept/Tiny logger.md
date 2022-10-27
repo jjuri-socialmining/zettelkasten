@@ -31,3 +31,6 @@ make -f build.inc ${exe_name} USE_TLOG=true defines="${defines} -DTLOG_CRC=$$(${
 	- `C://Users//hcmswlab//Downloads//abcd_6_1_571//support//drivers//lynx_800//ucode//lynx_app_fw.tld`
 
 [[Swig set and store ld file path]]
+
+
+[[221027-Tìm hiểu log dictionary của lib tinylog hsc sw]]

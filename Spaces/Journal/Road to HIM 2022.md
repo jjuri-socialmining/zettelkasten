@@ -26,7 +26,7 @@ Target: Sub130
 | W10 02/10 | E=5k       | ---        | Q1[^W10Q1] | E=10k | E=10k      |            | E=15k |                                             | 45   |
 | W09 09/10 | Q1[^W09Q1] | ---        | Q2[^W09Q2] | E=10k |            | Q3[^W09Q3] |       |                                             |      |
 | W08 16/10 | TriDay     |            | ---        | E=9k  | ---        | ---        | ---   |                                             |      |
-| W07 23/10 | ---        | 11k        | 10k        | 6k    |            |            |       |                                             |      |
+| W07 23/10 | ---        | 11k        | 10k        | 6k    | ---        |            |       |                                             |      |
 | W06 30/10 |            |            |            |       |            |            |       |                                             |      |
 | W05 06/11 |            |            |            |       |            |            |       |                                             |      |
 | W04 13/11 |            |            |            |       |            |            |       |                                             |      |
@@ -68,10 +68,4 @@ Dùng lại [[vdoto2.com]] để tạo giáo án theo phương pháp của [[Jac
 
 ![[20220920235505 ~ Marathon plan 66km 18w.png]]
 ![[20220920234928 ~ Marathon plan 66-89km 18w.png]]
-<<<<<<< HEAD
-![[Daniels running formula (Jack Daniels) (z-lib.org).pdf]]
-
-![[Screenshot_20221014-163214.png]]
-=======
 ![[Jack Daniels running formula.pdf]]
->>>>>>> 8eddf429948265354a63aca81611dc867151902c
