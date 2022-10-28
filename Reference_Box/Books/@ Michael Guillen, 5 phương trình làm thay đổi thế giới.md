@@ -7,7 +7,7 @@ tags:
 publish: True
 ---
 - author: [[Michael Guillen]]
-
+#read/2022 
 ## Permanent
 - [[❕ 220224205131 - Toán học là một quốc tế ngữ]]
 - [[220224205500 - Newton khi 13 tuổi học rất tệ]]

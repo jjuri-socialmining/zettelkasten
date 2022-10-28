@@ -13,6 +13,8 @@ publish: False
 	- category:: #book/fiction
 	- url:: 
 
+#read/2022 
+
 ![[221022083523.excalidraw - @ David Eagleman, Não bộ kể gì về bạn]]
 
 ![[Pasted image 20221022093613.png]]

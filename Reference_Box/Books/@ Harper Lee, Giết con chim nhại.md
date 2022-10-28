@@ -15,7 +15,7 @@ publish: True
 - [[NXB Văn Học]]
 - 420 trang
 - Ngày xuất bản: 14/02/2014
-
+#read/2022 
 ## Tóm tắt
 Câu chuyện được dẫn dắt bởi giọng kể của nhân vật nữ có tên gọi cúng cơm là Scout. Scout chỉ mới 6 tuổi và bước vào lớp 1. Anh cô, Jem, hơn Scout 4 tuổi. Hai anh em ở với bố Atticus và bà giúp việc Calpurnia. Bố Atticus hành nghề luật sư ở Maycomb.
 

@@ -10,7 +10,7 @@ aliases:
 publish: True
 ---
 # @ Anne Frank, Nhật ký Anne Frank
-
+#read/2022 
 ## Metadata:
 - Author: [[Anne Frank]]
 - Người dịch: Đặng Kim Trâm

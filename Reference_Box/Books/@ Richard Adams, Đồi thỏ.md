@@ -8,11 +8,11 @@ publish: True
 ---
 
 Metadata:
-
-- author: [[Richard Adams]]
-- [[NXB Văn Học]]
-- [[Nhã Nam]]
-- Năm xuất bản: 2014
+	- author:: [[Richard Adams]]
+	- [[NXB Văn Học]]
+	- [[Nhã Nam]]
+	- Năm xuất bản: 2014
+tags:: #read/2022
 
 ## Nhân vật:
 - 11 chú thỏ trốn đi khỏi Sandleford trước khi con người đến:

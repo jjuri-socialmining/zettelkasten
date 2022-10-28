@@ -2,7 +2,7 @@
 title: 221027 - Nguyên lý hoạt động của simulator app của hsc software
 tags:
   - 'created/2022/Oct/27'
-  - 'task/doing'
+  - 'tasks/doing'
 is_done: False
 ---
 ## Notes:

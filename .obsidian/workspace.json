@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Tasks/221027 - Nguyên lý hoạt động của simulator app của hsc software.md",
+                "file": "Spaces/Daily/2022-10-28.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "regression",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5,
-    "collapsed": true
+    "width": 318.5
   },
   "right": {
     "id": "98ee6c8f963969f5",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Tasks/221027 - Nguyên lý hoạt động của simulator app của hsc software.md"
+                "file": "Spaces/Daily/2022-10-28.md"
               }
             }
           },
@@ -126,12 +125,12 @@
               "type": "map",
               "state": {
                 "name": "Default",
-                "mapZoom": 0,
+                "mapZoom": 8,
                 "mapCenter": {
-                  "lat": 10.036566932793646,
-                  "lng": 105.78970596845001
+                  "lat": 22.284013600962453,
+                  "lng": 104.22878773865797
                 },
-                "query": "path:\"Spaces/Tasks/221027 - Nguyên lý hoạt động của simulator app của hsc software.md\"",
+                "query": "path:\"Spaces/Daily/2022-10-28.md\"",
                 "chosenMapSource": 0,
                 "queryError": false,
                 "followActiveNote": true
@@ -145,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Tasks/221027 - Nguyên lý hoạt động của simulator app của hsc software.md",
+                "file": "Spaces/Daily/2022-10-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Tasks/221027 - Nguyên lý hoạt động của simulator app của hsc software.md",
+                "file": "Spaces/Daily/2022-10-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/Tasks/221027 - Nguyên lý hoạt động của simulator app của hsc software.md",
+                "file": "Spaces/Daily/2022-10-28.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -236,7 +235,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -245,15 +244,15 @@
   },
   "active": "821e1c528944d2cc",
   "lastOpenFiles": [
-    "Bins/Templates/Templater/templater.task.add.md",
-    "Spaces/Tasks/221027 - Nguyên lý hoạt động của simulator app của hsc software.md",
+    "Spaces/Tasks/$ 221028 - Tại sao linux tốt hơn cho việc lập trình so với window.md",
+    "Spaces/Daily/2022-10-28.md",
+    "Spaces/Journal/Những thói quen tốt.md",
+    "Zet/Quy luật 2 phút.md",
     "Spaces/Daily/2022-10-27.md",
-    "Zet/Concept/NoMa Method.md",
-    "Spaces/Projects/Bible Study Kit/Scripture (BPT)/19 - Psalms/Ps-95.md",
-    "Zet/Concept/Note-takers.md",
-    "Zet/Concept/Note-makers.md",
-    "Zet/Workguide/notes/How to debug pytest on vscode.md",
-    "Zet/Workguide/projects/lynx/Heatmap for regression Lynx.md",
-    "Zet/Workguide/notes/How to scan device via Olympus.md"
+    "Reference_Box/Quotes/2020-10-10-5n-4.md",
+    "Reference_Box/Quotes/💬211006-2217.md",
+    "Excalidraw/221021222506.excalidraw - Advanced C Programming Course.md",
+    "Reference_Box/Books/@ David Eagleman, Não bộ kể gì về bạn.md",
+    "Zet/Sách đã đọc.md"
   ]
 }

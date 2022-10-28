@@ -2,8 +2,8 @@
 title: 221027-Tìm hiểu log dictionary của lib tinylog hsc sw
 tags:
   - '#created/2022/Oct/27'
-  - 'task'
-  - 'task/todo'
+  - 'tasks'
+  - 'tasks/todo'
 is_done: False
 ---
 
