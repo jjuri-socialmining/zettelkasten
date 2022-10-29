@@ -33,7 +33,7 @@ if(qcFolderLocation == '/'){qcFolderLocation = ''}
 if(qcFolderLocation.startsWith('/')){qcFolderLocation = qcFolderLocation.substring(1)}
 
 let qcNote = await tp.system.prompt("In put task name");
-let qcFilePath = qcFolderLocation + qcFileName + qcNote + '.md';
+let qcFilePath = qcFolderLocation + qcFileName + qcNote + ' 🔎.md';
 let qcFile = this.app.vault.getAbstractFileByPath(qcFilePath);
 if(!qcFile) {
     qcFile = await this.app.vault.create(qcFilePath, '');
@@ -50,4 +50,4 @@ if(qcFile) {
 
     this.app.vault.modify(qcFile, newContents);
 }
-%>- [ ] [[<%* tR += qcFileName + qcNote %>]] #tasks/todo 
+%>- [ ] [[<%* tR += qcFileName + qcNote + " 🔎"%>]] #tasks/todo 

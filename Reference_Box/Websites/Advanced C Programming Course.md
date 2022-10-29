@@ -70,5 +70,9 @@ IDE recommend in this course
 		- [[221025230213 - 2 process có thể giao tiếp với nhau bằng nhiều cách thức]]
 	- [[💥 How to send a signal to executed process from terminal]]
 
+- Section 18: Useful library
+	- assert.h
+	- 
+
 
 [[❔221022-2028 - Điều khác biệt lớn nhất giữa C11 và C99 là gì]]

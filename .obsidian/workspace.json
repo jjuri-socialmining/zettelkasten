@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Daily/2022-10-28.md",
+                "file": "Spaces/Daily/2022-10-29.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#tasks/tododone",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -100,16 +101,6 @@
             }
           },
           {
-            "id": "82eca43dcdb7d678",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Spaces/Daily/2022-10-28.md"
-              }
-            }
-          },
-          {
             "id": "835d0a44466bbce2",
             "type": "leaf",
             "state": {
@@ -130,7 +121,7 @@
                   "lat": 22.284013600962453,
                   "lng": 104.22878773865797
                 },
-                "query": "path:\"Spaces/Daily/2022-10-28.md\"",
+                "query": "path:\"Spaces/Daily/2022-10-29.md\"",
                 "chosenMapSource": 0,
                 "queryError": false,
                 "followActiveNote": true
@@ -144,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Daily/2022-10-28.md",
+                "file": "Spaces/Daily/2022-10-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Daily/2022-10-28.md",
+                "file": "Spaces/Daily/2022-10-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,22 +164,51 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/Daily/2022-10-28.md",
+                "file": "Spaces/Daily/2022-10-29.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
                   "showTags": false,
                   "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
+                  "hideUnresolved": true,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#daily/journal",
+                      "color": {
+                        "a": 1,
+                        "rgb": 45836
+                      }
+                    },
+                    {
+                      "query": "tag:#tasks",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16716820
+                      }
+                    },
+                    {
+                      "query": "tag:#daily",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16759879
+                      }
+                    },
+                    {
+                      "query": "tag:#permanent/people",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16449791
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
                   "showArrow": false,
-                  "textFadeMultiplier": 0,
+                  "textFadeMultiplier": -1.8,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
@@ -196,8 +216,8 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.9189974811199607,
-                  "close": false
+                  "scale": 0.6554983534947024,
+                  "close": true
                 }
               }
             }
@@ -239,20 +259,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 460.5,
-    "collapsed": true
+    "width": 705.5
   },
   "active": "821e1c528944d2cc",
   "lastOpenFiles": [
-    "Spaces/Tasks/$ 221028 - Tại sao linux tốt hơn cho việc lập trình so với window.md",
-    "Spaces/Daily/2022-10-28.md",
-    "Spaces/Journal/Những thói quen tốt.md",
-    "Zet/Quy luật 2 phút.md",
-    "Spaces/Daily/2022-10-27.md",
-    "Reference_Box/Quotes/2020-10-10-5n-4.md",
-    "Reference_Box/Quotes/💬211006-2217.md",
-    "Excalidraw/221021222506.excalidraw - Advanced C Programming Course.md",
-    "Reference_Box/Books/@ David Eagleman, Não bộ kể gì về bạn.md",
-    "Zet/Sách đã đọc.md"
+    "Spaces/Tasks/$ 221029 - Tại sao nước sôi lại sủi bọt khí 🔎.md",
+    "Reference_Box/Websites/@ review.siu.edu.vn, Tại sao nước sôi lại sủi bọt khí.md",
+    "Spaces/Daily/2022-10-29.md",
+    "Spaces/Tasks/Done/$ 221029 - Setup vscode for development C 🔎.md",
+    "Zet/Images/Pasted image 20221029150646.png",
+    "Spaces/Journal/30 days dota plus.md",
+    "Zet/Images/20221029215549 ~ c vscode debuging could not find source file.png",
+    "Spaces/Tasks/$ 221029 - Để debug python thì dùng tool gì, và setup ntn 🔎.md",
+    "Spaces/Tasks/$ 221029 - Mô tả cách gdb hoạt động để debug trên code c 🔎.md",
+    "Spaces/Tasks/$ 221029 - Khi run debug c trên vscode, có các field CPU, Segs, FPU, SSE. Các field này là gì 🔎.md"
   ]
 }
