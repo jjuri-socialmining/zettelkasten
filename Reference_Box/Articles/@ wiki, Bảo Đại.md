@@ -43,5 +43,5 @@
 - Bị Ngô Đình Diệm phế truất sau một cuộc bỏ phiếu dưới sự sắp đặt bởi những người ủng hộ Ngô Đình Diệm
 
 ## Question
-- [ ] Sau cùng ông cải tổ chế độ quan trường, gây nên sự chống đối của Ngô Đình Diệm #question 
+- Sau cùng ông cải tổ chế độ quan trường, gây nên sự chống đối của Ngô Đình Diệm?
 

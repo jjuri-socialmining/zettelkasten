@@ -18,4 +18,8 @@ Các hosting Git lớn hiện nay phải kể đến
 - [[BitBucket]]
 
 
+## Reference:
+- [[@ aosabook.org, The Architecture of Open Source Applications (Volume 2) Git]]
+
+
 

@@ -7,3 +7,8 @@ is_done: False
 ---
 previous:: [[$ 221029 - Setup vscode for development C 🔎]]
 ## Notes:
+
+## Reference:
+- [[@ aosabook.org, The Architecture of Open Source Applications (Volume 2) GDB]]
+- ![[20221030090022 ~ GDB Structure.png]]
+- ![[Pasted image 20221030090035.png]]
