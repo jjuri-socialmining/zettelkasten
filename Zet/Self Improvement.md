@@ -8,8 +8,6 @@ aliases:
   - phát triển bản thân
 publish: False
 ---
-# Self Improvement
-
 ## Notes:
 ### Các phương pháp
 - [[Phương pháp Pomodoro]]
@@ -27,4 +25,3 @@ publish: False
 - [[Dopamine detox]]
 - [[@ Cal Newport, Digital Minimalism]]
 
-## Ideas & thoughts:
