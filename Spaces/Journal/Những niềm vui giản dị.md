@@ -57,3 +57,6 @@ permanent -> evergreen -> think
 
 ### [[2022-10-31]]
 - [[🙂 221101235952 - Chạy 10km có kỷ lục cá nhân]]
+
+### [[2022-11-06]]
+- [[🙂 221106103314 - Chơi Dota support thằng carry, bật mic nói tiếng Anh thế mà còn bị phát hiện ra VN]]

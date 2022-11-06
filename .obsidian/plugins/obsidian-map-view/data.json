@@ -96,7 +96,7 @@
       "preset": true
     }
   ],
-  "chosenMapMode": "light",
+  "chosenMapMode": "auto",
   "saveHistory": true,
   "letZoomBeyondMax": false,
   "queryForFollowActiveNote": "path:\"$PATH$\"",

@@ -13,7 +13,7 @@ publish: true
 ### Tôn giáo
 - [[Công Giáo]]
 - [[Do Thái Giáo]]
-- [[Ấn Độ giáo]]
+- [[Ấn Độ giáo]]  
 
 ### [[Sức khỏe]]
 

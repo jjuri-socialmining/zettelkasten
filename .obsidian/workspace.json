@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "3bd94bf079c97d41",
+        "id": "36834e72869cea74",
         "type": "tabs",
         "children": [
           {
-            "id": "821e1c528944d2cc",
+            "id": "fc545304e84dc6f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zet/Self Improvement.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7eaf8c15efe0d106",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Daily/2022-11-02.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0f6d33a1c8caf8bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zet/Concept/ptrace function.md",
-                "mode": "source",
+                "file": "Spaces/Daily/2022-11-06.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tasks/tododone",
+                "query": "tag:#created/2022/Nov/06",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +74,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -147,7 +121,7 @@
                   "lat": 22.284013600962453,
                   "lng": 104.22878773865797
                 },
-                "query": "path:\"Spaces/Daily/2022-11-02.md\"",
+                "query": "path:\"Spaces/Daily/2022-11-06.md\"",
                 "chosenMapSource": 0,
                 "queryError": false,
                 "followActiveNote": true
@@ -156,12 +130,55 @@
             }
           },
           {
+            "id": "0f6d33a1c8caf8bd",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "4ebb4fa78159c592",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Spaces/Daily/2022-11-06.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224425,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
             "id": "a2b5dad9bdc849d0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Daily/2022-11-02.md",
+                "file": "Spaces/Daily/2022-11-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,73 +195,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Daily/2022-11-02.md",
+                "file": "Spaces/Daily/2022-11-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "92b3c6e6cdebb389",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Spaces/Daily/2022-11-02.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": true,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#daily/journal",
-                      "color": {
-                        "a": 1,
-                        "rgb": 45836
-                      }
-                    },
-                    {
-                      "query": "tag:#tasks",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16716820
-                      }
-                    },
-                    {
-                      "query": "tag:#daily",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16759879
-                      }
-                    },
-                    {
-                      "query": "tag:#permanent/people",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16449791
-                      }
-                    }
-                  ],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": -1.8,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.6554983534947024,
-                  "close": true
-                }
               }
             }
           },
@@ -279,25 +232,33 @@
               "type": "BC-tree",
               "state": {}
             }
+          },
+          {
+            "id": "77a968eeb6df9e1c",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 705.5
+    "width": 559.5
   },
-  "active": "7eaf8c15efe0d106",
+  "active": "df80e3bdf75af13b",
   "lastOpenFiles": [
-    "Zet/Fact/221102004735 - Khadevis phân ra 4 loại chạy stride.md",
-    "Spaces/Daily/2022-11-02.md",
-    "Spaces/Daily/2022-10-31.md",
-    "Spaces/Daily/2022-11-01.md",
-    "All Tasks.md",
-    "Enter forest.md",
-    "Enter the garden.md",
-    "index.md",
-    "Support our team in China.md",
-    "Spaces/Journal/Life Career Mission.md"
+    "Reference_Box/Articles/📎 The Architecture of Open Source Applications (Volume 2) GDB.md",
+    "Spaces/Daily/2022-11-06.md",
+    "Zet/Concept/GDB Machine Interface (MI).md",
+    "Spaces/Tasks/$ 221106 - Khái niệm r-value, l-value trong gdb nghĩa là gì 🔎.md",
+    "Spaces/Tasks/$ 221106 - chức năng các point trong gdb như breakpoint, watchpoint, catchpoint, tracepoint là gì🔎.md",
+    "Reference_Box/Websites/@ aosabook.org, The Architecture of Open Source Applications (Volume 2) GDB.md",
+    "Zet/Concept/C Programming.md",
+    "Reference_Box/Articles/@ 20221106 - The Architecture of Open Source Applications (Volume 2) GDB.md",
+    "Reference_Box/Articles/@ 20221030 - The Architecture of Open Source Applications (Volume 2) GDB.md",
+    "Spaces/Tasks/$ 221029 - Mô tả cách gdb hoạt động để debug trên code c 🔎.md"
   ]
 }

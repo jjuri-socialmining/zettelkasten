@@ -63,6 +63,8 @@ Target: Sub130
 ### [[2022-09-21]]
 Dùng lại [[vdoto2.com]] để tạo giáo án theo phương pháp của [[Jack Daniels]].
 
+### [[2022-11-06]]
+Hôm trước thấy [[Công Sơn PTR|CC]] không tập được nữa, mình chủ động pm dời pặc co sang giải khác, giờ tập sub 1:30 thui kk.
 
 ### Ref:
 

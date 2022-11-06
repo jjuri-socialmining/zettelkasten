@@ -21,7 +21,12 @@
   "fieldSuggestor": true,
   "filterImpliedSiblingsOfDifferentTypes": false,
   "jugglLayout": "hierarchy",
-  "limitWriteBCCheckboxes": [],
+  "limitWriteBCCheckboxes": [
+    "prev",
+    "previous",
+    "up",
+    "source"
+  ],
   "CHECKBOX_STATES_OVERWRITTEN": false,
   "gridDefaultDepth": 25,
   "hierarchyNotes": [
@@ -70,9 +75,15 @@
     "same",
     "down",
     "next",
-    "prev"
+    "prev",
+    "source"
   ],
-  "limitJumpToFirstFields": [],
+  "limitJumpToFirstFields": [
+    "prev",
+    "previous",
+    "up",
+    "source"
+  ],
   "showAll": "All",
   "noPathMessage": "This note has no real or implied parents",
   "tagNoteField": "",
@@ -93,7 +104,8 @@
   "userHiers": [
     {
       "up": [
-        "up"
+        "up",
+        "source"
       ],
       "same": [
         "same"
@@ -105,7 +117,8 @@
         "next"
       ],
       "prev": [
-        "prev"
+        "prev",
+        "previous"
       ]
     }
   ],
