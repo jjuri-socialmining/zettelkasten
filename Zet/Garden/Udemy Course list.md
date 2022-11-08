@@ -14,3 +14,5 @@ publish: False
 - [[Java Programming Masterclass covering Java 11 & Java 17]]
 - [[Advanced C Programming Masterclass - Pointers & Memory in C]]
 - [[Advanced C Programming Course]]
+- [[Bash Scripting and Shell Programming (Linux Command Line)]]
+

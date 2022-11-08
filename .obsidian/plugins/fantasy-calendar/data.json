@@ -166,7 +166,11 @@
               "year": -1,
               "month": 0,
               "day": 31
-            }
+            },
+            "id": "ID_db995a8a199a",
+            "restart": false,
+            "endsYear": false,
+            "event": false
           },
           {
             "name": "Anno Domini",
@@ -176,7 +180,11 @@
               "year": 1,
               "month": 0,
               "day": 1
-            }
+            },
+            "id": "ID_c938f86a893b",
+            "restart": false,
+            "endsYear": false,
+            "event": false
           }
         ],
         "displayMoons": true,

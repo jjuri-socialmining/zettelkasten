@@ -11,7 +11,7 @@ aliases:
 # Ngôn ngữ bash được cải tiến dựa trên nền tảng của sh
 
 ## Notes:
-Ngôn ngữ bash được cải tiến dựa trên nền tảng của sh. Các từ khóa, cú pháp và chức năng cơ bản của bash được sao chép từ [[sh]]. [^1]
+Ngôn ngữ bash được cải tiến dựa trên nền tảng của sh. Các từ khóa, cú pháp và chức năng cơ bản của bash được sao chép từ [[sh programing]]. [^1]
 
 ## Ideas & thoughts:
 [[sh đơn giản và gọn nhẹ hơn bash]]

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Daily/2022-11-06.md",
-                "mode": "preview",
+                "file": "Spaces/Daily/2022-11-08.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#created/2022/Nov/06",
+                "query": "tag:#created/2022/Nov/08",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +121,7 @@
                   "lat": 22.284013600962453,
                   "lng": 104.22878773865797
                 },
-                "query": "path:\"Spaces/Daily/2022-11-06.md\"",
+                "query": "path:\"Spaces/Daily/2022-11-08.md\"",
                 "chosenMapSource": 0,
                 "queryError": false,
                 "followActiveNote": true
@@ -143,7 +143,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/Daily/2022-11-06.md",
+                "file": "Spaces/Daily/2022-11-08.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Daily/2022-11-06.md",
+                "file": "Spaces/Daily/2022-11-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Daily/2022-11-06.md",
+                "file": "Spaces/Daily/2022-11-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,23 +242,23 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 559.5
+    "width": 385.5
   },
-  "active": "df80e3bdf75af13b",
+  "active": "fc545304e84dc6f1",
   "lastOpenFiles": [
-    "Reference_Box/Articles/📎 The Architecture of Open Source Applications (Volume 2) GDB.md",
-    "Spaces/Daily/2022-11-06.md",
-    "Zet/Concept/GDB Machine Interface (MI).md",
-    "Spaces/Tasks/$ 221106 - Khái niệm r-value, l-value trong gdb nghĩa là gì 🔎.md",
-    "Spaces/Tasks/$ 221106 - chức năng các point trong gdb như breakpoint, watchpoint, catchpoint, tracepoint là gì🔎.md",
-    "Reference_Box/Websites/@ aosabook.org, The Architecture of Open Source Applications (Volume 2) GDB.md",
-    "Zet/Concept/C Programming.md",
-    "Reference_Box/Articles/@ 20221106 - The Architecture of Open Source Applications (Volume 2) GDB.md",
-    "Reference_Box/Articles/@ 20221030 - The Architecture of Open Source Applications (Volume 2) GDB.md",
-    "Spaces/Tasks/$ 221029 - Mô tả cách gdb hoạt động để debug trên code c 🔎.md"
+    "Spaces/Daily/2022-11-09.md",
+    "Reference_Box/Websites/Bash Scripting and Shell Programming (Linux Command Line).md",
+    "Zet/sh programing.md",
+    "Zet/Images/Pasted image 20221108233555.png",
+    "Zet/Garden/Udemy Course list.md",
+    "Reference_Box/Websites/Advanced C Programming Course.md",
+    "Zet/Concept/Udemy.md",
+    "Reference_Box/Books/@ Nguyễn Phương Lan, Lập trình Linux.md",
+    "Zet/Fact/221108225238 - Nên học Java trên Linux vì sẽ chạy nhanh và hiệu quả hơn.md",
+    "Zet/Fact/221108225043 - Chương trình viết trên Java chạy tốt trên UNIX và Linux.md"
   ]
 }

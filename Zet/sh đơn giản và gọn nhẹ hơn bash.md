@@ -11,7 +11,7 @@ aliases:
 # sh đơn giản và gọn nhẹ hơn bash
 
 ## Notes:
-[[sh]] đơn giản và gọn nhẹ hơn [[bash]]
+[[sh programing]] đơn giản và gọn nhẹ hơn [[bash]]
 
 ## Ideas & thoughts:
 

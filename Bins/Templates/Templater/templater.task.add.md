@@ -46,8 +46,8 @@ if(qcFile) {
     let finalNote =  finalTimestamp + qcNote;
     let curContent = await this.app.vault.read(qcFile);
     let newContents;
-    newContents = '---\ntitle: ' + qcNote + "\ntags:\n  - '" + tag_created + "'\n" + "  - " + type + "\nis_done: False\n---\n\n## Notes:\n" +  descrip;
+    newContents = '---\ntitle: ' + qcNote + "\ntags:\n  - '" + tag_created + "'\n" + "  - " + type + "\n---\n\n## Notes:\n" +  descrip;
 
     this.app.vault.modify(qcFile, newContents);
 }
-%>- [ ] [[<%* tR += qcFileName + qcNote + " 🔎"%>]] #tasks/todo 
+%>- [ ] [[<%* tR += qcFileName + qcNote + " 🔎"%>]] #tasks/work 

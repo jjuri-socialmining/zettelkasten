@@ -16,7 +16,7 @@ publish: False
 Bash viết tắt của Bourne-Again SHell
 Bash là một [[Unix shell]], tức là một ngôn ngữ máy tính biên dịch câu lệnh trên môi trường [[Shell]].
 Các ngôn ngữ tương ứng với bash:
-- [[sh]]
+- [[sh programing]]
 - [[zsh]]
 
 ## Ideas & thoughts:

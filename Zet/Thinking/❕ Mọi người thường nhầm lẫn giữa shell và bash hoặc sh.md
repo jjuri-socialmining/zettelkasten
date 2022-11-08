@@ -9,7 +9,7 @@ tags:
 # ❕ Mọi người thường nhầm lẫn giữa shell và bash
 
 ## Notes:
-Mọi người thường nhầm lẫn giữa [[Shell]] và [[bash]], shell là một chương trình được viết cho hệ điều hành [[Linux OS]], [[Unix]]. Trên shell, người dùng có thể nhập câu lệnh để tương tác với máy tính.
+Mọi người thường nhầm lẫn giữa [[Shell]] và [[bash]], shell là một chương trình được viết cho hệ điều hành [[Linux OS]], [[UNIX]]. Trên shell, người dùng có thể nhập câu lệnh để tương tác với máy tính.
 
 [[❕ Khái niệm shell tương ứng với phần mềm terminal, console]]
 

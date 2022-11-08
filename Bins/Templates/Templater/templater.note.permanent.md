@@ -43,6 +43,6 @@ publish: False
 ## Notes:
 <% tp.file.cursor() %>
 
-source:: [[Advanced C Programming Course]], Section
+source:: [[@ Nguyễn Phương Lan, Lập trình Linux]], p
 
 ## Relate:
