@@ -9,5 +9,5 @@ is_done: False
 Mô tả nguyên lý hoạt động của [[hsc Simulator]] app
 
 ## Research:
-- Theo mình hiểu thì sim start allocate một vùng mem tương ứng với vùng thanh ghi. Rùi start 1 server tương [[IPC feature|IPC]] để một process khác như api access vào.
+- Theo mình hiểu thì sim start allocate một vùng mem tương ứng với vùng thanh ghi. Rùi start 1 server tương [[IPC|IPC]] để một process khác như api access vào.
 - [ ] Các python lib chính để xây dựng simulator là gì? #tasks/todo 

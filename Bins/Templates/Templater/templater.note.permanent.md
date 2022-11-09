@@ -43,6 +43,6 @@ publish: False
 ## Notes:
 <% tp.file.cursor() %>
 
-source:: [[@ Nguyễn Phương Lan, Lập trình Linux]], p
+source:: [[@ Mokhtar, Mastering Linux shell scripting a practical guide to Linux command-line]], Chap
 
 ## Relate:

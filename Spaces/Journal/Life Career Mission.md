@@ -13,21 +13,24 @@ tags:
 | -------------------------- | ------ | --- |
 | Basic                      |        |     |
 | code size                  |        |     |
+| [[IPC]]                    |        |     |
 | Build and make             |        |     |
 | IDE                        |        |     |
 | lib                        |        |     |
 | Algorithm                  |        |     |
 | Test framework             |        |     |
 | Application that base on C |        |     |
+| Socket                     |        |     |
+|                            |        |     |
 
 -> Learn C++/C#
 
 ### Tcl script
-
 [[Tcl language]]
 
 ### Batch/Shell script
-[[Batch]]
+- [[bash|bash shell]]
+- [[Batch]]
 
 ### Regular Expression Regex
 - [[Regular expression (Regex)]]
@@ -47,7 +50,7 @@ tags:
 | Cmdline     |        |     |
 | GUI         |        |     |
 | Workflow    |        |     |
-
+### Linux
 ### Onsite
 ### CD/CI
 - [[Jenkins]]

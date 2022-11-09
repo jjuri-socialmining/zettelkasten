@@ -8,6 +8,7 @@ tags:
 aliases:
   - bash
   - Bourne-Again Shell
+  - bash shell
 publish: False
 ---
 # bash
