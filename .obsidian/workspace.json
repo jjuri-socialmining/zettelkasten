@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zet/Theo Đại Việt sử ký, Trần Liễu trước lúc lâm trung dặn Trần Hưng Đạo cướp quyền nhà Trần.md",
-                "mode": "preview",
+                "file": "Spaces/Daily/2022-11-09.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -120,7 +120,7 @@
                   "lat": 10.903169652493919,
                   "lng": 104.70340328908965
                 },
-                "query": "path:\"Zet/Theo Đại Việt sử ký, Trần Liễu trước lúc lâm trung dặn Trần Hưng Đạo cướp quyền nhà Trần.md\"",
+                "query": "path:\"Spaces/Daily/2022-11-09.md\"",
                 "chosenMapSource": 0,
                 "queryError": false,
                 "followActiveNote": true
@@ -142,7 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Zet/Theo Đại Việt sử ký, Trần Liễu trước lúc lâm trung dặn Trần Hưng Đạo cướp quyền nhà Trần.md",
+                "file": "Spaces/Daily/2022-11-09.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zet/Theo Đại Việt sử ký, Trần Liễu trước lúc lâm trung dặn Trần Hưng Đạo cướp quyền nhà Trần.md",
+                "file": "Spaces/Daily/2022-11-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zet/Theo Đại Việt sử ký, Trần Liễu trước lúc lâm trung dặn Trần Hưng Đạo cướp quyền nhà Trần.md",
+                "file": "Spaces/Daily/2022-11-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,6 +249,7 @@
   },
   "active": "fc545304e84dc6f1",
   "lastOpenFiles": [
+    "Zet/Theo Đại Việt sử ký, Trần Liễu trước lúc lâm trung dặn Trần Hưng Đạo cướp quyền nhà Trần.md",
     "Zet/Trần Liễu có mối hận với em trai mình là Trần Cảnh.md",
     "Zet/Trần Thủ Độ là em họ Linh Từ Quốc Mẫu.md",
     "Reference_Box/Websites/@ wiki, Lịch sử Việt Nam.md",
@@ -257,7 +258,6 @@
     "Zet/Tứ đại danh tác.md",
     "Zet/White grain.md",
     "Zet/Zotero.md",
-    "Zet/Thinking/220218200502 - Văn hóa như ký sinh trùng trong não người.md",
-    "Zet/Garden/Sự kiện 2022.md"
+    "Zet/Thinking/220218200502 - Văn hóa như ký sinh trùng trong não người.md"
   ]
 }
