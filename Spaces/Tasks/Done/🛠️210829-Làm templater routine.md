@@ -13,21 +13,12 @@ Làm cái note templater routine, cuối ngày sẽ prom và nhập tất cả t
 Đã làm được, nhưng có vẻ không thể stick được với nó, không có nhiều ý nghĩa lắm
 
 ```
-<%* 
-  let title = tp.file.title;
-  if (title.startsWith("Untitled")) {
-  	title = await tp.system.prompt("Input title of note");
-  }
-  await tp.file.rename(title);
-  note_type = await tp.system.suggester(["book📚", "article📰", "film🎞️", "video🎞️"], ["source/book", "source/article", "source/film", "source/video"]);
-
-  tR += "---"
-%>
-title: '<%* tR += title %>'
-UID: <% tp.date.now("YYMMDDHHmmss") %>
+---
+title: '🛠️210924-Build mkdocs from scratch'
+UID: 221111160144
 tags:
-  - 'created/<% tp.date.now("YYYY/MMM/DD") %>'
-  - '<%* tR += note_type %>'
+  - 'created/2022/Nov/11'
+  - 'null'
 ---
 
 
