@@ -12,6 +12,6 @@ publish: False
 ## Notes:
 Nếu tình yêu được thúc đẩy bởi động cơ thì tình yêu bị giam hãm trong động cơ đó.
 
-source:: [[Osho, Chiêm Nghiệm cuộc đời]], p
+source:: [[@ Osho, Chiêm Nghiệm cuộc đời]], p
 
 ## Relate:

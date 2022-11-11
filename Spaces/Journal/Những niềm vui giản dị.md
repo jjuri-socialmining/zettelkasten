@@ -63,3 +63,6 @@ permanent -> evergreen -> think
 
 ### [[2022-11-08]]
 - [[🙂 221108204037 - Đang đạp xe gặp runner quen đứng lại nói chuyện]]
+
+### [[2022-11-11]]
+[[🙂 221111161619 - Nhặt được đồng 5 cent Mã Lai khi đang giãn cơ]]

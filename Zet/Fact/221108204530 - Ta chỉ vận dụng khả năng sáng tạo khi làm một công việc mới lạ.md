@@ -12,6 +12,6 @@ publish: False
 ## Notes:
 [[Osho]] cho rằng con người ta thường chỉ vận dụng khả năng sáng tạo của mình khi làm một công việc mới lạ. Khi mọi thứ đã quen thuộc thì người ta chỉ làm như 1 cỗ máy.
 
-source:: [[Osho, Chiêm Nghiệm cuộc đời]], Section
+source:: [[@ Osho, Chiêm Nghiệm cuộc đời]], Section
 
 ## Relate:

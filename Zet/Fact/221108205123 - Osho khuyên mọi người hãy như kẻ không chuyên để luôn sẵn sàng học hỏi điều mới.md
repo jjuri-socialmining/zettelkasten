@@ -14,7 +14,7 @@ publish: False
 
 Osho khuyên mọi người hãy như kẻ không chuyên để luôn sẵn sàng học hỏi điều mới, tuy nhiên để làm được điều đó, phải có dũng khí
 
-source:: [[Osho, Chiêm Nghiệm cuộc đời]], p
+source:: [[@ Osho, Chiêm Nghiệm cuộc đời]], p
 
 ## Relate:
 - Câu này giống câu [[221108205346 - Stay hungry, stay foolish]] của [[Steve Jobs]]

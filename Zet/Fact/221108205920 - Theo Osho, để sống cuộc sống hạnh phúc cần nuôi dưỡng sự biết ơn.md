@@ -12,6 +12,6 @@ publish: False
 ## Notes:
 Theo Osho, để sống cuộc sống hạnh phúc cần nuôi dưỡng sự biết ơn
 
-source:: [[Osho, Chiêm Nghiệm cuộc đời]], p
+source:: [[@ Osho, Chiêm Nghiệm cuộc đời]], p
 
 ## Relate:
