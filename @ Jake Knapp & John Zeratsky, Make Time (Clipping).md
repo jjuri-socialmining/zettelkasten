@@ -68,19 +68,116 @@ Có 3 cách để lựa chọn một Highlight
 
 ![[Pasted image 20221112180007.png]]
 
-![[Pasted image 20221112180057.png]]
+---
 
-![[Pasted image 20221112180131.png]]
+## Làm chủ chiếc điện thoại
 
-![[Pasted image 20221112180156.png]]
+Xóa các app mạng xã hội, các app Infinity Pool
+Xóa Gmail
+Xóa trình duyệt
 
-![[Pasted image 20221112180231.png]]
+### Đăng xuất
 
-![[Pasted image 20221112180250.png]]
+Đăng xuất khỏi các tài khoản, khi đăng nhập ko lưu mật khẩu.
 
-![[Pasted image 20221112180315.png]]
+### Tắt các hiển thị thông báo
 
-![[Pasted image 20221112180337.png]]
+Tắt hết tất cả các thông báo, chỉ để lại thông báo tin nhắn, và thông báo nhắc lịch
 
-![[Pasted image 20221112180358.png]]
+### Làm trống màn hình chính của điện thoại
 
+Việc này làm chậm thao tác bạn 1 bước, và bạn sẽ kịp thời đặt được câu hỏi là mình muốn mở app gì thay vì click vào icon app 1 cách vô thức
+
+### Mang đồng hồ đeo tay
+
+Việc xem giờ trên điện thoại dễ khiến bạn bị cuốn theo sử dụng nó vào những việc khác. Khi bạn đã có chiếc đồng hồ đeo tay rùi, thì không còn lý do để chiếc điện thoại trước mắt để thỉnh thoảng xem giờ.
+
+### Để các thiết bị điện tử xa tầm tay
+
+JZ có một chiến thuật hay, anh ấy thưởng bỏ điện thoại và cái cặp, và khi về nhà thì anh treo cái giỏ, và chiếc điện thoại bị lãng quên trong đó luôn.
+
+---
+
+## Tránh xa các Infinity Pool App
+
+### 23. Tránh việc check các thông báo lúc thức dậy
+
+Sáng lúc mới thức dậy, đầu óc bạn tỉnh táo, không còn bị Busy Bandwagon and the Infinity Pools sau suốt một đêm. Lúc này là thời gian vàng nên không có lý do gì bạn ngay lập tức bị 2 thứ trên làm sao nhãng. Hãy để việc check in thông báo này càng trễ càng tốt bấy nhiêu, sau 9h, 10h hoặc có thể tới qua trưa.
+
+### Phớt lờ tin tức
+
+> We’ve got some breaking news of our own: You don’t need to follow the daily news. True breaking news will find you, and the rest isn’t urgent or just doesn’t matter.
+
+Bạn không cần phải cập nhật tin tức, tin tức nào quan trọng sẽ tự đến tai bạn, những tin còn lại hầu hết là không đáng quan tâm.
+
+Bạn có thể check qua các thông tin quan trọng 1 lần tuần.
+
+### 27. Trên máy bay
+
+Thời gian trên máy bay là thời gian dành riêng cho mình
+
+### Put a Timer on the Internet
+![[20221112213818 ~ Put a Timer on the Internet.png]]
+
+Internet là một điều tuyệt với đem mọi thứ đến với bạn. Tuy nhiên, không nhất thiết nó phải luôn bật toàn bộ thời gian.
+
+Khi bạn vào chế độ Laser, bạn tắt internet. điện thoại, máy tính tắt wifi. Bạn cũng có thể sử dụng một số app để khóa tạm thời internet trên điện thoại.
+
+### 29. Cancel the Internet
+
+### 30. Watch Out for Time Craters
+
+### 31. Trade Fake Wins for Real Wins
+> Sharing tweets, Facebook updates, and Instagram photos can create time craters, but they’re dangerous for another reason: They’re fake wins.
+> 
+> Contributing to the conversation on the Internet feels like an accomplishment, and our brains tell us, “We’ve done some work!”. But 99 times out of 100, these contributions are insignificant. And they come at a cost—they take up time and energy you could be using on your Highlight. Fake wins get in the way of focusing on what you really want to do.
+
+### 32. Turn Distractions into Tools
+
+Tác giả đưa các bước trong [[Digital Minimalism]] để xem xét apps nào cần thiết đáng phải dành thời gian để sử dụng không, nếu cần thì dùng cách nào, dùng bao nhiêu là hợp lý.
+
+### 33. Become a Fair-Weather Fan
+Trở thành fan nửa mùa, khi đội bóng của bạn thắng, bạn sẽ rất hào hứng xem lại highlight, đọc tin tức về trận đấu vừa rồi. Ngay cả khi thua cũng thế. Bạn vẫn sẽ yêu quý đội của bạn ngay cả không đọc tin tức mà dành thời gian làm việc của mình
+
+
+
+
+## Slow your inbox
+
+Empty mail inbox là một thuật ngữ được phát triển bởi [[David Allen]] trong [[@ David Allen, Getting Things Done]]. Nguyên lý của nguyên tắc là khi bạn làm trống mail inbox, đầu óc bạn sẽ đc giải phóng, không bị sao nhãng bởi email nữa. Tuy nhiên, email luôn đến liên tục và bất chợt, nếu áp dụng Empty mail inbox thì lại bị phản tác dụng.
+
+###  34. Deal with Email at the End of the Day
+### 35. Schedule Email Time
+### 36. Empty Your Inbox Once a Week
+### 37. Pretend Messages Are Letters
+### 38. Be Slow to Respond
+### 39. Reset Expectations
+
+> Of course, when you limit your email time or increase your response time, you may need to manage the expectations of your colleagues and others. You could say something like this:
+> 
+> “I’m slow to respond because I need to prioritize some important projects, but if your message is urgent, send me a text.”
+### 40. Set Up Send-Only Email
+Chỉ dùng để send mail thui, không check inbox được
+
+### 41. Vacation Off the Grid
+
+> Have you ever received an “out of office” email response like this?
+“I’m on vacation this week, off the grid without access to email, but I’ll reply to your message when I return.”
+
+
+## Tìm kiếm trạng thái dòng chảy
+###  48. Đóng cửa
+Nếu xung quanh bạn không có cửa thì bạn có thể đeo headphone. Việc đóng cửa/đeo headphone ở đây có thể cũng chỉ là một tín hiệu đến nói với bộ não bạn rằng bạn đang tập trung cho những việc trước mặt bạn. Ngăn bạn không bị phân tâm bởi những thứ khác. Việc đóng cửa mang tính vật lý thì càng tốt, vì nó ngăn cản những tín hiệu gián đoạn từ bên ngoài
+###  49. Tự tạo cho mình một deadline
+Điều này cũng hợp tình hợp lý, có deadline thì mới có cảm giác tập trung
+###  50. Chia nhỏ Highlight thành các subtask
+###  52. Trực quan hóa đồng hồ đếm ngược
+###  54. Làm việc với giấy thay vì các thiết bị điện tử
+Các đồ điện tử, máy tính sẽ hỗ trợ công việc của bạn rất nhiều, tuy nhiên, hãy dùng giấy và bút viết những việc nó có thể thay thế được. Và đa số, nó đều có thể đảm nhiệm.
+
+Energize
+
+Con người chúng ta không chỉ làm việc bởi chỉ bộ não, cần có năng lượng cho bộ não đó. Giống như một cái máy tính, cần pin để chạy. Nếu pin cạn thì nó cũng ko làm việc được.
+
+
+Quyển sách này có nhiều tips đi ngược lại với thời đại, không cho check email ban sáng. Không nhất thiết phải phản hồi email nhanh.
