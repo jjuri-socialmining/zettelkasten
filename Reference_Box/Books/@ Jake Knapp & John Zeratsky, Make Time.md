@@ -16,9 +16,3 @@ Highlight, Laser, Energize and Reflect.
 
 [[@ Jake Knapp & John Zeratsky, Make Time (Clipping)]]
 
-
-
-### 87 chiến thuật
----
-
-#### Tìm kiếm trạng thái dòng chảy

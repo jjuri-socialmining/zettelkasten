@@ -1,8 +1,9 @@
 up:: [[@ Jake Knapp & John Zeratsky, Make Time]]
 
+# Introduction
 > Make Time is not about productivity. It’s not about getting more done, finishing your to-dos faster, or outsourcing your life. Instead, it’s a framework designed to help you actually create more time in your day for the things you care about, whether that’s spending time with your family, learning a language, starting a side business, volunteering, writing a novel, or mastering Mario Kart.
 
-Make Time không phải nói về việc tạo ra năng suất, tạo todo-list. Make time là một framework giúp bạn có nhiều thời gian hơn để làm những việc bạn thích/muốn làm, không phải là thứ bạn cần làm
+Make Time không phải nói về việc tạo ra năng suất, tạo todo-list. Make time là một framework giúp bạn có nhiều thời gian hơn để làm những việc bạn thích/muốn làm, không phải là thứ bạn cần làm.
 
 Quyển sách về quản lý thời gian nhưng không phải nói về tăng năng suất hơn, làm được nhiều việc hơn. Nó đề cập đến việc giảm thiểu những khoảng thời gian mà chúng ta sao nhãng để giành cho những việc chúng ta thích, dành thời gian cho gia đình, học thứ mới.
 
@@ -42,19 +43,23 @@ Hoặc rơi vào tình trạng giải trí một cách mất kiểm soát với 
 ![[Pasted image 20221112174358.png]]
 
 ---
+Highlight
 Energize: charge your battery with exercise, food, sleep, quiet, and face-to-face time.
 Reflect: Adjust and Improve Your System
 
 ---
+# Highlight
 
 ![[Pasted image 20221112175058.png]]
 
 Highlight là thứ thực tế. Nó không như việc đặt long term goal, nhưng cũng không phải là những task/nhiệm vụ mà không nhất thiết bạn phải hoàn thành
 
 Có 3 cách để lựa chọn một Highlight
-- Sự khẩn cấp
-- Sự thỏa mãn Satisfaction
+- Sự khẩn cấp: Việc gì cấp thiết cần phải làm ngay trong hôm nay?
+- Sự thỏa mãn Satisfaction: Vào cuối ngày, thì Highlight nào làm mình thỏa mãn nhất.
 - Sự vui sướng: When I reflect on today, what will bring me the most joy
+
+> [!Question] Sao hai cái vui sướng và thỏa mãn nó giống nhau vậy haha?
 
 ---
 
@@ -64,12 +69,27 @@ Có 3 cách để lựa chọn một Highlight
 
 ---
 
-![[Pasted image 20221112180029.png]]
+## Choose Your Highlight
+### 1. Write It Down
+### 2. Groundhog It (or, “Do Yesterday Again”)
+### 3. Stack Rank Your Life
+### 4. Batch the Little Stuff
+### 5. The Might-Do List
+### 6. The Burner List
+### 7. Run a Personal Sprint
 
-![[Pasted image 20221112180007.png]]
-
+## Make Time for Your Highlight
+### 8. Schedule Your Highlight
+### 9. Block Your Calendar
+### 10. Bulldoze Your Calendar
+### 11. Flake It Till You Make It
+### 12. Just Say No
+### 13. Design Your Day
+### 14. Become a Morning Person
+### 15. Nighttime Is Highlight Time
+### 16. Quit When You’re Done
 ---
-
+# Lazer
 ## Làm chủ chiếc điện thoại
 
 Xóa các app mạng xã hội, các app Infinity Pool
@@ -175,9 +195,73 @@ Nếu xung quanh bạn không có cửa thì bạn có thể đeo headphone. Vi�
 ###  54. Làm việc với giấy thay vì các thiết bị điện tử
 Các đồ điện tử, máy tính sẽ hỗ trợ công việc của bạn rất nhiều, tuy nhiên, hãy dùng giấy và bút viết những việc nó có thể thay thế được. Và đa số, nó đều có thể đảm nhiệm.
 
-Energize
+
+# Energize
 
 Con người chúng ta không chỉ làm việc bởi chỉ bộ não, cần có năng lượng cho bộ não đó. Giống như một cái máy tính, cần pin để chạy. Nếu pin cạn thì nó cũng ko làm việc được.
 
+Nếu muốn tạo năng lượng bộ não, bạn phải chăm sóc cơ thể của bạn. Trong phần này, các chiến thuật của tác giả là đề cập đến các cách thức mà con người nguyên thủy dụng để tồn tại. Từ ăn uống, vận động và ngủ nghỉ.
+
+## Keep It Moving
+### 61. Exercise Every Day (but Don’t Be a Hero)
+Bạn chỉ cần tập thể dục 20 phút mỗi ngày và tự thưởng cho mình những phần thưởng nhỏ. Quan niệm của tác giả chỉ cần bạn bỏ ra một ít thời gian để luyện tập mỗi ngày, không yêu cầu bài tập quá phức tạp hoặc quá nặng nhọc.
+
+### 62. Pound the Pavement
+Đi bộ là một hoạt động cực kỳ dễ dàng mà hiệu quả, con người sinh ra để đi bộ. Đi bộ giúp đầu óc giải tỏa, tạo ra [[Endorphin]] giúp bạn sảng khoái.
+
+### 63. Inconvenience Yourself
+
+### 64. Squeeze in a Super Short Workout
+Tập các bài tập cực ngắn, vì nó dễ khiến bạn bắt đầu hơn là việc phải mang giày ra công viên. Và bạn nghĩ nó cũng chỉ tốn của mình vài phút đồng hồ. Bạn có thể tham khảo các mẫu bài tập [[HIIT]]. [[Jake Knapp]] gợi ý cho bạn các mẫu bài tập 7 phút. Còn [[John Zeratsky]] gợi ý cho mẫu bài tập 3x3 của anh ta
+
+## Eat Real Food
+### 65. Eat Like a Hunter-Gatherer
+Ăn thức ăn, không quá nhiều, ăn nhiều thực vật
+
+### 66. Central Park Your Plate
+Lấy đồ ăn thì lấy rau củ quả trước tiên, phần còn lại thì lấy các thứ khác.
+
+### 67. Stay Hungry
+### 68. Snack Like a Toddler
+### 69. Go on the Dark Chocolate Plan
+Sử dụng socola làm thức ăn để nạp năng lượng khi bạn đói, các thức ăn bổ sung năng lượng khác có thể chứa nhiều đường, không tốt cho cơ thể.
+
+## Optimize Caffeine
+Tránh uống cafe một cách vô thức theo thói quen, mà hãy có chủ đích.
+
+Khi uống caffe, sau khoảng 40 phút 99% cafe đi vào máu và nó sẽ vô hiệu hóa phân tử adenosine trong não, khiến chúng ta cảm thấy hưng phấn. Tuy nhiên, khi bạn dừng uống, bạn sẽ bị đau đầu. Dươi đây là một số mẹo tối ưu hóa sử dụng caffe 
+- Không uống caffe khi mới thức dậy
+- Bạn nên bắt đầu uống lúc 9h30-10h30, và trễ nhất là khoảng 1h30-2h30
+![[Pasted image 20221113212416.png]]
+
+### 70. Wake Up Before You Caffeinate
+Khi bạn thức dậy, mức cortisol trong máu cao giúp cơ thể tỉnh táo rùi. Khi bạn uống cafe lúc này không có nhiều khác biệt nhiều trong việc giúp bạn tỉnh táo hơn. Và thường Cortisol cao nhất khoảng 8-9h sáng. Sau đó mức này sẽ giảm, lúc này khoảng 9h30-10h30 bạn có thể nạp một chút cafe giúp cho bạn tỉnh tảo hơn.
+
+### 71. Caffeinate Before You Crash
+Khi bạn thấm mệt, thì uống cafe là quá trễ, vì các phân tử adenosine đã sản sinh và gắn vào não.
+
+### 72. Take a Caffeine Nap
+Sau một giấc ngủ ngắn, não bộ bạn sẽ làm sạch adenosine. đó là một cách tự nhiên nhất mà cơ thể con người tự điều chỉnh.
+
+### 73. Maintain Altitude with Green Tea
+### 74. Turbo Your Highlight
+### 75. Learn Your Last Call
+### 76. Disconnect Sugar
+
+## Sleep in a Cave
+### 83. Make Your Bedroom a Bed Room
+Bỏ chiếc điện thoại cách xa phòng ngủ, khi nhìn thấy ánh sáng xanh trong điện thoại, não bộ bạn bị báo động là đang ban ngày. Bạn có thể đọc trước khi ngủ, nhưng chỉ nên đọc sách giấy thay vì đọc kindle với đèn nền.
+
+
+### 84. Fake the Sunset
+Bật chế độ ban đêm cho điện thoại, laptop...
+
+### 85. Sneak a Nap
+### 86. Don’t Jet-Lag Yourself
+### 87. Put On Your Own Oxygen Mask First
+
+# Reflect
+
+![[20221113214807 ~ Reflect.png]]
 
 Quyển sách này có nhiều tips đi ngược lại với thời đại, không cho check email ban sáng. Không nhất thiết phải phản hồi email nhanh.

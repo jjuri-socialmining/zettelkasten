@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bc4cf067c4cf0ac2",
+        "id": "36834e72869cea74",
         "type": "tabs",
         "children": [
           {
-            "id": "fbf1436ae2aeaf4e",
+            "id": "fc545304e84dc6f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@ Jake Knapp & John Zeratsky, Make Time (Clipping).md",
+                "file": "Tìm hiểu Regression test frame work.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#created/2022/Nov/09",
+                "query": "tag:#created/2022/Nov/13",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,6 +88,16 @@
         "id": "0d65db211cf53773",
         "type": "tabs",
         "children": [
+          {
+            "id": "a6509e8a3f82d1e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tìm hiểu Regression test frame work.md"
+              }
+            }
+          },
           {
             "id": "91b839172ae5964f",
             "type": "leaf",
@@ -120,9 +130,9 @@
                   "lat": 10.903169652493919,
                   "lng": 104.70340328908965
                 },
-                "query": "path:\"@ Jake Knapp & John Zeratsky, Make Time (Clipping).md\"",
+                "query": "path:\"Tìm hiểu Regression test frame work.md\"",
                 "chosenMapSource": 0,
-                "queryError": true,
+                "queryError": false,
                 "followActiveNote": true
               },
               "pinned": true
@@ -142,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "@ Jake Knapp & John Zeratsky, Make Time (Clipping).md",
+                "file": "Tìm hiểu Regression test frame work.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -177,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@ Jake Knapp & John Zeratsky, Make Time (Clipping).md",
+                "file": "Tìm hiểu Regression test frame work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@ Jake Knapp & John Zeratsky, Make Time (Clipping).md",
+                "file": "Tìm hiểu Regression test frame work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,25 +249,35 @@
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
+          },
+          {
+            "id": "a67c30cd21094fb6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tìm hiểu Regression test frame work.md"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 530.5
   },
-  "active": "fbf1436ae2aeaf4e",
+  "active": "fc545304e84dc6f1",
   "lastOpenFiles": [
-    "Reference_Box/Books/@ Jake Knapp & John Zeratsky, Make Time.md",
-    "@ Jake Knapp & John Zeratsky, Make Time (Clipping).md",
-    "Zet/Images/Pasted image 20221112180358.png",
-    "Zet/Images/Pasted image 20221112180337.png",
-    "Zet/Images/Pasted image 20221112180315.png",
-    "Zet/Images/Pasted image 20221112180250.png",
-    "Zet/Images/Pasted image 20221112180231.png",
-    "Zet/Images/Pasted image 20221112180156.png",
-    "Zet/Images/Pasted image 20221112180057.png",
-    "Zet/Images/Pasted image 20221112180131.png"
+    "Bins/Dataview/dataview.table.md",
+    "Bins/Dataview/dataview.task.md",
+    "Zet/Tìm hiểu nấm thức thần.md",
+    "Spaces/Journal/Ý nghĩa cuộc sống.md",
+    "Reference_Box/Quotes/💬211023-2301 Cuộc sống như cuộc chạy đua vô nghĩa.md",
+    "Zet/Thinking/❕ Sống một lần là một sự giải thoát cho con người.md",
+    "Reference_Box/Books/@ Oliver Burkeman, Four Thousand Weeks Time Management for Mortals.md",
+    "Reference_Box/Websites/4000 week - Ryan Boissonneault book review.md",
+    "Spaces/Daily/2022-11-13.md",
+    "Zet/Fact/221113215647 - Các quyển sách được đề xuất trong quyển Make Time.md"
   ]
 }

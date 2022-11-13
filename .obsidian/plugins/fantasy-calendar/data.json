@@ -192,7 +192,7 @@
         "displayDayNumber": false
       },
       "current": {
-        "day": 11,
+        "day": 13,
         "month": 10,
         "year": 2022
       },
@@ -390,7 +390,7 @@
           "category": "historical-events"
         },
         {
-          "name": "Đám cưới Trang chú Đạm",
+          "name": "Đám cưới Trang chú Đạm 22-11-13",
           "description": null,
           "date": {
             "day": 13,
@@ -398,7 +398,7 @@
             "year": 2022
           },
           "id": "ID_a8b80a2a6b7a",
-          "note": "Spaces/Journal/Đám cưới Trang chú Đạm",
+          "note": "Spaces/Journal/Đám cưới Trang chú Đạm 22-11-13",
           "category": "miscellaneous-events"
         },
         {
