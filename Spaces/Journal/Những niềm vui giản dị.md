@@ -69,3 +69,6 @@ permanent -> evergreen -> think
 
 ### [[2022-11-13]]
 [[🙂 221113203703 - Cho đứa em gái mấy đồng xu vì nó nói nó đang sưu tập, mặc dù mình cũng thích sưu tập]]
+
+### [[2022-11-14]]
+[[🙂 221114223339 - Cảm giác tỉnh táo sau những giấc ngủ dài]]

@@ -11,3 +11,5 @@ publish: False
 up:: [[Những niềm vui giản dị]]
 ## Notes:
 [[2022-11-11|Hôm nay]], chạy bộ ngoài [[Nhà thờ Dốc Mơ]], lúc cooldown đi loanh quanh bên hông nhà thờ thì vô tình nhặt được đồng xu 5 cent Mã Lai 
+
+next:: [[🙂 221113203703 - Cho đứa em gái mấy đồng xu vì nó nói nó đang sưu tập, mặc dù mình cũng thích sưu tập]]

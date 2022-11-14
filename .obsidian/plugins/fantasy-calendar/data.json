@@ -424,6 +424,34 @@
           "id": "ID_0a18da9998f8",
           "note": "Tech 2022 HM",
           "category": "miscellaneous-events"
+        },
+        {
+          "id": "ID_68a9c9bb9a58",
+          "name": "Hẹn Tuấn đi ăn tối",
+          "note": "Spaces/Journal/Hẹn Tuấn đi ăn tối.md",
+          "date": {
+            "year": 2022,
+            "month": 10,
+            "day": 16
+          },
+          "end": null,
+          "category": "natural-events",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_0829bb1bcad9",
+          "name": "Mang xe đạp ra Thủ Đức cho Ánh",
+          "note": "Spaces/Journal/Mang xe đạp ra Thủ Đức cho Ánh.md",
+          "date": {
+            "year": 2022,
+            "month": 10,
+            "day": 20
+          },
+          "end": null,
+          "description": "",
+          "auto": true,
+          "category": "natural-events"
         }
       ],
       "id": "ID_1b9ab90b1b99",

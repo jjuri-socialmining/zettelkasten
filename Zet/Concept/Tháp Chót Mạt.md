@@ -16,6 +16,6 @@ locations:
 
 ## Notes:
 
-![[~ Tháp Chót Mạt.jpg]]
+![[2022-09-30 ~ Tháp Chót Mạt.jpg]]
 
 [[Bike Tour Vườn QG Lò Gò Xa Mát|Đạp xe du hí Lò Gò - Xa Mát]]

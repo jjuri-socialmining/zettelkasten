@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "36834e72869cea74",
+        "id": "db6ebc32ff5890c5",
         "type": "tabs",
         "children": [
           {
-            "id": "fc545304e84dc6f1",
+            "id": "ec89eafc24a5eb7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tìm hiểu Regression test frame work.md",
+                "file": "Spaces/Daily/2022-11-14.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tìm hiểu Regression test frame work.md"
+                "file": "Spaces/Daily/2022-11-14.md"
               }
             }
           },
@@ -130,7 +130,7 @@
                   "lat": 10.903169652493919,
                   "lng": 104.70340328908965
                 },
-                "query": "path:\"Tìm hiểu Regression test frame work.md\"",
+                "query": "path:\"Spaces/Daily/2022-11-14.md\"",
                 "chosenMapSource": 0,
                 "queryError": false,
                 "followActiveNote": true
@@ -152,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tìm hiểu Regression test frame work.md",
+                "file": "Spaces/Daily/2022-11-14.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tìm hiểu Regression test frame work.md",
+                "file": "Spaces/Daily/2022-11-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tìm hiểu Regression test frame work.md",
+                "file": "Spaces/Daily/2022-11-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,28 +256,36 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tìm hiểu Regression test frame work.md"
+                "file": "Spaces/Daily/2022-11-14.md"
               }
+            }
+          },
+          {
+            "id": "92f2d63b614be369",
+            "type": "leaf",
+            "state": {
+              "type": "BC-ducks",
+              "state": {}
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
-    "width": 530.5
+    "width": 758.5
   },
-  "active": "fc545304e84dc6f1",
+  "active": "ec89eafc24a5eb7c",
   "lastOpenFiles": [
-    "Bins/Dataview/dataview.table.md",
-    "Bins/Dataview/dataview.task.md",
-    "Zet/Tìm hiểu nấm thức thần.md",
-    "Spaces/Journal/Ý nghĩa cuộc sống.md",
-    "Reference_Box/Quotes/💬211023-2301 Cuộc sống như cuộc chạy đua vô nghĩa.md",
-    "Zet/Thinking/❕ Sống một lần là một sự giải thoát cho con người.md",
-    "Reference_Box/Books/@ Oliver Burkeman, Four Thousand Weeks Time Management for Mortals.md",
-    "Reference_Box/Websites/4000 week - Ryan Boissonneault book review.md",
-    "Spaces/Daily/2022-11-13.md",
-    "Zet/Fact/221113215647 - Các quyển sách được đề xuất trong quyển Make Time.md"
+    "Reference_Box/Quotes/💬221115000128 ~ Cuộc sống hiện đại xấu xí.md",
+    "Spaces/Daily/2022-11-14.md",
+    "Zet/Garden/Embeded Google translate to Calibre.md",
+    "Zet/Images/20221114231432 ~ GG Translate to Calibre.png",
+    "Reference_Box/Books/@ Jake Knapp & John Zeratsky, Make Time.md",
+    "Spaces/Journal/Mang xe đạp ra Thủ Đức cho Ánh.md",
+    "@ Jake Knapp & John Zeratsky, Make Time (Clipping).md",
+    "Zet/Thinking/🙂 221113203703 - Cho đứa em gái mấy đồng xu vì nó nói nó đang sưu tập, mặc dù mình cũng thích sưu tập.md",
+    "Zet/Thinking/🙂 221111161619 - Nhặt được đồng 5 cent Mã Lai khi đang giãn cơ.md",
+    "Spaces/Journal/Bike Tour Vườn QG Lò Gò Xa Mát.md"
   ]
 }
