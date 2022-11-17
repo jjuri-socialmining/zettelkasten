@@ -10,7 +10,7 @@ end: 'TBD'
 
 
 # Input
-- Access register via [[notes/concept/olympus]] driver
+- Access register via [[Zet/Concept/olympus protocol]] driver
 
 	- ![[Pasted image 20220510104641.png]]
 

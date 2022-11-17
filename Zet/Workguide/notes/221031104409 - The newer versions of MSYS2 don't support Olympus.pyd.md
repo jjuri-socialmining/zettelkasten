@@ -10,7 +10,7 @@ aliases: '221031104409'
 publish: False
 ---
 ## Notes:
-The newer versions of MSYS2 don't support [[notes/concept/olympus|olympus.pyd]]
+The newer versions of MSYS2 don't support [[olympus protocol|olympus.pyd]]
 
 source:: [[Brad Elliott|Brad]] mention in [[20221031 - importing .pyd files issue email]]
 ## Relate:

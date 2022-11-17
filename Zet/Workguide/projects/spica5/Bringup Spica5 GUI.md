@@ -18,8 +18,10 @@ up:: [[Tasks list]], [[spica5]]
 	- load FW
 - [x] PRBS tab ⏫ 🛫 2022-10-05 ✅ 2022-10-19
 	- [x] unhide prbs channel: Which condition? -> FW running, chn is power down ✅ 2022-10-06
-	- [ ] 
-- [ ] LRX DSP, HRX DSP
+	- 
+-  LRX DSP, HRX DSP
+
+This task was no longer exist due to move to legacy
 
 ### Simulator
 - [[How to start spica5 simulator]]

@@ -452,6 +452,18 @@
           "description": "",
           "auto": true,
           "category": "natural-events"
+        },
+        {
+          "name": "Đám cưới anh Tiến SW 2022-11-27",
+          "description": null,
+          "date": {
+            "day": 27,
+            "month": 10,
+            "year": 2022
+          },
+          "id": "ID_a9a86a4ac998",
+          "note": "Spaces/Journal/Đám cưới anh Tiến SW 2022-11-27",
+          "category": "natural-events"
         }
       ],
       "id": "ID_1b9ab90b1b99",

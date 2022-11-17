@@ -7,13 +7,11 @@ kanban-plugin: basic
 ## TODO
 
 - [ ] Add more ANLT sample
-- [ ] [[Spica5 - Universal API develop for bringup phase]]
 - [ ] [[Interns - Create environment python for por_dr in lab repo]]
 
 
 ## WAITING
 
-- [ ] [[Issue - Supply voltage sweeping test]]
 
 
 ## DOING
@@ -22,7 +20,6 @@ kanban-plugin: basic
 
 ## DONE
 
-- [x] [[Spica+ - Xbar query on SWIG after set up delegate]] ✅ 2022-09-21
 
 
 ***
@@ -35,6 +32,9 @@ kanban-plugin: basic
 - [x] [[Add sample to profile APIs execute time]] ✅ 2022-09-21
 - [x] RETCSW-125 Screening part for lynx to release ✅ 2022-09-21
 - [x] [[SPICSW-351 API Support PG4 package]]<br>- Lab 5010 ✅ 2022-09-21
+- [x] [[Spica+ - Xbar query on SWIG after set up delegate]] ✅ 2022-09-21
+- [ ] [[Issue - Supply voltage sweeping test]]
+- [ ] [[Spica5 - Universal API develop for bringup phase]]
 
 %% kanban:settings
 ```

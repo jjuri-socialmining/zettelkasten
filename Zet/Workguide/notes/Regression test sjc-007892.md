@@ -4,7 +4,7 @@ created: 2022-Aug-09
 tags:
   - 'permanent/common'
 ---
-up:: [[Regression test]]
+up:: [[HSC Regression test]]
 
 Link: https://odsp-sqa-jenkins.marvell.com/job/lynx.regression/job/nightly/job/lynx_SJCLab-007892/
 

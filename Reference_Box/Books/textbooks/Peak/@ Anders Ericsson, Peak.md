@@ -16,3 +16,6 @@
 
 ## Summary
 
+## Permanent:
+- [[221117230809 - Peak phủ định quan điểm 10000 giờ để trở thành một chuyên gia]]
+- ![[Peak - Book in 1 page.pdf]]

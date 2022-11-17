@@ -12,7 +12,8 @@ tags:
 ---
 ## Notes:
 
-
 Đi làm về tới phòng là 6h10, giặt đồ. tầm 18h45 ra quán cô ba thì bị mưa, đi bộ ra tới đầu đường thiên phước thì thấy trời chuẩn bị mưa. Thế là quay lại lấy dù, đi bộ ra tới tầm 19h5. [[Tuấn Vũ]] sau đó tầm 5 phút cũng tới. 
+
 Tuấn giờ làm chứng khoán,
+
 mỗi đứa uống 4 lon, Tuấn trả tiền và hẹn lần sau anh em đi ra uống tiếp. Tiền tổng tầm chưa tới 600k, mình thấy Tuấn đưa 700k, thoiwsos lại hơn 100k

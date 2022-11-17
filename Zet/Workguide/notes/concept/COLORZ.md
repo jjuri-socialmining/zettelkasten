@@ -7,7 +7,7 @@ aliases:
   -
 ---
 
-COLORZ là product optical modules mà [[notes/Marvell]] design cho [[Microsoft]] với khả năng thu phát với khoảng cách 80km.[^1]
+COLORZ là product optical modules mà [[Marvell]] design cho [[Microsoft]] với khả năng thu phát với khoảng cách 80km.[^1]
 
 
 

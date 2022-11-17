@@ -153,7 +153,7 @@ Khi bạn học, hãy ghi chú lại mọi thứ để có thể tham khảo l�
 
 [[Ghi chú lại mọi thứ khi học để tham khảo lại sau này]] 
 
-Bạn cũng nên xem xét việc chia sẻ công khai những ghi chú của mình trong quá trình học (như với tôi thì là về [[những cuốn sách tôi đã đọc]]) vì nó sẽ buộc bạn phải làm rõ thêm sự hiểu biết của mình để diễn đạt nó theo cách mà người khác sẽ hiểu.
+Bạn cũng nên xem xét việc chia sẻ công khai những ghi chú của mình trong quá trình học (như với tôi thì là về những cuốn sách tôi đã đọc) vì nó sẽ buộc bạn phải làm rõ thêm sự hiểu biết của mình để diễn đạt nó theo cách mà người khác sẽ hiểu.
 
 [[Chia sẻ ghi chú học, đọc sách giúp bạn tìm hiểu sâu và diễn đạt rõ ràng hơn]] 
 

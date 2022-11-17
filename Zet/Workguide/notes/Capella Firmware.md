@@ -8,6 +8,7 @@ pass: 3Kt#71Ib$
 ```
 cd firmware/application
 make -f build.inc build
+make -f build.inc USE_TLOG=false chip=capellab build
 ```
 
 log
@@ -78,3 +79,6 @@ bash-4.2$ cd build-output/
 ```
 python push_firmware.py
 ```
+
+
+[[Capella FW integrate to lynx]]

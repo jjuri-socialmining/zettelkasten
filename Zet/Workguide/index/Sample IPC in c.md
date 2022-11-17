@@ -6,7 +6,7 @@ tags:
   - 'permanent/linking'
 publish: False
 ---
-[[notes/concept/IPC feature|IPC]]
+[[IPC]]
 
 ![[client.c]]
 

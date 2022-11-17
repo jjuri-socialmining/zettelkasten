@@ -17,3 +17,5 @@ publish: False
 - 
 
 ![[@ Mihaly Csikszentmihalyi, Flow 221022113124.excalidraw]]
+
+Book summary: https://www.youtube.com/watch?v=DXD8QjpQrFc

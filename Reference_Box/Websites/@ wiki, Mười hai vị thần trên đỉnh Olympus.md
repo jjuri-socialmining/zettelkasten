@@ -9,7 +9,7 @@ publish: True
 - link: [Mười hai vị thần trên đỉnh Olympus – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/M%C6%B0%E1%BB%9Di_hai_v%E1%BB%8B_th%E1%BA%A7n_tr%C3%AAn_%C4%91%E1%BB%89nh_Olympus)
 
 ## Sum
-- Có 12 vị thần chính trong  thần điện trên đỉnh [[Olympus]]
+- Có 12 vị thần chính trong  thần điện trên đỉnh [[Zet/Garden/Olympus]]
 - Hades thường không có tên trong danh sách 12 vị thần chính vì ông ở dưới âm phủ phần lớn thời gian.
 - [[Plato]] liên hệ 12 vị thần chính trên Olympus với 12 tháng trong năm
 - [[Thần Zeus]] được gọi là Jupiter trong tiếng Latin

@@ -11,7 +11,7 @@ tags: #MOC
 - [[GUI access die 2]]
 
 - [[How to debug pytest on vscode]]
-- [[Regression test]]
+- [[HSC Regression test]]
 - [[Setup lynx environment]]
 - [[lynx 400 labs]]
 - [[GUI template script generator]]
@@ -21,6 +21,9 @@ tags: #MOC
 ![[Lynx MAS 0.11.docx]]
 
 [[Auto CTLE in Capella]]
+```
+make PROJECT_PREFIX=lynx PRODUCTS=lynx_400 python pyversion=3.9
+```
 ## Lynx New achitecture
 - [[Lynx new Architecture]]
 - [[lynx_tuning_guide.pdf]]

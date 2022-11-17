@@ -10,7 +10,7 @@ tags:
 publish: False
 ---
 ## Notes:
-[[Thần Zeus]] là vua các vị thần trên đỉnh [[Olympus]]
+[[Thần Zeus]] là vua các vị thần trên đỉnh [[Zet/Garden/Olympus]]
 
 ## Source:
 - [[@ wiki, Mười hai vị thần trên đỉnh Olympus]]

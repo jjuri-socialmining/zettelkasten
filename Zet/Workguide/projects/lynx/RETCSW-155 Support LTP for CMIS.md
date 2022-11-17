@@ -288,3 +288,6 @@ RETCSW-155 add cpl regs for LTP CMIS
 
 Version test on [[hcm-lab-1006]]
 ![[Pasted image 20220524185557.png]]
+
+### Related:
+- [[16.8 fixed point]]

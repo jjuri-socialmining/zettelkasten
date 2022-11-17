@@ -11,8 +11,9 @@ publish: False
 ---
 up:: [[People MOC]],
 
-Matt Murphy is President and Chief Executive Officer (CEO) of [[notes/Marvell]]
+Matt Murphy is President and Chief Executive Officer (CEO) of [[Marvell]]
 
 Matt Murphy hay có những email truyền cảm hứng:
 - [[Commitment, Caring and the Pursuit of Excellence]]
 - [[Support our team in China]]
+

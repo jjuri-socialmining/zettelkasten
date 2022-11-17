@@ -6,7 +6,7 @@ tags:
 aliases:
   -
 ---
-up:: [[Regression test]]
+up:: [[HSC Regression test]]
 
 ```
 Gen rules = CapellaPrbsGenRules(mode='COMBINED', enable=True, pattern={'msb': 'PRBS31', 'lsb': 'PRBS31'}, prbs_pat_mode='PRBS')

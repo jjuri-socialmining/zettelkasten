@@ -6,7 +6,7 @@ tags:
 aliases:
   - list all changed files in git
 ---
-```shell
+```
 cp $(git diff --name-only HEAD^) build-output
 ```
 
@@ -17,6 +17,9 @@ git diff --name-only HEAD | zip patched.zip -@
 
 # Changed files between last and previous
 git diff --name-only HEAD~ HEAD | zip patched.zip -@
+```
+```
+./git-cp.sh  6b3a7284b9d4f6f741eae821c317940e13724321 ab571943d61fa8ba45df43347eb808eb644b9c59 'C:/change/'
 ```
 
 ```shell

@@ -1,3 +1,4 @@
+```c
 #include "ctc_api.h"
 #include "ctc_gui.h" // Required for Inphi Explorer
 #include <stdlib.h>
@@ -44,3 +45,4 @@ int main(int argc, char* argv[])
     
     return rc;
 }
+```

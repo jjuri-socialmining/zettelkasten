@@ -27,4 +27,4 @@ https://ewiki.marvell.com/display/ODSP/Spica5+Architecture
 
 ![[Pasted image 20221018145938.png]]
 
-![[Pasted image 20221018145055.png]]
+![[20221018145055 ~ MCU spica5.png]]

@@ -4,6 +4,7 @@ created: 2022-Aug-29
 tags:
   - 'permanent/howto'
 ---
+[[swig]]
 
 ## Compile 
 check error in 
@@ -35,6 +36,14 @@ hsc_dev_t* lynx_400_dev(hsc_dev_t *dev, uint32_t asic_id);
 ```
 move to product interface.
 
+[[@2022-11-01]]
+```
+     Creating library build-output\Release\hsc_api.lib and object build-output\Release\hsc_api.exp
+hsc_api_wrap.obj : error LNK2001: unresolved external symbol _cpl_mcu_get_inline_firmware
+hsc_api_wrap.obj : error LNK2001: unresolved external symbol _cpl_mcu_verify_image_wrapper
+hsc_api_wrap.obj : error LNK2001: unresolved external symbol _cpl_mcu_download_firmware
+hsc_api_wrap.obj : error LNK2001: unresolved external symbol _cpl_mcu_direct_download_image_bcast_inline
+```
 ### Jenkins:
 If the error happen in Jenkin, check workspace of that job:
 
@@ -44,3 +53,4 @@ http://sw.inphi-corp.local/jenkins/job/porrimadr.capi/job/porrimadr.capi.python.
 
 ![[Pasted image 20220831113040.png]]
 Then access the directory of `hsc_api.log` file. Download and check the error log.
+[[221102153547 - python compile error]]

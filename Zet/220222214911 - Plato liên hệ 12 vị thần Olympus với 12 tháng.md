@@ -10,7 +10,7 @@ tags:
 publish: False
 ---
 ## Notes:
- [[Plato]] liên hệ 12 vị thần chính trên [[Olympus]] với 12 tháng trong năm
+ [[Plato]] liên hệ 12 vị thần chính trên [[Zet/Garden/Olympus]] với 12 tháng trong năm
 
 ## Source:
 - [[@ wiki, Mười hai vị thần trên đỉnh Olympus]]

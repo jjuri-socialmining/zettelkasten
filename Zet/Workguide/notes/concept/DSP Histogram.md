@@ -16,4 +16,4 @@ publish: False
 ![[spica_plus_rx.pdf]]
 https://sw.inphi-corp.local/bookstack/books/infrastructure/page/rx-quality-checks
 
-[[notes/concept/Theta Sweep]]
+[[Theta Sweep]]
