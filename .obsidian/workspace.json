@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Journal/Hẹn Tuấn đi ăn tối.md",
+                "file": "Zet/Writing/Chinh phục hạnh phúc - Tóm tắt.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Journal/Hẹn Tuấn đi ăn tối.md"
+                "file": "Zet/Writing/Chinh phục hạnh phúc - Tóm tắt.md"
               }
             }
           },
@@ -130,55 +130,12 @@
                   "lat": 10.903169652493919,
                   "lng": 104.70340328908965
                 },
-                "query": "path:\"Spaces/Journal/Hẹn Tuấn đi ăn tối.md\"",
+                "query": "path:\"Zet/Writing/Chinh phục hạnh phúc - Tóm tắt.md\"",
                 "chosenMapSource": 0,
-                "queryError": false,
+                "queryError": true,
                 "followActiveNote": true
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "0f6d33a1c8caf8bd",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "4ebb4fa78159c592",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Spaces/Journal/Hẹn Tuấn đi ăn tối.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7132754626224425,
-                  "close": false
-                }
-              }
             }
           },
           {
@@ -187,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Journal/Hẹn Tuấn đi ăn tối.md",
+                "file": "Zet/Writing/Chinh phục hạnh phúc - Tóm tắt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,18 +161,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Journal/Hẹn Tuấn đi ăn tối.md",
+                "file": "Zet/Writing/Chinh phục hạnh phúc - Tóm tắt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "956739e42ac32ec6",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -227,23 +176,25 @@
             }
           },
           {
-            "id": "484965fdafc96c53",
+            "id": "a67c30cd21094fb6",
             "type": "leaf",
             "state": {
-              "type": "BC-matrix",
+              "type": "outline",
+              "state": {
+                "file": "Zet/Writing/Chinh phục hạnh phúc - Tóm tắt.md"
+              }
+            }
+          },
+          {
+            "id": "d749ce88fd835e09",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           },
           {
-            "id": "dabf1080958b5859",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {}
-            }
-          },
-          {
-            "id": "77a968eeb6df9e1c",
+            "id": "ae3de5ec89eb2f35",
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
@@ -251,41 +202,40 @@
             }
           },
           {
-            "id": "a67c30cd21094fb6",
+            "id": "f89e66f3635e6419",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "Spaces/Journal/Hẹn Tuấn đi ăn tối.md"
-              }
+              "type": "BC-matrix",
+              "state": {}
             }
           },
           {
-            "id": "92f2d63b614be369",
+            "id": "a31f736856dd8fae",
             "type": "leaf",
             "state": {
-              "type": "BC-ducks",
+              "type": "BC-tree",
               "state": {}
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
-    "width": 681.5
+    "width": 681.5,
+    "collapsed": true
   },
   "active": "ec89eafc24a5eb7c",
   "lastOpenFiles": [
+    "Reference_Box/Quotes/💬221118224722 - Giải sầu bằng rượu là cách tiêu cực.md",
+    "Zet/Writing/Chinh phục hạnh phúc - Tóm tắt.md",
+    "Reference_Box/Books/@ Bertrand Russel, Chinh phục hạnh phúc.md",
+    "Reference_Box/Books/Bài tựa của Nguyễn Hiến Lê về quyển chinh phục hạnh phúc.md",
     "Spaces/Daily/2022-11-18.md",
-    "Spaces/Journal/Tech 2022 HM.md",
-    "Spaces/Journal/Đám cưới anh Tiến SW 2022-11-27.md",
-    "Spaces/Journal/Mang xe đạp ra Thủ Đức cho Ánh.md",
-    "Spaces/Journal/Đám cưới Trang chú Đạm 22-11-13.md",
-    "Spaces/Journal/Đám cưới Ngọc Thảo Lương - 2022-11-05.md",
-    "Spaces/Daily/2022-11-27.md",
-    "Spaces/Tasks/$ 221118 - Đám cưới anh Tiến SW 🔎.md",
-    "Reference_Box/Books/@ Jake Knapp & John Zeratsky, Make Time (Clipping).md",
-    "Reference_Box/Articles/@ ybox, Sandbox - Phương Pháp Giúp Bạn Học Bất Cứ Thứ Gì - YBOX.md"
+    "Spaces/Journal/Những niềm vui giản dị.md",
+    "Zet/Thinking/🙂 221118222623 - Đọc được một bài tựa sách đắc ý.md",
+    "Zet/Fact/221118221535 - Nguyễn Hiến Lê rút được ra 3 nguyên nhân trong Chinh phục hạnh phúc khiên người ta không có được hạnh phúc.md",
+    "Zet/People/Bertrand Russell.md",
+    "Reference_Box/Books/@ Lâm Ngữ Đường, Sống đẹp.md"
   ]
 }

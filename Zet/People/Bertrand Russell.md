@@ -14,7 +14,5 @@ publish: False
 ## Notes:
 
 
-## Ideas & thoughts:
-
 ## Ref:
 - [Bertrand Russell – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/Bertrand_Russell)

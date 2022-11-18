@@ -1,23 +1,20 @@
-# @ Lâm Ngữ Đường, Sống đẹp
+---
+title: '@ Lâm Ngữ Đường, Sống đẹp'
+UID: 210814-2225
+tags:
+  - 'created/2021/Aug/14'
+  - 'source/book'
+aliases:
+  - The importance of living
+publish: False
+---
+- metadata:
+	- url::
+	- author:: [[Lâm Ngữ Đường]]
+	- category::
+	- translate:: [[Nguyễn Hiến Lê]]
 
-
-- metadata
-	- UID: L-210814-2225
-	- tags: #created/2021/Aug/14, #literature-notes 
-	- source: 
 
 ## Summary
-Tác giả [[Lâm Ngữ Đường]]
-Bản dịch [[Nguyễn Hiến Lê]]
 
 Trong quyển sách có nhắc đến [[Kim Thánh Thán]]
-
-## Questions and thoughts
-
-
-## Related:
-```dataview
-list
-from [[@ Lâm Ngữ Đường, Sống đẹp]]
-sort file.name asc
-```
