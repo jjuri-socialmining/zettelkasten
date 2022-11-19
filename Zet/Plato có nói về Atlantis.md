@@ -15,7 +15,7 @@ publish: False
 ## Notes:
 [[Plato]] có nói về [[Atlantis]], trong [[Qmap]] có thể hiện mối liên hệ hệ này.
 
-![[Pasted image 20211027214850.png]]
+![[20211027214850.png]]
 
 [[Theo Ancient Aliens, Plato mô tả sự tồn tại của Atlantis]]
 

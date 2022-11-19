@@ -11,7 +11,7 @@ publish: False
 # Baphomet
 
 ## Notes:
-![[Pasted image 20211113223507.png]]
+![[20211113223507.png]]
 Baphomet là một vị thần trong hình dạng người lai dê mang cánh.
 
 ## Ideas & thoughts:

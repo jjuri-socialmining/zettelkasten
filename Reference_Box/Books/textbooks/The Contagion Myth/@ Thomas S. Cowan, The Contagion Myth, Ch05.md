@@ -131,7 +131,7 @@ The gold standard test for a viral infection is the isolation, purification, and
 The PCR test examines the pieces of genetic material taken from a swab from the back of the sinus cavity (a very unpleasant procedure). No research has shown that this genetic material is unique to that of coronavirus or even that it comes from a coronavirus.
 >Xét nghiệm PCR kiểm tra các mảnh vật liệu di truyền được lấy từ một miếng gạc từ phía sau xoang (một quy trình rất khó chịu). Không có nghiên cứu nào chỉ ra rằng vật liệu di truyền này là duy nhất của virus corona hoặc thậm chí nó đến từ virus corona.
   
-![[Pasted image 20211016162814.png]]
+![[20211016162814.png]]
 Taking a swab for a PCR test—the procedure is invasive and unpleasant, and for some it is even painful.
 >Lấy tăm bông để làm xét nghiệm PCR - quy trình này rất xâm lấn và khó chịu, và đối với một số người, nó thậm chí còn gây đau đớn.
 

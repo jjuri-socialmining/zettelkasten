@@ -14,8 +14,8 @@ publish: False
 
 ## Notes:
 Crop Circle, hay còn gọi là Vòng tròn đồng ruộng, là dấu vết bí ẩn trên cánh đồng sau một đêm. Nhiều người cho rằng đó là dấu vết phi thuyền của [[Người ngoài hành tinh]] để lại
-![[Pasted image 20211015224746.png]]
-![[Pasted image 20211015224941.png]]
+![[20211015224746.png]]
+![[20211015224941.png]]
 ## Ideas & thoughts:
 - [[UFO]]
 ## Questions:

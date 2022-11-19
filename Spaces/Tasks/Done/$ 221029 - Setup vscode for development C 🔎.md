@@ -17,7 +17,7 @@ is_done: True
 ![[20221029215549 ~ c vscode debuging could not find source file.png]]
 
 Reason: due to Cygwin do not use mapping like window, so it mapping path
-![[Pasted image 20221029215849.png]]
+![[20221029215849.png]]
 instead of `c:/Users/...`
 
 Solution: update `.vscode\launch.json`, add attribute `sourceFileMap` to convert cygwin maping to window mapping file

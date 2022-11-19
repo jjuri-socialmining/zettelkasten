@@ -20,7 +20,7 @@ In the summer of 536 AD, a mysterious and dramatic cloud of dust appeared over t
  Analysis of Greenland ice deposited between 533 and 540 AD shows high levels of tin, nickel, and iron oxides, suggesting that a comet or fragment of a comet may have hit the Earth at that time.5 The impact likely triggered volcanic eruptions, which spewed more dust into the atmosphere. With the darkened sky, temperatures dropped, crops failed, and famine descended on many parts of the world.
 >Phân tích băng trầm tích ở Greenland từ năm 533 đến năm 540 sau Công nguyên cho thấy hàm lượng cao của thiếc, niken và ôxít sắt, cho thấy rằng sao chổi hoặc mảnh vỡ của sao chổi có thể đã va vào Trái đất vào thời điểm đó, gây ra nhiều bụi vào khí quyển. Với bầu trời tối đen, nhiệt độ giảm xuống, mùa màng thất bát và nạn đói hoành hành ở nhiều nơi trên thế giới.
 
-![[Pasted image 20211016123350.png]]
+![[20211016123350.png]]
 Depiction of various types of comets in Chinese documents.
 Mô tả các loại sao chổi trong tài liệu Trung Quốc
 
@@ -35,15 +35,15 @@ The current explanation for the correlation of comets and disease is that of “
 However, recent evidence indicates little if any water on comets. Rather, they are asteroids that have an elliptical orbit and become charged electrically as they approach the sun, an exchange that creates the comet’s bright coma and tail. Their surfaces exhibit the kind of features that happen with intense electrical arcing, like craters and cliffs; bright or shiny spots on otherwise barren rocky surfaces indicate areas that are electrically charged. Comets contain mineral alloys requiring temperatures in the thousands of degrees, and they have sufficient energy to emit extreme UV light and even powerful X-rays. Moreover, as comets approach the sun, they can provoke high-energy discharges and flare-ups of solar plasma, which reach out to the comet.8
 >Tuy nhiên, bằng chứng gần đây cho thấy rất ít khả năng có nước trên sao chổi. Thay vào đó, chúng là những tiểu hành tinh có quỹ đạo hình elip và trở nên tích điện khi chúng đến gần mặt trời, một sự trao đổi tạo ra phần đuôi và đầu sáng của sao chổi. Bề mặt của chúng thể hiện đặc điểm xảy ra phóng điện cường độ cao, như miệng núi lửa và vách đá; những điểm sáng hoặc bóng trên bề mặt đá cằn cỗi khác cho thấy những khu vực được tích điện. Sao chổi chứa các hợp kim khoáng chất đòi hỏi nhiệt độ hàng nghìn độ và chúng có đủ năng lượng để phát ra tia cực tím cực mạnh và cả tia X cực mạnh. Hơn nữa, khi sao chổi đến gần mặt trời, chúng có thể gây ra sự phóng điện năng lượng cao và bùng phát plasma mặt trời, chúng sẽ tiếp cận với sao chổi.
 
-![[Pasted image 20211016123804.png]]
+![[20211016123804.png]]
 Bright spots on a comet’s surface indicate strong electromagnetic activity.
 >Các điểm sáng trên bề mặt sao chổi cho thấy hoạt động điện từ mạnh mẽ.
 
-![[Pasted image 20211016123812.png]]
+![[20211016123812.png]]
 A solar flare reaches out to a highly charged comet.
 >Một ngọn lửa mặt trời tiếp cận một sao chổi tích điện cao.
  
- ![[Pasted image 20211016123822.png]]
+ ![[20211016123822.png]]
 Cliffs and pitting on a comet’s surface indicate intense electrical arcing.
 >Vách đá và vết rỗ trên bề mặt sao chổi cho thấy phóng điện cực mạnh.
 
@@ -179,7 +179,7 @@ A failure of the fruit crop in any particularly large area is always followed th
 Dr. Campbell also applied himself to the elimination of mosquitoes by constructing huge bat houses—he was a great admirer of this strange winged creature and knew how to harness its help in the elimination of annoying insects, assumed to cause malaria.28 Campbell was an inventive and colorful character, full of good ideas, yet hardly mentioned in medical journals or in histories of disease. Where’s the glamor of a solution that involves clean beds and fresh fruit compared with the heroics of vaccination—smallpox vaccinations so toxic that health officials no longer recommend them.
 >Tiến sĩ Campbell cũng tự mình áp dụng việc diệt trừ muỗi bằng cách xây dựng những ngôi nhà dơi khổng lồ - ông là một người rất ngưỡng mộ sinh vật có cánh kỳ lạ này và biết cách khai thác sự giúp đỡ của nó trong việc loại bỏ côn trùng khó chịu, được cho là gây ra bệnh sốt rét. Campbell là một nhân vật sáng tạo và đầy màu sắc, đầy những ý tưởng hay, nhưng hầu như không được đề cập trong các tạp chí y khoa hoặc trong lịch sử bệnh tật. Sự hào nhoáng của một giải pháp liên quan đến giường sạch và trái cây tươi so với sự nổi bật của việc tiêm chủng — tiêm phòng bệnh đậu mùa độc hại đến mức các quan chức y tế không còn khuyến cáo chúng nữa.
  
-![[Pasted image 20211016152604.png]]
+![[20211016152604.png]]
 Dr. Campbell’s Municipal Bat-Roost, which eliminated mosquitos from San Antonio without the use of toxic chemicals.
 >Nhà dơi thành thị của Tiến sĩ Campbell đã loại trừ muỗi khỏi San Antonio mà không sử dụng hóa chất độc hại.
 
@@ -248,7 +248,7 @@ By October 1945, DDT was available for public sale in the United States. Governm
 
 
   
-![[Pasted image 20211016152633.png]]
+![[20211016152633.png]]
 DDT largely replaced another CNS poison—lead arsenate, introduced in 1898 for use on crops and orchards. Before that, the preferred spray was plain arsenic. Biskind wrote:
 >DDT phần lớn đã thay thế một chất độc thần kinh trung ương khác - arsenate chì, được đưa vào sử dụng vào năm 1898 trên cây trồng và vườn cây ăn quả. Trước đó, loại thuốc xịt ưa thích là thạch tín đơn thuần. Biskind đã viết:
 
@@ -275,8 +275,8 @@ When the population is exposed to a chemical agent known to produce in animals l
 Investigator Jim West unearthed Biskind’s writings and testimony, along with other reports about the effects of poisons on the CNS, dating from the mid-nineteenth century. West compiled the following graphs, noting the correlation of pesticide use and polio incidence in the United States.41
 >Điều tra viên Jim West đã khai quật các bài viết và lời khai của Biskind, cùng với các báo cáo khác về tác động của chất độc đối với thần kinh trung ương, có niên đại từ giữa thế kỷ XIX. West đã tổng hợp các biểu đồ sau, lưu ý mối tương quan giữa việc sử dụng thuốc trừ sâu và tỷ lệ mắc bệnh bại liệt ở Hoa Kỳ.
  
-![[Pasted image 20211016152700.png]]
-![[Pasted image 20211016152713.png]]
+![[20211016152700.png]]
+![[20211016152713.png]]
 As use of DDT in the United States declined, so did the incidence of polio. Vaccination programs were introduced at the same time and take credit for the decline.
 West says:
 >Khi việc sử dụng DDT ở Mỹ giảm, tỷ lệ mắc bệnh bại liệt cũng giảm theo. Các chương trình tiêm chủng đã được giới thiệu cùng lúc và ghi nhận sự suy giảm.
@@ -373,7 +373,7 @@ Leptospirosis is a blood infection similar to malaria, associated with various f
 
 >Leptospirosis là một bệnh nhiễm trùng máu tương tự như bệnh sốt rét, liên quan đến các dạng xoắn khuẩn khác nhau. Các dạng ký sinh trùng xoắn khuẩn khác đặc trưng cho bệnh giang mai, bệnh ghẻ cóc và bệnh Lyme. Con người gặp phải những xoắn khuẩn này qua nước tiểu động vật hoặc nước và đất bị nhiễm nước tiểu động vật tiếp xúc với mắt, miệng, mũi hoặc vết cắt. Bệnh có liên quan đến vệ sinh kém. Cả động vật hoang dã và động vật nuôi đều có thể truyền bệnh leptospirosis qua nước tiểu và các chất lỏng khác của chúng; loài gặm nhấm là vật trung gian phổ biến nhất và hải ly là loài gặm nhấm.
   
-![[Pasted image 20211016152753.png]]
+![[20211016152753.png]]
 Native Americans trade beaver skins with European colonists for liquor and other items that made them vulnerable to disease.
 Người Mỹ bản địa buôn bán da hải ly với thực dân châu Âu để lấy rượu và các mặt hàng khác khiến họ dễ mắc bệnh.
 One important factor omitted from discussions about Native American diseases is the disruption of the salt trade. The first European explorers in the New World did not come to the East Coast but to Florida and the southeastern part of North America. During the 1540s, eighty years before the Pilgrims landed at Plymouth Rock, the explorer Hernando de Soto led the first European expedition deep into the territory of the modern-day United States. They traversed Florida, Georgia, Alabama, and possibly Arkansas, and they saw the Mississippi River.

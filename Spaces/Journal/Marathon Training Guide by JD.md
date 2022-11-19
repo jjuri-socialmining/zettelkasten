@@ -27,15 +27,15 @@ Hai giáo án thiết kế chi tiết theo mileage phù hợp theo mỗi ngườ
 - Chu kỳ 4 tuần: Cứ 3 tuần tập Q thì tuần thứ 4 chỉ chạy hoàn toàn E và L.
 
 #### 2Q:
-![[Pasted image 20221015001033.png]]
-![[Pasted image 20221015001105.png]]
+![[20221015001033 ~ JD plan.png]]
+![[20221015001105 ~ JD Plan.png]]
 ...
 
 
 #### Chu kỳ 4 tuần:
-![[Pasted image 20221015001227.png]]
-![[Pasted image 20221015001243.png]]
-![[Pasted image 20221015001259.png]]
+![[20221015001227 ~ JD plan.png]]
+![[20221015001243 ~ JD Plan.png]]
+![[20221015001259 ~ JD plan.png]]
 ...
 
 Note: có thể tự thiết kế các bài chạy bám sát theo plan trên bằng các mẫu bài chạy tương ứng ở phần [[#I Các tốc độ]].

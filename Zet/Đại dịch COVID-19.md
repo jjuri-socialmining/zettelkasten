@@ -88,21 +88,21 @@ Chỉ ưu tiên vaccine trong trường hợp bệnh hiểm nghèo hoặc không
 #### [[Ivermectin]]
 - Ivermectin là một thuốc thông dụng, giá thành thấp
 - [[FDA]] không cấp phép cho Ivermectin là thuốc đặc trị virus [^2][^3]
-	- ![[Pasted image 20211102225709.png]]
+	- ![[20211102225709.png]]
 - Indonesia và Ấn Độ đã sử dụng và ngăn chặn dịch.
 - Thế [[Ivermectin]] thực sự chữa trị được [[COVID-19]] không!? mà sao Indonesia, Phillipin và một số bang của Ấn Độ áp dụng thành công!?
 - Có nghiên cứu gì về hại về mặt lâu dài không, hay mục đích FDA không chấp thuận sử dụng chỉ vì lợi nhuận của nó không nhiều bằng việc triển khai [[Vaccine]]!?
 
 - Đồng thuận: 
 	- [Câu hỏi thường gặp về Ivermectin - FLCCC | Front Line COVID-19 Critical Care Alliance (covid19criticalcare.com)](https://covid19criticalcare.com/vi/ivermectin-trong-covid-19/c%C3%A2u-h%E1%BB%8Fi-th%C6%B0%E1%BB%9Dng-g%E1%BA%B7p-tr%C3%AAn-ivermectin/)
-	![[Pasted image 20211102231216.png]]
+	![[20211102231216.png]]
 	- [Bản in bài viết | Chống dịch COVID-19, kinh nghiệm từ một số quốc gia (baochinhphu.vn)](http://baochinhphu.vn/Utilities/PrintView.aspx?distributionid=445234)
-			![[Pasted image 20211102231023.png]]
+			![[20211102231023.png]]
 	- [suckhoeviet.org.vn](https://suckhoeviet.org.vn/an-do-dung-thuoc-ivermectin-trong-dieu-tri-va-phong-chong-covid-19-co-hieu-qua/)
 	- [phaply.net.vn](https://phaply.net.vn/khong-co-ty-le-tiem-chung-cao-an-do-da-dung-phuong-phap-nao-khac-de-chong-dich-hieu-qua-a253232.html)
 - Gạt bỏ:
 	- [Thực hư chuyện dùng thuốc tẩy giun Ivermectin trị COVID-19 | Quốc tế | PLO](https://plo.vn/quoc-te/thuc-hu-chuyen-dung-thuoc-tay-giun-ivermectin-tri-covid19-1013052.html)
-		![[Pasted image 20211102231302.png]]
+		![[20211102231302.png]]
 	- [Tại sao bạn không nên sử dụng Ivermectin để điều trị hoặc ngăn ngừa COVID-19 | FDA](https://www.fda.gov/consumers/consumer-updates/tai-sao-ban-khong-nen-su-dung-ivermectin-de-dieu-tri-hoac-ngan-ngua-covid-19)
 	- [canhgiacduoc.org.vn](http://canhgiacduoc.org.vn/CanhGiacDuoc/DiemTin/2027/Health-Canada-ivermectin-khong-duoc-cap-phep-trong-phong-va-dieu-tri-COVID-19.htm)
 	- [Ấn Độ dùng thuốc tẩy giun để điều trị COVID-19 bất chấp cảnh báo | VTV.VN](https://vtv.vn/the-gioi/an-do-dung-thuoc-tay-giun-de-dieu-tri-covid-19-bat-chap-canh-bao-20210514192558648.htm)

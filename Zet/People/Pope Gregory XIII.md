@@ -16,7 +16,7 @@ publish: False
 # Pope Gregory XIII
 
 ## Notes:
-![[Pasted image 20211120222433.png]]
+![[20211120222433.png]]
 
 ## Ideas & thoughts:
 - [[Lịch Gregorian]]

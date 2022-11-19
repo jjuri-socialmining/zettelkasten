@@ -14,7 +14,7 @@ publish: False
 ## Notes:
 > Buzz Aldrin, tên khai sinh Edwin Eugene Aldrin, Jr., sinh ngày 20 tháng 1 năm 1930 tại Glen Ridge, New Jersey là một phi công và phi hành gia Hoa Kỳ, phi công của Module Mặt Trăng trên [[Tàu Apollo 11]], chuyến du hành đầu tiên hạ cánh xuống Mặt Trăng. Ông là người thứ hai đặt chân lên Mặt Trăng, chỉ sau phi công chỉ huy [[Neil Armstrong]]. [^wiki]
 
-![[Pasted image 20211110232915.png]]
+![[20211110232915.png]]
 
 [[Buzz Aldrin là người thứ hai đặt chân lên mặt trăng]]
 

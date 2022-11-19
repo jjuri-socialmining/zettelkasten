@@ -16,7 +16,7 @@ publish: False
 ## Notes:
 Thomas Edison, tên đầy đủ Thomas Alva Edison, là một nhà phát minh và thương nhân [[Hoa Kỳ]].
 
-![[Pasted image 20211120203113.png]]
+![[20211120203113.png]]
 
 ## Ideas & thoughts:
 - [[Nicola Tesla|Tesla]]

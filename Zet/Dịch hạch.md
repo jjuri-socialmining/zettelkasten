@@ -23,7 +23,7 @@ Dịch hạch được chia làm 3 loại tùy theo sự ảnh hưởng của vi
 
 Các bác sĩ thời đó cho rằng, dịch hạch có thể lây nhiễm qua đường không khí nên họ thiết kế một bộ đồ dành riêng cho bác sĩ để thăm khám bệnh nhân cũng như những người làm công việc chôn xác người chết vì bệnh dịch. Bộ trang phục có một điểm đặc biệt là một cái mũ vành và một chiếc mặt nạ mỏ chim. Trong mỏ chim, họ đặt nhiều hóa chất khử mùi, thảo dược có mùi thơm...
 
-![[Pasted image 20211127102851.png]]
+![[20211127102851.png]]
 
 
 ## Ideas & thoughts:

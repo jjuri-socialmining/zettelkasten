@@ -11,13 +11,13 @@ publish: False
 # Bản đồ thế giới tương lai
 
 ## Notes:
-![[Pasted image 20211229231909.png]]
+![[20211229231909.png]]
 
-![[Pasted image 20211229230956.png]]
+![[20211229230956.png]]
 
-![[Pasted image 20211229231034.png]]
+![[20211229231034.png]]
 
-![[Pasted image 20211229231009.png]]
+![[20211229231009.png]]
 
 ## Ideas & thoughts:
 - [[Edgar Cayce]]

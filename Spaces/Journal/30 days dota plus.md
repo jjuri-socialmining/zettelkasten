@@ -10,5 +10,5 @@ tags:
 Valve năm nay mở free dota plus 30 ngày cho người chơi, tặng battlepass và tặng 1 arcana cho người chơi
 
 [[2022-10-29]] đang trải nghiệm dota plus
-![[Pasted image 20221029150646.png]]
+![[20221029150646.png]]
 

@@ -16,7 +16,7 @@ publish: False
 ## Notes:
 [[Kary B. Mullis là người phát minh ra PCR]]
 
-![[Pasted image 20211101231454.png]]
+![[20211101231454.png]]
 
 ## Ideas & thoughts:
 - [[Real time PCR test]]

@@ -101,7 +101,7 @@ image: [[20211016215716 ~ QAnon Map.png]]
 - [[Maria Orsic]] là ai?
 
 ### [[Plato]]
-![[Pasted image 20211027214850.png]]
+![[20211027214850.png]]
 - [[Atlantis]]
 - [[Plato có nói về Atlantis]]
 
@@ -111,7 +111,7 @@ image: [[20211016215716 ~ QAnon Map.png]]
 - [[Stonehenge]]
 
 ### [[Pharaon]]
-![[Pasted image 20211026232120.png]]
+![[20211026232120.png]]
 
 - [[Nữ thần ISIS]]
 - [[Thần Ra]]

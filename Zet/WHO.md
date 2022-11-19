@@ -16,7 +16,7 @@ publish: False
 
 ## Notes:
 Tổ chức Y tế thế giới, World Health Organization, viết tắt WHO, hặc OMS trong tiếng Pháp.
-![[Pasted image 20211017224908.png]]
+![[20211017224908.png]]
 
 ## Ideas & thoughts:
 - [[Bill Gates]] đang là tài trợ đứng đầu cho cái tổ chức này

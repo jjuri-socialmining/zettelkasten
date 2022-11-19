@@ -25,13 +25,13 @@ Các bộ lạc bao gồm: (Xem thêm [[Gen-46]])
 	- [[Chi tộc Ephraim]]
 	- [[Chi tộc Manasseh]] 
 
-![[Pasted image 20211120212401.png]]
+![[20211120212401.png]]
 
 - [[Người Do Thái tin rằng bắt nguồn từ 3 chi tộc Judah, Benjamin và Levi]]. 10 chi tộc còn lại thành lập [[Vương quốc Israel]] bị đế quốc Assyria bắt đi đày.
 - [[Chi tộc Levi]] sống rải rác không được chia đất riêng. [[Chi tộc Levi không có đất]]
 - [[Mormon giáo có nguồn gốc từ chi tộc Joseph]]
 
-![[Pasted image 20211121155118.png]]
+![[20211121155118.png]]
 
 ## Ideas & thoughts:
 - [[💥 Từ Jew để chỉ chi tộc Judah]]

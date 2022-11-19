@@ -15,7 +15,7 @@ publish: False
 ## Notes:
 Luân xa rốn, hay Manipura chakra
 
-![[Pasted image 20211017145916.png]]
+![[20211017145916.png]]
 
 ## Ideas & thoughts:
 

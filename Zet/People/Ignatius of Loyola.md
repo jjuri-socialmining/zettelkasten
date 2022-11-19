@@ -17,7 +17,7 @@ publish: False
 # Ignatius of Loyola
 
 ## Notes:
-![[Pasted image 20211024221147.png]]
+![[20211024221147.png]]
 Ignatius of Loyola (1491 - 1556) là một người [[Tây Ban Nha]]
 
 Ignatius of Loyola là người sáng lập [[Dòng Tên]]

@@ -15,9 +15,9 @@ publish: False
 ## Notes:
 Luân xa gốc, hay Root chakra, vị trí nằm ở [[Huyệt Hội Âm]] (giữa cơ quan sinh dục và [[Hậu môn]])
 
-![[Pasted image 20211017145052.png]]
-![[Pasted image 20211017145147.png]]
-![[Pasted image 20211017145130.png]]
+![[20211017145052.png]]
+![[20211017145147.png]]
+![[20211017145130.png]]
 
 ## Ideas & thoughts:
 

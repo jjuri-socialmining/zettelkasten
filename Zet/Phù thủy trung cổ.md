@@ -13,7 +13,7 @@ publish: False
 ## Notes:
 Các phù thủy trung cổ thường là những người bị [[Cơ Đốc Giáo]] xem là hắc ám, những quan điểm sai lệch về [[The Bible|Kinh thánh]] do không có tự do lý giải kinh thánh, nguyên nhân của bệnh tật.
 
-![[Pasted image 20211125225101.png]]
+![[20211125225101.png]]
 
 ## Ideas & thoughts:
 - [[Phù thủy Endor]] được nhắc đến trong kinh thánh thời [[Vua Saul]].

@@ -25,7 +25,7 @@ Hoặc rơi vào tình trạng giải trí một cách mất kiểm soát với 
 
 > This isn’t about saving time. It’s about making time for what matters.
 
-![[Pasted image 20221112173818.png]]
+![[20221112173818.png]]
 
 [[Jake Knapp]] sau khi đối diện với câu hỏi ngây ngô của đứa con, ông bắt đầu nhận ra mình đã sao nhãng vào chiếc điện thoại quá nhiều. Ông bắt đầu gỡ những apps không cần thiết ra khỏi điện thoại
 
@@ -40,7 +40,7 @@ Hoặc rơi vào tình trạng giải trí một cách mất kiểm soát với 
 ---
 
 4 Bước để tạo ra "Make Time"
-![[Pasted image 20221112174358.png]]
+![[20221112174358.png]]
 
 ---
 Highlight
@@ -50,7 +50,7 @@ Reflect: Adjust and Improve Your System
 ---
 # Highlight
 
-![[Pasted image 20221112175058.png]]
+![[20221112175058 ~ Highlight.png]]
 
 Highlight là thứ thực tế. Nó không như việc đặt long term goal, nhưng cũng không phải là những task/nhiệm vụ mà không nhất thiết bạn phải hoàn thành
 
@@ -232,7 +232,7 @@ Tránh uống cafe một cách vô thức theo thói quen, mà hãy có chủ đ
 Khi uống caffe, sau khoảng 40 phút 99% cafe đi vào máu và nó sẽ vô hiệu hóa phân tử adenosine trong não, khiến chúng ta cảm thấy hưng phấn. Tuy nhiên, khi bạn dừng uống, bạn sẽ bị đau đầu. Dươi đây là một số mẹo tối ưu hóa sử dụng caffe 
 - Không uống caffe khi mới thức dậy
 - Bạn nên bắt đầu uống lúc 9h30-10h30, và trễ nhất là khoảng 1h30-2h30
-![[Pasted image 20221113212416.png]]
+![[20221113212416.png]]
 
 ### 70. Wake Up Before You Caffeinate
 Khi bạn thức dậy, mức cortisol trong máu cao giúp cơ thể tỉnh táo rùi. Khi bạn uống cafe lúc này không có nhiều khác biệt nhiều trong việc giúp bạn tỉnh táo hơn. Và thường Cortisol cao nhất khoảng 8-9h sáng. Sau đó mức này sẽ giảm, lúc này khoảng 9h30-10h30 bạn có thể nạp một chút cafe giúp cho bạn tỉnh tảo hơn.

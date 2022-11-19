@@ -13,10 +13,10 @@ publish: False
 
 Sau đó, để thực các [[Permanent Note]] bằng cách chia nhỏ từng ý, gọt giũa chúng để chúng không còn phụ thuộc vào ngữ cảnh nữa. Mỗi Permanent Note chỉ diễn đạt một nội dung duy nhất. Như thế, từ một Literature Note, ta có thể triển khai ra nhiều Permanent Note.
 Dưới đây là một danh sách các [[Permanent Note]] được tạo ra từ một bài tóm tắt từ Wiki:
-![[wiki_an_duong_vuong.PNG]]
+![[wiki_an_duong_vuong.png]]
 
 Dưới đây là chi tiết 1 ghi chú trong 
-![[trieu_da_danh_au_lac.PNG]]
+![[trieu_da_danh_au_lac.png]]
 
 
 

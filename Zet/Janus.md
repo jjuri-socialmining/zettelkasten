@@ -12,11 +12,11 @@ publish: False
 
 ## Notes:
 - Janus hay còn được biết đến là [[January]] tức tháng đầu tiên của năm, là vị thần trong thần thoại La Mã.
-![[Pasted image 20211027224144.png]]
+![[20211027224144.png]]
 
 ## Ideas & thoughts:
 - Janus và [[Thánh Phê Rô]] đều là người giữ chìa khóa và canh cổng nước trời
-![[Pasted image 20211027223035.png]]
+![[20211027223035.png]]
 
 - [[Qmap]]
 - January is the month of [[Capricorn]] and [[Aquarius]].

@@ -3,8 +3,8 @@ tags:
   - 'created/2021/Oct/15'
 ---
 
-![[Pasted image 20211016123255.png]]
-![[Pasted image 20211016123307.png]]
+![[20211016123255.png]]
+![[20211016123307.png]]
 
 [[@ Thomas S. Cowan, The Contagion Myth, Phần mở đầu]]
 

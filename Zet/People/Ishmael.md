@@ -13,7 +13,7 @@ publish: False
 
 ## Notes:
 Ismael là con trai của [[Abraham]] và cô nô lệ [[Hagar]]
-![[Pasted image 20211112000238.png]]
+![[20211112000238.png]]
 Hình ảnh Ishmael và mẹ.
 
 ## Ideas & thoughts:

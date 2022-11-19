@@ -15,9 +15,9 @@ publish: False
 
 [Cận Cảnh Tình Huống Khiến Aguero Phải Nhập Viện Kiểm Tra Tim | Barcelona - Alaves - YouTube](https://www.youtube.com/watch?v=FdOi8i9XGIY)
 
-![[Pasted image 20211228222536.png]]
+![[20211228222536.png]]
 
-![[Pasted image 20211228222513.png]]
+![[20211228222513.png]]
 
 ## Ideas & thoughts:
 

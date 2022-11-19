@@ -18,7 +18,7 @@ publish: False
 ## Notes:
 Vladimir Lenin, tên đầy đủ là Vladimir Ilyich Lenin, là một nhà chính trị, cách mạng và tư tưởng người Nga.
 
-![[Pasted image 20211119224948.png]]
+![[20211119224948.png]]
 
 Lenin đã tạo ra [[Chủ nghĩa Lenin]] dựa trên [[Chủ nghĩa Marx]].
 

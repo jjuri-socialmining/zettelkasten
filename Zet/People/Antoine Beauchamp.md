@@ -19,7 +19,7 @@ publish: False
 
 ## Notes:
 Antoine Beauchamp
-![[Pasted image 20211010113010.png]]
+![[20211010113010.png]]
 
 Cha đẻ của [[The Terrain Theory]]
 

@@ -11,7 +11,7 @@ publish: False
 # Thần Osiris
 
 ## Notes:
-![[Pasted image 20211119233021.png]]
+![[20211119233021.png]]
 
 ## Ideas & thoughts:
 

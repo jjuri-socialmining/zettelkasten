@@ -10,7 +10,7 @@ previous:: [[$ 221029 - Setup vscode for development C 🔎]]
 
 Khi run debug c trên [[Visual Studio Code|vscode]], có các field CPU, Segs, FPU, SSE. Các field này là gì? Tìm hiểu ý nghĩa các field này
 
-![[Pasted image 20221029221555.png]]
+![[20221029221555.png]]
 
-![[Pasted image 20221029221757.png]]
+![[20221029221757.png]]
 

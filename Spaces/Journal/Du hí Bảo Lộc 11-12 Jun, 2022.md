@@ -10,7 +10,7 @@ tags:
 Du hí [[Bảo Lộc]] cùng với [[Phạm Ngọc Ánh|Ánh A3]], [[Tân]] và chị Trang.
 
 Lịch trình Ánh gửi:
-![[Pasted image 20220612190958.png]]
+![[20220612190958 ~ Bảo lộc plan.png]]
 
 ### [[2022-06-11]]
 Do mình đang ở [[Gia Kiệm]] nên mình đi xe máy để CN tiện về, do có plan tuần sau lên SG làm lại. [[2022-06-11|Hôm qua]], mình xuất phát lúc khoảng 8h45 gì đó, dậy thì từ lúc 7h30 hơn, xếp đồ đạc, rồi má nói ăn sáng rồi đi. Ra khỏi nhà là 8h45. Chạy tầm 50-60km/h. Đi xe máy lần này gợi lại các mốc khoảng cách từ Dốc Mơ mà hôm [[Bike Tour Bảo Lộc - Lagi - Hồ Tràm|đạp xe đi Bảo Lộc]]:

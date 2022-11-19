@@ -15,7 +15,7 @@ publish: False
 ## Notes:
 Luân xa tim, hay Heart chakra, vị trí ở [[Huyệt Thần Đạo]]
 
-![[Pasted image 20211017150037.png]]
+![[20211017150037.png]]
 
 ## Ideas & thoughts:
 

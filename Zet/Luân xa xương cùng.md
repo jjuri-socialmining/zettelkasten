@@ -15,7 +15,7 @@ publish: False
 ## Notes:
 Luân xa xương cùng, hay Solar Plexus chakra, vị trí nằm ở [[Huyệt Trường Cường]] nằm ở đầu xương cùng.
 
-![[Pasted image 20211017145630.png]]
+![[20211017145630.png]]
 
 ## Ideas & thoughts:
 

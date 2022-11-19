@@ -12,7 +12,7 @@ publish: False
 
 ## Notes:
 
-![[Pasted image 20211121153109.png]]
+![[20211121153109.png]]
 
 Bộ chín vĩ đại của Heliopolis bao gồm: 
 

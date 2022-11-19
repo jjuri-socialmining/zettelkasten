@@ -11,7 +11,7 @@ publish: False
 ---
 ## Notes:
 
-![[Pasted image 20221109212654.png]]
+![[20221109212654 ~ System V IPC.png]]
 - [[Message Queues]]
 - [[Semaphores]]
 - [[Shared Memory]]

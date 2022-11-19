@@ -12,7 +12,7 @@ publish: False
 # John Robison
 
 ## Notes:
-![[Pasted image 20211113160822.png]]
+![[20211113160822.png]]
 
 [[John Robison là thành viên Freemasons]]
 

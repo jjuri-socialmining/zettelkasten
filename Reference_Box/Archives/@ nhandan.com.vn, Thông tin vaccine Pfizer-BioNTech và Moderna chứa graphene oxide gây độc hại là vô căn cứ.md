@@ -3,7 +3,7 @@
 ![](https://img.nhandan.com.vn/Files/Images/2021/08/12/VACCINE-1628744256269.jpg) _Vaccine của Pfizer-BioNTech và Moderna. (Ảnh: Reuters)_
 
 nguồn: https://nhandan.vn/factcheck/thong-tin-vaccine-pfizer-biontech-va-moderna-chua-graphene-oxide-gay-doc-hai-la-vo-can-cu-659442/
-![[Pasted image 20211008230114.png]]
+![[20211008230114.png]]
 
 Thông tin nêu trên bắt nguồn từ một talkshow xuất hiện trên internet vào ngày 28/7 vừa qua. Trong chương trình này, một người phụ nữ có tên là Karen Kingston đã dẫn tài liệu trên website của một nhà sản xuất hạt lipid, trong đó cho biết graphene oxide tồn tại trong các sản phẩm của nhà sản xuất này.
 

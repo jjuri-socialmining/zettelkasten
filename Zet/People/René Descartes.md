@@ -14,7 +14,7 @@ publish: False
 ## Notes:
 René Descartes là nhà nhà triết học, khoa học và toán học người Pháp.
 
-![[Pasted image 20211113155804.png]]
+![[20211113155804.png]]
 
 [[Descartes là một người Công giáo]]
 [[Descartes theo học trường dòng Tên]]

@@ -12,7 +12,7 @@ publish: False
 # Atlantis
 
 ## Notes:
-![[Pasted image 20211025221120.png]]
+![[20211025221120.png]]
 
 - [[Atlantis]] là nền văn minh nối tiếp [[Lục địa Lemuria]]
 

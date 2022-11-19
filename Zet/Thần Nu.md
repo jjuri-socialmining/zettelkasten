@@ -13,7 +13,7 @@ publish: False
 ## Notes:
 Thần Nu là một vị thần [[Ai Cập Cổ Đại]]. Ông được gọi là Cha của các vị thần.
 
-![[Pasted image 20211119233427.png]]
+![[20211119233427.png]]
 
 [[Thần Nu là tạo ra Sông Nile]]
 

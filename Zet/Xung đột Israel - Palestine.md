@@ -22,7 +22,7 @@ Cuộc xung đột khởi ra sau khi [[Chủ Nghĩa Zion]] đưa tất cả 
 - [[Harry S. Truman]] công nhận nhà nước [[Israel]]
 - [[Đế chế Ottoman]] chiếm đóng Palestine từ thế kỷ 16. Đến chiến tranh thế giới thứ nhất, Anh và Pháp đánh bại Đức và Ottoman. Hội QUốc Liên quyết định chia 90% đất cho người Ả Rập. Nhưng Anh lại cho rằng vùng đất Palestine trước đó trị vì bởi [[Người Do Thái]], người Ả Rập đã có rất nhiều vùng đất rộng lớn khác rồi, nên có vùng đất dành riêng cho người Do Thái. Cuối cùng, Hội Quốc Liên thay đổi quyết định, cho phép Anh quyền ủy trị vùng đất Palestine.
 - Ngay khi nhà nước Israel được thành lập, các nước Ả Rập đã khơi mào chiến tranh với Israel nhưng thất bại một cách ê chề.
-![[Pasted image 20211125223708.png]]
+![[20211125223708.png]]
 - [[Tổ chức giải phóng Palestine]]
 
 ## Ref:

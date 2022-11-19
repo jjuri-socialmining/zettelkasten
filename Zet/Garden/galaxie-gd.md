@@ -35,8 +35,8 @@ https://github.com/Greaby/telescope
 ## Limitation
 - [[2022-05-02]]
 	- YAML error with some type of data
-		- ![[Pasted image 20220502100545.png]]
-		- ![[Pasted image 20220502101511.png]]
+		- ![[20220502100545.png]]
+		- ![[20220502101511.png]]
 			```
 			D:\galaxie-gd\node_modules\slugify\slugify.js:20
 		  throw new Error('slugify: string argument expected')

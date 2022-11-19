@@ -16,7 +16,7 @@ publish: False
 ## Notes:
 Yasser Arafat là một lãnh đạo [[Palestine]], chủ tịch [[Tổ chức giải phóng Palestine]], lãnh đạo các đảng chính trị [[Fatah]]. Ông phản đối thành lập nhà nước [[Israel]], đòi quyền cho người [[Palestine]].
 
-![[Pasted image 20211125224527.png]]
+![[20211125224527.png]]
 
 Yasser Arafat được trao [[Giải Nobel]]
 

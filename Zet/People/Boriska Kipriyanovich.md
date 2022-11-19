@@ -14,7 +14,7 @@ publish: False
 
 ## Notes:
 Boriska Kipriyanovich là một cậu bé người Nga, tự xưng kiếp trước là người [[Sao Hỏa]]. Nhiều người gọi cậu với tên gọi [[Boriska Kipriyanovich|Cậu bé sao Hỏa]]
-![[Pasted image 20211015223558.png]]
+![[20211015223558.png]]
 
 ## Ideas & thoughts:
 Từng chuyển sinh tới Trung Quốc trước khi cậu tới chuyển sinh hiện nay

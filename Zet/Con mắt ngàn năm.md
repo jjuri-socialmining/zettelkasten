@@ -13,7 +13,7 @@ publish: False
 # Con mắt ngàn năm
 
 ## Notes:
-![[Pasted image 20211019235515.png]]
+![[20211019235515.png]]
 
 ## Ideas & thoughts:
 

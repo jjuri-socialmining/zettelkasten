@@ -16,6 +16,6 @@ GESARA, Global Economic Security and Reformation Act, là một đạo luật đ
 ## Ideas & thoughts:
 - [[NESARA]]
 - Trang [GESARA web](https://gesara.news/updates.html) cập nhật thông tin sự kiện trên thế giới. Một số thông tin cập nhật [[2021-10-14|hôm nay]]
-	![[Pasted image 20211014233319.png]]
+	![[20211014233319.png]]
 
 ## Questions:

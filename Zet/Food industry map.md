@@ -11,7 +11,7 @@ publish: False
 # Food industry map
 
 ## Notes:
-![[Pasted image 20211016221052.png]]
+![[20211016221052.png]]
 
 ## Ideas & thoughts:
 

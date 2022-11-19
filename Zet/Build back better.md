@@ -15,7 +15,7 @@ Build back better là khẩu hiệu tranh cử của tân tổng thống Mỹ [[
 
 ## Ideas & thoughts:
 - Theo một số diễn giải theo [[Thuyết âm mưu]], ba chữ b đầu có cách viết giông 666. Và nếu lấy 2020 chia cho 666 sẽ được 3.0330 là mã số bầu cử của Joe Biden
-	![[Pasted image 20211024084835.png]]
+	![[20211024084835.png]]
 
 
 

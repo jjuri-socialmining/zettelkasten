@@ -12,7 +12,7 @@ publish: False
 # John Adams
 
 ## Notes:
-![[Pasted image 20211024221950.png]]
+![[20211024221950.png]]
 John Adams ((30 tháng 10 năm 1735 - 4 tháng 7 năm 1826)) là tổng thống thứ 2 của [[Hoa Kỳ]]
 
 ## Ideas & thoughts:

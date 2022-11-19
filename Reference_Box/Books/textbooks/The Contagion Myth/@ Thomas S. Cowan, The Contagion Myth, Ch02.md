@@ -85,7 +85,7 @@ We are already familiar with millimeter wave technology; this is the frequency o
 Of particular concern is the fact that some 5G transmitters broadcast at 60 GHz, a frequency that is absorbed by oxygen, causing the oxygen molecule (composed of two oxygen atoms) to split apart, making it useless for respiration.
 >Điều đặc biệt quan tâm là một số thiết bị phát sóng 5G phát sóng ở tần số 60 GHz, tần số bị oxy hấp thụ, khiến phân tử oxy (bao gồm hai nguyên tử oxy) tách ra, không thể sử dụng trong quá trình hô hấp.
 
-![[Pasted image 20211016123922.png]]
+![[20211016123922.png]]
 On September 26, 2019, 5G wireless was turned on in Wuhan, China (and officially launched November 1) with a grid of about ten thousand 5G base stations—more than exist in the entire United States—all concentrated in one city.17 A spike in cases occurred on February 13—the same week that Wuhan turned on its 5G network for monitoring traffic.18
 >Vào ngày 26 tháng 9 năm 2019, mạng không dây 5G đã được bật tại Vũ Hán, Trung Quốc (và chính thức ra mắt vào ngày 1 tháng 11) với mạng lưới khoảng 10 nghìn trạm gốc 5G — nhiều hơn số lượng đặt trên toàn bộ nước Mỹ — tất cả đều tập trung ở một thành phố. Số lượng ca tăng đột biến xảy ra vào ngày 13 tháng 2 - cùng tuần mà Vũ Hán bật mạng 5G để theo dõi lưu lượng giao thông.
 
@@ -120,7 +120,7 @@ The 5G system is also installed on modern cruise ships. For example, the Diamond
 February 3, 2020, the ship was quarantined in Yokohama, Japan after many passengers complained of illness. In the end, 381 passengers and crew members became sick, and fourteen died.
 >Hệ thống 5G cũng được lắp đặt trên các tàu du lịch hiện đại. Ví dụ: tàu du lịch Diamond Princess quảng cáo “Wi-Fi tốt nhất trên biển.” Vào ngày 3 tháng 2 năm 2020, con tàu bị cách ly tại Yokohama, Nhật Bản sau khi nhiều hành khách phàn nàn về bệnh tật. Cuối cùng, 381 hành khách và thành viên phi hành đoàn bị bệnh, và mười bốn người chết.
   
-![[Pasted image 20211016123901.png]]
+![[20211016123901.png]]
 The Diamond Princess cruise ship. The four round objects on the top of the ship are 5G antennas and transmitters.
 >Tàu du lịch Diamond Princess. Bốn vật thể tròn trên đầu tàu là ăng-ten và thiết bị phát sóng 5G.
 

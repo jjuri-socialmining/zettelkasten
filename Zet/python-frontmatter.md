@@ -17,7 +17,7 @@ python-frontmatter là một thư viện [[Python]] cung cấp cách thức đ�
 Frontmatter thường bắt đầu bằng một dòng `---` và kết thúc bằng một dòng `---`. Cú pháp của frontmatter là cú pháp của [[YAML]]
 
 Ví dụ:
-![[Pasted image 20211004000340.png]]
+![[20211004000340.png]]
 
 - Install
 	```sh

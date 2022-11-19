@@ -9,4 +9,4 @@ tags:
 
 How to send a signal to execute process from terminal
 
-![[Pasted image 20221025233444.png]]
+![[20221025233444.png]]

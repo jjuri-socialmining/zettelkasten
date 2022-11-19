@@ -17,7 +17,7 @@ publish: False
 
 ![[221022083523.excalidraw - @ David Eagleman, Não bộ kể gì về bạn]]
 
-![[Pasted image 20221022093613.png]]
+![[20221022093613 ~ Não bộ kể gì về bạn.png]]
 
 - [[221018215410 - Con người mới sinh cần thời gian chăm sóc để phá triển nhờ thế thích nghi được nhiều môi trường]]
 - [[221018220812 - Đứa trẻ mới sinh, neuron thần kinh tách biệt không kết nối]]

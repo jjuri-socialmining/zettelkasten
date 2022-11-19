@@ -20,7 +20,7 @@ Người Palestine gọi ngày bị người [[Israel]] đuổi khỏi nhà là 
 
 Người Palestine thực sự đáng thương, và giờ không ai công nhận có nhà nước Palestine, không có dân tộc Palestine mà chỉ có dân tộc Do Thái. 
 
-![[Pasted image 20211030155414.png]]
+![[20211030155414.png]]
 
 Đứng trên phương diện chủng tộc, quốc gia thì họ càng không có lý do gì làm việc này. Nhưng người Palestine cải đạo sang [[Hồi Giáo]] đang sống ở đó mới chính là dân tộc có huyết thống với người Do Thái cổ đại. 
 

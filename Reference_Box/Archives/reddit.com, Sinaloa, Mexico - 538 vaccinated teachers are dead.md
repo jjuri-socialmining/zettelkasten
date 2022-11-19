@@ -1,6 +1,6 @@
 source: [reddit](https://www.reddit.com/r/TrueAntiVaccination/comments/pbyfcx/sinaloa_mexico_538_vaccinated_teachers_are_dead/)
 
-![[Pasted image 20211008232750.png]]
+![[20211008232750.png]]
 
 ***
 SAY NO. Ask why. Do your own research. Check out Fuellmich and his team. 23,000 doctors in Germany refuse to give the covid jabs. Oxford study says the vaccinated are super spreaders.

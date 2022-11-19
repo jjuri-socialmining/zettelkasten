@@ -21,7 +21,7 @@ publish: False
 	- Linh hồn: rung động cao
 
 - Thức ăn và tần số rung động
-	![[Pasted image 20211020224809.png]]
+	![[20211020224809.png]]
 
 - [[Tần số Solfeggio]]
 - Người có tần số rung động cao, họ sẽ dần không phụ thuộc vào thức ăn, vì năng lượng giờ đây có thể được cảm thụ thông qua rung động.

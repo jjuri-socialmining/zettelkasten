@@ -41,11 +41,11 @@ publish: False
 	- https://github.com/raghudotcc/simply-jekyll
 - https://www.mentalnodes.com/the-only-way-to-learn-in-public-is-to-build-in-public
 - https://github.com/binyamin/eleventy-garden
-	- ![[Pasted image 20220501215628.png]]
+	- ![[20220501215628.png]]
 - https://github.com/mathieudutour/gatsby-digital-garden
 - [[galaxie-gd]]: https://github.com/Greaby/galaxie-gd
 	- https://github.com/Greaby/telescope
-	- ![[Pasted image 20220501220435.png]]
+	- ![[20220501220435 ~ Galaxi.png]]
 - https://jevakallio.github.io/notes/
 - https://notes.binnyva.com/
 	- https://github.com/binnyva/gatsby-garden
@@ -61,7 +61,7 @@ publish: False
 - https://github.com/Jekyll-Garden/jekyll-garden.github.io
 - https://enjoyment-work.netlify.app/
 - https://github.com/hikerpig/foam-template-gatsby-kb
-	- ![[Pasted image 20220502112326.png]]
+	- ![[20220502112326 ~ Obsidian publish vercel.png]]
 	- Có graph và interact được
 
 ## Related:

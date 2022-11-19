@@ -18,7 +18,7 @@ publish: False
 
 Ô nhiễm EMF được chia thành 2 loại:
 
-![[Pasted image 20220103120930.png]]
+![[20220103120930.png]]
 
 ## Ideas & thoughts:
 - Công nghệ [[Mạng 5G]]

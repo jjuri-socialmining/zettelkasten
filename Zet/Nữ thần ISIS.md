@@ -16,7 +16,7 @@ publish: False
 ## Notes:
 Nữ thần ISIS là một thần của [[Ai Cập Cổ Đại]].
 
-![[Pasted image 20211119230932.png]]
+![[20211119230932.png]]
 
 [[Isis là con của thần Geb và thần Nut]]
 

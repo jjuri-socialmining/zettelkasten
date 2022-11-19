@@ -9,7 +9,7 @@ publish: False
 ## Notes:
 The Donut of Knowledge là một phương pháp [[Knowledge Management|Quản trị tri thức]] mà nguyên tắc được vẽ theo hình vòng giống bánh DOUGHNUT.
 
-![[Pasted image 20220517215812.png]]
+![[20220517215812.png]]
 
 Tham khảo chi tiết [tại đây](https://iveybusinessjournal.com/publication/knowledge-management-as-a-doughnut/) 
 

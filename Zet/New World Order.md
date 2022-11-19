@@ -12,7 +12,7 @@ publish: False
 # New World Order
 
 ## Notes:
-![[Pasted image 20211019233259.png]]
+![[20211019233259.png]]
 
 ## Ideas & thoughts:
 - [[Hội Illuminati]]

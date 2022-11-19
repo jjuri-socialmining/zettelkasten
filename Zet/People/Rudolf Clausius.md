@@ -14,7 +14,7 @@ publish: False
 ## Notes:
 Rudolf Clausius, tên đầy đủ là Rudolf Julius Emanuel Clausius, sinh ngày 02-01-1822 mất 24-08-1888.
 
-![[Pasted image 20220114225707.png]]
+![[20220114225707.png]]
 
 Rudolf Clausius là cha đẻ [[Định luật Entropy]]
 

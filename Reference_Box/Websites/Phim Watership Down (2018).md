@@ -7,7 +7,7 @@ tags:
 publish: True
 ---
 # Phim Watership Down (2018)
-![[Pasted image 20220406212231.png]]
+![[20220406212231 ~ Watership down.png]]
 
 ## Notes:
 [[220406204950 - Khác với truyện, Dâu Tây trong phim chuyển thể là thỏ cái]]

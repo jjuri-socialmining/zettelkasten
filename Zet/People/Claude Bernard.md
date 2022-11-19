@@ -12,7 +12,7 @@ publish: False
 # Claude Bernard
 
 ## Notes:
-![[Pasted image 20211107220655.png|300]]
+![[20211107220655.png|300]]
 
 ## Ideas & thoughts:
 - [[Antoine Beauchamp|Antoine Bechamp]]

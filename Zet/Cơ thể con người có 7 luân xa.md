@@ -20,7 +20,7 @@ Cơ thể con người có 7 [[Luân xa]]
 - [[Luân xa con mắt thứ 3]]
 - [[Luân xa khai sáng]]
 
-![[Pasted image 20211017144858.png]]
+![[20211017144858.png]]
 
 ## Ideas & thoughts:
 

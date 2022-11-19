@@ -21,9 +21,9 @@ Tạo giáo án:
 
 Sau bước trên, quay lại mục calendar, chọn một ngày bất kỳ và tạo mới một workout: **Add activity** -> **Quality Session**
 
-![[Pasted image 20221015095137.png]]
+![[20221015095137.png]]
 
 Connect tài khoản với Garmin
 **User** -> **Preference** ->
 
-![[Pasted image 20221015095243.png]]
+![[20221015095243.png]]

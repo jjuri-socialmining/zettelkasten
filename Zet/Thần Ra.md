@@ -15,7 +15,7 @@ publish: False
 ## Notes:
 Thần Ra là biểu tượng của thần mặt trời.
 
-![[Pasted image 20211119231519.png]]
+![[20211119231519.png]]
 
 ## Ideas & thoughts:
 - [[Thần Ra có hai người con là Shu và Tefnut]]

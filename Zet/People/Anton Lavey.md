@@ -12,7 +12,7 @@ publish: False
 # Anton Lavey
 
 ## Notes:
-![[Pasted image 20211113224545.png]]
+![[20211113224545.png]]
 
 [[Anton Lavey được xem là cha đẻ của Satan giáo]]. [[Anton Lavey thành lập nhà thờ Satan 1966]]
 

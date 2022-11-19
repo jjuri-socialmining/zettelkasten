@@ -12,7 +12,7 @@ publish: False
 ## Notes:
 Ngày 10-05-2022, [[Google]] đăng tải ảnh của [[Tôn Thất Tùng]] trên trang tìm kiếm nhằm kỉ niệm ngày sinh thứ 110 của ông
 
-![[Pasted image 20220514140440.png]]
+![[20220514140440 ~ Tôn Thất Tùng.png]]
 
 ## Ideas:
 - Bác sĩ [[Tôn Thất Tùng]] là ai? Có đóng góp gì cho khoa học? #tasks/todo 

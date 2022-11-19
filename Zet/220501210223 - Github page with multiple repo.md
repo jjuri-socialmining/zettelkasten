@@ -13,6 +13,6 @@ publish: False
 Hôm nay mới biết cách paging trên github với repo name kiểu `<username>.github.io/<reponame>/`
 thay vì phải đặt reponame mặc định là `<username>.github.io`
 
-![[Pasted image 20220501210231.png]]
+![[20220501210231 ~ github pages.png]]
 
 [[Github pages]]

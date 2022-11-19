@@ -9,7 +9,7 @@ publish: True
 - link: https://vi.wikipedia.org/wiki/Gaia_(th%E1%BA%A7n_tho%E1%BA%A1i)
 
 ## Phả hệ Gaia
-![[Pasted image 20220226221908.png]]
+![[20220226221908.png]]
 
 ## Permanent
 - [[220226214358 - Gaia là nữ thần đất mẹ]]

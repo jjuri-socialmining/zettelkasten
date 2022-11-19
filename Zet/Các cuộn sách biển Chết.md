@@ -15,7 +15,7 @@ publish: False
 ## Notes:
 Các cuộn sách biển chết là tập hợp 981 bản ghi phát hiện tại 12 hang động ở Hoang mạc Judaea, Bờ Tây ngày nay.
 
-![[Pasted image 20211113215047.png]]
+![[20211113215047.png]]
 
 
 ## Ideas & thoughts:

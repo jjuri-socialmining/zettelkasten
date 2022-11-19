@@ -11,7 +11,7 @@ publish: False
 # Khazaria
 
 ## Notes:
-![[Pasted image 20211030141847.png]]
+![[20211030141847.png]]
 
 Khazarian là vương quốc của người [[Khazars]].
 

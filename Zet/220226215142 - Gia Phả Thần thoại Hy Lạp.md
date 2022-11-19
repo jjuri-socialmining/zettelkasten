@@ -9,7 +9,7 @@ tags:
 publish: False
 ---
 ## Notes:
-![[Pasted image 20220226215213.png]]
+![[20220226215213.png]]
 
 [[Thần thoại Hy Lạp]]
 

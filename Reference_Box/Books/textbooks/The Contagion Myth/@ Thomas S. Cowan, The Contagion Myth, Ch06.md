@@ -48,7 +48,7 @@ HIV researcher James Hildreth, president and CEO of Meharry Medical College and 
 Here’s how exosomes work: let’s say you have a poorly nourished organism, then you expose it to a common environmental toxin. The tissues and cells that are affected begin to produce, package, and secrete these poisons in the form of exosomes. This is a way of ridding the cells and tissues of substances that would do it great harm. The greater the exposure to toxic assaults, the more exosomes will be produced.
 >Dưới đây là cách exosomes hoạt động: giả sử bạn có một sinh vật được nuôi dưỡng kém, sau đó bạn tiếp xúc với chất độc thông thường từ môi trường. Các mô và tế bào bị ảnh hưởng bắt đầu sản xuất, đóng gói và bài tiết ra những chất độc dưới dạng exomes. Đây là một cách loại bỏ các tế bào và mô của các chất có thể gây hại cho nó. Càng tiếp xúc với các tấn công độc hại, thì càng nhiều expoomes được tạo ra.
 
- ![[Pasted image 20211016163937.png]]
+ ![[20211016163937.png]]
 Exosomes leaving a cell.
 Exosomes rời tế bào
 
@@ -58,7 +58,7 @@ Studies have shown that if one somehow stops the cells from producing and excret
 Another clearly demonstrated function of these exosomes is that they act as a kind of key that circulates in the blood and lymph of organisms, such as mammals and humans, until they find a distant cell with a lock into which this key fits.7 The exosome acts as a messenger, essentially warning the other cells and tissues that danger is afoot and that they need to prepare.
 >Một chức năng khác được chứng minh rõ ràng của các exosome này là chúng hoạt động như một loại chìa khóa lưu thông trong máu và bạch huyết của các sinh vật, chẳng hạn như động vật có vú và con người, cho đến khi chúng tìm thấy một tế bào ở xa có ổ khóa mà chìa khóa này phù hợp. Oxosome hoạt động như một sứ giả, về cơ bản cảnh báo các tế bào và mô khác rằng mối nguy hiểm đang đến gần và chúng cần phải chuẩn bị.
   
-![[Pasted image 20211016163951.png]]
+![[20211016163951.png]]
 Exosomes carry messages from one cell to another.
 Exosomes mang thông điệp từ tế bào này tới tế bào khác
 

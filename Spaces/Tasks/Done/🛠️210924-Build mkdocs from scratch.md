@@ -22,7 +22,7 @@ Xây dựng [[Obsidian]] website bằng [[Mkdocs]]
 	```
 	C:\Users\Ngoc Diep\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\Scripts
 	```
-	![[Pasted image 20210924200929.png]]
+	![[20210924200929.png]]
 	
 	Sau khi new project, bạn sẽ được một thư mục bao gồm một file configure dạng [[YAML|yml]] và môt folder chứa những [[Markdown Language|markdown]] file sẽ dùng để generate ra file [[HTML Language|html]] sau khi build mkdocs
 	```
@@ -40,7 +40,7 @@ Xây dựng [[Obsidian]] website bằng [[Mkdocs]]
 	INFO     -  [20:16:28] Serving on http://127.0.0.1:8000/
 	```
 	bật trình duyệt và vào đường link `http://127.0.0.1:8000/`
-	![[Pasted image 20210924202037.png]]
+	![[20210924202037.png]]
 	Đây chính là nội dung tạo ra từ file `docs/index.md`
 	Giờ bạn chỉ cẩn tạo và chỉnh sửa file trong folder, các chỉnh sửa sẽ hiện lên trên trình duyệt.
 	
@@ -48,7 +48,7 @@ Xây dựng [[Obsidian]] website bằng [[Mkdocs]]
 Tạo ra một file để check các format của mkdocs
 add `requirement.in` giống [[Blue book template]]
 Nó sẽ ra như này
-![[Pasted image 20210924210816.png]]
+![[20210924210816.png]]
 3. Advance Config `mkdocs.yml` 
 Site info
 ```
@@ -63,8 +63,8 @@ nav:
     - Home: index.md 
     - About: about.md
 ```
-![[Pasted image 20210924211619.png]]
-![[Pasted image 20210924211806.png]]
+![[20210924211619.png]]
+![[20210924211806.png]]
 
 Theme
 The available installed themes are: `readthedocs`, `mkdoc`, bạn cần install thêm theme nếu thích
@@ -96,7 +96,7 @@ mkdocs
 mkdocs-material
 ```
 Kết quả
-![[Pasted image 20210924213537.png]]
+![[20210924213537.png]]
 
 Favicon Icon
 ```
@@ -163,7 +163,7 @@ plugins:
   - roamlinks
 ```
 quảng cáo:
-![[Pasted image 20210924223901.png]]
+![[20210924223901.png]]
 
 #### [autoreflinks](https://github.com/pauloue/mkdocs-autoreflinks-plugin)
 trace header dưới dạng format của markdown
@@ -192,10 +192,10 @@ optimize `nav`
 - [ ] [[Backlink graph view]] cho mỗi pages, web graphics by [[Canvas]] -> [[WebGL]]
 
 Cơ bản được như vầy
-![[Pasted image 20210925215725.png]]
+![[20210925215725.png]]
 
 Đã workaround cái [[Backlink graph view]]
-![[Pasted image 20210926232347.png]]
+![[20210926232347.png]]
 
 Nghiên cứu sâu hơn về
 - lib [[networkx]], [[bokeh]],... có chức năng tạo node của python

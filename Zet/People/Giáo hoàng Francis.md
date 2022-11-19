@@ -15,7 +15,7 @@ publish: False
 # Giáo hoàng Francis
 
 ## Notes:
-![[Pasted image 20211024223222.png]]
+![[20211024223222.png]]
 
 ## Ideas & thoughts:
 - Giáo hoàng Francis là tu sĩ [[Dòng Tên]]

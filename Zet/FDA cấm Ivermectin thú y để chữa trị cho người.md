@@ -18,7 +18,7 @@ Trong báo cáo của FDA, người ta cố tình dùng chung chữ "động v�
 
 > Viên nén Ivermectin được FDA chấp thuận để điều trị những người bị bệnh giun lươn đường ruột và bệnh ung thư gan, hai tình trạng do giun ký sinh gây ra. Ngoài ra, một số dạng ivermectin dùng cục bộ (trên da) được chấp thuận để điều trị ký sinh trùng bên ngoài như chấy trên đầu và các tình trạng về da như bệnh rosacea.[^fda]
 > Không bao giờ sử dụng các loại thuốc cho động vật để dùng cho bản thân hoặc người khác. Các sản phẩm ivermectin dành cho động vật rất khác với các sản phẩm được phép dùng cho người. Sử dụng ivermectin động vật để phòng ngừa hoặc điều trị COVID-19 ở người là nguy hiểm.[^fda]
-![[Pasted image 20211103224151.png]]
+![[20211103224151.png]]
 
 Ivermectine đã được phát triển cách đây 40 năm, nó có thể chữa được nhiều bệnh khác rồi[^4] tức đã đảm bảo an toàn về mặt lâu dài, thằng [[FDA]] cũng nói thế. Và giờ đây người ta (Ấn Độ, Indo) áp dụng thành công để chữa trị covid. Thì chẳng có lý do gì mà  [[FDA]] không đồng thuận sử dụng thay vì phải chích cái thứ vaccine mới phát triển cách đây 1 năm. Thế mà bọn [chính thống](https://plo.vn/quoc-te/thuc-hu-chuyen-dung-thuoc-tay-giun-ivermectin-tri-covid19-1013052.html) còn ăn theo phanh phui thực hư này nọ, chẳng qua cũng chỉ dựa trên cái quyết định của [[FDA]] mà thui. 
 

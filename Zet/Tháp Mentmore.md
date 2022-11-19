@@ -16,7 +16,7 @@ publish: False
 
 ## Notes:
 Tháp Mentmore là một ngôi nhà được xây dựng từ 1852-1854 cho [[Gia tộc Rothschild]] ở làng Mentmore
-![[Pasted image 20211025215843.png]]
+![[20211025215843.png]]
 
 ## Ideas & thoughts:
 - [[Qmap]]

@@ -16,10 +16,10 @@ publish: False
 Hội tam điểm, tiếng anh là Freemasonry, ra đời từ thời Trung Cổ tại nước Anh. Hội kết nạp những người được xem là có học thức. Họ tham gia vào các nghi thức bí ẩn.
 
 Biểu tượng của hội:
-![[Pasted image 20211109231328.png]]
+![[20211109231328.png]]
 
 Các thành viên hội tam điểm được chia thành 3 cấp bậc chính, trong đó phân chia thành 33 cấp bậc nhỏ:
-![[Pasted image 20211109234010.png]]
+![[20211109234010.png]]
 
 Thành viên hội tam điểm có những cái tên lẫy lừng:
 
@@ -39,7 +39,7 @@ Thành viên hội tam điểm có những cái tên lẫy lừng:
 - [[Biểu tượng thất truyền]] của [[Dan Brown]] nói nhiều đến biểu tượng của hội
 - Số 13 xuất hiện nhiều trên tờ 1USD: 13 ngôi sao trên đầu đại bàng, 13 tầng kim tự tháp, 13 vạch ngang trên tấm khiên, 13 nhành và 13 quả trên khóm ô liu, 13 mũi tên trong một bó, rồi cả hai dòng chữ La tinh Annuit Coeptis và E Pluribus Unum đều gồm 13 ký tự.
 - [[Hồ Chí Minh]] đến [[Phạm Quỳnh]], [[Trần Trọng Kim]] là thành viên hội tam điểm!? thời chống Pháp [^1]
-	- ![[Pasted image 20211109233703.png]]
+	- ![[20211109233703.png]]
 - [[Baron von Hund]] tạo ra các nghi thức gia nhập cho thành viên mới của [[Hội tam điểm]]
 - [[Hội tam điểm có những biểu tượng, nghi lễ huyền bí và tư tưởng bắt nguồn từ Hiệp sĩ Dòng Đền]]
 

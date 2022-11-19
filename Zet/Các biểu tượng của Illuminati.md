@@ -19,7 +19,7 @@ publish: False
 
 
 ## Ideas & thoughts:
-- ![[Pasted image 20211113225444.png]]
+- ![[20211113225444.png]]
 
 ## Ref:
 - [List of Illuminati Symbols and Meanings - Illuminati Symbols](https://illuminatisymbols.info/)

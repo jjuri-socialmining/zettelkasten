@@ -94,8 +94,8 @@ Bước tiếp theo, từ VDOT trên, người chạy xác định các pace luy
 ![[20221014235431 ~ Training paces of VDOT I,R.png]]
 
 Ví dụ VDOT của người chạy xác định ở bước 1 là 37, các pace tương ứng sẽ là:
-![[Pasted image 20221015002432.png]]
-![[Pasted image 20221015002457.png]]
+![[20221015002432.png]]
+![[20221015002457.png]]
 
 - E  = Pace này tùy người, chạy sao thấy thoải mái là được.
 - M = 5:53

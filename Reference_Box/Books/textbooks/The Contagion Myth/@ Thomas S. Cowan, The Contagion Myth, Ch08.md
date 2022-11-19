@@ -33,11 +33,11 @@ EZ water is the perfect “structure” for life processes because this fourth p
 
 >Nước EZ là “cấu trúc” hoàn hảo cho các quá trình sống vì gel nước pha thứ tư này có thể được hình thành bởi các protein, khoáng chất, axit nucleic, lipid và các chất khác trong cơ thể chúng ta để tạo thành bất kỳ hình dạng hoặc cấu trúc nào của gel. Gel này có vô số vị trí liên kết, cho phép nó thay đổi để đáp ứng với một kích thích mới. Kích thích này có thể ở dạng hóa chất như hormones, năng lượng như suy nghĩ và cảm giác, hoặc thậm chí là năng lượng cộng hưởng của trái đất, mặt trời và các vì sao. Hình dạng của gel này mở ra các axit nucleic có trong nó, do đó kiểm soát sự biểu hiện của vật liệu di truyền. Nước EZ có cấu trúc trong các tế bào của chúng ta, đôi khi chỉ sâu một vài phân tử, giống như một mạng lưới sợi mang năng lượng và thông tin.
 
-![[Pasted image 20211016204326.png]]
+![[20211016204326.png]]
 Against a hydrophilic surface (left), EZ water excludes all minerals and has a negative charge. Bulk water contains minerals and other compounds and has a positive charge. (Illustration from The Fourth Phase of Water, Ebner and Sons. Reprinted with permission.)
 >Đối với bề mặt ưa nước (bên trái), nước EZ loại trừ tất cả các khoáng chất và mang điện tích âm. Nước số lượng lớn chứa các khoáng chất và các hợp chất khác và có điện tích dương. (Hình minh họa từ Giai đoạn thứ tư của Nước, Ebner và Các con trai. Được phép in lại.)
   
-![[Pasted image 20211016204338.png]]
+![[20211016204338.png]]
 EZ water has a crystalline structure made up of layers of six-sided rings, slightly displaced. In ice, the layers of six-sided rings are not displaced. (Illustration from The Fourth Phase of Water, Ebner and Sons. Reprinted with permission.)
 >Nước EZ có cấu trúc tinh thể được tạo thành từ các lớp vòng sáu cạnh, dịch chuyển nhẹ. Trong băng, các lớp của vòng sáu cạnh không bị dịch chuyển. (Hình minh họa từ Giai đoạn thứ tư của Nước, Ebner và Các con trai. Được phép in lại.)
 

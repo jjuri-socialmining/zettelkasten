@@ -12,6 +12,6 @@ publish: False
 # Pope Francis
 
 ## Notes:
-![[Pasted image 20211013233834.png]]
+![[20211013233834.png]]
 
 ## Ideas & thoughts:

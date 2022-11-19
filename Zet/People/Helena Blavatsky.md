@@ -17,7 +17,7 @@ publish: False
 ## Notes:
 Helena Blavatsky (1831-1891) là một nhà [[Thần bí học]] người [[Nga]]
 
-![[Pasted image 20211026234813.png|300]]
+![[20211026234813.png|300]]
 
 ## Ideas & thoughts:
 - [[Henry Steel Olcott]]

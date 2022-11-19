@@ -21,7 +21,7 @@ Những mảnh vỡ nhẹ, mỏng như giấy nhưng không thể đốt, không
 Các thi thể tại hiện trường được các nhân chứng kể lại chỉ cao tầm 1.2m.
 
 Sau khi Tuyên bố tìm được mảnh vỡ của đĩa bay, không quân mỹ rút lại tuyên bố, và nói rằng các mảnh vỡ chỉ là một phần của bong bóng cao su dự báo thời tiết. Dưới đây là thông cáo báo chí phủ nhận.
-![[Pasted image 20211023161746.png]]
+![[20211023161746.png]]
 
 1994, không quân Mỹ công nhận sự kiện năm 1947 đã bị che đậy, họ đã thực hiện kết hoạch quân sự bí mật "[[Dự án Mogul]]"
 

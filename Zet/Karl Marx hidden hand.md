@@ -12,7 +12,7 @@ publish: False
 
 ## Notes:
 Biểu tượng [[Hội Illuminati|Illuminati]]
-![[Pasted image 20211113230528.png]]
+![[20211113230528.png]]
 
 ## Ideas & thoughts:
 

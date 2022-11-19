@@ -18,7 +18,7 @@ publish: False
 ## Notes:
 Karl Marx, phiên âm Các Mác, là một nhà kinh tế học, triết học và xã hội học [[Người Do Thái]]
 
-![[Pasted image 20211113103200.png]]
+![[20211113103200.png]]
 
 [[Chủ nghĩa cộng sản khoa học]]
 

@@ -16,7 +16,7 @@ publish: False
 ## Notes
 Ulysses Simpson Grant tên khai sinh là Hiram Ulysses Grant
 
-![[Pasted image 20211123220110.png]]
+![[20211123220110.png]]
 
 [[Ulysses Simpson Grant là tổng thống thứ 18 của Hoa Kỳ]]
 

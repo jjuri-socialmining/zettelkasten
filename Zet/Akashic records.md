@@ -17,7 +17,7 @@ publish: False
 ## Notes:
 Thư viện Akashic là nơi lưu trữ toàn bộ dữ liệu về vũ trụ. Bất kỳ ai trong vũ trụ này cũng có thể truy cập những thông tin đó. 
 
-![[Pasted image 20211012235740.png]]
+![[20211012235740.png]]
 
 Thư viện Akashic được định nghĩa lần đầu bởi nhà thông thiên học [[Helena Blavatsky]][^1]. Akashic bắt nguồn từ một từ trong [[Tiếng Sanskrit|Tiếng Phạn]] là "akasha" có nghĩa là bầu trời hoặc không gian,...
 

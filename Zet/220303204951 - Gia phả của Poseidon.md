@@ -10,7 +10,7 @@ aliases: 220303204951
 publish: False
 ---
 ## Notes:
-![[Pasted image 20220303205012.png]]
+![[20220303205012.png]]
 
 Gia phả của [[Thần Poseidon|Poseidon]]:
 

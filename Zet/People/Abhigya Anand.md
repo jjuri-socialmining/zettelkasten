@@ -14,6 +14,6 @@ publish: False
 ## Notes:
 Người Ấn Độ
 Chuyên về chiêm tinh học
-![[Pasted image 20211015223347.png]]
+![[20211015223347.png]]
 
 ## Ideas & thoughts:

@@ -13,7 +13,7 @@ publish: False
 ## Notes:
 Thảm họa Chernobyl là thảm họa hạt nhân xảy ra vào 26/04/1986 tại nhà máy điện hạt nhân Chernobyl, [[Ukraina]] (thuộc [[Liên Xô]] cũ).
 
-![[Pasted image 20211127104912.png]]
+![[20211127104912.png]]
 
 ## Ideas & thoughts:
 - Bộ phim [[Phim Chernobyl 2019]] nói về thảm họa

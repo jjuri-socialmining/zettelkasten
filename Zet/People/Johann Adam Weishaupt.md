@@ -16,7 +16,7 @@ publish: False
 ## Notes:
 Johann Adam Weishaupt (06/02/1748 - 18/11/1830), hay Adam Weishaupt, [[Adam Weishaupt thành lập Illuminati 1776]]
 
-![[Pasted image 20211113154623.png]]
+![[20211113154623.png]]
 
 Lên 7 tuổi, [[Adam Weishaupt học tại một trường dòng Tên]]
 

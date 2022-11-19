@@ -10,14 +10,14 @@ aliases: '221022200624'
 publish: False
 ---
 ## Notes:
-![[Pasted image 20221022200631.png]]
-![[Pasted image 20221022200659.png]]
-![[Pasted image 20221022200724.png]]
-![[Pasted image 20221022200748.png]]
-![[Pasted image 20221022200832.png]]
-![[Pasted image 20221022200903.png]]
-![[Pasted image 20221022201200.png]]
-![[Pasted image 20221022201221.png]]
+![[20221022200631 ~ C Storage classes quiz.png]]
+![[20221022200659 ~ C Storage classes quiz.png]]
+![[20221022200724 ~ C Storage classes quiz.png]]
+![[20221022200748 ~ C Storage classes quiz.png]]
+![[20221022200832 ~ C Storage classes quiz.png]]
+![[20221022200903 ~ C Storage classes quiz.png]]
+![[20221022201200 ~ C Storage classes quiz.png]]
+![[20221022201221 ~ C Storage classes quiz.png]]
 
 
 source:: [[Advanced C Programming Course]], Section

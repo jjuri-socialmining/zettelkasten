@@ -16,9 +16,9 @@ publish: False
 
 Nguyên văn phần thứ nhất và hai của thông điệp
 
-![[Pasted image 20220110225804.png]]
+![[20220110225804.png]]
 
-![[Pasted image 20220110225814.png]]
+![[20220110225814.png]]
 
 _(Bản dịch)_
 
@@ -41,13 +41,13 @@ _"Chúng con đã nhìn thấy hỏa ngục nơi các linh hồn của những t
 ### Phần 3
 Cảnh tượng được mô tả trong phần 3 của thông điệp Fatima:
 
-![[Pasted image 20220106001318.png]]
+![[20220106001318.png]]
 
 Bản văn của Lucia
 
-![[Pasted image 20220110230100.png]]
+![[20220110230100.png]]
 
-![[Pasted image 20220110230121.png]]
+![[20220110230121.png]]
 
 _(Bản dịch)_
 

@@ -14,6 +14,6 @@ publish: False
 ## Notes:
 Ronald Reagan tổng thống thứ 40 của [[Hoa Kỳ]]
 
-![[Pasted image 20211127210309.png]]
+![[20211127210309.png]]
 
 ## Ideas & thoughts:

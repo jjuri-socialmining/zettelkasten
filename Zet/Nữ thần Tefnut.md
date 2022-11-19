@@ -16,7 +16,7 @@ publish: False
 ## Notes:
 Nữ thần Tefnut là thần độ ẩm, sương mai và mưa của người [[Ai Cập Cổ Đại]]
 
-![[Pasted image 20211119233132.png]]
+![[20211119233132.png]]
 
 ## Ideas & thoughts:
 

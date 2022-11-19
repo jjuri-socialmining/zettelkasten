@@ -16,7 +16,7 @@ publish: False
 
 ## Thiên Chúa Giáo
 
-![[Pasted image 20211121155118.png]]
+![[20211121155118.png]]
 
 ### Khởi nguồn từ Abraham
 - [[Hồi Giáo]]

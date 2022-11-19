@@ -102,7 +102,7 @@ Sửa lỗi, trình bày lại, và thay thế danh từ trong sách: Nguyễn T
 - [[220302212314 - Zeus trừng phạt Prometheus vì đã lấy lửa của thần ban cho con người]]
 - [[220302212744 - Biểu tượng ngọn lửa Prometheus tượng trưng cho tự do, tiến bộ]]
 - [[❕ 220302213046 - Hình tượng Pandora giống với Eva ăn trái cấm]]
-- ![[Pasted image 20220302213719.png]]
+- ![[20220302213719.png]]
 - [[220302213932 - Zeus ban cho Hermes một đôi dép có cánh]]
 - [[220303201905 - Gia phả của Zeus]]
 - [[220303203421 - Theo thần thoại Hy Lạp, Epaphos là vua đầu tiên của Ai Cập]]

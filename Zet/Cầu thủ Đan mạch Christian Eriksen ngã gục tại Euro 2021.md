@@ -17,7 +17,7 @@ publish: False
 
 Một số bính luận liên quan tới [[Vaccine]] [[COVID-19]] ?
 
-![[Pasted image 20211212221701.png]]
+![[20211212221701.png]]
 
 ## Ideas & thoughts:
 - [[Đại dịch COVID-19]]

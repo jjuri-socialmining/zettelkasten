@@ -19,7 +19,7 @@ Cầu thủ Lindelof đau ngực, khó thở trong trận MU - Norwich 11/12/202
 
 Có rất nhiều bình loạn đã chỉ đến do [[Vaccine]]
 
-![[Pasted image 20211212220207.png]]
+![[20211212220207.png]]
 
 ## Ideas & thoughts:
 - [[Đại dịch COVID-19]]

@@ -10,8 +10,8 @@ publish: True
 - author: Thiện Tâm
 
 ## Sum
-![[Pasted image 20220119235636.png]]
+![[20220119235636.png]]
 
-![[Pasted image 20220119235651.png]]
+![[20220119235651.png]]
 
 

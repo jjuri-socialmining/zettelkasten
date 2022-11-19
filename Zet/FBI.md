@@ -15,7 +15,7 @@ publish: False
 
 ## Notes:
 FBI viết tắt của Federal Bureau of Investigation, cục Điều tra Liên bang, là một cơ quan thuộc [[Bộ tư pháp Hoa Kỳ]] có nhiệm vụ điều tra tội pháp cấp độ liên bang.
-![[Pasted image 20211012225355.png|200]]
+![[20211012225355.png|200]]
 
 ## Ideas & thoughts:
 

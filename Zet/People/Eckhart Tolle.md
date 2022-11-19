@@ -10,7 +10,7 @@ publish: False
 # Eckhart Tolle
 
 ## Notes:
-![[Pasted image 20211022220458.png]]
+![[20211022220458.png]]
 
 Eckhart Tolle tác giả của các tác phẩm nổi tiếng.
 - [[@ Eckhart Tolle, Sức mạnh của hiện tại]]

@@ -16,7 +16,7 @@ publish: False
 
 ## Notes:
 Mayer Amschel Bauer là ông tổ của [[Gia tộc Rothschild|Rothschild Family]].
-![[Pasted image 20211113100857.png]]
+![[20211113100857.png]]
 
 [[Mayer Amschel Bauer đổi họ Bauer sang Rothschild]]. [[Rothschild nghĩa là dấu hiệu đỏ]], [[Mayer Amschel Bauer là con của Moses Amschel Bauer]]. [[Moses Amschel Bauer đánh dấu sao 6 cánh đỏ trên các ngôi nhà của mình]]
 

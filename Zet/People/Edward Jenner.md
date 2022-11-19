@@ -13,7 +13,7 @@ publish: False
 
 ## Notes:
 Edward Jenner là mộ bác sĩ đa khoa, phẫu thuật người [[Nước Anh|Anh]]. 
-![[Pasted image 20211010173545.png]]
+![[20211010173545.png]]
 Edward Jenner là người đầu tiên nghiên cứu [[Vaccine]] và sử dụng để phòng chống [[Bệnh đậu mùa]]
 
 [[Edward Jenner là cha đẻ của phương pháp Vaccination]]. [[Edward Jenner gọi phương pháp tiêm chủng là Vaccination]]

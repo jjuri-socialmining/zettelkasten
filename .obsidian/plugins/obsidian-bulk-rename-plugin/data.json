@@ -1,11 +1,13 @@
 {
-  "folderName": "Zet/Workguide/notes/daily",
+  "folderName": "Zet/Images",
   "fileNames": [],
-  "existingSymbol": "",
+  "existingSymbol": "Pasted image.*",
   "replacePattern": "",
   "regExpState": {
     "regExp": "",
-    "flags": []
+    "flags": [
+      "i"
+    ]
   },
   "tags": [],
   "viewType": "folder"

@@ -21,7 +21,7 @@ up::[[Recharge Weekend]], [[Bike]]
 - Ghé tiệm thuốc tây mua 5 gói Orezol vị cam cho trẻ em để pha với nước bù khoáng dọc đường.
 - 11h30 ghé suối bên cạnh đường, ngâm chân xíu cho tỉnh táo, 
 
-![[Pasted image 20220315201824.png]]
+![[20220315201824.png]]
 
 - đi thêm khúc nữa là tới [[Đèo Chuối]]
 
@@ -29,7 +29,7 @@ up::[[Recharge Weekend]], [[Bike]]
 
 - 12h30 vô tới chân đèo Bảo Lộc, ăn hết cái nắng trưa, lúc này lấy luôn trái bắp còn lại ra ăn, lười chẳng muốn ăn trưa luôn.
 
-![[Pasted image 20220315202004.png]]
+![[20220315202004 ~ Đèo Bảo Lộc.png]]
 
 - Đức Mẹ suối An Bình ở giữa [[Đèo Bảo Lộc]], ghé lại đọc vài kinh rồi đi tiếp.
 
@@ -37,12 +37,12 @@ up::[[Recharge Weekend]], [[Bike]]
 
 - Sắp lên tới đỉnh rồi, mệt bở hơi tai
 
-![[Pasted image 20220315202315.png]]
-![[Pasted image 20220315202440.png]]
+![[20220315202315.png]]
+![[20220315202440.png]]
 
 - Rút kinh nghiệm sâu sắc, lên Bảo Lộc vùng núi sẽ không đi đường tắt nếu không biết đường và đi xe đạp hiuhiu. Ăn lạc và đi vô offroad và leo đồi liên tục.
 
-![[Pasted image 20220315202527.png]]
+![[20220315202527.png]]
 ![[IMG_20220311_165902.jpg]]
 
 - Tới chân chân đồi và gọi điện cho chị chủ Ga Mây,  chị nói gửi xe ở bãi xe của Ga Mây. Có 1 em xe ôm nhanh nhảu chở mình lên, quả này đành phải để xe đạp ở dưới bãi. Xe ôm tính tiền 50k một lượt, biết cũng phải nhờ họ chở thui vì mới lần đầu lên Ga Mây, có biết đi đường nào đâu mà. Gửi xe thì bãi của Ga Mây liên kết.
@@ -51,7 +51,7 @@ up::[[Recharge Weekend]], [[Bike]]
 
 ![[20220315203218 ~ Ga Mây phòng.png]]
 
-![[Pasted image 20220315203028.png]]
+![[20220315203028.png]]
 
 - Tối anh nhân viên nấu ăn cho, tính vào tiền dịch vụ là 70k, tiếc là mình chỉ ăn được có chút xíu, nói chuyện xơ xơ rồi đi vòng vòng về phòng ngủ sớm mai dậy sớm đón bình minh.
 

@@ -14,7 +14,7 @@ publish: False
 ## Notes:
 [[Harry S. Truman là tổng thống 33 của Hoa Kỳ]]
 
-![[Pasted image 20211127170043.png]]
+![[20211127170043.png]]
 
 ## Ideas & thoughts:
 - [[Thuyết Truman]]

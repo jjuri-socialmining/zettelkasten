@@ -171,7 +171,7 @@ at [[2022-11-06]].
 
 ---
 
-![[Pasted image 20221106114634.png]]
+![[20221106114634 ~ GDB server.png]]
 
 > GDBserver doesn't do anything that native GDB can't do; if your target system can run GDBserver, then theoretically it can run GDB. However, GDBserver is 10 times smaller and doesn't need to manage symbol tables, so it is very convenient for embedded GNU/Linux usages and the like.,
 

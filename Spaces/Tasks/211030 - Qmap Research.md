@@ -16,7 +16,7 @@ Trước tiên ta phải hiểu về [[Nhân vật Q]], Q xuất hiện lần đ
 Những người tin theo Q tham gia một công đồng có tên gọi là [[QAnon]]. Cộng đồng này theo dõi và thu thập các bài đăng và lưu trữ tại [qanon.pub](https://qanon.pub/) và [qmap.pub](https://qmap.pub/)
 
 Các bài đăng/thông điệp của Q được gọi là [[Q's Drop|drop]] hay scrum, dưới đây là 1 ví dụ
-![[Pasted image 20211030172446.png|300]]
+![[20211030172446.png|300]]
 
 Dựa trên những sự kiện trong lịch sử với một cách tiếp cận khách quan, [[QAnon]] đã phân tích và tổng hợp thành những khái niệm và diễn tả sự liên kết bằng một bản đồ gọi là [[Qmap]]
 

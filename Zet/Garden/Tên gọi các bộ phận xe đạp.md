@@ -16,7 +16,7 @@ publish: False
 
 ![[20221003115919 ~ Bộ phận xe đạp MTB.png]]
 
-![[Pasted image 20221003120104.png]]
+![[20221003120104 ~ Tên gọi các bộ phận xe.png]]
 
 [[Ti khóa đùm]]
 [[Phanh dầu xe đạp]]

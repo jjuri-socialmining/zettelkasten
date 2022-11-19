@@ -12,7 +12,7 @@ publish: False
 
 ## Notes:
 
-![[Pasted image 20211125214046.png]]
+![[20211125214046.png]]
 
 [[Trần Lý]] anh em ruột [[Trần Thủ Huy]]
 - [[Trần Thủ Độ là con trai của Trần Thủ Huy và công chúa Đoan Nghi]]

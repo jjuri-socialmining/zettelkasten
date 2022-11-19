@@ -13,6 +13,6 @@ publish: False
 [[IDLE]] là [[IDE]] mặc định được cài đặt chung với gói [[Python]] 3.
 
 Giao diện của IDLE 
-![[Pasted image 20221022215837.png]]
+![[20221022215837.png]]
 
 source:: [[Paul Barry, Head First Python  A Brain-Friendly Guide (z-lib.org).pdf]]

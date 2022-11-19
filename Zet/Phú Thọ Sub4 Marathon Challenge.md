@@ -16,10 +16,10 @@ publish: False
 
 Ngồi nhà ngóng, nghe nói chết máy quá chừng, chị Kha Ly nhất nữ, ông nào đó nhất nam.
 
-![[Pasted image 20211212223248.png]]
+![[20211212223248 ~ Phú thọ sub4 challenge.png]]
 
 Đặng Trung đi 21k bị out 1:52 hehe, GG Hùng Trịnh đủ chuẩn nhận bib HCMC hehe 1:45
-![[Pasted image 20211212224038.png]]
+![[20211212224038.png]]
 
 Thái Hòa Nhất 10K
 ## Ideas & thoughts:
