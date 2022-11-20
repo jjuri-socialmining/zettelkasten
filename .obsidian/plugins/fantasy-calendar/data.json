@@ -189,10 +189,10 @@
         ],
         "displayMoons": true,
         "incrementDay": false,
-        "displayDayNumber": false
+        "displayDayNumber": true
       },
       "current": {
-        "day": 13,
+        "day": 19,
         "month": 10,
         "year": 2022
       },
@@ -244,18 +244,6 @@
             "month": null
           },
           "category": null
-        },
-        {
-          "name": "Christmas",
-          "description": "Christmas is a Christian holiday celebrating the birth of Christ. Due to a combination of marketability and long lasting traditions it is popular even among many non-Christians, especially in countries that have a strong Christian tradition.",
-          "id": "1439556",
-          "note": null,
-          "date": {
-            "day": 25,
-            "year": null,
-            "month": 11
-          },
-          "category": "christian-holidays"
         },
         {
           "name": "Paschal Full Moon",
@@ -330,6 +318,20 @@
           "category": "secular-holidays"
         },
         {
+          "id": "ID_7b0a4bd8c93b",
+          "name": "Birthday of Nguyễn Hoàng Huệ Chi",
+          "note": "Zet/People/Nguyễn Hoàng Huệ Chi.md",
+          "date": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "end": null,
+          "category": "ID_8bd96a6b1808",
+          "description": "",
+          "auto": true
+        },
+        {
           "name": "Valentine's Day",
           "description": "Valentine's day is a celebration of love and romance that is popular across the world. Many more cynically minded people mostly consider it an attempt to monetize the expectation of romantic gestures on the holiday through gift cards, flowers, chocolate and dates.",
           "id": "1439563",
@@ -342,6 +344,62 @@
           "category": "secular-holidays"
         },
         {
+          "id": "ID_ebda28d94b09",
+          "name": "Birthday of chị Diệp",
+          "note": "Zet/People/chị Diệp.md",
+          "date": {
+            "year": null,
+            "month": 6,
+            "day": 7
+          },
+          "end": null,
+          "category": "ID_8bd96a6b1808",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_7a09baea3bcb",
+          "name": "Birthday of tôi",
+          "note": "Zet/People/Trần Anh Dũng.md",
+          "date": {
+            "year": null,
+            "month": 7,
+            "day": 4
+          },
+          "end": null,
+          "category": "ID_8bd96a6b1808",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_4beb08fafad8",
+          "name": "Birthday of Trần Thị Ánh Phượng",
+          "note": "Zet/People/Trần Thị Ánh Phượng.md",
+          "date": {
+            "year": null,
+            "month": 8,
+            "day": 7
+          },
+          "end": null,
+          "category": "ID_8bd96a6b1808",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_68190b8a4989",
+          "name": "Birthday of Bối Bối",
+          "note": "Zet/People/Trần Gia Hân.md",
+          "date": {
+            "year": null,
+            "month": 8,
+            "day": 12
+          },
+          "end": null,
+          "category": "ID_8bd96a6b1808",
+          "description": "",
+          "auto": true
+        },
+        {
           "name": "Halloween",
           "description": "Halloween is holiday popular in the US, Canada and Ireland that has gradually been adopted by more and more countries. It is often celebrated by people dressing up, usually as something scary. Children will often go from door to door shouting \"trick or treat\" in the hopes of receiving candy, while adults tend to go to parties.",
           "id": "1439564",
@@ -352,6 +410,58 @@
             "month": 9
           },
           "category": "secular-holidays"
+        },
+        {
+          "id": "ID_e9fbb879cbb8",
+          "name": "Birthday of Trần Quang Duy",
+          "note": "Zet/People/Trần Quang Duy.md",
+          "date": {
+            "year": null,
+            "month": 10,
+            "day": 6
+          },
+          "end": null,
+          "category": "ID_8bd96a6b1808",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_19693bea7968",
+          "name": "Sinh nhật Vũ Kim Dung",
+          "note": "Zet/People/Vũ Kim Dung.md",
+          "date": {
+            "year": null,
+            "month": 10,
+            "day": 19
+          },
+          "end": null,
+          "description": "",
+          "auto": true,
+          "category": "ID_8bd96a6b1808"
+        },
+        {
+          "name": "Christmas",
+          "description": "Christmas is a Christian holiday celebrating the birth of Christ. Due to a combination of marketability and long lasting traditions it is popular even among many non-Christians, especially in countries that have a strong Christian tradition.",
+          "id": "1439556",
+          "note": null,
+          "date": {
+            "day": 25,
+            "year": null,
+            "month": 11
+          },
+          "category": "christian-holidays"
+        },
+        {
+          "name": "Introduction of the Gregorian Calendar",
+          "description": "On this day in 1582 the Gregorian calendar was officially introduced, following Thursday October 4th on the Julian Calendar",
+          "id": "1439567",
+          "note": null,
+          "date": {
+            "day": 15,
+            "year": 1582,
+            "month": 9
+          },
+          "category": "historical-events"
         },
         {
           "name": "Work on the first version of this calendar started.",
@@ -378,16 +488,16 @@
           "category": "miscellaneous-events"
         },
         {
-          "name": "Introduction of the Gregorian Calendar",
-          "description": "On this day in 1582 the Gregorian calendar was officially introduced, following Thursday October 4th on the Julian Calendar",
-          "id": "1439567",
-          "note": null,
+          "name": "Đám cưới Ngọc Thảo Lương - 2022-11-05",
+          "description": "Ăn đám cưới Shock dưới Trảng bàng Tây Ninh",
           "date": {
-            "day": 15,
-            "year": 1582,
-            "month": 9
+            "day": 5,
+            "month": 10,
+            "year": 2022
           },
-          "category": "historical-events"
+          "id": "ID_d9890be9390a",
+          "note": "Spaces/Journal/Đám cưới Ngọc Thảo Lương - 2022-11-05",
+          "category": "miscellaneous-events"
         },
         {
           "name": "Đám cưới Trang chú Đạm 22-11-13",
@@ -399,18 +509,6 @@
           },
           "id": "ID_a8b80a2a6b7a",
           "note": "Spaces/Journal/Đám cưới Trang chú Đạm 22-11-13",
-          "category": "miscellaneous-events"
-        },
-        {
-          "name": "Đám cưới Ngọc Thảo Lương - 2022-11-05",
-          "description": "Ăn đám cưới Shock dưới Trảng bàng Tây Ninh",
-          "date": {
-            "day": 5,
-            "month": 10,
-            "year": 2022
-          },
-          "id": "ID_d9890be9390a",
-          "note": "Spaces/Journal/Đám cưới Ngọc Thảo Lương - 2022-11-05",
           "category": "miscellaneous-events"
         },
         {
@@ -426,43 +524,37 @@
           "category": "miscellaneous-events"
         },
         {
-          "id": "ID_68a9c9bb9a58",
-          "name": "Hẹn Tuấn đi ăn tối",
-          "note": "Spaces/Journal/Hẹn Tuấn đi ăn tối.md",
-          "date": {
-            "year": 2022,
-            "month": 10,
-            "day": 16
-          },
-          "end": null,
-          "category": "natural-events",
-          "description": "",
-          "auto": true
-        },
-        {
-          "id": "ID_0829bb1bcad9",
-          "name": "Mang xe đạp ra Thủ Đức cho Ánh",
-          "note": "Spaces/Journal/Mang xe đạp ra Thủ Đức cho Ánh.md",
-          "date": {
-            "year": 2022,
-            "month": 10,
-            "day": 20
-          },
-          "end": null,
-          "description": "",
-          "auto": true,
-          "category": "natural-events"
-        },
-        {
-          "name": "Đám cưới anh Tiến SW 2022-11-27",
+          "name": "Quốc Khánh",
           "description": null,
           "date": {
-            "day": 27,
-            "month": 10,
+            "day": 2,
+            "month": 8
+          },
+          "id": "ID_1929aa699bab",
+          "note": null,
+          "category": "ID_3a8a8ad8284b"
+        },
+        {
+          "name": "Giải phóng",
+          "description": null,
+          "date": {
+            "day": 30,
+            "month": 3
+          },
+          "id": "ID_491a090ab88b",
+          "note": null,
+          "category": "ID_3a8a8ad8284b"
+        },
+        {
+          "name": "Đám cưới Khương Béo - 2022-12-10",
+          "description": null,
+          "date": {
+            "day": 10,
+            "month": 11,
             "year": 2022
           },
-          "id": "ID_a9a86a4ac998",
-          "note": "Spaces/Journal/Đám cưới anh Tiến SW 2022-11-27",
+          "id": "ID_794a0829d9f8",
+          "note": "Spaces/Journal/Đám cưới Khương Béo - 2022-12-10",
           "category": "natural-events"
         }
       ],
@@ -481,19 +573,31 @@
         {
           "name": "Secular Holidays",
           "id": "secular-holidays",
-          "color": "#0D47A1"
+          "color": "#000000"
         },
         {
           "name": "Historical Events",
           "id": "historical-events",
-          "color": "#455A64"
+          "color": "#000000"
         },
         {
           "name": "Miscellaneous Events",
           "id": "miscellaneous-events",
-          "color": "#0288D1"
+          "color": "#000000"
+        },
+        {
+          "id": "ID_8bd96a6b1808",
+          "color": "#ff0090",
+          "name": "Birthday"
+        },
+        {
+          "id": "ID_3a8a8ad8284b",
+          "color": "#ff0000",
+          "name": "VN holidays"
         }
-      ]
+      ],
+      "displayWeeks": true,
+      "timelineTag": "#timeline"
     }
   ],
   "configDirectory": null,

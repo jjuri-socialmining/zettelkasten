@@ -6,6 +6,9 @@ tags:
   - 'created/2021/Sep/22'
   - 'seed'
   - 'permanent/concept'
+aliases:
+  - Digital Garden
+  - Obsidian Publish
 publish: False
 ---
 # Obsidian Publish
@@ -16,4 +19,5 @@ Obsidian Publish ý nói đến những ghi chú trên nền tảng [[Obsidian]]
 Obsidian có một dịch vụ hỗ trợ người dùng publish website cá nhân khá là và bắt mắt, nó thường bao gồm một giao diện [[Backlink graph view]] trực quan trên giao diện web. Ngoài ra, người dùng có thể tự mình publish website thông qua việc chuyển file md thành html hoặc cũng có rất nhiều công cụ hỗ trợ việc tạo website từ markdown. Các bạn có thể tham khảo trên [[GitHub]] hoặc [[Obsidian Forum]]
 
 ## Related:
-- [[Sưu tầm một số ý tưởng tạo obsidian site]]
+- [[Sưu tầm một số ý tưởng tạo digital garden site]]
+

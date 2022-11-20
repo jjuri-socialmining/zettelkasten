@@ -6,7 +6,13 @@ tags:
   - 'seed'
   - 'permanent/people/family'
 birth: 2012-09-12
-death: null
+fc-calendar: Gregorian Calendar
+fc-date:
+  year:
+  month: 09
+  day: 12
+fc-category: Birthday
+fc-display-name:  Birthday of Bối Bối
 aliases:
   - Bối Bối
   - Bối

@@ -1,0 +1,2 @@
+- https://simply-jekyll.netlify.app/posts/introduction-to-simply-jekyll
+	- https://github.com/raghudotcc/simply-jekyll

@@ -46,7 +46,7 @@ Xây dựng [[Obsidian]] website bằng [[Mkdocs]]
 	
 2. Chỉnh sửa vào tạo thêm page mới nào
 Tạo ra một file để check các format của mkdocs
-add `requirement.in` giống [[Blue book template]]
+add `requirement.in` giống [[Bluebook (digital garden)]]
 Nó sẽ ra như này
 ![[20210924210816.png]]
 3. Advance Config `mkdocs.yml` 

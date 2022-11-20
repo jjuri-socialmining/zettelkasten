@@ -6,6 +6,8 @@ tags:
   - 'created/2021/Sep/23'
   - 'seed'
   - 'permanent/concept'
+aliases:
+  - Bluebook
 publish: False
 ---
 # Blue book template

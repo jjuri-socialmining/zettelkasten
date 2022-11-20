@@ -1,17 +1,18 @@
 ---
-title: Trần Thị Ánh Phượng
-UID: 221121002343
+title: Nguyễn Hoàng Huệ Chi
+UID: 221121002908
 tags:
   - 'created/2022/Nov/21'
   - 'permanent/people'
-birth: 1996-09-07
+birth:
+death:
 fc-calendar: Gregorian Calendar
 fc-date:
   year:
-  month: 09
-  day: 07
+  month:
+  day:
 fc-category: Birthday
-fc-display-name:  Birthday of Trần Thị Ánh Phượng
+fc-display-name:  Birthday of Nguyễn Hoàng Huệ Chi
 publish: False
 ---
 up:: [[People MOC]],

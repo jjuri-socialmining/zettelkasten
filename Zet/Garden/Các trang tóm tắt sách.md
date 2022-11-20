@@ -11,4 +11,5 @@ publish: False
 ## Notes:
 - [booksummary.net](https://www.booksummary.net/)
 - wikipedia
-- 
+- Trang tóm tắt sách của một người đọc [[mattswain.com]] theo phong cách của [[Ali Abdaal Youtuber]]
+

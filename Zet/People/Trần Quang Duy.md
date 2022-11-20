@@ -6,6 +6,13 @@ tags:
   - 'seed'
   - 'permanent/people/family'
 birth: 1993-11-06
+fc-calendar: Gregorian Calendar
+fc-date:
+  year:
+  month: 11
+  day: 6
+fc-category: Birthday
+fc-display-name:  Birthday of Trần Quang Duy
 aliases:
   - Duy
 ---

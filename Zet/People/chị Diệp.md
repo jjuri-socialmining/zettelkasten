@@ -6,7 +6,13 @@ tags:
   - 'seed'
   - 'permanent/people/family'
 birth: null
-death: null
+fc-calendar: Gregorian Calendar
+fc-date:
+  year:
+  month: 07
+  day: 07
+fc-category: Birthday
+fc-display-name:  Birthday of chị Diệp
 aliases:
   - chị Diệp
   - Trần Thị Ngọc Diệp

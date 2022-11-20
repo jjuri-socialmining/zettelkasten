@@ -6,7 +6,7 @@ tags:
   - 'created/2022/Mar/06'
   - 'daily/journal'
 ---
-up:: [[001 My Bucket list]]
+up:: [[My Bucket list]]
 
 # Bucket list 2 - Lang thang tất cả các tỉnh thành phố ở VN
 

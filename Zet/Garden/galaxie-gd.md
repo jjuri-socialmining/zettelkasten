@@ -31,6 +31,7 @@ npm run deploy
 
 https://github.com/Greaby/galaxie-gd
 https://github.com/Greaby/telescope
+![[20220501220435 ~ Galaxi.png]]
 
 ## Limitation
 - [[2022-05-02]]

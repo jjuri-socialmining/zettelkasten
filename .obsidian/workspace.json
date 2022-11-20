@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "db6ebc32ff5890c5",
+        "id": "3b9cdcee6d7bd27d",
         "type": "tabs",
         "children": [
           {
-            "id": "ec89eafc24a5eb7c",
+            "id": "5861f81b674f9742",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Zet/Concept/World Cup 2022.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -21,20 +21,19 @@
             }
           },
           {
-            "id": "94567ca72feb3c60",
+            "id": "a97695b810205039",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zet/Writing/Làm thế nào để cảm thấy hạnh phúc.md",
+                "file": "Zet/People/Trần Quang Duy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "digital-gardeners",
+                "query": "The real problem",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +87,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zet/Writing/Làm thế nào để cảm thấy hạnh phúc.md"
+                "file": "Zet/Concept/World Cup 2022.md"
               }
             }
           },
@@ -145,7 +143,7 @@
                   "lat": 10.903169652493919,
                   "lng": 104.70340328908965
                 },
-                "query": "path:\"Zet/Writing/Làm thế nào để cảm thấy hạnh phúc.md\"",
+                "query": "path:\"Zet/Concept/World Cup 2022.md\"",
                 "chosenMapSource": 0,
                 "queryError": false,
                 "followActiveNote": true
@@ -159,14 +157,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zet/Writing/Làm thế nào để cảm thấy hạnh phúc.md",
+                "file": "Zet/Concept/World Cup 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -176,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zet/Writing/Làm thế nào để cảm thấy hạnh phúc.md",
+                "file": "Zet/Concept/World Cup 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,12 +189,20 @@
             }
           },
           {
+            "id": "d55b6562247d19af",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
             "id": "a67c30cd21094fb6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zet/Writing/Làm thế nào để cảm thấy hạnh phúc.md"
+                "file": "Zet/Concept/World Cup 2022.md"
               }
             }
           },
@@ -205,14 +211,6 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "ae3de5ec89eb2f35",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
               "state": {}
             }
           },
@@ -231,25 +229,41 @@
               "type": "BC-tree",
               "state": {}
             }
+          },
+          {
+            "id": "ad913a9225abbc09",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "584821e49460f293",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 595
   },
-  "active": "94567ca72feb3c60",
+  "active": "5861f81b674f9742",
   "lastOpenFiles": [
-    "Zet/Thinking/❕ Hạnh phúc của người hiện sinh không phụ thuộc vào kết quả việc anh ta làm.md",
-    "Zet/Writing/Làm thế nào để cảm thấy hạnh phúc.md",
-    "Cẩm nang hạnh phúc Epicurus.md",
-    "Reference_Box/Books/@ Alain de Botton, Sự An Ủi Của Triết Học.md",
-    "Zet/Sưu tầm một số ý tưởng tạo obsidian site.md",
-    "Zet/Obsidian Publish.md",
-    "Digital garden.md",
-    "Zet/Writing/Tóm tắt sách - Atomic Habits.md",
-    "Zet/Writing/Tiểu sử tiên tri Moses.md",
-    "Zet/Writing/Tesla, Edison, Morgan - Điện một chiều và điện xoay chiều.md"
+    "Spaces/Daily/2022-11-20.md",
+    "Spaces/Daily/2022-11-21.md",
+    "Spaces/Daily/2022-12-10.md",
+    "Spaces/Daily/2022-11-27.md",
+    "Spaces/Daily/2022-11-26.md",
+    "Bins/Templates/Templater/templater.daily.md",
+    "Spaces/Daily/2022-11-19.md",
+    "Zet/Concept/World Cup 2022.md",
+    "Spaces/Journal/Đám cưới Khương Béo - 2022-12-10.md",
+    "Spaces/Journal/Đám cưới Trang chú Đạm 22-11-13.md"
   ]
 }

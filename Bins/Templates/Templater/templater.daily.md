@@ -27,10 +27,10 @@ location: TBD
 ---
 up:: [[Daily notes]]
 
-<% "[[" + tp.date.yesterday("YYYY-MM-DD") + "|<- Yesterday]] | [[" + tp.date.tomorrow("YYYY-MM-DD")  + "|Tomorrow ->]]" %>
+<% "[[" + tp.date.yesterday("YYYY-MM-DD") + "|<- Yesterday]] | " + tp.date.now("ddd") + " | [[" + tp.date.tomorrow("YYYY-MM-DD")  + "|Tomorrow ->]]" %>
 
 ## Notes:
-
+- [[5 bucket list đáng làm nhất hiện tại]]
 - Điều gì làm mình vui trong ngày? -> [[Những niềm vui giản dị]]
 - Cập nhật running log [[Road to HIM 2022]]
 

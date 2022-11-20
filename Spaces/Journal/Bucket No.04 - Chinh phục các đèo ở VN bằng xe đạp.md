@@ -22,7 +22,7 @@ Sẽ chinh phục từng em đèo lớn một. Các đèo lớn trong danh sách
 |        |                   |                |
 
 
-Xem thêm [[001 My Bucket list]]
+Xem thêm [[My Bucket list]]
 
 ## Tham khảo
 - [[@ thongtindalat24h.com, 4 cung phượt 'ớn lạnh' nhất dẫn vào thành phố Đà Lạt]]

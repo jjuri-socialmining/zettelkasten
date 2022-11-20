@@ -16,10 +16,16 @@ publish: False
 
 Oliver Burkeman có nhắc đên nhà triết học [[Thomas Nagel]]
 
-Tóm tắt từ kênh [[Productivity Game Youtube Channel]]
+
+
+- [[221117234744 - Trong quyển Four Thousand Weeks, Burkeman đưa ra lời khuyên là hãy làm bất kể việc gì như thể lần cuối trong đời]]
+- [[Four Thousand Weeks tóm tắt]]
+
+## Related:
+- Tóm tắt từ kênh [[Productivity Game Youtube Channel]]
 ![[Four Thousand Weeks - Book in 1 page.pdf]]
 
-[[221117234744 - Trong quyển Four Thousand Weeks, Burkeman đưa ra lời khuyên là hãy làm bất kể việc gì như thể lần cuối trong đời]]
+- Tóm tắt: https://youcanflymate.org/four-thousand-weeks-by-oliver-burkeman-review-and-summary/
 
 ## Quizes:
 - [[❔221117-2256]]

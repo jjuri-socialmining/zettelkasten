@@ -47,14 +47,15 @@ url:: https://drive.google.com/file/d/1V-pnD8oMS9TYD6DQGP6WIN3j-TkeSDbh/edit
 
 ### 6. Sự ganh tị
 ### 7. Cảm giác tội lỗi
-### Sợ dư luận
+### 8. Thới tự cho mình ta bị ngược đãi
+### 9. Sợ dư luận
 ## Nguyên nhân của hạnh phúc
 
 [[221119104309 - Bertrand Russell chia hạnh phúc ra hai loại thể xác và tinh thần]]
 [[221119104744 - Người làm khoa học may mắn hơn người làm nghệ sĩ]]
 
 ![[20221119105342.png]]
-
+### 10. Có thể còn hạnh phúc được không?
 ### 11. Vui sống
 
 [[221119110330 - Mỗi thú vui đều khiến ta có thêm cơ hội để sung sướng ở đời]]
@@ -65,5 +66,8 @@ url:: https://drive.google.com/file/d/1V-pnD8oMS9TYD6DQGP6WIN3j-TkeSDbh/edit
 ### 14. Làm việc
 ![[20221119114005.png]]
 ![[20221119114124.png]]
+### 15. Thú tiêu khiển
+### 16. Gắng sức và an phận
+### 17. Người sung sướng
 
 p.73

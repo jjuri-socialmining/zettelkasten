@@ -18,6 +18,13 @@ tags:
   - '<%* tR += note_type %>'
 <%* tR += birth %>
 <%* tR += death %>
+fc-calendar: Gregorian Calendar
+fc-date:
+  year:
+  month:
+  day:
+fc-category: Birthday
+fc-display-name:  Birthday of <%* tR += title %>
 publish: False
 ---
 up:: [[People MOC]],
