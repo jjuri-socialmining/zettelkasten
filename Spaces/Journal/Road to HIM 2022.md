@@ -8,9 +8,8 @@ tags:
 aliases:
   - Giáo án HIM 2022
 ---
-top:: [[Chạy bộ]]
-
-up:: [[@ Jack Daniels, Daniels' Running Formula]]
+- top:: [[Chạy bộ]]
+- up:: [[@ Jack Daniels, Daniels' Running Formula]]
 
 Xong [[VMM100 Sapa 09-Sep-2022]] rồi, bắt đầu luyện tập road để còn pặc co lại với [[Công Sơn PTR|Công Công]] thui. Hẹn ước 2 năm chưa thực hiện được, một cái mũ buff.
 
@@ -30,7 +29,7 @@ Target: Sub130
 | W06 30/10 |            | PR.10k     | ---        |            |            |            |       |                                             |      |
 | W05 06/11 |            |            |            | 11k (5k T) | 8k         | 15k        | 15k   |                                             |      |
 | W04 13/11 | ---        | 15k (3Tx2) | 5k         | ---        | 17k (3T)   |            |       |                                             |      |
-| W03 20/11 |            |            |            |            |            |            |       |                                             |      |
+| W03 20/11 | ---        | 16k E      |            |            |            |            |       |                                             |      |
 | W02 27/11 |            |            |            |            |            |            |       |                                             |      |
 | W01 04/12 |            |            |            |            |            |            |       |                                             |      |
 | W00 11/12 | Race       |            |            |            |            |            |       |                                             |      |
@@ -65,6 +64,10 @@ Dùng lại [[vdoto2.com]] để tạo giáo án theo phương pháp của [[Jac
 
 ### [[2022-11-06]]
 Hôm trước thấy [[Công Sơn PTR|CC]] không tập được nữa, mình chủ động pm dời pặc co sang giải khác, giờ tập sub 1:30 thui kk.
+
+### [[2022-11-22]]
+- [[Các mô hình luyện tập theo cường độ]]
+- Nên thử luyện tập theo [[Polarised training model|Mô hình luyện tập phân cực]] thử, có lẽ hồi 2019 mình tiến bộ nhiều là do chạy nhẹ nhiều cung nên.
 
 ### Ref:
 

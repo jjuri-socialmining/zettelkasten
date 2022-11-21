@@ -6,6 +6,13 @@ tags:
   - 'seed'
   - 'permanent/people'
 birth: 1991-11-29
+fc-calendar: Gregorian Calendar
+fc-date:
+  year:
+  month: 11
+  day: 29
+fc-category: Birthday
+fc-display-name: Sinh nhật Trần Thị Minh Tâm
 aliases:
   - Tâm A3
 publish: False

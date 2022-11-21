@@ -556,6 +556,20 @@
           "id": "ID_794a0829d9f8",
           "note": "Spaces/Journal/Đám cưới Khương Béo - 2022-12-10",
           "category": "natural-events"
+        },
+        {
+          "id": "ID_f849297ba86a",
+          "name": "Sinh nhật Trần Thị Minh Tâm",
+          "note": "Zet/People/Friends/Trần Thị Minh Tâm.md",
+          "date": {
+            "year": null,
+            "month": 10,
+            "day": 29
+          },
+          "end": null,
+          "category": "ID_8bd96a6b1808",
+          "description": "",
+          "auto": true
         }
       ],
       "id": "ID_1b9ab90b1b99",

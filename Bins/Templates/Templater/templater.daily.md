@@ -20,8 +20,8 @@ created: <% tp.date.now("DD-MMM-YYYY") %>
 tags:
   - 'created/<% tp.date.now("YYYY/MMM/DD") %>'
   - 'daily/private'
-wakeup:
 gotobed:
+wakeup:
 summary: TBD
 location: TBD
 ---
