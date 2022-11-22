@@ -14,3 +14,5 @@ publish: False
 Ngày diễn ra trận dầu tiên [[2022-11-20]] giữa Quata và Ecuado
 
 
+### [[2022-11-22]]
+Argentina chấp Arap Xeut 2.5 trái, thế mà thua ngược 2:1. Làm phải chạy 

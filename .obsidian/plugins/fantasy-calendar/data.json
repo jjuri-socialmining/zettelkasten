@@ -570,6 +570,19 @@
           "category": "ID_8bd96a6b1808",
           "description": "",
           "auto": true
+        },
+        {
+          "id": "ID_7aa808db0beb",
+          "name": "Đám cưới anh Tiến SW 2022-11-27",
+          "note": "Spaces/Journal/Đám cưới anh Tiến SW 2022-11-27.md",
+          "date": {
+            "year": 2022,
+            "month": 10,
+            "day": 27
+          },
+          "end": null,
+          "description": "",
+          "auto": true
         }
       ],
       "id": "ID_1b9ab90b1b99",

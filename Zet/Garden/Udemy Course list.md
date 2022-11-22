@@ -15,4 +15,5 @@ publish: False
 - [[Advanced C Programming Masterclass - Pointers & Memory in C]]
 - [[Advanced C Programming Course]]
 - [[Bash Scripting and Shell Programming (Linux Command Line)]]
+- [[GUI Development with Python and Tkinter]]
 

@@ -75,3 +75,6 @@ permanent -> evergreen -> think
 
 ### [[2022-11-18]]
 [[🙂 221118222623 - Đọc được một bài tựa sách đắc ý]]
+
+### [[2022-11-23]]
+[[🙂 221123002647 - Develop GUI trên nền python Tkinter]]

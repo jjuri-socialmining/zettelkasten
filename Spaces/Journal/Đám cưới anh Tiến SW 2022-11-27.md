@@ -5,6 +5,7 @@ created: 18-Nov-2022
 tags:
   - 'created/2022/Nov/18'
   - 'daily/journal'
+fc-date: 2022-11-27
 ---
 ## Notes:
 

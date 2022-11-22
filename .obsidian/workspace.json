@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Daily/2022-11-21.md",
+                "file": "Spaces/Journal/Đám cưới anh Tiến SW 2022-11-27.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Daily/2022-11-21.md"
+                "file": "Spaces/Journal/Đám cưới anh Tiến SW 2022-11-27.md"
               }
             }
           },
@@ -130,7 +130,7 @@
                   "lat": 10.903169652493919,
                   "lng": 104.70340328908965
                 },
-                "query": "path:\"Spaces/Daily/2022-11-21.md\"",
+                "query": "path:\"Spaces/Journal/Đám cưới anh Tiến SW 2022-11-27.md\"",
                 "chosenMapSource": 0,
                 "queryError": false,
                 "followActiveNote": true
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Daily/2022-11-21.md",
+                "file": "Spaces/Journal/Đám cưới anh Tiến SW 2022-11-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Daily/2022-11-21.md",
+                "file": "Spaces/Journal/Đám cưới anh Tiến SW 2022-11-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Daily/2022-11-21.md"
+                "file": "Spaces/Journal/Đám cưới anh Tiến SW 2022-11-27.md"
               }
             }
           },
@@ -234,7 +234,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -242,15 +242,15 @@
   },
   "active": "5861f81b674f9742",
   "lastOpenFiles": [
-    "Bins/Templates/Templater/templater.daily.md",
-    "Spaces/Daily/2022-11-21.md",
+    "Zet/Thinking/🙂 221123002647 - Develop GUI trên nền python Tkinter.md",
+    "Spaces/Journal/Những niềm vui giản dị.md",
+    "Spaces/Daily/2022-11-23.md",
+    "Zet/Images/Pasted image 20221123001204.png",
+    "Spaces/Journal/GUI Development with Python and Tkinter.md",
+    "Zet/Garden/Udemy Course list.md",
+    "Spaces/Questions/grid và pack trong tkinter khác nhau ở điểm nào❓.md",
+    "Zet/Concept/Udemy.md",
     "Spaces/Daily/2022-11-22.md",
-    "Spaces/Journal/Road to HIM 2022.md",
-    "Spaces/Daily/2022-11-06.md",
-    "Spaces/Daily/2022-11-15.md",
-    "Spaces/Daily/2022-11-27.md",
-    "Spaces/Daily/2022-11-26.md",
-    "Spaces/Daily/2022-11-02.md",
-    "Spaces/Daily/2022-11-19.md"
+    "Zet/Concept/World Cup 2022.md"
   ]
 }
