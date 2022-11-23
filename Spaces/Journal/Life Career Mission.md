@@ -38,6 +38,7 @@ tags:
 
 ### Python
 - [[swig]]
+- [[Tkinter]]
 - Test Framework
 	- [ ] [[Tìm hiểu Regression test frame work]] #tasks/todo 
 

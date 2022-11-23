@@ -22,3 +22,4 @@ tags:
 - [ ] [[Bucket No.11 - Nói Thông Thạo tiếng Anh]]
 - [ ] [[Bucket No.12 - Nói thông thạo tiếng Pháp]]
 - [ ] [[Bucket No.13 - Chạy HM sub130]]
+- [ ] [[Bucket No.14 - Thành thạo lập trình Python]]

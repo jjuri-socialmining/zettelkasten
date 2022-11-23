@@ -8,6 +8,8 @@ tags:
 ---
 ## Notes:
 url:: https://marvell.udemy.com/course/desktop-gui-python-tkinter/learn/lecture/16430628#overview
+source_code:: https://github.com/tecladocode/gui-development-tkinter-course, 
+https://github.com/omegakid1902/gui-development-tkinter-course
 
 ### Introduction
 - Nên dùng python version 3.5+ để dev Tkinter, vì python sau version này có nhiều tính năng giúp Tkinter trông đẹp hơn

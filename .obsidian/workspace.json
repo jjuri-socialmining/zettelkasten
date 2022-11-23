@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3b9cdcee6d7bd27d",
+        "id": "2647a9681c74e2d5",
         "type": "tabs",
         "children": [
           {
-            "id": "5861f81b674f9742",
+            "id": "8cba5617c17d8150",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Journal/Đám cưới anh Tiến SW 2022-11-27.md",
+                "file": "Spaces/Tasks/$ 221123 - Luyện tập nghe và chép từ ở elllo.org 🔎.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 334.00418853759766
   },
   "right": {
     "id": "98ee6c8f963969f5",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Journal/Đám cưới anh Tiến SW 2022-11-27.md"
+                "file": "Spaces/Tasks/$ 221123 - Luyện tập nghe và chép từ ở elllo.org 🔎.md"
               }
             }
           },
@@ -130,9 +130,9 @@
                   "lat": 10.903169652493919,
                   "lng": 104.70340328908965
                 },
-                "query": "path:\"Spaces/Journal/Đám cưới anh Tiến SW 2022-11-27.md\"",
+                "query": "path:\"Spaces/Tasks/$ 221123 - Luyện tập nghe và chép từ ở elllo.org 🔎.md\"",
                 "chosenMapSource": 0,
-                "queryError": false,
+                "queryError": true,
                 "followActiveNote": true
               },
               "pinned": true
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Journal/Đám cưới anh Tiến SW 2022-11-27.md",
+                "file": "Spaces/Tasks/$ 221123 - Luyện tập nghe và chép từ ở elllo.org 🔎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Journal/Đám cưới anh Tiến SW 2022-11-27.md",
+                "file": "Spaces/Tasks/$ 221123 - Luyện tập nghe và chép từ ở elllo.org 🔎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Journal/Đám cưới anh Tiến SW 2022-11-27.md"
+                "file": "Spaces/Tasks/$ 221123 - Luyện tập nghe và chép từ ở elllo.org 🔎.md"
               }
             }
           },
@@ -234,23 +234,24 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 595
+    "width": 595,
+    "collapsed": true
   },
-  "active": "5861f81b674f9742",
+  "active": "8cba5617c17d8150",
   "lastOpenFiles": [
-    "Zet/Thinking/🙂 221123002647 - Develop GUI trên nền python Tkinter.md",
-    "Spaces/Journal/Những niềm vui giản dị.md",
+    "5 bucket list đáng làm nhất hiện tại.md",
+    "Zet/Garden/English Listening Resource.md",
+    "Spaces/Tasks/$ 221123 - Luyện tập nghe và chép từ ở elllo.org 🔎.md",
     "Spaces/Daily/2022-11-23.md",
-    "Zet/Images/Pasted image 20221123001204.png",
-    "Spaces/Journal/GUI Development with Python and Tkinter.md",
-    "Zet/Garden/Udemy Course list.md",
-    "Spaces/Questions/grid và pack trong tkinter khác nhau ở điểm nào❓.md",
-    "Zet/Concept/Udemy.md",
-    "Spaces/Daily/2022-11-22.md",
-    "Zet/Concept/World Cup 2022.md"
+    "Spaces/Journal/the-digital-garden.md",
+    "Spaces/Journal/Bucket No.11 - Nói Thông Thạo tiếng Anh.md",
+    "Luyện tập nghe và chép từ ở listen-and-write.com.md",
+    "Spaces/Journal/Bucket No.14 - Thành thạo lập trình Python.md",
+    "Zet/Sưu tầm một số ý tưởng tạo digital garden site.md",
+    "Zet/Digital Garden.md"
   ]
 }
