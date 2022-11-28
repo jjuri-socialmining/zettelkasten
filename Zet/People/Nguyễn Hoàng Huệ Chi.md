@@ -13,6 +13,8 @@ fc-date:
   day:
 fc-category: Birthday
 fc-display-name:  Birthday of Nguyễn Hoàng Huệ Chi
+aliases:
+  - chị Chi
 publish: False
 ---
 up:: [[People MOC]],

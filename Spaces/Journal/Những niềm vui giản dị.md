@@ -78,3 +78,9 @@ permanent -> evergreen -> think
 
 ### [[2022-11-23]]
 [[🙂 221123002647 - Develop GUI trên nền python Tkinter]]
+
+### [[2022-11-24]]
+[[🙂 221124234037 - Win kèo cá độ WC ăn trưa]]
+
+### [[2022-11-28]]
+[[🙂 221128233641 - Được chạy bài chạy 90Mins]]

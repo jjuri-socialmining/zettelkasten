@@ -13,6 +13,7 @@ kanban-plugin: basic
 ## [[Bucket No.11 - Nói Thông Thạo tiếng Anh|Learn English]]
 
 - [ ] [[$ 221123 - Luyện tập nghe và chép từ ở elllo.org 🔎|Practice elllo.org]]
+- [ ] [[Global English Course]]
 
 
 ## [[Bucket No.13 - Chạy HM sub130|HM sub130]]

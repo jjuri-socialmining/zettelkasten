@@ -13,7 +13,7 @@ fc-date:
 fc-category: Birthday
 fc-display-name: Sinh nhật Vũ Kim Dung
 aliases:
-  - X
+  - Xíu
 publish: False
 ---
 up:: [[People MOC]],

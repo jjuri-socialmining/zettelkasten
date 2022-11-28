@@ -5,6 +5,8 @@ created: 01-Jun-2022
 tags:
   - 'created/2022/Jun/01'
   - 'permanent/concept'
+aliases:
+  - 90Mins
 publish: False
 ---
 ## Notes:

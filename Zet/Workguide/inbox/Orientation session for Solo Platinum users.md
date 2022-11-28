@@ -6,7 +6,7 @@ tags:
   - 'meeting'
 publish: False
 ---
-up:: [[Global English Cource]]
+up:: [[Global English Course]]
 
 ![[20221018121228 ~ Global english Solo.png]]
 ![[Pasted image 20221018121630.png]]

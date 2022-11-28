@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Tasks/$ 221123 - Luyện tập nghe và chép từ ở elllo.org 🔎.md",
+                "file": "Spaces/Daily/2022-11-28.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "fef80e639cad7f1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Journal/Garmin Race Predictor Journal.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -94,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Tasks/$ 221123 - Luyện tập nghe và chép từ ở elllo.org 🔎.md"
+                "file": "Spaces/Daily/2022-11-28.md"
               }
             }
           },
@@ -130,9 +143,9 @@
                   "lat": 10.903169652493919,
                   "lng": 104.70340328908965
                 },
-                "query": "path:\"Spaces/Tasks/$ 221123 - Luyện tập nghe và chép từ ở elllo.org 🔎.md\"",
+                "query": "path:\"Spaces/Daily/2022-11-28.md\"",
                 "chosenMapSource": 0,
-                "queryError": true,
+                "queryError": false,
                 "followActiveNote": true
               },
               "pinned": true
@@ -144,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Tasks/$ 221123 - Luyện tập nghe và chép từ ở elllo.org 🔎.md",
+                "file": "Spaces/Daily/2022-11-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Tasks/$ 221123 - Luyện tập nghe và chép từ ở elllo.org 🔎.md",
+                "file": "Spaces/Daily/2022-11-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Tasks/$ 221123 - Luyện tập nghe và chép từ ở elllo.org 🔎.md"
+                "file": "Spaces/Daily/2022-11-28.md"
               }
             }
           },
@@ -234,24 +247,23 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 595,
-    "collapsed": true
+    "width": 200
   },
   "active": "8cba5617c17d8150",
   "lastOpenFiles": [
+    "Spaces/Daily/2022-11-29.md",
     "5 bucket list đáng làm nhất hiện tại.md",
-    "Zet/Garden/English Listening Resource.md",
-    "Spaces/Tasks/$ 221123 - Luyện tập nghe và chép từ ở elllo.org 🔎.md",
-    "Spaces/Daily/2022-11-23.md",
-    "Spaces/Journal/the-digital-garden.md",
-    "Spaces/Journal/Bucket No.11 - Nói Thông Thạo tiếng Anh.md",
-    "Luyện tập nghe và chép từ ở listen-and-write.com.md",
-    "Spaces/Journal/Bucket No.14 - Thành thạo lập trình Python.md",
-    "Zet/Sưu tầm một số ý tưởng tạo digital garden site.md",
-    "Zet/Digital Garden.md"
+    "Spaces/Daily/2022-11-28.md",
+    "Spaces/Journal/Road to HIM 2022.md",
+    "Spaces/Journal/Những niềm vui giản dị.md",
+    "Zet/Thinking/🙂 221128233641 - Được chạy bài chạy 90Mins.md",
+    "Zet/Concept/90Mins Workout.md",
+    "Global English Course.md",
+    "Global English.md",
+    "Spaces/Daily/2022-11-26.md"
   ]
 }

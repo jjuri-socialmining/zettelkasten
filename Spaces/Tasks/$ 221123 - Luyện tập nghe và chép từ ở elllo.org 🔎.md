@@ -6,9 +6,11 @@ tags:
 ---
 
 ## Notes:
-- [https://elllo.org/](https://elllo.org/)
+url:: [https://elllo.org/](https://elllo.org/)
 
 ## [[2022-11-24]]
 https://www.elllo.org/english/1501/1530-Tahia-UK-Physical-Health.htm
-treat yourself: tu thuong ban than
-here and there: o dau do
+
+treat yourself: tự thưởng bản thân
+
+here and there: ở đâu đó
