@@ -14,6 +14,8 @@ kanban-plugin: basic
 
 - [ ] [[$ 221123 - Luyện tập nghe và chép từ ở elllo.org 🔎|Practice elllo.org]]
 - [ ] [[Global English Course]]
+- [ ] [[$ 221129 - Học tiếng Anh qua xem phim trên studyphim.vn 🔎|Học tiếng Anh qua xem phim trên studyphim.vn]] #tasks/work 
+
 
 
 ## [[Bucket No.13 - Chạy HM sub130|HM sub130]]
