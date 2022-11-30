@@ -19,19 +19,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "fef80e639cad7f1e",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "5 bucket list đáng làm nhất hiện tại.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.00418853759766
+    "width": 334.00418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "98ee6c8f963969f5",
@@ -105,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 bucket list đáng làm nhất hiện tại.md"
+                "file": "Spaces/Daily/2022-11-28.md"
               }
             }
           },
@@ -141,7 +131,7 @@
                   "lat": 10.903169652493919,
                   "lng": 104.70340328908965
                 },
-                "query": "path:\"5 bucket list đáng làm nhất hiện tại.md\"",
+                "query": "path:\"Spaces/Daily/2022-11-28.md\"",
                 "chosenMapSource": 0,
                 "queryError": false,
                 "followActiveNote": true
@@ -155,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 bucket list đáng làm nhất hiện tại.md",
+                "file": "Spaces/Daily/2022-11-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 bucket list đáng làm nhất hiện tại.md",
+                "file": "Spaces/Daily/2022-11-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 bucket list đáng làm nhất hiện tại.md"
+                "file": "Spaces/Daily/2022-11-28.md"
               }
             }
           },
@@ -249,19 +239,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
-  "active": "fef80e639cad7f1e",
+  "active": "8cba5617c17d8150",
   "lastOpenFiles": [
-    "Spaces/Journal/Garmin Race Predictor Journal.md",
-    "5 bucket list đáng làm nhất hiện tại.md",
-    "Luyện phim trên studyphim.vn.md",
-    "Zet/Concept/studyphim.vn.md",
-    "Spaces/Daily/2022-11-29.md",
     "Zet/Garden/How I met your mother vocabulary.md",
-    "Spaces/Daily/2022-11-28.md",
-    "Spaces/Journal/Road to HIM 2022.md",
+    "Spaces/Daily/2022-11-30.md",
     "Spaces/Journal/Những niềm vui giản dị.md",
-    "Zet/Thinking/🙂 221128233641 - Được chạy bài chạy 90Mins.md"
+    "Zet/Thinking/🙂 221130215401 - Lắp gương chiếu hậu lên xe đạp.md",
+    "How i met your mother.md",
+    "Spaces/Tasks/$ 221129 - Học tiếng Anh qua xem phim trên studyphim.vn 🔎.md",
+    "5 bucket list đáng làm nhất hiện tại.md",
+    "Spaces/Journal/Garmin Race Predictor Journal.md",
+    "Luyện phim trên studyphim.vn.md",
+    "Zet/Concept/studyphim.vn.md"
   ]
 }

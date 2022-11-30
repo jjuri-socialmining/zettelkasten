@@ -6,3 +6,4 @@ tags:
 ---
 
 ## Notes:
+[[How I met your mother vocabulary]]
