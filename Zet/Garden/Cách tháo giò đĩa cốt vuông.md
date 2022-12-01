@@ -10,9 +10,9 @@ aliases:
 publish: False
 ---
 ## Notes:
-Bài viết này dựa trên quá trình tháo lắp BB cho con [[Giant Hunter 2.0]] ngày [[2022-12-02]].
+Bài viết này dựa trên quá trình tháo lắp BB cho con [[Giant Hunter 2.0]] ngày [[2022-12-01]].
 
-[[2022-12-02|Hôm nay]], Sáng nhận cái [[Cảo giò đĩa cốt vuông]] từ [[Trịnh Phi Hùng|Hùng Trịnh]]. Tối tiến hành cảo vệ sinh cốt vuông cho con [[Giant Hunter 2.0]] cuối tuần giao cho [[Phạm Ngọc Ánh|Ánh A3]]. Con xe [[Giant Hunter 2.0]] trục giữa cốt vuông cối bi. Cấu tạo giống với hình ở dưới.
+[[2022-12-01|Hôm nay]], Sáng nhận cái [[Cảo giò đĩa cốt vuông]] từ [[Trịnh Phi Hùng|Hùng Trịnh]]. Tối tiến hành cảo vệ sinh cốt vuông cho con [[Giant Hunter 2.0]] cuối tuần giao cho [[Phạm Ngọc Ánh|Ánh A3]]. Con xe [[Giant Hunter 2.0]] trục giữa cốt vuông cối bi. Cấu tạo giống với hình ở dưới.
 
 ![[20221202012158 ~ Cranket bottom.png]]
 

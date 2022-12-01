@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zet/Garden/Cách tháo giò đĩa cốt vuông.md",
-                "mode": "preview",
+                "file": "Spaces/Daily/2022-12-01.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zet/Garden/Cách tháo giò đĩa cốt vuông.md"
+                "file": "Spaces/Daily/2022-12-01.md"
               }
             }
           },
@@ -130,7 +130,7 @@
                   "lat": 10.903169652493919,
                   "lng": 104.70340328908965
                 },
-                "query": "path:\"Zet/Garden/Cách tháo giò đĩa cốt vuông.md\"",
+                "query": "path:\"2022-12-01.md\"",
                 "chosenMapSource": 0,
                 "queryError": false,
                 "followActiveNote": true
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zet/Garden/Cách tháo giò đĩa cốt vuông.md",
+                "file": "Spaces/Daily/2022-12-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zet/Garden/Cách tháo giò đĩa cốt vuông.md",
+                "file": "Spaces/Daily/2022-12-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zet/Garden/Cách tháo giò đĩa cốt vuông.md"
+                "file": "Spaces/Daily/2022-12-01.md"
               }
             }
           },
@@ -238,7 +238,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "active": "9e2ee9f2cdc712a1",
   "lastOpenFiles": [
