@@ -7,11 +7,14 @@ tags:
   - 'permanent/concept'
 aliases:
   - cảo giò đĩa
+  - Crank extractor tool
 publish: False
 ---
 up:: [[Bike]], [[Bảo trì xe đạp]]
 
 ## Notes:
-![[20221003114527 ~ Cả giò đĩa cốt vuông.png]]
+Cảo giò đĩa cốt vuông, tiếng Anh là *crank extractor tool*
+
+![[20221003114527 ~ Cảo giò đĩa cốt vuông.png]]
 
 [[Trục giữa cốt vuông]]
