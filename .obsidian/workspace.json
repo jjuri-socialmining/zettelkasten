@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Daily/2022-12-01.md",
+                "file": "Spaces/Daily/2022-12-04.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.00418853759766
+    "width": 334.00418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "98ee6c8f963969f5",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Daily/2022-12-01.md"
+                "file": "Spaces/Daily/2022-12-04.md"
               }
             }
           },
@@ -130,7 +131,7 @@
                   "lat": 10.903169652493919,
                   "lng": 104.70340328908965
                 },
-                "query": "path:\"2022-12-01.md\"",
+                "query": "path:\"Spaces/Daily/2022-12-04.md\"",
                 "chosenMapSource": 0,
                 "queryError": false,
                 "followActiveNote": true
@@ -144,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Daily/2022-12-01.md",
+                "file": "Spaces/Daily/2022-12-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Daily/2022-12-01.md",
+                "file": "Spaces/Daily/2022-12-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Daily/2022-12-01.md"
+                "file": "Spaces/Daily/2022-12-04.md"
               }
             }
           },
@@ -243,15 +244,15 @@
   },
   "active": "9e2ee9f2cdc712a1",
   "lastOpenFiles": [
-    "Spaces/Daily/2022-12-02.md",
-    "Zet/Garden/Cách tháo giò đĩa cốt vuông.md",
-    "Zet/Images/20221202015934 ~ How to open BB.png",
-    "Zet/Concept/Trục giữa cốt vuông.md",
-    "Zet/Images/20221003114845 ~ Trục giữa cốt vuông.png",
-    "Excalidraw/Cách tháo BB trục giữa 221202013046.excalidraw.md",
-    "Zet/Concept/Cảo giò đĩa cốt vuông.md",
-    "Zet/Images/20221202012940  ~ Cấu tạo BB.png",
-    "Zet/Images/20221202011549  ~ Cấu tạo BB.png",
-    "Zet/Images/20221202011633 ~ Cấu tạo BB.png"
+    "Reference_Box/Books/@ Kristin Hannah, Sơn ca vẫn hót.md",
+    "Spaces/Daily/2022-12-04.md",
+    "Bins/Templates/Templater/templater.daily.md",
+    "Zet/Writing/Four Thousand Weeks tóm tắt.md",
+    "Reference_Box/Books/@ Oliver Burkeman, Four Thousand Weeks Time Management for Mortals.md",
+    "Spaces/Daily/2022-12-03.md",
+    "Spaces/Journal/Mang xe đạp ra Thủ Đức cho Ánh.md",
+    "Spaces/Journal/Những niềm vui giản dị.md",
+    "Spaces/Tasks/$ 221204 - Tìm những bài hát có thể dùng để thay bia rượu hát để giải sầu 🔎.md",
+    "Zet/Thinking/🙂 221204100920 - Nghĩ ra một câu nói deep về bia rượu.md"
   ]
 }

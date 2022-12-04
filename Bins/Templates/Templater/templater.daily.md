@@ -22,6 +22,8 @@ tags:
   - 'daily/private'
 gotobed:
 wakeup:
+exersice:
+reading:
 summary: TBD
 location: TBD
 ---

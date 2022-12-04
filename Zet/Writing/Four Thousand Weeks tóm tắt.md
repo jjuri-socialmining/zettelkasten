@@ -34,14 +34,23 @@ Trước thời hiện đại, người công nhân thức dậy khi mặt trờ
 ## Chapter 2: Cái bẫy của năng suất
 ## Chapter 3: Đối mặt với tài chính
 ## Chapter 4: Becoming a Better Procrastinator
+### The Art of Creative Neglect
 3 nguyên tắc của việc trì hoãn
-- Dành thời gian cho bản thân trước: Bạn có một công việc có ý nghĩa lớn đối với bạn. Bạn có thể dùng phần lớn tời gian trong ngày hoặc trong tuần để hoàn tất nó giữa rất nhiều thứ khác. Để được thấy nó hoàn tất, bạn sẽ chấp nhận bất kỳ một hậu quả nào.
-- Hạn chế số công việc đang được tiến hành
-- Limit your mid-level priorities: Tạo ra một danh sách rất ngắn những điều cần ưu tiên làm thay vì hàng mớ điều. Ví dụ bạn có 25 điều cần phải làm, bạn chọn ra 5 thứ quan trọng nhất với bạn để làm. 20 điều kia bạn vẫn giữ, nhưng chúng chỉ nên được kiểm tra lại khi bạn đã hoàn tát được 5 điều quan trong kia.
+- Dành thời gian cho bản thân trước (*pay yourself first*): Bạn có một công việc có ý nghĩa lớn đối với bạn. Bạn có thể dùng phần lớn tời gian trong ngày hoặc trong tuần để hoàn tất nó giữa rất nhiều thứ khác. Để được thấy nó hoàn tất, bạn sẽ chấp nhận bất kỳ một hậu quả nào.
+	- Trong phần này, Tác giả đưa ra ngụ ngôn về chiếc bình và những hòn sỏi, cát được cho là của [[Stephen Covey]]. Khi nhắc về ngụ ngôn ngày, người kể đã cố tình lựa chọn số lượng những hòn sỏi lớn sao cho chúng vừa với chiếc bình. Điều gì xảy ra nếu số lượng những viên sỏi lớn nhiều và không đủ đặt vào chiếc bình. Khi đó có thể xảy ra hành động đặt những hòn sỏi nhỏ/hững nhạt cát vào bình không. Và lúc đó việc này có cần thiết và ý nghĩa nữa không?
+- Hạn chế số công việc đang được tiến hành (*limit your work in progress*): Một khái niêm được tác giả lấy từ [[@ Jim Benson, Personal Kanban]]
+- Limit your mid-level priorities: Tạo ra một danh sách rất ngắn những điều cần ưu tiên làm thay vì hàng mớ điều. Ví dụ bạn có 25 điều cần phải làm, bạn chọn ra 5 thứ quan trọng nhất với bạn để làm. 20 điều kia bạn vẫn giữ, nhưng chúng chỉ nên được kiểm tra lại khi bạn đã hoàn tất được 5 điều quan trong kia.
+### Perfection and Paralysis
 
 ## Chapter 5: The Watermelon Problem
+The Watermelon Problem là một ví dụ để nói chương trình BuzzFeed trong đó 2 người phóng viên buộc 1 quả dưa hấu bằng những sợi thun. Họ buộc tới cọng 686 thì quả dưa hấu bị áp lực khiến nó vỡ nát. Và phải mất đến hơn 40phut để làm chuyện đó. Bỏ 40 phút để xem chương trình không có ý nghĩa với cuộc đời bạn. Sâu xa hơn, Watermelon Problem ám chỉ đến vấn đề sao nhãng từ các thông tin/thông báo,... từ các trang mạng xã hội khiên bạn uổng phí thời gian.
+
 ## Chapter 6: The Intimate Interrupter
+## We Never Really Have Time
+
 ## Chapter 8: You Are Here
 ## Chapter 9: Rediscovering Rest
+Tại sao khi chúng ta giải trí thì chúng ta cảm thấy thời gian đó là lãng phí.
+
 ## Chapter 10: The Impatience Spiral
 ## Chapter 12: The Loneliness of the Digital Nomad

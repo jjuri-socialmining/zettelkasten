@@ -87,3 +87,8 @@ permanent -> evergreen -> think
 
 ### [[2022-11-30]]
 [[🙂 221130215401 - Lắp gương chiếu hậu lên xe đạp]]
+
+### [[2022-12-03]]
+[[🙂 221204082152 - Đạp xe chung với đứa bạn loanh quanh Sài Gòn]]
+[[🙂 221204082651 - Tự thưởng cho mình giấc ngủ sớm sau một ngày dài mệt mỏi]]
+[[🙂 221204100920 - Nghĩ ra một câu nói deep về bia rượu]]
