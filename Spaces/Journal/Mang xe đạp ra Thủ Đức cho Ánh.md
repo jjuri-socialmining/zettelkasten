@@ -5,6 +5,9 @@ created: 14-Nov-2022
 tags:
   - 'created/2022/Nov/14'
   - 'daily/journal'
+aliases:
+  - Ánh lấy xe đạp Giant
+locations: [10.77974385,106.69901186265822]
 ---
 ## Notes:
 

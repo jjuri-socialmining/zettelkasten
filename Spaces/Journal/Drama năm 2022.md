@@ -9,3 +9,5 @@ tags:
 # Drama năm 2022
 
 ## Notes:
+
+- [[Trúc gạt mình mượn tiền]]

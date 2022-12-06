@@ -68,4 +68,10 @@ Geaton và Isabelle tiếp tục nhập vào đám đông.
 - Quân Đức quyết định đóng quân tại ngôi làng của Vianne, và họ muốn chưng dựng ngôi nhà để đóng quân.
 - Isabella phản kháng một cách gay gắt. Cô còn cắt phăng mái tóc của mình chỉ vì viên đại úy Đức khen cô có mái tóc đẹp
 
+%%[[2022-12-07]]%%
 9. 
+- Antonie cưới Vianne sau khi Vianne đã mang thai
+- Cuộc trò chuyện giữa Đại úy Beck và Vianne trong một bữa tối
+> [!Quote]  Giữa hai chị em vẫn luôn tồn tại một khác biệt cơ bản. Vianne là người theo khuôn phép, còn Isabelle nổi loạn. Ngay cả hồi còn bé, lúc gặp chuyện buồn, cách bộc lộ cảm xúc của hai người cũng khác nhau. Vianne rơi vào im lặng sau khi mẹ mất, cố làm ra vẻ như không bị tổn thương khi bị cha bỏ rơi, trong khi Isabelle đùng đùng giận dỗi, bỏ nhà đi và đòi được chú ý.
+
+10. 

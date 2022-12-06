@@ -583,6 +583,20 @@
           "end": null,
           "description": "",
           "auto": true
+        },
+        {
+          "id": "ID_f88b58aae878",
+          "name": "Birthday of Thanh Trúc",
+          "note": "Zet/People/Thanh Trúc.md",
+          "date": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "end": null,
+          "category": "ID_8bd96a6b1808",
+          "description": "",
+          "auto": true
         }
       ],
       "id": "ID_1b9ab90b1b99",

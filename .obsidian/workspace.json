@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Daily/2022-12-05.md",
+                "file": "Reference_Box/Books/@ Kristin Hannah, Sơn ca vẫn hót.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "The real problem",
+                "query": "royal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Daily/2022-12-05.md"
+                "file": "Reference_Box/Books/@ Kristin Hannah, Sơn ca vẫn hót.md"
               }
             }
           },
@@ -130,9 +130,9 @@
                   "lat": 10.903169652493919,
                   "lng": 104.70340328908965
                 },
-                "query": "path:\"Spaces/Daily/2022-12-05.md\"",
+                "query": "path:\"Reference_Box/Books/@ Kristin Hannah, Sơn ca vẫn hót.md\"",
                 "chosenMapSource": 0,
-                "queryError": false,
+                "queryError": true,
                 "followActiveNote": true
               },
               "pinned": true
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Daily/2022-12-05.md",
+                "file": "Reference_Box/Books/@ Kristin Hannah, Sơn ca vẫn hót.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Daily/2022-12-05.md",
+                "file": "Reference_Box/Books/@ Kristin Hannah, Sơn ca vẫn hót.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Daily/2022-12-05.md"
+                "file": "Reference_Box/Books/@ Kristin Hannah, Sơn ca vẫn hót.md"
               }
             }
           },
@@ -242,15 +242,15 @@
   },
   "active": "9e2ee9f2cdc712a1",
   "lastOpenFiles": [
-    "Reference_Box/Books/@ Kristin Hannah, Sơn ca vẫn hót.md",
-    "Spaces/Daily/2022-12-05.md",
+    "Spaces/Daily/2022-12-06.md",
     "Spaces/Daily/2022-12-04.md",
-    "Bins/Templates/Templater/templater.daily.md",
-    "Zet/Writing/Four Thousand Weeks tóm tắt.md",
-    "Reference_Box/Books/@ Oliver Burkeman, Four Thousand Weeks Time Management for Mortals.md",
+    "Spaces/Journal/Marvell Events tracking.md",
+    "Zet/Concept/Marvell.md",
+    "Spaces/Daily/2022-09-28.md",
+    "Spaces/Journal/Tham gia Marvell Global 5K tại Celadon.md",
+    "Spaces/Journal/Chị Diệp quyết định quay về nhà sau 9 tháng.md",
     "Spaces/Daily/2022-12-03.md",
-    "Spaces/Journal/Mang xe đạp ra Thủ Đức cho Ánh.md",
-    "Spaces/Journal/Những niềm vui giản dị.md",
-    "Spaces/Tasks/$ 221204 - Tìm những bài hát có thể dùng để thay bia rượu hát để giải sầu 🔎.md"
+    "Spaces/Daily/2022-12-02.md",
+    "Spaces/Daily/2022-12-01.md"
   ]
 }
