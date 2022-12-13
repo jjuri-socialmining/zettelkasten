@@ -34,7 +34,6 @@ up:: [[Daily notes]]
 ## Notes:
 - [[5 bucket list đáng làm nhất hiện tại]]
 - Điều gì làm mình vui trong ngày? -> [[Những niềm vui giản dị]]
-- Cập nhật running log [[Road to HIM 2022]]
 
 <% tp.file.cursor() %>
 

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f17af389dc6cdf57",
+        "id": "65f6f89c0418f69e",
         "type": "tabs",
         "children": [
           {
-            "id": "9e2ee9f2cdc712a1",
+            "id": "72321c00a2753a3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference_Box/Books/@ Kristin Hannah, Sơn ca vẫn hót.md",
+                "file": "Spaces/Journal/Tech 2022 HM.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference_Box/Books/@ Kristin Hannah, Sơn ca vẫn hót.md"
+                "file": "Spaces/Journal/Tech 2022 HM.md"
               }
             }
           },
@@ -130,9 +130,9 @@
                   "lat": 10.903169652493919,
                   "lng": 104.70340328908965
                 },
-                "query": "path:\"Reference_Box/Books/@ Kristin Hannah, Sơn ca vẫn hót.md\"",
+                "query": "path:\"Spaces/Journal/Tech 2022 HM.md\"",
                 "chosenMapSource": 0,
-                "queryError": true,
+                "queryError": false,
                 "followActiveNote": true
               },
               "pinned": true
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference_Box/Books/@ Kristin Hannah, Sơn ca vẫn hót.md",
+                "file": "Spaces/Journal/Tech 2022 HM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference_Box/Books/@ Kristin Hannah, Sơn ca vẫn hót.md",
+                "file": "Spaces/Journal/Tech 2022 HM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference_Box/Books/@ Kristin Hannah, Sơn ca vẫn hót.md"
+                "file": "Spaces/Journal/Tech 2022 HM.md"
               }
             }
           },
@@ -234,23 +234,23 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 552.5
   },
-  "active": "9e2ee9f2cdc712a1",
+  "active": "72321c00a2753a3e",
   "lastOpenFiles": [
-    "Spaces/Daily/2022-12-06.md",
-    "Spaces/Daily/2022-12-04.md",
-    "Spaces/Journal/Marvell Events tracking.md",
-    "Zet/Concept/Marvell.md",
-    "Spaces/Daily/2022-09-28.md",
-    "Spaces/Journal/Tham gia Marvell Global 5K tại Celadon.md",
-    "Spaces/Journal/Chị Diệp quyết định quay về nhà sau 9 tháng.md",
-    "Spaces/Daily/2022-12-03.md",
-    "Spaces/Daily/2022-12-02.md",
-    "Spaces/Daily/2022-12-01.md"
+    "Spaces/Journal/Running PR tracking.md",
+    "Spaces/Journal/Tech 2022 HM.md",
+    "Spaces/Daily/2022-12-13.md",
+    "Spaces/Journal/Những niềm vui giản dị.md",
+    "Zet/Thinking/🙂 221213234640 - Tâm sự với thằng em T1 Engineer mới được adjust lương.md",
+    "Zet/Images/20221213234134 ~ Tech2022 Split.png",
+    "Zet/Images/20221213234221 ~ Tech 2022 Certificate.png",
+    "Bins/Templates/Templater/templater.daily.md",
+    "Spaces/Journal/Road to HIM 2022.md",
+    "Reference_Box/Websites/@ youtube, Neuroscientists - You Will Never Lack Willpower Again.md"
   ]
 }

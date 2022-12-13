@@ -74,4 +74,17 @@ Geaton và Isabelle tiếp tục nhập vào đám đông.
 - Cuộc trò chuyện giữa Đại úy Beck và Vianne trong một bữa tối
 > [!Quote]  Giữa hai chị em vẫn luôn tồn tại một khác biệt cơ bản. Vianne là người theo khuôn phép, còn Isabelle nổi loạn. Ngay cả hồi còn bé, lúc gặp chuyện buồn, cách bộc lộ cảm xúc của hai người cũng khác nhau. Vianne rơi vào im lặng sau khi mẹ mất, cố làm ra vẻ như không bị tổn thương khi bị cha bỏ rơi, trong khi Isabelle đùng đùng giận dỗi, bỏ nhà đi và đòi được chú ý.
 
+%%[[2022-12-08]]%%
 10. 
+Isabelle nhặt được phấn trong lúc đi mua đồ, cô quyết định vẽ chữ V lên biển hiệu của bọn Đức và được những người Cộng Sản mục kích được và đề nghị cô làm nhiệm vụ phát truyền đơn.
+
+%%[[2022-12-10]]%%
+11. 
+
+
+%%[[2022-12-10]]%%
+
+13. 
+Isabelle được phân công lên Paris làm nhiệm vụ lên. Cô đã nói dối Đại úy Beck rằng ba cô đang bị bệnh đễ được Beck cấp giấy thông hành.
+
+14. Ngày 27 tháng Tư năm 1995 Duyên hải Oregon

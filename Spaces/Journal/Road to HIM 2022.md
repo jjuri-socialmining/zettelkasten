@@ -73,6 +73,9 @@ Hôm trước thấy [[Công Sơn PTR|CC]] không tập được nữa, mình ch
 - [[Garmin Race Predictor Journal]]
 - Plan cuối tuần ra Sala test tốc độ HM cho race [[Tech 2022 HM]] diễn ra cuối tuần sau
 
+### [[2022-12-11]]
+Kết thúc với ngày chạy [[Tech 2022 HM]].
+
 ### Ref:
 
 ![[20220920235505 ~ Marathon plan 66km 18w.png]]

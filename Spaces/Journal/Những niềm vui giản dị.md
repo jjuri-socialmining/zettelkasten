@@ -95,3 +95,6 @@ permanent -> evergreen -> think
 
 ### [[2022-12-06]]
 - [[🙂 221206225622 - Mặc áo ba lỗ chạy bộ mồ hôi rã rượi]]
+
+### [[2022-12-13]]
+- [[🙂 221213234640 - Tâm sự với thằng em T1 Engineer mới được adjust lương]]

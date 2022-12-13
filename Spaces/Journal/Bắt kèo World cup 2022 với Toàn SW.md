@@ -27,3 +27,6 @@ Mình nằm kèo dưới Nhật bản và Hàn Quốc: 1 thắng 1 thua.
 - TBN chấp Maroc 1 trái: bắt TBN
 - BDN chấp Thụy Sĩ 0.5 trái: bắt Thụy Sĩ
 
+### [[2022-12-09]]
+Mới ra kèo ai thua cả 4 trận vòng tứ kết thì thua 1 chầu lẩu
+- Mình bắt kèo trên Brazil, và Croatia cầm hòa. Rồi loại luôn ở chấm luân lưu. Thủ môn đẩy ra được 1 quả và bên Brazil đá trúng cột dọc 1 quả.
