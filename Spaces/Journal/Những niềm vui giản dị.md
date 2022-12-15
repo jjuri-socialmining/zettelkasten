@@ -98,3 +98,7 @@ permanent -> evergreen -> think
 
 ### [[2022-12-13]]
 - [[🙂 221213234640 - Tâm sự với thằng em T1 Engineer mới được adjust lương]]
+
+### [[2022-12-15]]
+- [[🙂 221215220904 - Có những cuộc trò chuyện thoải mái về lương và công ty với thằng em trong công ty]]
+- [[🙂 221215223615 - Manager team của Duy lùa gà mà không qua mắt mấy thằng đệ]]

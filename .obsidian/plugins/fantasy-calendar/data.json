@@ -597,6 +597,33 @@
           "category": "ID_8bd96a6b1808",
           "description": "",
           "auto": true
+        },
+        {
+          "id": "ID_0bdac9b93abb",
+          "name": "Đám cưới Tuyên Đỗ",
+          "note": "Spaces/Journal/Đám cưới Tuyên Đỗ - 2023-01-07.md",
+          "date": {
+            "year": 2023,
+            "month": 0,
+            "day": 7
+          },
+          "end": null,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_09c8188bfaeb",
+          "name": "Birthday of Toàn SW",
+          "note": "Zet/People/Toàn SW.md",
+          "date": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "end": null,
+          "category": "ID_8bd96a6b1808",
+          "description": "",
+          "auto": true
         }
       ],
       "id": "ID_1b9ab90b1b99",

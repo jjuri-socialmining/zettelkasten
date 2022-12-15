@@ -26,3 +26,9 @@ Những điều thú vị về Marvell
 - Stock...
 
 - Sự cố về thuế 2022, Marvell thuê một bên thứ 3 là TMF để giải quyết thuế cho nhân viên, mà dịp quyết toán thuế năm 2022 cứ như là Marvell mua thêm việc về cho nhân viên từ [[TMF]]. Bị TMF yêu cầu đủ thứ nhưng cuối cùng vẫn không nhận được tiền thuế từ năm 2021.
+
+- ![[221215223735 - Toàn bộ Level T1 Engineer của Marvell VN được tăng 10% lương#Notes:]], liên quan đến sự kiện này, có hai thứ vui vui:
+	- [[🙂 221213234640 - Tâm sự với thằng em T1 Engineer mới được adjust lương]]
+	- [[🙂 221215223615 - Manager team của Duy lùa gà mà không qua mắt mấy thằng đệ]]
+
+- [[Level nhân viên trong Marvell]]

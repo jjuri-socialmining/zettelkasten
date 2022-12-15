@@ -30,3 +30,12 @@ Mình nằm kèo dưới Nhật bản và Hàn Quốc: 1 thắng 1 thua.
 ### [[2022-12-09]]
 Mới ra kèo ai thua cả 4 trận vòng tứ kết thì thua 1 chầu lẩu
 - Mình bắt kèo trên Brazil, và Croatia cầm hòa. Rồi loại luôn ở chấm luân lưu. Thủ môn đẩy ra được 1 quả và bên Brazil đá trúng cột dọc 1 quả.
+
+Mình thắng 3 trận, Toàn thua 1 trận, tổng cộng mình thắng 1.5 kèo thui
+
+### [[2022-12-14]]
+Toàn thắng cả hai trận bán kết, kèo trên hết, hai đứa giao ước bắt thì chấp 0.5 trái. Thế là cả 2 trận kèo trên thắng 3-0, 2-0. chán thiệt
+
+### [[2022-12-15]]
+Kèo Chung kết đồng kèo lẩu bắt đội vô địch. Kéo được [[anh Thắng SW]] với thằng cùng bắt. Mình với anh Thắng bắt Pháp.
+

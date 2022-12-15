@@ -8,8 +8,6 @@ tags:
   - 'permanent/fact'
 publish: False
 ---
-# Phú Thọ Sub4 Marathon Challenge
-
 ## Notes:
 
 123Go [123Go | Results](https://livescore.123go.vn/2021-ptrsub4marathonchallengev3)
@@ -22,6 +20,5 @@ Ngồi nhà ngóng, nghe nói chết máy quá chừng, chị Kha Ly nhất nữ
 ![[20211212224038.png]]
 
 Thái Hòa Nhất 10K
-## Ideas & thoughts:
 
 
