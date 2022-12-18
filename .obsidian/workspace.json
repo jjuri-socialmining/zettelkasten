@@ -8,26 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6897d70e68b1a0b",
+            "id": "eb9cdfabd045b273",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Daily/2022-12-15.md",
+                "file": "Spaces/Daily/2022-12-18.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "eb9cdfabd045b273",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Toàn SW.md",
-                "staged": false
               }
             }
           }
@@ -105,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Daily/2022-12-15.md"
+                "file": "Spaces/Daily/2022-12-18.md"
               }
             }
           },
@@ -141,7 +130,7 @@
                   "lat": 10.903169652493919,
                   "lng": 104.70340328908965
                 },
-                "query": "path:\"Spaces/Daily/2022-12-15.md\"",
+                "query": "path:\"Spaces/Daily/2022-12-18.md\"",
                 "chosenMapSource": 0,
                 "queryError": false,
                 "followActiveNote": true
@@ -155,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Daily/2022-12-15.md",
+                "file": "Spaces/Daily/2022-12-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Daily/2022-12-15.md",
+                "file": "Spaces/Daily/2022-12-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Daily/2022-12-15.md"
+                "file": "Spaces/Daily/2022-12-18.md"
               }
             }
           },
@@ -251,17 +240,17 @@
     "direction": "horizontal",
     "width": 552.5
   },
-  "active": "d6897d70e68b1a0b",
+  "active": "eb9cdfabd045b273",
   "lastOpenFiles": [
-    "Global English Course.md",
-    "Spaces/Journal/Garmin Race Predictor Journal.md",
-    "Garmin Race Predictor.md",
+    "Reference_Box/Books/@ Kristin Hannah, Sơn ca vẫn hót.md",
+    "Zet/Writing/Tóm tắt sách Sơn ca vẫn hót.md",
+    "Spaces/Daily/2022-12-18.md",
     "Reference_Box/Films/@ How i met your mother.md",
-    "index.md",
-    "Spaces/Daily/2022-12-15.md",
-    "Spaces/Journal/221215230820 - Nguyễn Dũng tạo group ThaiUTMB để chuẩn bị cho năm sau.md",
-    "Zet/People/Toàn SW.md",
-    "Zet/Thinking/🙂 221215220904 - Có những cuộc trò chuyện thoải mái về lương và công ty với thằng em trong công ty.md",
-    "Spaces/Journal/Những niềm vui giản dị.md"
+    "Reference_Box/Quotes/💬221218195620.md",
+    "Zet/Sách đã đọc.md",
+    "Reference_Box/Books/@ Jake Knapp & John Zeratsky, Make Time.md",
+    "Spaces/Journal/Road to HIM 2022.md",
+    "Spaces/Journal/Tech 2022 HM.md",
+    "Spaces/Daily/2022-12-17.md"
   ]
 }

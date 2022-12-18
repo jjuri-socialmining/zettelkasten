@@ -46,4 +46,7 @@ publish: False
 - [[@ Anne Frank, Nhật ký Anne Frank]]
 - [[@ E.B. White, Charlotte's Web]]
 - [[@ Richard Adams, Đồi thỏ]]
+- [[@ David Eagleman, Não bộ kể gì về bạn|Não bộ kể gì về bạn]]
+- [[@ Jake Knapp & John Zeratsky, Make Time]]
+- [[@ Kristin Hannah, Sơn ca vẫn hót|Sơn ca vẫn hót]]
 

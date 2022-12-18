@@ -15,76 +15,35 @@ publish: False
 
 
 ## Reading notes:
+[[Tóm tắt sách Sơn ca vẫn hót]]
 
-%%[[2022-12-04]]%%
+## Nhận xét:
+Các nhân vật chính: Isabella, Vianne, Geaton, Sophie, Beck
+Câu chuyện lấy bối cảnh nước Pháp thời thế chiến 2, khi quân Đức Quốc xã đem quân xâm chiếm lãnh thổ.
+Nhân vật chính là 2 chị em Vianne và Isabella. Hai cô gái được khắc họa với những tính cách đối lập. Đều thiếu vắng tính thương của gia đinh, sau khi mẹ mất, người cha cũng bỏ mặc hai cô.
 
-1. 
-- Người phụ nữ mới mất chồng
-- Có đứa con là bác sĩ
-- Bà lục trong cái rương trên mái nhà một thẻ căn cước của một phụ nữ có tên Juliette Gervaise
+Người chị chọn cách chấp nhận. Cô lập gia đình với Atonie và sinh ra một đứa con gái tên là Sophie. Cô em lúc đó 19 tuổi, bướng bỉnh, mạnh mẽ và cá tính.
 
-2. Tháng Tám năm 1939
-- Hồi tưởng về quá khứ 
-- Antoine Mauriac và Vianne là 2 vợ chồng
-- Đứa con gái tên là Sophie, Isabelle Rossignol là em gái của Vianne
-- Người chồng bị tổng động viên để phục vụ quân đội Pháp
+Khi quân Đức phát động chiến tranh, Antonie phải lên đường nhập ngũ. Isabella nung nấu một ý định anh hùng, phải làm gì giúp ích cho cuộc chiến này chứ không phải phí công để học trở thành một quý cô. Chính vì điều đó, cố bị nhà trường gửi trả về nhà người cha. Người cha nhất quyết không muốn Isabella sống với mình, ông bắt cô phải chuyển đến sống với chị mình ở vùng quê. Đúng vào thời gian đó, quân Đức đổ quân và Pari, mọi phương tiện đi lại bị tê liệt, Isabella phải đi bộ di tản cùng đoàn người từ Pari. Và trong cuộc di tản này, cô đã gặp được Geaton. Geaton là một tù nhân người Pháp, được thả ra ngay trước khi quân Đức đổ bộ. Mặc dù là tù nhân, nhưng anh là một người lương thiện, có một lý tưởng trước cuộc chiến sắp tới. Và hai tâm hồn đồng điệu gặp nhau. Họ hứa hẹn cùng nhau sẽ tham gia chiến đấu ngay sau khi đến thăm người chị Vianne. Tuy  nhiên, Geaton đã bỏ lại Isabella phía sau và lên đường một mình khi họ vừa đến nhà Vianne. Anh cho rằng Isabella còn quá bé để đi theo con đường này.
 
-3. Chia tay
-- Và tất nhiên cả hai người chia tay quyến luyến
+Mặc dù thế, Isabella vãn không bỏ cuộc
+Khi Quân Đức đã thắng thế ở Pháp, chúng thiết lập đồn trú ở nơi đây, và làng của Vianne ở một vị trí thuận tiện đi lại, quân Đức đã đóng quân ở đây. Và nhà VIanne được chọn là nơi trú ngụ của một sĩ quan Đức - Đại úy Beck. Beck là một người đàn ông có chuẩn mực, có trách nhiệm với quốc gia nhưng vẫn giữ tình người. Beck luôn cư xử đúng mực khi trú tạm nhà Vianne.
+Trong thời gian này, Trong một lần được người chị giao đi mua nhu yếu phẩm, Isabella đã làm quen với những người cộng sản và gia nhập tổ chức. Ban đầu cô được giao đi rải truyền đơn, và cô đều hoàn thành nhiệm vụ. Trong một lần công tác, những người cộng sản cần một nơi trú ẩn ở Pari, và họ yêu cầu cô đến nhà cha mình nhờ giúp đỡ. Cô đành quay lại Pari và vàn xin người cha cho ở lại. Cũng chính lần này, cô đã bắt đầu một công việc làm nên tên tuổi của cô: cứu những người phi công và đưa họ thoát khỏi Pari trên con đường Sơn Ca.
 
-4. Tháng Sáu năm 1940
-- Isabelle 19 tuổi ngỗ nghịch, bướng bỉnh bị đuổi khỏi trường học. Và bị gửi về cho người cha. Isabelle là một người con gái mạnh mẽ, luôn chứng tỏ mình không phải là hạng yếu đuối, vô dụng.
-- Người cha xung khắc với hai đứa con gái từ nhỏ
-- Christophe bạn trai của Isabelle
-- Quân Đức tiến vào Paris
+Trong khi đó, Vianne nhận nuôi Ari, một bé  trai Do Thái, con của Rachel, bạn thân Vianne. Rachel bị trục xuất khỏi Pháp vì cô là người Do Thái. Do đứa con là người được sinh ra tại pháp nên nó không có trong danh sách trục xuất, nhưng sớm muộn cũng sẽ tới lượt vì nó cũng là người Do Thái. Và Beck đã giúp Vianne có một giấy khai sinh cho thằng bé để tránh việc nó bị trục xuất sau này.
 
-%%[[2022-12-05]]%%
+Trong một lần hoạt động giải cứu một phi công rớt gần khu của Vianne, Isabella đã đưa người phi công đến trú ẩn ở căn hầm trong nhà kho sau nhà của Vianne. Do để thoát viên phi công, nhóm của Beck bị cấp trên khiển trách và anh phải mọi cách tìm được tên phi công đó. Anh lùng sục khắp mọi ngõ ngách trong vùng mà không tìm thấy. Buổi tối, khi quay về nhà Vianne trong một tâm trạng tức giận, anh nhận ra còn một nơi chưa khám xét, đó chính là nhà của Vianne. trước đó, Vianne cũng đã phát hiện ra sự hiện diện của Isabella và viên phi công ở căn hầm trong nhà kho và yêu cầu Isabella rời đi trong đêm. Tuy nhiên, trước khi điều đó xảy ra, Beck cũng đã phát hiện căn hầm. Ngay khi Beck mở nắp hầm hai tiếng súng nổ một trúng Beck và một trúng Isabella. Trong tình thế cấp bách liên lụy đến mạng sống của mình và hai đứa con và cả đứa em gái. Isabella cũng đã cầm chiếc xẻng từ trước, giáng xuống đầu Beck một cú chí mạng. Isabella bị thương và được hộ tống trong một quan tài đi ra vùng tự do. Viên phi công cũng đã không qua khỏi. Xác của Beck và viên phi công được những người bạn của Isabella chôn. Chiếc mô tô của Beck bị phá hủy thành từng mảnh để phi tang, tránh sự nghi ngờ liên lụy Vianne. Nhờ vậy, mặc dù cũng bị tra hỏi nhưng cô cũng thoát được khỏi sự nghi ngờ của bọn Đức.
 
-5. 
-- Người cha thu xếp cho Isabelle đi qua nhà người chị là Vianne
-	- Trên chuyến đi, nàng mang theo 2 quyển sách [[Bà Bovary]] và [[Cuốn theo chiều gió]]
-> [!Quote] Là một cô gái, nàng đã nghiền ngẫm các bản đồ vùng này với mục tiêu quay trở về Paris. Nàng thuộc vùng đất này, nếu có thể bình tĩnh suy nghĩ.
-- Cô tách mình ra khỏi đám đông và đi vào rừng
-- Trong rừng, cô gặp một chàng trai đang ngồi nướng thịt và mời cô cùng ăn.
-- Anh chàng này tên Gaëtan Dubois
-- Rossignol là tên họ của Isabelle và Vianne, mang nghĩa là chim sơn ca
-> [!Quote] Mẹ vẫn hay gọi chị em nàng là những con chim sơn ca khi hôn chúc hai đứa ngủ ngon. Đó là một trong những ký ức ít ỏi về bà mà Isabelle còn nhớ được.
-- Gaetan là một tù nhân ở Paris, và được thả ra để chiến đấu chống quân Đức. Geaton rủ Isabelle đi chiến đấu sau khi thăm mẹ mình và chị của Isabelle
+Sau khi Beck chết, một viên Thiếu Tá chọn nhà Vianne là nơi trú ngụ. Đó cũng là người đã phỏng vấn Vianne về cái chết của Beck. Trái với Beck, tên thiếu tá này là một người xấu xa không có tình người.
+Ngay trước khi Pháp được giải phóng, hắn đã cưỡng ép Vianne để đổi lấy sự an toàn cho Ari. Và Vianne đã phải cam chịu để bảo vệ 2 đứa con mình
 
-6. 
-Geaton và Isabelle tiếp tục nhập vào đám đông.
+Isabella bị bắt, người cha đến gặp Vianne từ biệt trước khi đi cứu Isabella. Isabella bị giải đi trại tập trung
 
-7. 
-- Rachel bạn/hàng xóm của Vianne, có đứa con gái là Sarah, là bạn của Sophie. 
-- Isabella và Geaton đến được nhà của Vianne, nhưng không may, họ đến cùng với một đám đông đang đói khát và cuồng nộ có thể làm mọi việc để tồn tại.  Vianne ôm đứa con và khóa chặt cửa và sẵn sàng tự về để bảo vệ đứa con của mình. Cô không hề biết rằng bên ngoài cũng có cả em gái mình.
-- Sau khi đám đông rời đi, Isabelle và Geaton kiệt sức nằm lại khu vườn. Và họ trao nhau những nụ hôn như những sự thỏa thuận cho lời hứa sẽ chiến đấu cùng nhau.
-- Khi cảm thấy mọi sự đã yên ổn trở lại, Vianne nhận ra em mình đang nằm ngoài sân, cô dìu người em vào tắm rửa săn sóc, lúc này Geaton không có mặt ở đó.
-- Geaton ra đi và để lại cho cô 1 mảnh giấy: *Cô chưa sẵn sàng.*
-- Isabelle cũng xung khắc với người chị, có lẽ chính vì điều này, Isabelle luôn tỏ ra bướng bỉnh, mạnh mẽ và tự lập
+Antonie sống trờ về, Ngay trước ngày Antonie về đến nhà, Vianne biết mình có thai. Và cô không muốn gây thêm đau khổ cho chồng, chỉ một mình cô gánh chịu. Cô đã làm tình với Antonie ngay trong đêm đó và sau đó nói rằng cô đã có thai, và cái thai đó là của chồng cô.
 
-8. 
+Sau đó, Isabella còn sống và trở về nhà, tuy nhiên cố đã kiệt sức và chết không lâu sau đó dưới sự chứng kiến của những người thân yêu, trong đó có Geaton. Ari sau đó cũng bị những người Do Thái tìm đến và đem đi để sống chung với cộng đồng những người Do Thái.
 
-> [!Quote]  Không lẽ nàng phải trải qua cuộc chiến tranh trong ngôi nhà này như một đứa con gái vô dụng, chỉ biết giặt giũ, xếp hàng chờ thực phẩm và quét nhà? Không lẽ nàng phải đứng nhìn quân thù lấy đi mọi thứ của nước Pháp?
-- Quân Đức quyết định đóng quân tại ngôi làng của Vianne, và họ muốn chưng dựng ngôi nhà để đóng quân.
-- Isabella phản kháng một cách gay gắt. Cô còn cắt phăng mái tóc của mình chỉ vì viên đại úy Đức khen cô có mái tóc đẹp
-
-%%[[2022-12-07]]%%
-9. 
-- Antonie cưới Vianne sau khi Vianne đã mang thai
-- Cuộc trò chuyện giữa Đại úy Beck và Vianne trong một bữa tối
-> [!Quote]  Giữa hai chị em vẫn luôn tồn tại một khác biệt cơ bản. Vianne là người theo khuôn phép, còn Isabelle nổi loạn. Ngay cả hồi còn bé, lúc gặp chuyện buồn, cách bộc lộ cảm xúc của hai người cũng khác nhau. Vianne rơi vào im lặng sau khi mẹ mất, cố làm ra vẻ như không bị tổn thương khi bị cha bỏ rơi, trong khi Isabelle đùng đùng giận dỗi, bỏ nhà đi và đòi được chú ý.
-
-%%[[2022-12-08]]%%
-10. 
-Isabelle nhặt được phấn trong lúc đi mua đồ, cô quyết định vẽ chữ V lên biển hiệu của bọn Đức và được những người Cộng Sản mục kích được và đề nghị cô làm nhiệm vụ phát truyền đơn.
-
-%%[[2022-12-10]]%%
-11. 
+#todo 
 
 
-%%[[2022-12-10]]%%
 
-13. 
-Isabelle được phân công lên Paris làm nhiệm vụ lên. Cô đã nói dối Đại úy Beck rằng ba cô đang bị bệnh đễ được Beck cấp giấy thông hành.
-
-14. Ngày 27 tháng Tư năm 1995 Duyên hải Oregon
