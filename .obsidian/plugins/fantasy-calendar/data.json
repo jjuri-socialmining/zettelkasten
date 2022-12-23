@@ -609,7 +609,8 @@
           },
           "end": null,
           "description": "",
-          "auto": true
+          "auto": true,
+          "category": "natural-events"
         },
         {
           "id": "ID_09c8188bfaeb",
@@ -624,6 +625,18 @@
           "category": "ID_8bd96a6b1808",
           "description": "",
           "auto": true
+        },
+        {
+          "name": "Đám cưới Diệp A3 - 2023-01-01",
+          "description": null,
+          "date": {
+            "day": 1,
+            "month": 0,
+            "year": 2023
+          },
+          "id": "ID_7b0b38e89819",
+          "note": "Spaces/Journal/Đám cưới Diệp A3 - 2023-01-01",
+          "category": "natural-events"
         }
       ],
       "id": "ID_1b9ab90b1b99",

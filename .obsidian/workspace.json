@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "92ecb0f9bcfbe081",
+        "id": "e189bb3cd387e9e0",
         "type": "tabs",
         "children": [
           {
-            "id": "eb9cdfabd045b273",
+            "id": "dd791eb0a3bc43a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Daily/2022-12-18.md",
+                "file": "Spaces/Journal/Đám cưới Nhơn dưới Cần Thơ.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Daily/2022-12-18.md"
+                "file": "Spaces/Journal/Đám cưới Nhơn dưới Cần Thơ.md"
               }
             }
           },
@@ -127,10 +127,10 @@
                 "name": "Default",
                 "mapZoom": 0,
                 "mapCenter": {
-                  "lat": 10.903169652493919,
-                  "lng": 104.70340328908965
+                  "lat": 10.036566932793646,
+                  "lng": 105.78970596845001
                 },
-                "query": "path:\"Spaces/Daily/2022-12-18.md\"",
+                "query": "path:\"Spaces/Journal/Đám cưới Nhơn dưới Cần Thơ.md\"",
                 "chosenMapSource": 0,
                 "queryError": false,
                 "followActiveNote": true
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Daily/2022-12-18.md",
+                "file": "Spaces/Journal/Đám cưới Nhơn dưới Cần Thơ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Daily/2022-12-18.md",
+                "file": "Spaces/Journal/Đám cưới Nhơn dưới Cần Thơ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Daily/2022-12-18.md"
+                "file": "Spaces/Journal/Đám cưới Nhơn dưới Cần Thơ.md"
               }
             }
           },
@@ -234,23 +234,39 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
     "width": 552.5
   },
-  "active": "eb9cdfabd045b273",
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-map-view:Open map view": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
+    }
+  },
+  "active": "dd791eb0a3bc43a4",
   "lastOpenFiles": [
-    "Reference_Box/Books/@ Kristin Hannah, Sơn ca vẫn hót.md",
-    "Zet/Writing/Tóm tắt sách Sơn ca vẫn hót.md",
-    "Spaces/Daily/2022-12-18.md",
-    "Reference_Box/Films/@ How i met your mother.md",
-    "Reference_Box/Quotes/💬221218195620.md",
-    "Zet/Sách đã đọc.md",
-    "Reference_Box/Books/@ Jake Knapp & John Zeratsky, Make Time.md",
-    "Spaces/Journal/Road to HIM 2022.md",
-    "Spaces/Journal/Tech 2022 HM.md",
-    "Spaces/Daily/2022-12-17.md"
+    "Spaces/Journal/Đám cưới Khương Béo - 2022-12-10.md",
+    "Spaces/Journal/Đám cưới Diệp A3 - 2023-01-01.md",
+    "Spaces/Daily/2022-12-21.md",
+    "Spaces/Daily/2022-12-22.md",
+    "Spaces/Daily/2022-12-23.md",
+    "Mahabharata MOC.canvas",
+    "Kaurava.md",
+    "Nội dung chính của Mahabharata nói về cuộc chiến Kaurava và Pandava.md",
+    "Obsidian Canvas Plugin.md",
+    "Santanu.md"
   ]
 }

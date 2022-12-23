@@ -189,7 +189,7 @@ optimize `nav`
 
 ### Feature to support
 - [ ] [[Backlink]] cho mỗi page
-- [ ] [[Backlink graph view]] cho mỗi pages, web graphics by [[Canvas]] -> [[WebGL]]
+- [ ] [[Backlink graph view]] cho mỗi pages, web graphics by [[Obsidian Canvas Plugin]] -> [[WebGL]]
 
 Cơ bản được như vầy
 ![[20210925215725.png]]

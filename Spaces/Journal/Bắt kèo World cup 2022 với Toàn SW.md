@@ -39,3 +39,5 @@ Toàn thắng cả hai trận bán kết, kèo trên hết, hai đứa giao ư�
 ### [[2022-12-15]]
 Kèo Chung kết đồng kèo lẩu bắt đội vô địch. Kéo được [[anh Thắng SW]] với thằng cùng bắt. Mình với anh Thắng bắt Pháp.
 
+### [[2022-12-22]]
+- [[Trả kèo chung kết World Cup với Toàn, Khang, Thắng]]

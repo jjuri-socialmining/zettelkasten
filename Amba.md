@@ -1,0 +1,1 @@
+Amba là chị của [[Ambika]] và [[Ambalika]]. Ba người được [[Bhishma]] cưới về cho [[Vichitravirya]]. Tuy nhiên, [[Amba]] đã yêu [[Salva]]. Salva đã giao đấu với [[Bhishma]] nhưng thua cuộc chịu để nàng đi với Bhishma. Amba dùng lý lẽ  để cầu xin Bhishma trả nàng về với Salva và ông đông ý. Trớ trêu thay, vì cảm thấy bị xỉ nhục vì bị thua Bhisma, Salva đã không cưới nàng.
