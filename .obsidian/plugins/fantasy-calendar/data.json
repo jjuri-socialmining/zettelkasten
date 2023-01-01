@@ -599,7 +599,7 @@
           "auto": true
         },
         {
-          "id": "ID_0bdac9b93abb",
+          "id": "ID_790ab95a9a98",
           "name": "Đám cưới Tuyên Đỗ",
           "note": "Spaces/Journal/Đám cưới Tuyên Đỗ - 2023-01-07.md",
           "date": {
@@ -609,8 +609,7 @@
           },
           "end": null,
           "description": "",
-          "auto": true,
-          "category": "natural-events"
+          "auto": true
         },
         {
           "id": "ID_09c8188bfaeb",
@@ -637,6 +636,20 @@
           "id": "ID_7b0b38e89819",
           "note": "Spaces/Journal/Đám cưới Diệp A3 - 2023-01-01",
           "category": "natural-events"
+        },
+        {
+          "id": "ID_db9a78c80aaa",
+          "name": "Hẹn Tuấn đi ăn tối",
+          "note": "Spaces/Journal/Hẹn Tuấn đi ăn tối.md",
+          "date": {
+            "year": 2022,
+            "month": 10,
+            "day": 16
+          },
+          "end": null,
+          "category": "natural-events",
+          "description": "",
+          "auto": true
         }
       ],
       "id": "ID_1b9ab90b1b99",

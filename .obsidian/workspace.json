@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e189bb3cd387e9e0",
+        "id": "3f55dc8ae9912e8f",
         "type": "tabs",
         "children": [
           {
-            "id": "dd791eb0a3bc43a4",
+            "id": "b5fce3d1febc903a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Journal/Đám cưới Nhơn dưới Cần Thơ.md",
+                "file": "Zet/People/Nguyễn Hiến Lê.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Journal/Đám cưới Nhơn dưới Cần Thơ.md"
+                "file": "Zet/People/Nguyễn Hiến Lê.md"
               }
             }
           },
@@ -127,10 +127,10 @@
                 "name": "Default",
                 "mapZoom": 0,
                 "mapCenter": {
-                  "lat": 10.036566932793646,
-                  "lng": 105.78970596845001
+                  "lat": 9.795677582829743,
+                  "lng": 105.46875000000001
                 },
-                "query": "path:\"Spaces/Journal/Đám cưới Nhơn dưới Cần Thơ.md\"",
+                "query": "path:\"Zet/People/Nguyễn Hiến Lê.md\"",
                 "chosenMapSource": 0,
                 "queryError": false,
                 "followActiveNote": true
@@ -139,12 +139,69 @@
             }
           },
           {
+            "id": "c1c74ad4a417422b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a67c30cd21094fb6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Zet/People/Nguyễn Hiến Lê.md"
+              }
+            }
+          },
+          {
+            "id": "9af326215f0cc47f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "976dbcb1cf9f206e",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "1235696e515f9add",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "9cc6d57d35045682",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 8
+      },
+      {
+        "id": "6a48817f4b096c02",
+        "type": "tabs",
+        "children": [
+          {
             "id": "a2b5dad9bdc849d0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Journal/Đám cưới Nhơn dưới Cần Thơ.md",
+                "file": "Zet/People/Nguyễn Hiến Lê.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,80 +218,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Journal/Đám cưới Nhơn dưới Cần Thơ.md",
+                "file": "Zet/People/Nguyễn Hiến Lê.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "c1c74ad4a417422b",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "d55b6562247d19af",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "a67c30cd21094fb6",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Spaces/Journal/Đám cưới Nhơn dưới Cần Thơ.md"
-              }
-            }
-          },
-          {
-            "id": "d749ce88fd835e09",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "f89e66f3635e6419",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "a31f736856dd8fae",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {}
-            }
-          },
-          {
-            "id": "ad913a9225abbc09",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "584821e49460f293",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
@@ -242,31 +232,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "templater-obsidian:Templater": false,
       "obsidian-map-view:Open map view": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "dd791eb0a3bc43a4",
+  "active": "b5fce3d1febc903a",
   "lastOpenFiles": [
-    "Spaces/Journal/Đám cưới Khương Béo - 2022-12-10.md",
-    "Spaces/Journal/Đám cưới Diệp A3 - 2023-01-01.md",
-    "Spaces/Daily/2022-12-21.md",
-    "Spaces/Daily/2022-12-22.md",
-    "Spaces/Daily/2022-12-23.md",
+    "Zet/Fact/230101191017 - Về cách ghi chú trong Luyện văn của NHL.md",
+    "Zet/People/Nguyễn Hiến Lê.md",
+    "Zet/Fact/230101191604 - Về phương pháp đọc được NHL giới thiệu trong Luyện Văn.md",
     "Mahabharata MOC.canvas",
     "Kaurava.md",
-    "Nội dung chính của Mahabharata nói về cuộc chiến Kaurava và Pandava.md",
-    "Obsidian Canvas Plugin.md",
-    "Santanu.md"
+    "Spaces/Daily/2022-12-23.md",
+    "Spaces/Daily/2022-12-22.md",
+    "Spaces/Daily/2022-12-21.md",
+    "Spaces/Daily/2022-12-18.md",
+    "Spaces/Daily/2023-01-01.md"
   ]
 }
