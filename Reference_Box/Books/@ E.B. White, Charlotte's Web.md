@@ -11,6 +11,9 @@ publish: True
 ---
 # Charlotte's Web
 - author: [[Elwyn Brooks White]]
+- NXB Văn Học:
+- Số trang: 227
+
 #read/2022 
 ## Nhân vật:
 - Lợn Wilbur

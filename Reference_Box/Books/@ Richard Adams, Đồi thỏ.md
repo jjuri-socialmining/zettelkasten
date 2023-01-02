@@ -7,11 +7,12 @@ tags:
 publish: True
 ---
 
-Metadata:
+- Metadata:
 	- author:: [[Richard Adams]]
 	- [[NXB Văn Học]]
 	- [[Nhã Nam]]
 	- Năm xuất bản: 2014
+ 
 tags:: #read/2022
 
 ## Nhân vật:
