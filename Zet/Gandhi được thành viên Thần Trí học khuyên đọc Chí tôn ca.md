@@ -6,7 +6,7 @@
 	- source: 
 
 ## Notes
-Những người trong hội [[Thần Trí học]] khuyến khích [[Mahatma Gandhi|Gandhi]] đọc [[Chí tôn ca]]
+Những người trong hội [[Thần Trí học]] khuyến khích [[Mahatma Gandhi|Gandhi]] đọc [[@ Chí tôn ca]]
 
 ## Questions & thoughts:
 

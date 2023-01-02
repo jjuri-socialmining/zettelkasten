@@ -637,6 +637,20 @@
           "id": "ID_7b0b38e89819",
           "note": "Spaces/Journal/Đám cưới Diệp A3 - 2023-01-01",
           "category": "natural-events"
+        },
+        {
+          "id": "ID_29486ba84819",
+          "name": "Birthday of Xuân Thu A3",
+          "note": "Zet/People/Xuân Thu A3.md",
+          "date": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "end": null,
+          "category": "ID_8bd96a6b1808",
+          "description": "",
+          "auto": true
         }
       ],
       "id": "ID_1b9ab90b1b99",

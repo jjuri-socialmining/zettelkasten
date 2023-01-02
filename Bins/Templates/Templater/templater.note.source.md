@@ -13,6 +13,9 @@
   else if (note_type == "source/article") {
     sub_dir = "/Reference_Box/Websites/"
   }
+  else if (note_type == "source/film") {
+    sub_dir = "/Reference_Box/Films/"
+  }
   else if (note_type == "source/video") {
     sub_dir = "/Reference_Box/Websites/"
   }
