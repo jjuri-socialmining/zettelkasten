@@ -10,6 +10,7 @@ aliases:
   - Ajatshatru
   - Dharmaraja
   - Dharmaputra
+  - Yudhi
 publish: False
 ---
 up:: [[People MOC]],

@@ -1,1 +1,0 @@
-Dhritarashtra sinh ra bị mù, do lúc người mẹ là [[Ambika]] quan hệ với [[Vyaxa]] nhắm mắt vì không dám nhìn mặt Vyaxa.

@@ -5,6 +5,8 @@ tags:
   - 'created/2021/Jul/04'
   - 'seed'
   - 'permanent/concept'
+aliases:
+  - Krisna
 publish: False
 ---
 # Thần Vishnu

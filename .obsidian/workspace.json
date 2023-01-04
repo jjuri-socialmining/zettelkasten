@@ -11,8 +11,13 @@
             "id": "db88028d2fe7809a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Reference_Box/Books/@ Chí tôn ca.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ],
@@ -89,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Reference_Box/Books/@ Chí tôn ca.md"
+              }
             }
           },
           {
@@ -124,9 +131,9 @@
                   "lat": 10.903169652493919,
                   "lng": 104.70340328908965
                 },
-                "query": "path:\"Zet/Concept/Pandava.md\"",
+                "query": "path:\"Reference_Box/Books/@ Chí tôn ca.md\"",
                 "chosenMapSource": 0,
-                "queryError": false,
+                "queryError": true,
                 "followActiveNote": true
               },
               "pinned": true
@@ -138,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Reference_Box/Books/@ Chí tôn ca.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,6 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Reference_Box/Books/@ Chí tôn ca.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +189,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Reference_Box/Books/@ Chí tôn ca.md"
+              }
             }
           },
           {
@@ -249,15 +260,15 @@
   },
   "active": "db88028d2fe7809a",
   "lastOpenFiles": [
-    "Zet/Concept/Pandava.md",
-    "Obsidian Canvas Plugin.md",
-    "5 bucket list đáng làm nhất hiện tại.md",
-    "Mahabharata MOC.canvas",
-    "Zet/People/Yudhishthira.md",
-    "Reference_Box/Films/Avatar 2009.md",
-    "Bins/Templates/Templater/templater.note.source.md",
+    "Zet/Fact/230104234533 - Krishna là hóa thân của thần Vishnu.md",
+    "Spaces/Daily/2023-01-04.md",
+    "Zet/Thần Vishnu.md",
     "Reference_Box/Books/@ Chí tôn ca.md",
-    "Zet/Fact/230102215234 - Madri là mẹ của Nakula và Sahadeva.md",
-    "Inbox/Kịch bản cho Video hướng dẫn sử dụng Obsidian.md"
+    "Mahabharata MOC.canvas",
+    "Zet/Concept/Krishna.md",
+    "Zet/People/Yudhishthira.md",
+    "Zet/Concept/Dhritarashtra.md",
+    "Zet/Concept/Arjuna.md",
+    "Kurukshetra.md"
   ]
 }
