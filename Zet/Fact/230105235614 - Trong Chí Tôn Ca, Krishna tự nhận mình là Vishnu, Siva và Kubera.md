@@ -11,7 +11,7 @@ publish: False
 ---
 ## Notes:
 
-Trong [[@ Chí tôn ca]], [[Krishna]] chính là đấng Chí Tôn, ông còn tự nhận mình chính là [[Thần Vishnu]], Siva, Kubera
+Trong [[@ Chí tôn ca]], [[Thần Vishnu]] chính là đấng Chí Tôn, ông còn tự nhận mình chính là [[Thần Vishnu]], Siva, Kubera
 
 source:: [[@ Chí tôn ca]], Khúc 10 
 

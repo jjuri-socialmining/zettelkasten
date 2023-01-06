@@ -14,7 +14,7 @@ publish: False
 	- category::
 
 Chí tôn ca là một phần trích đoạn trong sử thi [[@ Mahabharata]].
-Chí tôn ca là cuộc đối thoại giữa [[Krishna]] và [[Arjuna]] trước trận chiến [[Kurukshetra]]. 
+Chí tôn ca là cuộc đối thoại giữa [[Thần Vishnu]] và [[Arjuna]] trước trận chiến [[Kurukshetra]]. 
 
 [[230105235614 - Trong Chí Tôn Ca, Krishna tự nhận mình là Vishnu, Siva và Kubera]]
 

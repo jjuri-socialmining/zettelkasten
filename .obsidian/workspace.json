@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference_Box/Books/@ Chí tôn ca.md",
-                "mode": "preview",
+                "file": "Zet/Thần Vishnu.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference_Box/Books/@ Chí tôn ca.md"
+                "file": "Zet/Thần Vishnu.md"
               }
             }
           },
@@ -131,9 +131,9 @@
                   "lat": 10.903169652493919,
                   "lng": 104.70340328908965
                 },
-                "query": "path:\"Reference_Box/Books/@ Chí tôn ca.md\"",
+                "query": "path:\"Zet/Thần Vishnu.md\"",
                 "chosenMapSource": 0,
-                "queryError": true,
+                "queryError": false,
                 "followActiveNote": true
               },
               "pinned": true
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference_Box/Books/@ Chí tôn ca.md",
+                "file": "Zet/Thần Vishnu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference_Box/Books/@ Chí tôn ca.md",
+                "file": "Zet/Thần Vishnu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference_Box/Books/@ Chí tôn ca.md"
+                "file": "Zet/Thần Vishnu.md"
               }
             }
           },
@@ -260,15 +260,15 @@
   },
   "active": "b113ece49b45d376",
   "lastOpenFiles": [
-    "Zet/Fact/230105235614 - Trong Chí Tôn Ca, Krishna tự nhận mình là Vishnu, Siva và Kubera.md",
-    "Reference_Box/Books/@ Chí tôn ca.md",
     "Zet/Concept/Krishna.md",
+    "Reference_Box/Books/@ Mahabharata.md",
+    "Zet/Thần Vishnu.md",
+    "Zet/Writing/Review Mahabharata.md",
+    "Spaces/Daily/2023-01-06.md",
+    "Reference_Box/Books/@ Chí tôn ca.md",
+    "Zet/Fact/230105235614 - Trong Chí Tôn Ca, Krishna tự nhận mình là Vishnu, Siva và Kubera.md",
     "Zet/Fact/230105233910 - Theo Chí Tôn Ca, bản chất con người hợp thành bởi tám yếu tố.md",
     "Mahabharata MOC.canvas",
-    "Zet/Fact/230104234533 - Krishna là hóa thân của thần Vishnu.md",
-    "Spaces/Daily/2023-01-04.md",
-    "Zet/Thần Vishnu.md",
-    "Zet/People/Yudhishthira.md",
-    "Zet/Concept/Dhritarashtra.md"
+    "Zet/Fact/230104234533 - Krishna là hóa thân của thần Vishnu.md"
   ]
 }

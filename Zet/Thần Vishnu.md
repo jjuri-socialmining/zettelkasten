@@ -6,7 +6,9 @@ tags:
   - 'seed'
   - 'permanent/concept'
 aliases:
-  - Krisna
+  - Krishna
+  - Vasudeva
+  - Janardhana
 publish: False
 ---
 # Thần Vishnu
@@ -15,3 +17,7 @@ publish: False
 Vishnu là vị thần bảo hộ trọng [[Ấn Độ giáo]] và [[Đạo Bà La Môn]]. Ông là đấng tối cao trong [[Vishnu giáo]]. Vishnu là một trong ba vị thần [[Tam thần Ấn giáo]].
 
 ## Ideas & thoughts:
+- Krishna còn được gọi là Vasudeva, Janardhana
+
+
+*"Krishna trị vì tại Dwaraka trong ba mươi năm, từ sau cuộc chiến [[Kurukshetra]] kết thúc"*

@@ -11,7 +11,7 @@ publish: False
 ---
 ## Notes:
 
-[[Krishna]] là hóa thân của  [[Thần Vishnu]], là thượng đế và cũng chính là Đấng Chí Tôn.
+[[Thần Vishnu]] là hóa thân của  [[Thần Vishnu]], là thượng đế và cũng chính là Đấng Chí Tôn.
 
 source:: [[@ Mahabharata]] bản dịch [[Cao Huy Đỉnh]], phần lời tựa [[@ Chí tôn ca]].
 
