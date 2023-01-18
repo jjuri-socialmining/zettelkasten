@@ -39,7 +39,7 @@ up:: [[Daily notes]]
 
 ![[Tasks list]]
 
-## What I done today:
+## What I've done today:
 
 <%* if (tp.date.now("ddd") == "Sun" ) { %>
 ## Weekly review:

@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4f812d4361538122",
+        "id": "b14b06db176011c1",
         "type": "tabs",
         "children": [
           {
-            "id": "908717fd27afd195",
+            "id": "579005f39fd182a3",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Tất tần tật về ghi chú theo zettelkasten MOC.canvas",
+                "file": "Tìm hiểu cấu tạo của SSD MOC.canvas",
                 "viewState": {
-                  "x": 726.748412950224,
-                  "y": -234.62744959787662,
-                  "zoom": -1.3333333333333333,
+                  "x": 2080.8484255272983,
+                  "y": 641.2461169350473,
+                  "zoom": -2.0913212706429625,
                   "snapToGrid": false
                 }
               }
@@ -69,21 +69,21 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
+                "query": "\"What I've done today\"",
+                "matchingCase": true,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 262.5110321044922,
-    "collapsed": true
+    "width": 262.5110321044922
   },
   "right": {
     "id": "98ee6c8f963969f5",
@@ -94,12 +94,47 @@
         "type": "tabs",
         "children": [
           {
+            "id": "a1ed3599412e6ece",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Tìm hiểu cấu tạo của SSD MOC.canvas",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224425,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
             "id": "a6509e8a3f82d1e7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tất tần tật về ghi chú theo zettelkasten MOC.canvas"
+                "file": "Tìm hiểu cấu tạo của SSD MOC.canvas"
               }
             }
           },
@@ -135,7 +170,7 @@
                   "lat": 10.903169652493919,
                   "lng": 104.70340328908965
                 },
-                "query": "path:\"Tất tần tật về ghi chú theo zettelkasten MOC.canvas\"",
+                "query": "path:\"Tìm hiểu cấu tạo của SSD MOC.canvas\"",
                 "chosenMapSource": 0,
                 "queryError": false,
                 "followActiveNote": true
@@ -144,40 +179,15 @@
             }
           },
           {
-            "id": "a2b5dad9bdc849d0",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Tất tần tật về ghi chú theo zettelkasten MOC.canvas",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
             "id": "14ad75caa771663c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tất tần tật về ghi chú theo zettelkasten MOC.canvas",
+                "file": "Tìm hiểu cấu tạo của SSD MOC.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "c1c74ad4a417422b",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
             }
           },
           {
@@ -194,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tất tần tật về ghi chú theo zettelkasten MOC.canvas"
+                "file": "Tìm hiểu cấu tạo của SSD MOC.canvas"
               }
             }
           },
@@ -238,12 +248,42 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
+      },
+      {
+        "id": "7a35452591eef4c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2b5dad9bdc849d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tìm hiểu cấu tạo của SSD MOC.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "c1c74ad4a417422b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 451.5,
+    "width": 685.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -259,21 +299,21 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "908717fd27afd195",
+  "active": "579005f39fd182a3",
   "lastOpenFiles": [
-    "Zet/Fact/230101191017 - Về cách ghi chú trong Luyện văn của NHL.md",
-    "Zet/People/Nguyễn Hiến Lê.md",
-    "Spaces/Daily/2022-08-12.md",
-    "Spaces/Daily/22-08-12.md",
-    "Spaces/Daily/Daily notes.md",
-    "Spaces/Daily/2022-07-08.md",
-    "Spaces/Daily/2022-07-05.md",
-    "Zet/Concept/Note-makers.md",
     "Spaces/Daily/2023-01-18.md",
-    "Mahabharata MOC.canvas"
+    "Tất tần tật về lắp ráp máy tính.canvas",
+    "Spaces/Daily/2023-01-15.md",
+    "Bins/Templates/Templater/templater.daily.md",
+    "Tìm hiểu mainboard máy tính hiện tại MOC.canvas",
+    "Tìm hiểu cấu tạo của SSD MOC.canvas",
+    "Các loại chip nhớ NAND.md",
+    "Zet/Images/20230118212223 ~ Flash NAND chips.png",
+    "Zet/Images/20230118210927 ~ Adapter SSD M2 NVMe To PCIe 3.0x4.png",
+    "Adapter SSD M2 NVMe To PCIe 3.0x4.md"
   ]
 }

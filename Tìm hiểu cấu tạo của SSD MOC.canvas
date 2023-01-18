@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"8527b5442ce065a9","x":206,"y":-413,"width":436,"height":160,"type":"text","text":"[[Solid State Drive (SSD)|SSD]] lưu trữ dữ liệu trên chip nhớ Flash, nên dữ liệu được duy trì ở trạng thái vĩnh viễn ngay cả khi không có nguồn.\n\nKhông như HDD, dữ liệu lưu trong SDD sẽ không bị mất bởi tác động từ tính.\n"},
+		{"id":"9b0d66a85ba1de3c","x":207,"y":-163,"width":250,"height":109,"type":"text","text":"Do [[Solid State Drive (SSD)|SSD]] không có một bộ phận nào chuyển động, nên nó được gọi là thể rắn (**Solid**)"},
+		{"id":"e239b5a0f3cca132","x":207,"y":7,"width":250,"height":60,"type":"text","text":"Chip nhớ Flash NOR và bộ nhớ NAND flash"},
+		{"id":"8dda5c77599eba07","x":207,"y":124,"width":535,"height":226,"type":"text","text":"Các chuẩn SSD\n- SSD 2.5 SATA: Ổ cứng kích thước 2.5 inch. chuẩn này tương thích với các HDD trên labtop hiện nay\n- SSD mSATA sử dụng cổng mini SATA\n- SSD M2 SATA: Đây là chuẩn phổ biến nhất hiện nay, kích thước nhỏ gọn.\n- SSD M2 PCIe\n\n"},
+		{"id":"ddd00eb477f925bd","x":1008,"y":-43,"width":440,"height":376,"type":"group","label":"SSD M2 SATA"},
+		{"id":"4c0b657163b5c749","x":1028,"y":253,"width":400,"height":60,"type":"text","text":"SSD M2 SATA 2242, 2260 và 2280"},
+		{"id":"f38813c142692444","x":1028,"y":-23,"width":400,"height":267,"type":"file","file":"Zet/Images/Pasted image 20230118204949.png"},
+		{"id":"5cd5061b7986cb78","x":1028,"y":435,"width":586,"height":341,"type":"file","file":"Zet/Images/Pasted image 20230118204913.png"},
+		{"id":"8c9ccf2dd5d2d5a9","x":1028,"y":-413,"width":400,"height":289,"type":"file","file":"Zet/Images/Pasted image 20230118205242.png"},
+		{"id":"90c5479410481e54","x":-621,"y":-407,"width":658,"height":660,"type":"link","url":"https://wikimaytinh.com/o-cung-ssd-la-gi.html#:~:text=c%E1%BB%A9ng%20th%E1%BB%83%20r%E1%BA%AFn.-,C%E1%BA%A5u%20t%E1%BA%A1o%20c%E1%BB%A7a%20%E1%BB%95%20c%E1%BB%A9ng%20SSD,60%20NAND%20c%E1%BB%A7a%20h%E1%BB%87%20th%E1%BB%91ng."},
+		{"id":"6b162e6c491136dd","x":1489,"y":-53,"width":340,"height":164,"type":"text","text":"SD M2 Sata có chủ yếu 3 chuẩn: 2242, 2260 và 2280\nCác chuẩn khác nhau về chiều dài, giống nhau về chiều rộng. 22 (22mm) trong tên gọi là chiều rộng, 42/60/80 mm là chiều dài tương ứng với các chuẩn."},
+		{"id":"97cd0c241fe0282b","x":1981,"y":-704,"width":722,"height":872,"type":"link","url":"https://www.dienmayxanh.com/kinh-nghiem-hay/cac-loai-o-cung-ssd-hien-nay-tren-thi-truong-uu-nh-1210798#:~:text=SSD%20M2%20SATA%20kh%C3%B4ng%20ph%E1%BA%A3i,2242%2C%202260%20v%C3%A0%202280)."},
+		{"id":"8ba4068f53b383db","x":-786,"y":626,"width":1416,"height":853,"type":"link","url":"https://hoanghapc.vn/kinh-nghiem-nang-cap-o-cung-ssd-hdd-cho-may-tinh"},
+		{"id":"1f1a94a4d042d84c","x":37,"y":1028,"width":250,"height":60,"type":"text","text":"IOPS "},
+		{"id":"52d32adc33bd1479","x":37,"y":1028,"width":250,"height":60,"type":"text","text":"IOPS "},
+		{"id":"7cc2758bad4e3889","x":742,"y":1028,"width":432,"height":335,"type":"file","file":"Các loại chip nhớ NAND.md"},
+		{"id":"2b05ea55a401fcaf","x":1210,"y":1266,"width":400,"height":195,"type":"file","file":"Zet/Images/Pasted image 20230118212448.png"},
+		{"id":"ab9e66b412e51308","x":1213,"y":1028,"width":513,"height":195,"type":"text","text":"2D NAND (phẳng)\n3D NAND là công nghệ xếp chồng giúp tăng dung lượng lưu trữ\n\nSamsung gọi tên công nghệ này “V-NAND” (vertical NAND: xếp NAND dọc), Toshiba gọi nó là “BiCS FLASH” và hầu hết các công ty khác gọi nó là: 3D NAND."},
+		{"id":"9cf13ff4eca3441f","x":742,"y":1419,"width":410,"height":60,"type":"text","text":"Tốc độ đọc ghi dữ liệu: IOPS (Input/Output Operations Per Second)"},
+		{"id":"8a675307f9d3e7a2","x":1829,"y":313,"width":408,"height":487,"type":"file","file":"Adapter SSD M2 NVMe To PCIe 3.0x4.md"},
+		{"id":"e87f715b4d6a50c1","x":2342,"y":322,"width":408,"height":235,"type":"text","text":"SSD M2 SATA có chuẩn chân cắm giống SATA 3\nSSD M2 SATA có tốc độ giới hạn ở 6Gbps\nSSD M2 PCIe giới hạn 32Gbps\n\nVì thế, khi lắp ráp máy tính để bàn, không quan tâm đến diện tích. Ta nên sử dụng chuẩn SSD M2 PCIe, và sử dụng 1 adapter để chuyển đổi SSD M2 NVMe To PCIe 3.0x4.\n"}
+	],
+	"edges":[
+		{"id":"6fe11a58c097478b","fromNode":"90c5479410481e54","fromSide":"right","toNode":"8527b5442ce065a9","toSide":"left"},
+		{"id":"d252cb98475f0ec5","fromNode":"90c5479410481e54","fromSide":"right","toNode":"9b0d66a85ba1de3c","toSide":"left"},
+		{"id":"fa3293c6972b876b","fromNode":"8dda5c77599eba07","fromSide":"right","toNode":"ddd00eb477f925bd","toSide":"left"},
+		{"id":"0277f84455b45a09","fromNode":"8dda5c77599eba07","fromSide":"right","toNode":"5cd5061b7986cb78","toSide":"left"},
+		{"id":"ff7f78e485df0934","fromNode":"ddd00eb477f925bd","fromSide":"right","toNode":"8a675307f9d3e7a2","toSide":"left"}
+	]
+}

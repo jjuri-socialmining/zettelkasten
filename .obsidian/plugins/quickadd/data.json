@@ -19,7 +19,7 @@
       },
       "insertAfter": {
         "enabled": true,
-        "after": "## What I done today:",
+        "after": "## What I've done today:",
         "insertAtEnd": false,
         "createIfNotFound": true,
         "createIfNotFoundLocation": "bottom"
