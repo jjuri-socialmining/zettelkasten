@@ -50,6 +50,7 @@ publish: False
 - Warlock: gain **(10%) (20%)** life steal for all allies.
 - Witcher
 
+[[Autochess Spring Festival 20223]]
 
 ## Reference:
 - https://www.reddit.com/r/AutoChess/comments/e510ox/an_advanced_guide_to_fundamentals_auto_chess/

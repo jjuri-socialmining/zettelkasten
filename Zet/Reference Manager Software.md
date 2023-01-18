@@ -7,8 +7,6 @@ tags:
   - 'permanent/concept'
 publish: False
 ---
-# Reference Manager Software
-
 ## Notes:
 **Reference Manager Software** là một phần mềm, công cụ phục vụ trong việc quản lý tài liệu tham khảo ([[Reference Manager]] )
 

@@ -17,3 +17,6 @@ This creates a positive feedback loop to encourage more active, engaged thinking
 Along with note-makers just generally being more interesting people to be around, they also are able to contribute much more value to their families, communities, and society as a whole.
 
 Contrast this ideal of the note-maker with the pandemic of [[Note-takers]].
+
+## Relate
+- [[Đặt câu hỏi là cách tốt để tạo ra những ghi chú]]

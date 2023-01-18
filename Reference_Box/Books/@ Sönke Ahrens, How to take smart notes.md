@@ -5,8 +5,6 @@ tags:
   - 'created/2021/Jul/11'
   - 'source/book'
 ---
-# @ Sönke Ahrens, How to take smart notes
-
 ## Notes:
 How to take smart notes là một quyển sách nói về phương pháp [[Zettelkasten]] của [[Niklas Luhmann]].
 

@@ -9,7 +9,6 @@ aliases:
   - Ghi chú văn học
 publish: False
 ---
-# Literature Note
 
 ## Notes:
 **Literature note** (ghi chú văn bản) là ghi chú tóm tắt nội dung của văn bản cùng với trích dẫn và nguồn ([[Citation]] ). Bạn phải dùng chính ngôn ngữ và cách hiểu của mình để viết lại tóm tắt.

@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"46f753431e0c93de","x":266,"y":-279,"width":400,"height":400,"type":"file","file":"Zet/Zettelkasten.md"},
+		{"id":"96f8e12fe2e1e7ac","x":1427,"y":-169,"width":400,"height":400,"type":"file","file":"Zet/Permanent Note.md"},
+		{"id":"1e98285852465cdf","x":890,"y":-679,"width":400,"height":400,"type":"file","file":"Zet/Fleeting Note.md"},
+		{"id":"42626f2f4b6ba222","x":1427,"y":-679,"width":400,"height":400,"type":"file","file":"Zet/Literature Note.md"},
+		{"id":"1a7aaca33ca021e6","x":690,"y":-1197,"width":400,"height":400,"type":"file","file":"Zet/Reference Manager Software.md"},
+		{"id":"a04ee5b670a2e942","x":690,"y":-1657,"width":400,"height":298,"type":"file","file":"Zet/Zotero.md"},
+		{"id":"2fdb94dceef33a52","x":198,"y":-1657,"width":400,"height":400,"type":"file","file":"Zet/Obsidian.md"},
+		{"id":"7e0387a8b7001957","x":198,"y":-1197,"width":400,"height":400,"type":"file","file":"Zet/Garden/Zettelkasten Software.md"},
+		{"id":"955e438cc21172ff","x":-1412,"y":-305,"width":613,"height":426,"type":"file","file":"Zet/Fact/230101191017 - Về cách ghi chú trong Luyện văn của NHL.md"},
+		{"id":"4d8c34e4cb7fdcc6","x":266,"y":504,"width":400,"height":400,"type":"file","file":"Zet/Thinking/❕ 220227164300 - Zettelkasten Workflow.md"},
+		{"id":"30516229ce28ee11","x":1440,"y":713,"width":400,"height":412,"type":"file","file":"Zet/LYT framework.md"},
+		{"id":"0dcbef7ed5332af4","x":-1412,"y":-1544,"width":400,"height":336,"type":"file","file":"Reference_Box/Books/@ Sönke Ahrens, How to take smart notes.md"},
+		{"id":"354842f110071594","x":-734,"y":-2105,"width":550,"height":561,"type":"file","file":"Zet/People/Niklas Luhmann.md"}
+	],
+	"edges":[
+		{"id":"106d0ade859e4392","fromNode":"1e98285852465cdf","fromSide":"right","toNode":"42626f2f4b6ba222","toSide":"left"},
+		{"id":"20c7df9e6b8de9e1","fromNode":"1e98285852465cdf","fromSide":"right","toNode":"96f8e12fe2e1e7ac","toSide":"left"},
+		{"id":"8e3af93ecf503a17","fromNode":"42626f2f4b6ba222","fromSide":"bottom","toNode":"46f753431e0c93de","toSide":"right"},
+		{"id":"8d7d15fc6354c0b2","fromNode":"96f8e12fe2e1e7ac","fromSide":"bottom","toNode":"46f753431e0c93de","toSide":"right"},
+		{"id":"882f4d3de7a3c2e8","fromNode":"1a7aaca33ca021e6","fromSide":"top","toNode":"a04ee5b670a2e942","toSide":"bottom"},
+		{"id":"35f7a16d1172d4d0","fromNode":"7e0387a8b7001957","fromSide":"top","toNode":"2fdb94dceef33a52","toSide":"bottom"},
+		{"id":"9d3c43a2df9782c7","fromNode":"46f753431e0c93de","fromSide":"left","toNode":"955e438cc21172ff","toSide":"right"},
+		{"id":"04c1babc05d5fbd2","fromNode":"46f753431e0c93de","fromSide":"bottom","toNode":"4d8c34e4cb7fdcc6","toSide":"top"},
+		{"id":"902046ee9b6780ce","fromNode":"0dcbef7ed5332af4","fromSide":"right","toNode":"354842f110071594","toSide":"left"},
+		{"id":"d70defe59fb1e11e","fromNode":"0dcbef7ed5332af4","fromSide":"bottom","toNode":"46f753431e0c93de","toSide":"top"}
+	]
+}

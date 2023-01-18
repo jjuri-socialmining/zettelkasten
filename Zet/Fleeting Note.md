@@ -7,8 +7,6 @@ tags:
   - 'permanent/concept'
 publish: False
 ---
-# Fleeting Note
-
 ## Notes:
 Fleeting Note là một loại ghi chú được định nghĩa trong [[Zettelkasten]].
 

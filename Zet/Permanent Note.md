@@ -7,8 +7,6 @@ tags:
   - 'permanent/concept'
 publish: False
 ---
-# Permanent Note
-
 ## Notes:
 Permanent note là một khái niệm được đưa ra bởi [[Niklas Luhmann]]
 

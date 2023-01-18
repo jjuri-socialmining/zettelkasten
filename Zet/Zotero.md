@@ -1,5 +1,3 @@
-# Zotero
-
 created: Oct 21, 2020 10:17 PM
 tags: #created/2020/Oct/21
 

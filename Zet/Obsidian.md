@@ -8,8 +8,6 @@ tags:
   - 'permanent/concept'
 publish: False
 ---
-# Obsidian
-
 ## Notes:
 Obsidian là một phần mềm ghi chú dựa trên ngôn ngữ [[Markdown Language]]. Hiện tại, nó có thể cài đặt trên các nền tảng hệ điều hành [[Hệ điều hành macOS|macOS]], [[Hệ điều hành Windows|Windows]] và [[Linux OS]]. Các ghi chú trong obsidian có thể liên kết với nhau bằng chức năng Link/[[Backlink]] được hỗ trợ bởi Markdown. Dựa trên chúc năng, nó còn hỗ trợ trực quan hóa bằng [[Backlink graph view]].
 

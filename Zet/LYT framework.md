@@ -10,8 +10,6 @@ aliases:
   - Fluid frameworks
 publish: False
 ---
-# LYT Framework
-
 ## Notes:
 **LYT**,  viết tắt của **Linking Your Thinking** (Liên kết những suy nghĩ của bạn), là một framework dùng để triển khai phương pháp ghi chú [[Zettelkasten]]. LYT được xây dựng bởi [[Nick Milo]]. Tên của framework được đặt dựa theo một nguyên tắc của [[Zettelkasten]]: Liên kết ghi chú, các ghi chú ở đây cũng chính là những suy nghĩ của bạn.
 

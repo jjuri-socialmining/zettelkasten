@@ -32,9 +32,9 @@ aliases:
   - 
 publish: False
 ---
-- metadata:
-	- url::
-	- author::
-	- category::
+
+url::
+author::
+category::
 
 <% tp.file.cursor() %>
