@@ -1,0 +1,63 @@
+{
+  "choices": [
+    {
+      "id": "20bd8d1a-1930-404d-b2f5-b1b8befc8da2",
+      "name": "timestamp daily",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "Spaces/Daily/{{DATE}}.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": true,
+        "template": "Bins/Templates/Templater/templater.daily.md"
+      },
+      "format": {
+        "enabled": true,
+        "format": "- {{date:HH:mm}} {{value}}\\n\n"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "## What I done today:",
+        "insertAtEnd": false,
+        "createIfNotFound": true,
+        "createIfNotFoundLocation": "bottom"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "d4b0a32a-95bf-472f-bebc-4f3110b61535",
+      "name": "Zettelizer",
+      "type": "Macro",
+      "command": true,
+      "macroId": "2f32c103-2b24-4afd-9ff8-0a3109943512"
+    }
+  ],
+  "macros": [
+    {
+      "name": "Zettelizer",
+      "id": "2f32c103-2b24-4afd-9ff8-0a3109943512",
+      "commands": [
+        {
+          "name": "z",
+          "type": "UserScript",
+          "id": "cb5a78be-5a92-4c31-864d-060e11c52936",
+          "path": "Bins/script/z.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": true
+    }
+  ],
+  "inputPrompt": "multi-line",
+  "devMode": false
+}

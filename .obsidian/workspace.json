@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "b417d2548111d95c",
+        "id": "4f812d4361538122",
         "type": "tabs",
         "children": [
           {
-            "id": "b113ece49b45d376",
+            "id": "908717fd27afd195",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zet/Thần Vishnu.md",
+                "file": "Zet/zsh là là phần mềm shell mặc định của hệ điều hành MacOS từ phiên bản Catalina.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a8e68e8cd4feee9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NXBTre2010 - 7 Thói quen để thành đạt Quotes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -21,6 +34,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -66,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "locations",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.00418853759766
+    "width": 262.5110321044922
   },
   "right": {
     "id": "98ee6c8f963969f5",
@@ -95,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zet/Thần Vishnu.md"
+                "file": "NXBTre2010 - 7 Thói quen để thành đạt Quotes.md"
               }
             }
           },
@@ -131,7 +145,7 @@
                   "lat": 10.903169652493919,
                   "lng": 104.70340328908965
                 },
-                "query": "path:\"Zet/Thần Vishnu.md\"",
+                "query": "path:\"NXBTre2010 - 7 Thói quen để thành đạt Quotes.md\"",
                 "chosenMapSource": 0,
                 "queryError": false,
                 "followActiveNote": true
@@ -145,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zet/Thần Vishnu.md",
+                "file": "NXBTre2010 - 7 Thói quen để thành đạt Quotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zet/Thần Vishnu.md",
+                "file": "NXBTre2010 - 7 Thói quen để thành đạt Quotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zet/Thần Vishnu.md"
+                "file": "NXBTre2010 - 7 Thói quen để thành đạt Quotes.md"
               }
             }
           },
@@ -258,17 +272,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "b113ece49b45d376",
+  "active": "a8e68e8cd4feee9a",
   "lastOpenFiles": [
-    "Zet/Concept/Krishna.md",
-    "Reference_Box/Books/@ Mahabharata.md",
-    "Zet/Thần Vishnu.md",
-    "Zet/Writing/Review Mahabharata.md",
-    "Spaces/Daily/2023-01-06.md",
-    "Reference_Box/Books/@ Chí tôn ca.md",
-    "Zet/Fact/230105235614 - Trong Chí Tôn Ca, Krishna tự nhận mình là Vishnu, Siva và Kubera.md",
-    "Zet/Fact/230105233910 - Theo Chí Tôn Ca, bản chất con người hợp thành bởi tám yếu tố.md",
+    "Reference_Box/Books/@ Stephen R. Covey, 7 Thói quen để thành đạt.md",
+    "NXBTre2010 - 7 Thói quen để thành đạt Quotes.md",
+    "Zet/zsh là là phần mềm shell mặc định của hệ điều hành MacOS từ phiên bản Catalina.md",
+    "Zet/zsh.md",
+    "zettelizer script js.md",
+    "Obsidian Canvas Plugin.md",
+    "5 bucket list đáng làm nhất hiện tại.md",
     "Mahabharata MOC.canvas",
-    "Zet/Fact/230104234533 - Krishna là hóa thân của thần Vishnu.md"
+    "Zet/Thinking/❕ 220227164300 - Zettelkasten Workflow.md",
+    "Zet/Writing/Zettelkasten Workflow.md"
   ]
 }

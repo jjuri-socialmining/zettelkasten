@@ -39,6 +39,8 @@ up:: [[Daily notes]]
 
 ![[Tasks list]]
 
+## What I done today:
+
 <%* if (tp.date.now("ddd") == "Sun" ) { %>
 ## Weekly review:
 - [[<% tp.date.now("YYYY-MM-DD", -6) %>|Mon]]
