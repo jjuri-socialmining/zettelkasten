@@ -1,4 +1,3 @@
-# Nguyễn Uông bị Trịnh Kiểm giết
 
 - metadata
 	- UID: P-210715-2241

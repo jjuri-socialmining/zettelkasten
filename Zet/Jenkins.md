@@ -11,9 +11,3 @@ Jenkins là phần mềm [[CI & CD|CI/CD]] lâu đời nhất và được dùng
 ## Questions & thoughts:
 - [ ] Cộng đồng sử dụng Jenkins lớn nên sẽ dễ dàng tìm được hỗ trợ từ cộng đồng về các vấn đề thường gặp trong quá trình triển khai và sử dụng.
 
-
-## Related:
-```dataview
-list
-from [[Jenkins]]
-```

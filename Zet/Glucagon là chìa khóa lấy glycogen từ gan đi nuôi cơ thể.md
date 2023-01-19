@@ -7,12 +7,3 @@
 
 ## Notes
 [[Glucagon]] là chìa khóa lấy [[Glycogen]] từ gan đi nuôi cơ thể
-
-## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Glucagon là chìa khóa lấy glycogen từ gan đi nuôi cơ thể]]
-sort file.name asc
-```

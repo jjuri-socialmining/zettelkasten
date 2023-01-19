@@ -11,15 +11,12 @@
             "id": "579005f39fd182a3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Tìm hiểu cấu tạo của SSD MOC.canvas",
-                "viewState": {
-                  "x": 2080.8484255272983,
-                  "y": 641.2461169350473,
-                  "zoom": -2.0913212706429625,
-                  "snapToGrid": false
-                }
+                "file": "NXBTre2010 - 7 Thói quen để thành đạt Quotes.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -78,8 +75,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tìm hiểu cấu tạo của SSD MOC.canvas",
+                "file": "NXBTre2010 - 7 Thói quen để thành đạt Quotes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -134,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tìm hiểu cấu tạo của SSD MOC.canvas"
+                "file": "NXBTre2010 - 7 Thói quen để thành đạt Quotes.md"
               }
             }
           },
@@ -170,7 +166,7 @@
                   "lat": 10.903169652493919,
                   "lng": 104.70340328908965
                 },
-                "query": "path:\"Tìm hiểu cấu tạo của SSD MOC.canvas\"",
+                "query": "path:\"NXBTre2010 - 7 Thói quen để thành đạt Quotes.md\"",
                 "chosenMapSource": 0,
                 "queryError": false,
                 "followActiveNote": true
@@ -184,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tìm hiểu cấu tạo của SSD MOC.canvas",
+                "file": "NXBTre2010 - 7 Thói quen để thành đạt Quotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tìm hiểu cấu tạo của SSD MOC.canvas"
+                "file": "NXBTre2010 - 7 Thói quen để thành đạt Quotes.md"
               }
             }
           },
@@ -260,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tìm hiểu cấu tạo của SSD MOC.canvas",
+                "file": "NXBTre2010 - 7 Thói quen để thành đạt Quotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -305,15 +301,15 @@
   },
   "active": "579005f39fd182a3",
   "lastOpenFiles": [
-    "Spaces/Daily/2023-01-18.md",
-    "Tất tần tật về lắp ráp máy tính.canvas",
-    "Spaces/Daily/2023-01-15.md",
-    "Bins/Templates/Templater/templater.daily.md",
-    "Tìm hiểu mainboard máy tính hiện tại MOC.canvas",
-    "Tìm hiểu cấu tạo của SSD MOC.canvas",
     "Các loại chip nhớ NAND.md",
-    "Zet/Images/20230118212223 ~ Flash NAND chips.png",
-    "Zet/Images/20230118210927 ~ Adapter SSD M2 NVMe To PCIe 3.0x4.png",
-    "Adapter SSD M2 NVMe To PCIe 3.0x4.md"
+    "Obsidian Canvas Plugin.md",
+    "zettelizer script js.md",
+    "Zet/Garden/Các bài viết về Nguyễn Hiến Lê.md",
+    "Spaces/Daily/2023-01-19.md",
+    "Zet/People/Nguyễn Hiến Lê.md",
+    "Zet/Fact/230119222945 - Sổ Hộ Khẩu không còn giá trị hành chính từ ngày 31-12-2022.md",
+    "Sổ Hộ Khẩu không còn giá trị hành chính từ ngày 31/12/2022.md",
+    "Zet/Fact/230119222611 - Nguyễn Hiến Lê kỳ thị truyện chưởng của Kim Dung.md",
+    "Spaces/Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-28.md"
   ]
 }

@@ -7,12 +7,3 @@
 
 ## Notes
 [[Thái Bình Thiên Quốc]] là kết hợp giữa nho giáo và giáo lý [[God]] giáo
-
-## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Thái Bình Thiên Quốc là kết hợp giữa nho giáo và giáo lý Thiên Chúa giáo]]
-sort file.name asc
-```

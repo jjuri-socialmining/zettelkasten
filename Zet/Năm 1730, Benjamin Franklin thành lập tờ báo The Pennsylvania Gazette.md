@@ -7,12 +7,3 @@
 
 ## Notes
 Năm 1730, [[Benjamin Franklin]] thành lập tờ báo [[The Pennsylvania Gazette]]
-
-## Questions & thoughts:
-
-## Related:
-```dataview
-list
-from [[Năm 1730, Benjamin Franklin thành lập tờ báo The Pennsylvania Gazette]]
-sort file.name asc
-```

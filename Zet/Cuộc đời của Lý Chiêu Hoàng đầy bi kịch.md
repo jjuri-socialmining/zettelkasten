@@ -1,5 +1,3 @@
-# Cuộc đời của Lý Chiêu Hoàng đầy bi kịch
-
 - metadata
 	- UID: P-210708-2326
 	- tags: #created/2021/Jul/08

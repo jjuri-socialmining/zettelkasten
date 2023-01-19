@@ -7,8 +7,6 @@ tags:
   - 'permanent/fact'
 publish: False
 ---
-# Theo Sơn hải kinh, Phục Hi và Nữ Oa là vợ chồng
-
 ## Notes:
 Theo Sơn hải kinh, [[Phục Hi]] và [[Nữ Oa]] là vợ chồng
 

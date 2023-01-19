@@ -15,3 +15,6 @@ publish: False
 ### Youtube channels
 - [[Zsolt's Visual Personal Knowledge Management]]
 - [[Nicole van der Hoeven]]
+
+### Forum thread
+- https://forum.obsidian.md/t/simple-zettelkasten-guide/3054

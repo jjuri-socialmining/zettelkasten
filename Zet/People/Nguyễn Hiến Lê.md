@@ -16,3 +16,6 @@ publish: False
 up:: [[People MOC]],
 
 ## Notes:
+
+## Relate:
+[[Các bài viết về Nguyễn Hiến Lê]]
