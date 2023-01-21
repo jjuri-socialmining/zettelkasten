@@ -4,6 +4,8 @@
   "baseFontSize": 14,
   "accentColor": "",
   "enabledCssSnippets": [
-    "stylish-blockquotes"
+    "stylish-blockquotes",
+    "S - External Link Icons",
+    "S - Embed Adjustments"
   ]
 }

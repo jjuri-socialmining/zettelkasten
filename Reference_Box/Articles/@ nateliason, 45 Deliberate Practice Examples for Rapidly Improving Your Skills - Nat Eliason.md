@@ -70,7 +70,7 @@ Finally, if this is the first you’re hearing about deliberate practice, I stro
 - Use a spaced repetition system like [[Anki]] to memorize and quiz yourself on vocabulary (Source: [[Fluent Forever]]).
 - Read a book in a foreign language while also listening to the audio to force yourself to move at a normal pace through the book.
 
-[[English Study MOC]] 
+[[English Language MOC]] 
 
 ## Photography
 

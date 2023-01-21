@@ -38,6 +38,8 @@ Dưới đây là 1 template: [[task_managerment_template]]
 ### Quản lý task bằng [[Obsidian Dataview plugin]]
 ### Sử dụng [[Aliases in Obsidian|Aliases]]
 [[Aliases in Obsidian|Aliases]] là chức năng sử dụng nhiều từ gợi ý, đồng nghĩa để nhắc đến mội đối tượng ghi chú giúp ta nhắc đến hay tìm kiếm ghi chú một cách nhanh chóng
+### Cssclass on specific note
+[[Obsidian css resource]]
 
 ### Templater plugin
 ### Sử dụng Github để đồng bộ
@@ -47,6 +49,7 @@ Sử dụng [[MarkDownload Plugin]] -  để download website dạng markdown.
 
 ### Upcoming Features
 - Notion-db-like: https://github.com/RafaelGB/obsidian-db-folder
+
 
 ## Tham khảo
 - [Tổng hợp các theme, CSS, và template](https://github.com/kmaasrud/awesome-obsidian)
