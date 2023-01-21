@@ -8,7 +8,7 @@ publish: True
 ---
 - author: [[Nguyễn Văn Khỏa]]
 
-Note được dựa trên bản mobi của [[tve-4u]]
+Note được dựa trên bản mobi của [[tve-4u.org]]
 ```
 Số hóa và thực hiện ebook: Hanhdb
 Sửa lỗi, trình bày, lồng hình minh họa: 1953snake

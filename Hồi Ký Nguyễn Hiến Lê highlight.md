@@ -3,6 +3,17 @@ Ebook đầy đủ, bao gồm phần kiểm duyệt
 
 ## Chương 4: Về phương Khê học chữ Hán
 - [[Cách Nguyễn Hiến Lê học ngoại ngữ]]
+### l60 NHL từng bị ở lại lớp, sau khi người ca mất
+> Suốt một năm như vậy, bài nhà trường, tôi có học, có làm không, tôi không nhớ nữa; tôi có học thêm được chút nào không? Có lẽ cũng được ít chữ, nhưng không đủ để lên lớp trên, và đầu niên khóa sau tôi học lại với thầy Chử. Cha tôi còn thì chắc chắn tôi khỏi phải "đúp".
+
+Sau khi cha mất, [[Nguyễn Hiến Lê|NHL]] lêu lổng rong chơi, phải học lại một năm. Nhưng năm sau đó, bị bạn bè cười chê, ông tu tỉnh quyết tâm chăm học.
+### l65 NHL từng bị ở lại lớp, sau khi người ca mất
+
+## Chương 5
+### l78 NHL là học trò của Dương Quảng Hàm
+> Trong số giáo sư trường Bưởi tôi được học, tôi quí hai thầy nhất: Thầy Dương Quảng Hàm và thầy Poulon.
+
+NHL là học trò của [[Dương Quảng Hàm]]
 
 ### l90 Nguyễn Hiến Lê về Phương Khê học chữ Hán người bác làm thầy đồ
 > ...hè năm 1928mẹ tôi xin bác Hai cho tôi về Phương Khê ở trong dịp hè để học chữ...
@@ -26,11 +37,11 @@ Lời khuyên của người bác dành cho NHL
 
 
 
-### l221 NHL chú số trang và ý chính ở ngay trang trắng ở đầu mỗi sách đối với những quyển hay phải đọc lại.
+### l221 NHL ghi chú số trang và ý chính ở ngay trang trắng ở đầu mỗi sách đối với những quyển hay phải đọc lại
 [[Nguyễn Hiến Lê và cách đọc, ghi chú]]
 > Khi đọc tôi luôn luôn có một cây viết chì để đánh dấu những chỗ đáng nhớ, hoặc có thể dùng tới sau này; cuốn nào thường phải đọc lại thì tôi ghi những ý quan trọng cùng số trang lên mấy trang trắng (page de garde) ở đầu sách.
 
-### p221 Trước năm 38 tuổi (1950), NHL chưa có ý định viết sách, vậy mà số sách trong nhà ông tầm 500 cuốn đổ lại.
+### l221 Trước năm 38 tuổi (1950), NHL chưa có ý định viết sách, vậy mà số sách trong nhà ông tầm 500 cuốn đổ lại
 > Trước năm 1950, tôi không có ý chuyên viết sách, sống về nghề văn, càng không có ý khảo cứu, mà số sách trong nhà lại ít, độ năm trăm cuốn trở lại, cho nên tôi thấy không cần phải làm thẻ cho mỗi cuốn, cũng không cần đóng tủ riêng để chứa.
 
 ### l221 NHL sách nhiều nhưng giữ trật tự, và không cho ai mượn
@@ -67,6 +78,7 @@ Lời khuyên của người bác dành cho NHL
 ## Chương 18:
 ### l368 NHL học bằng cách viết sách về thứ đó
 > Tôi muốn học thêm về một môn nào thì nên viết về môn đó. Điều đó tôi đã trình bày trong cuốn Tự học, một nhu cầu của thời đại: “Có người nói: khi chưa biết về một vấn đề nào thì người ta viết sách về vấn đề ấy”.
+
 [[❕ 230120185559 - Phương pháp học của NHL có nét tương đồng với Kỹ thuật học tập Feymann]]
 
 
@@ -114,6 +126,21 @@ Nguyễn Hiến Lê viết báo, xuất bản sách còn nhiều hơn cả [[Nik
  *chỉ trừ loại “chưởng” của Kim Dung* 
  
  [[Kim Dung]]
+
+## Chương 30
+### l736
+> Tôi vốn có cảm tình với Việt minh, với cộng sản; ghét thực đân Pháp, Mĩ, nhất là từ 1965 khi Mĩ đổ quân ào ạt vào miền Nam; tôi khinh những chính phủ bù nhìn của Pháp, Mĩ. Tôi phục tinh thần hi sinh, có kỉ luật của anh em kháng chiến và mỗi lần có thể giúp họ được gì thì tôi sẵn lòng giúp.
+
+### l738
+> Năm 1968 nghe những tin tức và những hình ảnh về cuộc tàn sát rùng rợn ở Huế trong biến cố Mậu Thân, tôi hoang mang, đau lòng cho đồng bào Huế và lo lắng cho tương lai dân tộc.
+
+### l740 NHL trước sự kiện 30-4 vẫn rất lạc quan vào chủ nghĩa Cộng sản
+> Riêng tôi, tôi sẵn sàng bỏ một ít tự do đi, sống thanh bạch hơn nữa, miễn là hết thấy cái nạn tham nhũng, ăn cắp, ăn cướp, phè phỡn, bóc lột và thấy con người có tư cách hơn. Tôi vẫn thường nói với nhà tôi: cộng sản vào đây thì chỉ nội 48 giờ là hết cái tệ đó
+> Mấy ngày hạ tuần tháng 4 dương lịch đó tôi vẫn nghĩ tình hình không có gì bi đát lắm đến nỗi phải di cư. Quân Bắc có tiến vào Sài gòn thì Nam Bắc cũng thương thuyết với nhau - trước Bắc chỉ đòi Mĩ rút đi, Thiệu rút đi, thì bây giờ họ rút cả rồi, còn muốn gì nữa? - mà hiệp định Paris còn đó, Bắc phải thi hành chứ. Tôi **ngây thơ** quá.
+### l768
+> Sau một phần tư thế kỉ được giáo hóa mà như vậy thì chúng ta phải kết luận ra sao? Có chế độ nào thay đổi được bản tính con người trong một hai thế kỉ không? Bao giờ mới đào tạo được con người xã hội chủ nghĩa để họ xây dựng xã hội chủ nghĩa đây, như Hồ chủ tịch nói?
+### l808
+> Sau ngày 30-4-75, tôi muốn tìm hiểu cách mạng Nga từ 1917 đến 1945, nhờ mấy bạn cách mạng tìm sách cho, họ bảo chính họ cũng không được đọc vì không thấy một cuốn nào cả. Sau tôi mới biết rằng loại đó ngay ở Nga cũng không ai được phép viết. Như vậy kiến thức hạng trí thức ngoài đó ra sao, ta có thể đoán được.
 
 ## Chương 31
 ### l823 NHL đánh giá rằng sau 5 năm từ khi VNDC nắm quyền thì không hề tiến bộ mà còn thụt lùi
@@ -183,5 +210,7 @@ Thế giới còn những nước nhược tiểu có nhiều tài nguyên thì 
 21- Hồi trẻ, quan niện của tôi về hạnh phúc là tự do, độc lập, làm một công việc hữu ích mà mình thích, gia đình êm ấm, con cái học được, phong lưu một chút chứ đừng giàu. Nhưng hồi 50 tuổi tôi thấy bấy nhiêu chưa đủ, cần thêm điều kiện này nữa: sống trong một xã hội lành mạnh, ổn định và tương đối thịnh vượng.
 
 ```
+
+
 
 

@@ -4,54 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "3fd1839f49f6d4dd",
+        "id": "f260d59b06b09086",
         "type": "tabs",
         "children": [
           {
-            "id": "5b4d7f295616cce2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hồi Ký Nguyễn Hiến Lê highlight.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "305989c50b90e84f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zet/English Language MOC.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "8b75e80917511260",
+            "id": "708a5b4b332381d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zet/Aliases in Obsidian.md",
+                "file": "Zet/Garden/Các bài viết về Nguyễn Hiến Lê.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#permanent",
+                "query": "Nguyễn Thị Liệp",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -105,11 +74,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 327.5110321044922
+    "width": 412.5110321044922
   },
   "right": {
     "id": "98ee6c8f963969f5",
@@ -125,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Zet/Aliases in Obsidian.md",
+                "file": "Zet/Garden/Các bài viết về Nguyễn Hiến Lê.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zet/Aliases in Obsidian.md"
+                "file": "Zet/Garden/Các bài viết về Nguyễn Hiến Lê.md"
               }
             }
           },
@@ -196,24 +166,12 @@
                   "lat": 10.903169652493919,
                   "lng": 104.70340328908965
                 },
-                "query": "path:\"Zet/Aliases in Obsidian.md\"",
+                "query": "path:\"Zet/Garden/Các bài viết về Nguyễn Hiến Lê.md\"",
                 "chosenMapSource": 0,
                 "queryError": false,
                 "followActiveNote": true
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "14ad75caa771663c",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Zet/Aliases in Obsidian.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
             }
           },
           {
@@ -230,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zet/Aliases in Obsidian.md"
+                "file": "Zet/Garden/Các bài viết về Nguyễn Hiến Lê.md"
               }
             }
           },
@@ -275,7 +233,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       },
       {
         "id": "7a35452591eef4c8",
@@ -287,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zet/Aliases in Obsidian.md",
+                "file": "Zet/Garden/Các bài viết về Nguyễn Hiến Lê.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,6 +257,18 @@
             }
           },
           {
+            "id": "14ad75caa771663c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Zet/Garden/Các bài viết về Nguyễn Hiến Lê.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
             "id": "c1c74ad4a417422b",
             "type": "leaf",
             "state": {
@@ -306,7 +276,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -330,17 +301,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "8b75e80917511260",
+  "active": "708a5b4b332381d4",
   "lastOpenFiles": [
-    "Spaces/Journal/Obsidian best practice.md",
-    "Zet/Aliases in Obsidian.md",
-    "Zet/English Language MOC.md",
-    "Zet/Concept/Shadowing method.md",
-    "Zet/Concept/Total physical response method (TPR).md",
-    "Obsidian css resource.md",
+    "kilopad.com.md",
+    "Zet/People/Nguyễn Hiến Lê.md",
     "Spaces/Daily/2023-01-21.md",
-    "Spaces/Projects/Bible Study Kit/CSS tweaks.md",
-    "Inbox/Việt Nam Cộng Hòa.md",
-    "Inbox/WALL‑E (2008).md"
+    "Các website lưu trữ ebook.md",
+    "tve-4u.org.md",
+    "Zet/Garden/Các bài viết về Nguyễn Hiến Lê.md",
+    "Hồi Ký Nguyễn Hiến Lê highlight.md",
+    "Zet/Đọc sách.md",
+    "Nguyễn Hiến Lê và cách đọc, ghi chú.md",
+    "Zet/Đảo chính VNCH 1963.md"
   ]
 }

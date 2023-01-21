@@ -4,7 +4,7 @@
       "id": "20bd8d1a-1930-404d-b2f5-b1b8befc8da2",
       "name": "timestamp daily",
       "type": "Capture",
-      "command": true,
+      "command": false,
       "appendLink": false,
       "captureTo": "Spaces/Daily/{{DATE}}.md",
       "captureToActiveFile": false,
@@ -38,7 +38,7 @@
       "id": "d4b0a32a-95bf-472f-bebc-4f3110b61535",
       "name": "Zettelizer",
       "type": "Macro",
-      "command": true,
+      "command": false,
       "macroId": "2f32c103-2b24-4afd-9ff8-0a3109943512"
     }
   ],
