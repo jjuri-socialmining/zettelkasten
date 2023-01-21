@@ -2,5 +2,8 @@
   "theme": "moonstone",
   "cssTheme": "Blue Topaz",
   "baseFontSize": 14,
-  "accentColor": ""
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "stylish-blockquotes"
+  ]
 }

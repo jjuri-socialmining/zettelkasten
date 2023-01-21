@@ -17,3 +17,7 @@ blockquote p {
 blockquote {
   margin-inline-start: 0;
 }
+
+quote {
+      font-family: "Latin Modern Roman" !important;
+       }

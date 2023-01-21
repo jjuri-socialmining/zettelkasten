@@ -4,24 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "b14b06db176011c1",
+        "id": "3fd1839f49f6d4dd",
         "type": "tabs",
         "children": [
           {
-            "id": "579005f39fd182a3",
+            "id": "5b4d7f295616cce2",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NXBTre2010 - 7 Thói quen để thành đạt Quotes.md",
+                "file": "Hồi Ký Nguyễn Hiến Lê highlight.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
-              }
+              },
+              "pinned": true
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -66,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"What I've done today\"",
+                "query": "tag:#permanent",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -79,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5110321044922
+    "width": 327.5110321044922
   },
   "right": {
     "id": "98ee6c8f963969f5",
@@ -95,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NXBTre2010 - 7 Thói quen để thành đạt Quotes.md",
+                "file": "Hồi Ký Nguyễn Hiến Lê highlight.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NXBTre2010 - 7 Thói quen để thành đạt Quotes.md"
+                "file": "Hồi Ký Nguyễn Hiến Lê highlight.md"
               }
             }
           },
@@ -166,7 +167,7 @@
                   "lat": 10.903169652493919,
                   "lng": 104.70340328908965
                 },
-                "query": "path:\"NXBTre2010 - 7 Thói quen để thành đạt Quotes.md\"",
+                "query": "path:\"Hồi Ký Nguyễn Hiến Lê highlight.md\"",
                 "chosenMapSource": 0,
                 "queryError": false,
                 "followActiveNote": true
@@ -180,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NXBTre2010 - 7 Thói quen để thành đạt Quotes.md",
+                "file": "Hồi Ký Nguyễn Hiến Lê highlight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NXBTre2010 - 7 Thói quen để thành đạt Quotes.md"
+                "file": "Hồi Ký Nguyễn Hiến Lê highlight.md"
               }
             }
           },
@@ -244,7 +245,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 8
       },
       {
         "id": "7a35452591eef4c8",
@@ -256,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NXBTre2010 - 7 Thói quen để thành đạt Quotes.md",
+                "file": "Hồi Ký Nguyễn Hiến Lê highlight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +281,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 685.5,
+    "width": 555.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -299,17 +301,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "579005f39fd182a3",
+  "active": "5b4d7f295616cce2",
   "lastOpenFiles": [
-    "Các loại chip nhớ NAND.md",
-    "Obsidian Canvas Plugin.md",
+    "Spaces/Daily/2023-01-20.md",
+    "Spaces/Daily/2023-01-21.md",
+    "Hồi Ký Nguyễn Hiến Lê highlight.md",
+    "Reference_Box/Zettels/HKNHL, p221 - Trước năm 38 tuổi (1950) NHL chưa có ý định viết sách vậy mà số sách trong nhà ông tầm 500 cuốn đổ lại..md",
+    "Reference_Box/Zettels/HKNHL, l100 - Lời khuyên của người bác dành cho NHL đầu tư về đời sống tinh thần..md",
+    "Reference_Box/Zettels/HKNHL - Trước năm 38 tuổi (1950) NHL chưa có ý định viết sách vậy mà số sách trong nhà ông tầm 500 cuốn đổ lại..md",
+    "Reference_Box/Zettels/HKNHLNHL chê thói tổ chức ăn uống linh đình du nhập từ miền Bắc sau Giải phóng.md",
     "zettelizer script js.md",
-    "Zet/Garden/Các bài viết về Nguyễn Hiến Lê.md",
-    "Spaces/Daily/2023-01-19.md",
-    "Zet/People/Nguyễn Hiến Lê.md",
-    "Zet/Fact/230119222945 - Sổ Hộ Khẩu không còn giá trị hành chính từ ngày 31-12-2022.md",
-    "Sổ Hộ Khẩu không còn giá trị hành chính từ ngày 31/12/2022.md",
-    "Zet/Fact/230119222611 - Nguyễn Hiến Lê kỳ thị truyện chưởng của Kim Dung.md",
-    "Spaces/Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-28.md"
+    "Reference_Box/Zettels/20230121Trước năm 38 tuổi (1950) NHL chưa có ý định viết sách vậy mà số sách trong nhà ông tầm 500 cuốn đổ lại..md",
+    "Reference_Box/Zettels/20230121093041 Bất cứ một quyển sách nào khi đã mua NHL đều đọc hết dẫu cũng có chán đến đâu cũng ráng..md"
   ]
 }
