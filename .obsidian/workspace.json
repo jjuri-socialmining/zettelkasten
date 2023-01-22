@@ -10,10 +10,40 @@
           {
             "id": "708a5b4b332381d4",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zet/Garden/Các bài viết về Nguyễn Hiến Lê.md",
+                "file": "Zet/Writing/Mahabharata tóm tắt.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "961a2a4e13546f2e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference_Box/Books/Mahabharata highlight.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "474b6cac0d64a78c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Amba.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -74,8 +104,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Zet/Garden/Các bài viết về Nguyễn Hiến Lê.md",
+                "file": "Zet/Writing/Mahabharata tóm tắt.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zet/Garden/Các bài viết về Nguyễn Hiến Lê.md"
+                "file": "Zet/Writing/Mahabharata tóm tắt.md"
               }
             }
           },
@@ -166,7 +195,7 @@
                   "lat": 10.903169652493919,
                   "lng": 104.70340328908965
                 },
-                "query": "path:\"Zet/Garden/Các bài viết về Nguyễn Hiến Lê.md\"",
+                "query": "path:\"Zet/Writing/Mahabharata tóm tắt.md\"",
                 "chosenMapSource": 0,
                 "queryError": false,
                 "followActiveNote": true
@@ -188,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zet/Garden/Các bài viết về Nguyễn Hiến Lê.md"
+                "file": "Zet/Writing/Mahabharata tóm tắt.md"
               }
             }
           },
@@ -245,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zet/Garden/Các bài viết về Nguyễn Hiến Lê.md",
+                "file": "Zet/Writing/Mahabharata tóm tắt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zet/Garden/Các bài viết về Nguyễn Hiến Lê.md",
+                "file": "Zet/Writing/Mahabharata tóm tắt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,12 +305,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 555.5,
+    "width": 397.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -303,15 +331,15 @@
   },
   "active": "708a5b4b332381d4",
   "lastOpenFiles": [
-    "kilopad.com.md",
-    "Zet/People/Nguyễn Hiến Lê.md",
-    "Spaces/Daily/2023-01-21.md",
-    "Các website lưu trữ ebook.md",
-    "tve-4u.org.md",
-    "Zet/Garden/Các bài viết về Nguyễn Hiến Lê.md",
-    "Hồi Ký Nguyễn Hiến Lê highlight.md",
-    "Zet/Đọc sách.md",
-    "Nguyễn Hiến Lê và cách đọc, ghi chú.md",
-    "Zet/Đảo chính VNCH 1963.md"
+    "Inbox/Amba.md",
+    "Nữ thần Ganga.md",
+    "Zet/Writing/Mahabharata tóm tắt.md",
+    "Reference_Box/Books/Mahabharata highlight.md",
+    "Inbox/kilopad.com.md",
+    "Inbox/tve-4u.org.md",
+    "Zet/Concept/Bhishma.md",
+    "Inbox/Santanu.md",
+    "Vua Santanu.md",
+    "Canvas/Mahabharata MOC.canvas"
   ]
 }

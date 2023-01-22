@@ -19,7 +19,7 @@ up:: [[People MOC]],
 Sinh: 8 tháng 1 năm 1912
 Mất: 22 tháng 12 năm 1984
 
-
+[[HKNHL, l510 - NHL cưới bà 2 tên Nguyễn Thị Liệp]]
 
 ## Relate:
 - [[Các bài viết về Nguyễn Hiến Lê]]

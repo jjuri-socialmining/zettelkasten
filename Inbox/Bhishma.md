@@ -1,1 +1,0 @@
-Bhishma con trai của [[Santanu]]
