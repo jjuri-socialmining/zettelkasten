@@ -13,6 +13,8 @@ publish: False
 	- author::
 	- category::
 
+[[Mahabharata MOC.canvas]]
+
 Tóm tắt: 
 - Mahabharata là sử thi kể về cuộc chiến giữa hai dòng dõi hoàng tộc [[Kaurava]] và [[Pandava]] vai anh em con chú con bác.
 - Phe chính diện là [[Pandava]] đứng đầu là [[Yudhishthira]] chính trực, phe phản diện [[Kaurava]] đứng đầu là [[Duryodhana]] bất khuất.

@@ -37,7 +37,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Nguyễn Thị Liệp",
+                "query": "Meditation",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -111,7 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Zet/Writing/Mahabharata tóm tắt.md",
+                "file": "Reference_Box/Books/Mahabharata highlight.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zet/Writing/Mahabharata tóm tắt.md"
+                "file": "Reference_Box/Books/Mahabharata highlight.md"
               }
             }
           },
@@ -182,7 +183,7 @@
                   "lat": 10.903169652493919,
                   "lng": 104.70340328908965
                 },
-                "query": "path:\"Zet/Writing/Mahabharata tóm tắt.md\"",
+                "query": "path:\"Reference_Box/Books/Mahabharata highlight.md\"",
                 "chosenMapSource": 0,
                 "queryError": false,
                 "followActiveNote": true
@@ -204,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zet/Writing/Mahabharata tóm tắt.md"
+                "file": "Reference_Box/Books/Mahabharata highlight.md"
               }
             }
           },
@@ -261,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zet/Writing/Mahabharata tóm tắt.md",
+                "file": "Reference_Box/Books/Mahabharata highlight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zet/Writing/Mahabharata tóm tắt.md",
+                "file": "Reference_Box/Books/Mahabharata highlight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -316,17 +317,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "708a5b4b332381d4",
+  "active": "961a2a4e13546f2e",
   "lastOpenFiles": [
+    "Zet/Concept/Hypothesis (defn).md",
+    "Reference_Box/Websites/Vì sao lại là HỘI ĐỒNG CỪU.md",
+    "Spaces/Daily/2023-01-23.md",
+    "Philosophy study roadmap.canvas",
     "Reference_Box/Books/Mahabharata highlight.md",
+    "Reference_Box/Articles/@ I'm interested in philosophy - where should I start What should a beginner read  AskPhilosophyFAQ.md",
+    "Zet/Triết học.md",
+    "Obsidian css resource.md",
     "Trận chiến Kurukshetra.md",
-    "Zet/Writing/Mahabharata tóm tắt.md",
-    "Inbox/Amba.md",
-    "Nữ thần Ganga.md",
-    "Inbox/kilopad.com.md",
-    "Inbox/tve-4u.org.md",
-    "Zet/Concept/Bhishma.md",
-    "Inbox/Santanu.md",
-    "Vua Santanu.md"
+    "Obsidian Canvas Plugin.md"
   ]
 }

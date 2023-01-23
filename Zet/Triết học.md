@@ -3,14 +3,14 @@ tags:
   - 'MOC'
 alias:
   - Triết học
+  - Philosophy
 ---
-# Triết học
-
 - [[Existentialism MOC]]
 - [[Chủ nghĩa Hư vô]]
 - [[Chủ nghĩa phi lý]]
 - [[Chủ nghĩa khắc kỷ]]
 - [[Đạo Giáo]]
+- [[Philosophy study roadmap.canvas]]
 
 ### Top Philosophers
 - [[Jean Paul Sartre]]

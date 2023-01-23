@@ -10,7 +10,7 @@ aliases: '230102212054'
 publish: False
 ---
 ## Notes:
-[[Thần Vishnu]] là người đánh xe ngựa chiến cho [[Arjura]]
+[[Thần Vishnu]] là người đánh xe ngựa chiến cho [[Arjuna]]
 
 source:: [[@ Mahabharata]], Chap.49
 

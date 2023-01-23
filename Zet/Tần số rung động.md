@@ -14,7 +14,7 @@ publish: False
 
 
 ## Ideas & thoughts:
-- [[Thiền]] giúp phát triển tần số rung động
+- [[Thiền định]] giúp phát triển tần số rung động
 - [[Thực vật có tần số rung động tốt hơn thịt động vật]]
 - Cơ thể con người gồm 2 phần
 	- Thể xác: rung động thấp

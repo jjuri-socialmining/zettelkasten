@@ -57,3 +57,14 @@ Bắn phải một con hươu khi đang săn bắn; con hươu đó là một đ
 Một ngày nọ, ông quên mất lời nguyền và làm tình với Madri và thế là ông phải chết. Madri vì đau khổ quyết định hỏa thiêu cùng với Pandu. Kunti ở lại nuôi 5 đứa con, 2 đứa con của Madri trong số đó. Sau đó, 6 mẹ con được đưa về cung điện sống với Bhishma.
 
 ### c10 Bhima
+5 người con trai của [[Vua Pandu]] và 100 người con của [[Dhritarashtra]] chung sống tại [[Hastinapura]]. [[Bhima]] là người khỏe nhất trong tất cả anh em. [[Bhima]] thường hay trêu đùa trọc tức Duryodhana và anh em [[Kaurava]]. Duryodhana rất căm thù Bhima. 
+
+Duryodhana bày mưu hạ độc Bhima, trói cậu và thả xuống sông, nơi đáy sông có cắm cọc nhọn và rắn độc. May thay, rắn độc cắn lại giải chất độc trong người. Bhima trôi dạt vào bờ. Sau đó những anh em [[Pandava]] vẫn giữ kín chuyện này; tránh xảy ra xung đột giữa hai họ.
+
+### c11 Karna
+[[Karna]] phò tá phe [[Kaurava]]. Khiêu chiến với [[Arjuna]]
+### c12 Drona
+Drona là một người học tinh thông kinh Veda, chăm chỉ tu luyện các môn võ, bắn cung. Ông có một người bạn đồng môn Drupada dòng dõi vương tộc. Khi lên làm vua, Drupada công khai xỉ nhục Drona; hai người trở thành kẻ thù của nhau. Để sống yên ổn, Drona cùng vợ con rời xứ Panchala; tìm đến Bhishma và được Bhishma giao cho nhiệm vụ làm thầy của anh em [[Pandava]] và [[Kaurava]].
+
+Sau đó, Drona sai Arjuna đi bắt Drupada để trả lại mối thù xưa. Bị Drona lăng nhục, Drupada nuôi mối thù với Drona. Ông sống khổ hạnh cầu các thần giúp sức trả thù cho mình. Về sau Drupada sinh được 1 người con gái lấy Arjuna; và một người con trai, Dhrishtadyumna, sau trở thành người thống lĩnh quân đội của [[Pandava]], và giết chết [[Drona]]
+

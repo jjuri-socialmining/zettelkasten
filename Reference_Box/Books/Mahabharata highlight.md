@@ -21,3 +21,6 @@ publish: False
 
 ### c2 Devavrata được gọi là Bhishma sau khi thề không kế vị ngôi vua
 > Vì sẵn sàng muốn làm thỏa mãn sự mong muốn của vua cha nên khi nghe câu hỏi của lão trùm, Devavrata bèn đưa ra lời khước từ tối hậu. Chàng thề với ông bố người con gái rằng: “Không bao giờ tôi lấy vợ và tôi sẽ tự hiến thân cho một cuộc đời mãi mãi tinh khiết”. Chàng trai anh hùng giơ cao tay thề, và khi chàng vừa thốt lên những lời khước từ đó thì các chư thần liền rắc hoa lên đầu chàng, và những tiếng kêu: “Bhishma! Bhishma.” rền vang trên không trung. “Bhishma” có nghĩa là con người đã thực hiện được một lời thề ghê gớm và sẽ làm tròn lời thề đó. Từ đấy, cái tên Bhishma trở thành một cái tên nổi tiếng thay cho tên của Devavrata.
+
+### c8 Kunti ban đầu tên là Pritha, con của Sura
+> Sura, người ông của Sri Krishna, là con cháu hiển hách thuộc dòng dõi Yadava. Con gái ông ta là nàng Pritha nổi tiếng nhan sắc và đức hạnh vẹn toàn. Đã từ lâu, người anh em họ của ông ta là Kuntibhoja không có con, nên Sura đem Pritha cho anh làm con nuôi. Từ lúc đó trở đi, nàng lấy tên họ của cha nuôi và gọi là Kunti.
