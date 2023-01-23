@@ -19,4 +19,4 @@ Vishnu là vị thần bảo hộ trọng [[Ấn Độ giáo]] và [[Đạo Bà 
 - Krishna còn được gọi là Vasudeva, Janardhana
 
 
-*"Krishna trị vì tại Dwaraka trong ba mươi năm, từ sau cuộc chiến [[Kurukshetra]] kết thúc"*
+*"Krishna trị vì tại Dwaraka trong ba mươi năm, từ sau cuộc chiến [[Trận chiến Kurukshetra]] kết thúc"*
