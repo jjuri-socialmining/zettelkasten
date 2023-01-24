@@ -25,3 +25,8 @@ publish: True
 - Chăm sóc cơ thể, cơ thể có cân bằng khỏe mạnh thì mới thoải mái cảm nhận niềm vui
 	- [[220218214915 - Hạnh phúc được quyết định bởi sự trao đổi chất]]
 	- [[Bốn Hormon hạnh phúc]]
+
+ Video liên quan đến niềm vui, hạnh phúc, và mục đích sống
+ - [[yinote_Pixar's SOUL TRIẾT HỌC CỦA MƠ ƯỚC ĐAM MÊ - Triết học Đại chúng - Hội Đồng Cừu]]
+ - [[@ yinote, TRIẾT HỌCCHÍNH TRỊ CỦA TÍCH CỰC ĐỘC HẠI - TRIẾT HỌC ĐẠI CHÚNG - Hội Đồng Cừu]]
+ 

@@ -19,7 +19,7 @@ module.exports = async e => {
                 pos = t[0].trim(), // position start by p21 (page 21) or l43 (location/loc 43)
                 n = t.length > 1 ? [...t.slice(1)].join(" ").trim() : "",
                 s = `${file_path}/${book_prefix}, ${pos} - ${n.replace(/[\\,#%&\{\}\/*<>$\'\":@]*/g,"")}.md`,
-                c = `---\ncssclass: quote\n---\n#quote/${tag}\n![[${o.basename}#${pos}${n?" "+n:""}]]\n`;
+                c = `---\ncssclass: quote\n---\n#quote/${tag}\n![[${o.basename}#${pos}${n?" "+n:""}]]\n\nsource:: [[${o.basename}]], ${pos}`;
             console.log(`Path: ${s}.\nContent: ${c}`), n && !await e.app.vault.adapter.exists(s) ? await e.app.vault.create(s, c) : n && new Notice(`File ${s} already exists.`, 5e3)
         }
     })), console.log("Finished!")) : new Notice(`Could not find folder ${i}`)

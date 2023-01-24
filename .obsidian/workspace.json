@@ -4,41 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f260d59b06b09086",
+        "id": "fb02a2ea06a7a42e",
         "type": "tabs",
         "children": [
           {
-            "id": "708a5b4b332381d4",
+            "id": "632d057d09455b6f",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zet/Writing/Mahabharata tóm tắt.md",
-                "mode": "source",
+                "file": "Nguyễn Hiến Lê và cách đọc, ghi chú.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "961a2a4e13546f2e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference_Box/Books/Mahabharata highlight.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              },
-              "pinned": true
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,8 +65,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Meditation",
-                "matchingCase": true,
+                "query": "Sói",
+                "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
@@ -96,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.5110321044922
+    "width": 267.5110321044922
   },
   "right": {
     "id": "98ee6c8f963969f5",
@@ -112,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Reference_Box/Books/Mahabharata highlight.md",
+                "file": "Nguyễn Hiến Lê và cách đọc, ghi chú.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -135,7 +117,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224425,
+                  "scale": 0.7132754626224446,
                   "close": true
                 }
               }
@@ -147,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference_Box/Books/Mahabharata highlight.md"
+                "file": "Nguyễn Hiến Lê và cách đọc, ghi chú.md"
               }
             }
           },
@@ -183,9 +165,9 @@
                   "lat": 10.903169652493919,
                   "lng": 104.70340328908965
                 },
-                "query": "path:\"Reference_Box/Books/Mahabharata highlight.md\"",
+                "query": "path:\"Nguyễn Hiến Lê và cách đọc, ghi chú.md\"",
                 "chosenMapSource": 0,
-                "queryError": false,
+                "queryError": true,
                 "followActiveNote": true
               },
               "pinned": true
@@ -205,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference_Box/Books/Mahabharata highlight.md"
+                "file": "Nguyễn Hiến Lê và cách đọc, ghi chú.md"
               }
             }
           },
@@ -248,30 +230,6 @@
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 7
-      },
-      {
-        "id": "7a35452591eef4c8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a2b5dad9bdc849d0",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Reference_Box/Books/Mahabharata highlight.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
           },
           {
             "id": "14ad75caa771663c",
@@ -279,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference_Box/Books/Mahabharata highlight.md",
+                "file": "Nguyễn Hiến Lê và cách đọc, ghi chú.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -293,11 +251,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 13
       }
     ],
     "direction": "horizontal",
-    "width": 397.5,
+    "width": 933.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -317,17 +276,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "961a2a4e13546f2e",
+  "active": "632d057d09455b6f",
   "lastOpenFiles": [
-    "Zet/Concept/Hypothesis (defn).md",
-    "Reference_Box/Websites/Vì sao lại là HỘI ĐỒNG CỪU.md",
-    "Spaces/Daily/2023-01-23.md",
-    "Philosophy study roadmap.canvas",
+    "Yinote Chrome Plugin.md",
+    "Spaces/Daily/2023-01-24.md",
+    "Zet/Concept/Gen Y.md",
+    "Zet/Images/20230124163834 ~ Gen X,Y,Z.png",
+    "Zet/Garden/Obsidian resource.md",
     "Reference_Box/Books/Mahabharata highlight.md",
-    "Reference_Box/Articles/@ I'm interested in philosophy - where should I start What should a beginner read  AskPhilosophyFAQ.md",
-    "Zet/Triết học.md",
-    "Obsidian css resource.md",
-    "Trận chiến Kurukshetra.md",
-    "Obsidian Canvas Plugin.md"
+    "Reference_Box/Websites/@ yinote, TRIẾT HỌCCHÍNH TRỊ CỦA TÍCH CỰC ĐỘC HẠI - TRIẾT HỌC ĐẠI CHÚNG - Hội Đồng Cừu.md",
+    "Spaces/Questions/Có phải cứ đạt được ước mơ thì mình sẽ cảm thấy hạnh phúc không❓.md",
+    "Reference_Box/Films/@ Soul (2020).md",
+    "zettelizer script js.md"
   ]
 }

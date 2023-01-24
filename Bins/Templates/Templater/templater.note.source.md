@@ -33,8 +33,8 @@ aliases:
 publish: False
 ---
 
-url::
-author::
-category::
+- url::
+- author::
+- category::
 
 <% tp.file.cursor() %>

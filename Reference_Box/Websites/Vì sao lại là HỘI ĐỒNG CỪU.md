@@ -9,14 +9,12 @@ aliases:
 publish: False
 ---
 
-url::
-author::
-category::
-
+url:: https://www.youtube.com/watch?v=pgnEDWgXhcg&t=325s
+author:: [[Hội đồng cừu]]
+category:: #philosophy 
 
 ### 
 [[Tư duy Sói và Cừu của Nietzsche]]
-- nền tảng đạo đức của Người làm chủ - Sói
-- nền tảng đạo đức của người làm nô bộc - Cừu
+
 
 [[Hypothesis (defn)]]
