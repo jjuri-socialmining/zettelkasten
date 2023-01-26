@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fb02a2ea06a7a42e",
+        "id": "f075bc52c094a708",
         "type": "tabs",
         "children": [
           {
-            "id": "632d057d09455b6f",
+            "id": "ee3fa217e0656a6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nguyễn Hiến Lê và cách đọc, ghi chú.md",
-                "mode": "preview",
+                "file": "Think It Though ideas.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5110321044922
+    "width": 267.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "98ee6c8f963969f5",
@@ -94,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Nguyễn Hiến Lê và cách đọc, ghi chú.md",
+                "file": "Think It Though ideas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nguyễn Hiến Lê và cách đọc, ghi chú.md"
+                "file": "Think It Though ideas.md"
               }
             }
           },
@@ -165,9 +166,9 @@
                   "lat": 10.903169652493919,
                   "lng": 104.70340328908965
                 },
-                "query": "path:\"Nguyễn Hiến Lê và cách đọc, ghi chú.md\"",
+                "query": "path:\"Think It Though ideas.md\"",
                 "chosenMapSource": 0,
-                "queryError": true,
+                "queryError": false,
                 "followActiveNote": true
               },
               "pinned": true
@@ -187,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nguyễn Hiến Lê và cách đọc, ghi chú.md"
+                "file": "Think It Though ideas.md"
               }
             }
           },
@@ -237,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nguyễn Hiến Lê và cách đọc, ghi chú.md",
+                "file": "Think It Though ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,6 +250,23 @@
             "state": {
               "type": "git-view",
               "state": {}
+            }
+          },
+          {
+            "id": "f22e8a044d07a790",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Think It Though ideas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ],
@@ -276,17 +294,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "632d057d09455b6f",
+  "active": "ee3fa217e0656a6d",
   "lastOpenFiles": [
-    "Yinote Chrome Plugin.md",
-    "Spaces/Daily/2023-01-24.md",
-    "Zet/Concept/Gen Y.md",
-    "Zet/Images/20230124163834 ~ Gen X,Y,Z.png",
-    "Zet/Garden/Obsidian resource.md",
-    "Reference_Box/Books/Mahabharata highlight.md",
-    "Reference_Box/Websites/@ yinote, TRIẾT HỌCCHÍNH TRỊ CỦA TÍCH CỰC ĐỘC HẠI - TRIẾT HỌC ĐẠI CHÚNG - Hội Đồng Cừu.md",
-    "Spaces/Questions/Có phải cứ đạt được ước mơ thì mình sẽ cảm thấy hạnh phúc không❓.md",
-    "Reference_Box/Films/@ Soul (2020).md",
-    "zettelizer script js.md"
+    "Zet/Fact/230126163750 - Descartes là triết gia nhị nguyên vì ông tách tâm trí và cơ thể thành 2 phần riêng biệt.md",
+    "Think It Though ideas.md",
+    "Spaces/Daily/2023-01-26.md",
+    "Think It Though - An Introduction to Contemporary Philosophy translate.md",
+    "Zet/Concept/Bản chất của đạo đức.md",
+    "Reference_Box/Books/@ K. A. Appiah, Think It Though - An Introduction to Contemporary Philosophy.md",
+    "Zet/Concept/Tri thức luận.md",
+    "Philosophy study roadmap.canvas",
+    "Spaces/Journal/Liên hoan tết 2023.md",
+    "Spaces/Daily/2023-01-25.md"
   ]
 }
