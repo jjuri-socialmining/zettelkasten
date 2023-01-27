@@ -21,7 +21,7 @@ Descartes là triết gia nhị nguyên vì ông tách tâm trí và cơ thể t
 > Second, what he thinks you really are, your self, is a mind. Since you are your mind, and minds are totally independent of bodies, you could still exist, even without a body
 Điều này lý giải tại sao [[René Descartes]] lại cho rằng nếu còn suy nghĩ là con tồn tại. Bạn có thể vẫn tồn tại ngay cả không cần cơ thể này.
 
-### p26 Bản chất của tâm trí là để có những suy nghĩ.
+### p26 Bản chất của tâm trí là để có những suy nghĩ
 
 > the essence of a mind is to have thoughts, and by
 “thoughts” Descartes means anything that you are aware of in your mind when you are conscious

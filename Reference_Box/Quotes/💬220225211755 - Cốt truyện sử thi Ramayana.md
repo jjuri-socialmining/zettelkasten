@@ -19,4 +19,4 @@ tags:
 ## Ideas & thoughts:
 - [[Vua Daxaratha]]
 - [[Hoàng tử Rama]]
-- [[Nàng Sita]]
+- [[Công chúa Sita]]

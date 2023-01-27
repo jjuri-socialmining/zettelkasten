@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Think It Though ideas.md",
+                "file": "Zet/Writing/Tóm tắt Sử thi Ramayana.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -95,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Think It Though ideas.md",
+                "file": "Zet/Writing/Tóm tắt Sử thi Ramayana.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Think It Though ideas.md"
+                "file": "Zet/Writing/Tóm tắt Sử thi Ramayana.md"
               }
             }
           },
@@ -166,7 +166,7 @@
                   "lat": 10.903169652493919,
                   "lng": 104.70340328908965
                 },
-                "query": "path:\"Think It Though ideas.md\"",
+                "query": "path:\"Zet/Writing/Tóm tắt Sử thi Ramayana.md\"",
                 "chosenMapSource": 0,
                 "queryError": false,
                 "followActiveNote": true
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Think It Though ideas.md"
+                "file": "Zet/Writing/Tóm tắt Sử thi Ramayana.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Think It Though ideas.md",
+                "file": "Zet/Writing/Tóm tắt Sử thi Ramayana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Think It Though ideas.md",
+                "file": "Zet/Writing/Tóm tắt Sử thi Ramayana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,12 +270,11 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "horizontal",
-    "width": 933.5,
-    "collapsed": true
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -296,15 +295,15 @@
   },
   "active": "ee3fa217e0656a6d",
   "lastOpenFiles": [
-    "Zet/Fact/230126163750 - Descartes là triết gia nhị nguyên vì ông tách tâm trí và cơ thể thành 2 phần riêng biệt.md",
-    "Think It Though ideas.md",
-    "Spaces/Daily/2023-01-26.md",
-    "Think It Though - An Introduction to Contemporary Philosophy translate.md",
-    "Zet/Concept/Bản chất của đạo đức.md",
-    "Reference_Box/Books/@ K. A. Appiah, Think It Though - An Introduction to Contemporary Philosophy.md",
-    "Zet/Concept/Tri thức luận.md",
-    "Philosophy study roadmap.canvas",
-    "Spaces/Journal/Liên hoan tết 2023.md",
-    "Spaces/Daily/2023-01-25.md"
+    "Spaces/Questions/Tại sao Vishnu và Lakshmi bị đày xuống trần thành Rama và Sita❓.md",
+    "Zet/Writing/Tóm tắt Sử thi Ramayana.md",
+    "Zet/Concept/Công chúa Sita.md",
+    "Zet/Garden/@ Sử thi Ramayana (1985).md",
+    "Zet/Concept/Lakshmi.md",
+    "Zet/Concept/Hoàng tử Rama.md",
+    "Zet/Concept/Lakshmana.md",
+    "Zet/Thần Vishnu.md",
+    "Zet/220225214917 - Thần Vishnu giáng trần 9 lần.md",
+    "Zet/220225215326 - Thần Vishnu hóa thành Rama ở lần giáng trần thứ 7.md"
   ]
 }

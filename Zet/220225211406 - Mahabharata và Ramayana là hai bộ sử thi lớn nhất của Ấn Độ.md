@@ -9,7 +9,7 @@ tags:
 publish: False
 ---
 ## Notes:
-[[Sử thi Mahabharata]] và [[Sử thi Ramayana]] là hai bộ sử thi lớn nhất của Ấn Độ
+[[Sử thi Mahabharata]] và [[@ Sử thi Ramayana (1985)]] là hai bộ sử thi lớn nhất của Ấn Độ
 
 ## Source:
 - [[@ Vũ Dương Ninh, Lịch sử văn minh thế giới]], p.75

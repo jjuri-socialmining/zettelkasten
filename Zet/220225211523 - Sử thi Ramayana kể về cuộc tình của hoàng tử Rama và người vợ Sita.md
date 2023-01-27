@@ -10,7 +10,7 @@ tags:
 publish: False
 ---
 ## Notes:
-[[Sử thi Ramayana]] kể về cuộc tình của [[Hoàng tử Rama]] và người vợ là [[Nàng Sita]]
+[[@ Sử thi Ramayana (1985)]] kể về cuộc tình của [[Hoàng tử Rama]] và người vợ là [[Công chúa Sita]]
 
 ## Source:
 - [[@ Vũ Dương Ninh, Lịch sử văn minh thế giới]], p.76

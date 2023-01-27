@@ -1,4 +1,0 @@
-
-- [[@ Mahabharata]]
-
-- [[Mahabharata MOC.canvas]]

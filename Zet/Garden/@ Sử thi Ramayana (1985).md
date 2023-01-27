@@ -10,12 +10,21 @@ aliases:
   - Ramayana
 publish: True
 ---
-# Sử thi Ramayana
+Dựa trên bản ebook Sử thi Ramayana 1985
+NXB Đà Nẵng
+Nguyên tác: Valmiki
+Người dịch: Đào Xuân Quý
+
+Nhân vật:
+- Đạo sĩ Vishvamitra
+- Hoàng tử Rama
+- 
+[[Tóm tắt Sử thi Ramayana]]
 
 ## Notes:
 - [[220225211654 - Sử thi Ramayana dài 48.000 câu]]
 - [[220225211523 - Sử thi Ramayana kể về cuộc tình của hoàng tử Rama và người vợ Sita]]
-
+- [[Tại sao Vishnu và Lakshmi bị đày xuống trần thành Rama và Sita❓]]
 
 ## Ideas & thoughts:
 

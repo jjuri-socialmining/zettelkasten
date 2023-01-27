@@ -5,6 +5,8 @@ created: 12-May-2022
 tags:
   - 'created/2022/May/12'
   - 'daily/journal'
+aliases:
+  - Những quyển sách hay phải đọc
 publish: True
 ---
 
@@ -19,7 +21,7 @@ Danh sách bao gồm những tác phẩm kinh điển trên mọi thể loại t
 	- [ ] The Iliad by Homer (8th century BC)
 	- [ ] [[@ Homer, The Odyssey|Odyssey]] (8th century BC)
 - [ ] Aesop's Fables (Aesop, circa 620 to 560 BC)
-- [ ] The Mahabharata (attributed to Vyasa, 4th century BC)
+- [x] The Mahabharata (attributed to Vyasa, 4th century BC) 
 - [ ] Medea (Euripides, 431 BC)
 - [ ] One Thousand and One Nights (various authors, 8th-18th centuries)
 
