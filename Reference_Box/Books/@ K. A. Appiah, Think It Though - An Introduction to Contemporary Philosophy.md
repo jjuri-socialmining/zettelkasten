@@ -15,4 +15,7 @@ publish: False
 
 Mình biết quyển này khi đọc một thread trên reddit https://www.reddit.com/r/AskPhilosophyFAQ/comments/4ifqi3/im_interested_in_philosophy_where_should_i_start/
 
-[[Think It Though - An Introduction to Contemporary Philosophy translate]]
+- [[Think It Though - An Introduction to Contemporary Philosophy translate]]
+- [[Phương pháp Socrates|Socratic method]] ở chương 2
+- [[Những cỗ máy máy có hiểu người nói không❓]]
+- [[Descartes mind-body problem]]

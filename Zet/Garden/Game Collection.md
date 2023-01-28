@@ -20,3 +20,4 @@ PC
 - [[Dota 2]]
 - [[Castle Storm]]
 - [[Commandos]]
+- [[Minesweeper]]

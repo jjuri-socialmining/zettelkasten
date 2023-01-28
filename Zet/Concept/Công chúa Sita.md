@@ -7,10 +7,11 @@ tags:
   - 'permanent/concept'
 aliases:
   - Nàng Sita
+  - Janaki
 publish: False
 ---
 ## Notes:
-
+Sita còn được gọi là Janaki, vì là công chúa của vương quốc Janaka.
 
 
 

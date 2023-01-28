@@ -5,6 +5,6 @@ tags:
   - 'tasks/todo'
 is_done: False
 ---
-previous:: [[📎 The Architecture of Open Source Applications (Volume 2) GDB]]
+previous:: [[@ The Architecture of Open Source Applications (Volume 2) GDB]]
 ## Notes:
 Khái niệm [[gdb r-value]], [[gdb l-value]] trong gdb nghĩa là gì 

@@ -11,4 +11,4 @@ Các tác phẩm của [[Friedrich Nietzsche]] đặt nền móng cho công trì
 ## Questions & thoughts:
 - Các tác phẩm nào, lý thuyết nào là nền móng, lấy ví dụ??
 
-[^1]:[[ichi.pro, Chủ nghĩa hiện sinh vs Chủ nghĩa hư vô#Quote 1]]
+[^1]:[[@ ichi.pro, Chủ nghĩa hiện sinh vs Chủ nghĩa hư vô#Quote 1]]

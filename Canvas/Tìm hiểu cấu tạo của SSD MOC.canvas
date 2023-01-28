@@ -15,11 +15,11 @@
 		{"id":"8ba4068f53b383db","x":-786,"y":626,"width":1416,"height":853,"type":"link","url":"https://hoanghapc.vn/kinh-nghiem-nang-cap-o-cung-ssd-hdd-cho-may-tinh"},
 		{"id":"1f1a94a4d042d84c","x":37,"y":1028,"width":250,"height":60,"type":"text","text":"IOPS "},
 		{"id":"52d32adc33bd1479","x":37,"y":1028,"width":250,"height":60,"type":"text","text":"IOPS "},
-		{"id":"7cc2758bad4e3889","x":742,"y":1028,"width":432,"height":335,"type":"file","file":"Các loại chip nhớ NAND.md"},
+		{"id":"7cc2758bad4e3889","x":742,"y":1028,"width":432,"height":335,"type":"file","file":"Inbox/Các loại chip nhớ NAND.md"},
 		{"id":"2b05ea55a401fcaf","x":1210,"y":1266,"width":400,"height":195,"type":"file","file":"Zet/Images/Pasted image 20230118212448.png"},
 		{"id":"ab9e66b412e51308","x":1213,"y":1028,"width":513,"height":195,"type":"text","text":"2D NAND (phẳng)\n3D NAND là công nghệ xếp chồng giúp tăng dung lượng lưu trữ\n\nSamsung gọi tên công nghệ này “V-NAND” (vertical NAND: xếp NAND dọc), Toshiba gọi nó là “BiCS FLASH” và hầu hết các công ty khác gọi nó là: 3D NAND."},
 		{"id":"9cf13ff4eca3441f","x":742,"y":1419,"width":410,"height":60,"type":"text","text":"Tốc độ đọc ghi dữ liệu: IOPS (Input/Output Operations Per Second)"},
-		{"id":"8a675307f9d3e7a2","x":1829,"y":313,"width":408,"height":487,"type":"file","file":"Adapter SSD M2 NVMe To PCIe 3.0x4.md"},
+		{"id":"8a675307f9d3e7a2","x":1829,"y":313,"width":408,"height":487,"type":"file","file":"Inbox/Adapter SSD M2 NVMe To PCIe 3.0x4.md"},
 		{"id":"e87f715b4d6a50c1","x":2342,"y":322,"width":408,"height":235,"type":"text","text":"SSD M2 SATA có chuẩn chân cắm giống SATA 3\nSSD M2 SATA có tốc độ giới hạn ở 6Gbps\nSSD M2 PCIe giới hạn 32Gbps\n\nVì thế, khi lắp ráp máy tính để bàn, không quan tâm đến diện tích. Ta nên sử dụng chuẩn SSD M2 PCIe, và sử dụng 1 adapter để chuyển đổi SSD M2 NVMe To PCIe 3.0x4.\n"}
 	],
 	"edges":[

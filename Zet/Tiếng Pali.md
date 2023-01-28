@@ -15,7 +15,7 @@ publish: False
 
 
 ## Ideas & thoughts:
-- Tiếng Pali là ngôn ngữ kinh lễ của [[Phật giáo Nam Tông]]
+- Tiếng Pali là ngôn ngữ kinh lễ của [[Phật giáo Tiểu thừa]]
 - [[Ngữ hệ Ấn-Âu]]
 - [[Tiếng Pali còn được gọi là Nam Phạn]]
 - [[Tiếng Sanskrit|Bắc Phạn]]

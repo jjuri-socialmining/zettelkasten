@@ -18,7 +18,7 @@ publish: True
 - Sau khi Quang Trung mất, quân Tây Sơn còn nguyên vẹn nhưng lại thua [[Nguyễn Ánh]]
 - [[Lê Phước Điển]] đóng giả [[Nguyễn Ánh]], hy sinh để Nguyễn Ánh sống. [^1] Câu chuyện [[Lê Lai]] cứu [[Lê Lợi]].
 - Nếu không có [[Nguyễn Ánh]], đất nước ta cũng không thể thống nhất vì anh em [[Tây Sơn]] lục đục chia ba.
-- [[Trường Sa]] và [[Hoàng Sa]] nhờ [[Nguyễn Ánh]] có công khai phá!?
+- [[Quần đảo Trường Sa]] và [[Quần đảo Hoàng Sa]] nhờ [[Nguyễn Ánh]] có công khai phá!?
 
 
 [^1]: https://vi.wikipedia.org/wiki/Gia_Long

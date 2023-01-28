@@ -1,3 +1,5 @@
+[[@ K. A. Appiah, Think It Though - An Introduction to Contemporary Philosophy|Think It Though]]
+
 ## 1.2
 Phương pháp của [[René Descartes]]
 
@@ -16,6 +18,8 @@ Phương pháp của [[René Descartes]]
 ### p25 Descartes là triết gia nhị nguyên, vì ông tách tâm trí và cơ thể thành 2 phần riêng biệt
 > First, Descartes is a dualist. This means he believes that a mind and a body are two quite distinct sorts of thing, two kinds of what he calls “substance.”
 Descartes là triết gia nhị nguyên vì ông tách tâm trí và cơ thể thành 2 phần riêng biệt
+
+[[Dualism]]
 
 ### p25 Descartes cho rằng chúng ta là tâm trí của chúng ta, chứ không phải cơ thể
 > Second, what he thinks you really are, your self, is a mind. Since you are your mind, and minds are totally independent of bodies, you could still exist, even without a body

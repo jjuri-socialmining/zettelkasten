@@ -9,4 +9,4 @@
 [[Jean Paul Sartre]] là người phổ biến thuật ngữ chủ nghĩa hiện sinh. [^1]
 
 ## Questions & thoughts:
-[^1]:[[ichi.pro, Chủ nghĩa hiện sinh vs Chủ nghĩa hư vô#Quote 1]]
+[^1]:[[@ ichi.pro, Chủ nghĩa hiện sinh vs Chủ nghĩa hư vô#Quote 1]]

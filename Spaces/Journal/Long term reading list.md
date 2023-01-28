@@ -16,7 +16,7 @@ Danh sách bao gồm những tác phẩm kinh điển trên mọi thể loại t
 
 ## Sử thi, thần thoại, cổ tích
 - [ ] The Epic of Gilgamesh (author unknown, circa 22nd-10th centuries BC)
-- [ ] The Ramayana (attributed to Valmiki, 11th century BC)
+- [x] The Ramayana (attributed to Valmiki, 11th century BC) ✅ 2023-01-28
 - [[Homer]]
 	- [ ] The Iliad by Homer (8th century BC)
 	- [ ] [[@ Homer, The Odyssey|Odyssey]] (8th century BC)

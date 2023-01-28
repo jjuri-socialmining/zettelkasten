@@ -5,7 +5,7 @@ tags:
   - 'tasks/todo'
 is_done: False
 ---
-previous:: [[📎 The Architecture of Open Source Applications (Volume 2) GDB]]
+previous:: [[@ The Architecture of Open Source Applications (Volume 2) GDB]]
 ## Notes:
 
 - [[gdb breakpoint]]

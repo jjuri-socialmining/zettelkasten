@@ -1,5 +1,3 @@
-# ybox.vn, Hiểu Về Vô Thức Tập Thể (The Collective Unconscious) Theo Quan Điểm Của Nhà Tâm Lý Học Carl Jung
-
 ## Metadata
 
 * Item Type: #source/webpage 
