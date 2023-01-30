@@ -11,11 +11,30 @@
             "id": "43473fec58789c46",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Journal/Liên hoan tết 2023.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3e818281c36044ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "@baotiengdan.com, Nguyễn Xuân Phúc và cái chết trên chấm phạt đền.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "@baotiengdan.com, Nguyễn Xuân Phúc và cái chết trên chấm phạt đền.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -122,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "@baotiengdan.com, Nguyễn Xuân Phúc và cái chết trên chấm phạt đền.md"
+              }
             }
           },
           {
@@ -149,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "@baotiengdan.com, Nguyễn Xuân Phúc và cái chết trên chấm phạt đền.md"
+              }
             }
           },
           {
@@ -182,6 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "@baotiengdan.com, Nguyễn Xuân Phúc và cái chết trên chấm phạt đền.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,9 +216,37 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "e3d8ef875688465b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "@baotiengdan.com, Nguyễn Xuân Phúc và cái chết trên chấm phạt đền.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0af6939525e1701b",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "63c9a5af9b789d00",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -216,17 +269,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "43473fec58789c46",
+  "active": "3e818281c36044ae",
   "lastOpenFiles": [
-    "Reference_Box/Articles/@ ybox.vn, Hiểu Về Vô Thức Tập Thể (The Collective Unconscious) Theo Quan Điểm Của Nhà Tâm Lý Học Carl Jung.md",
-    "Reference_Box/Articles/leananki.com, Zettelkasten Method How to Take Smart Notes for Knowledge Management.md",
-    "Reference_Box/Articles/@ ichi.pro, Chủ nghĩa hiện sinh vs Chủ nghĩa hư vô.md",
-    "Reference_Box/Articles/benhnhietdoi.vn, Đại cương về Coronavirus.md",
-    "Reference_Box/Articles/@ The Architecture of Open Source Applications (Volume 2) GDB.md",
-    "Reference_Box/Articles/@ yinote_ Cơ bản về TÔNG PHÁI PHẬT GIÁO và câu hỏi Chiếm dụng Danh tính _ Triết học Đại chúng _ Hội Đồng Cừu - YouTube.md",
-    "Zet/Concept/Phật giáo Đại thừa.md",
-    "Zet/Concept/Phật giáo Tiểu thừa.md",
-    "Zet/Concept/Tịnh độ tông.md",
-    "Zet/Phật giáo Nam Tông.md"
+    "Spaces/Daily/2023-01-30.md",
+    "Spaces/Journal/Phú Thọ Sub4 Marathon Challenge Mùa 3.md",
+    "Zet/People/Khánh An.md",
+    "Spaces/Journal/Lịch nghỉ lễ 30-4, 1-5 2023.md",
+    "Spaces/Journal/Tết 2022.md",
+    "Spaces/Journal/Liên hoan tết 2023.md",
+    "Spaces/Journal/Tech 2022 HM.md",
+    "Zet/Concept/Haft Marathon.md",
+    "Zet/Images/20230130222736 ~ Lịch nghỉ tết 2022.png",
+    "Spaces/Daily/2023-01-15.md"
   ]
 }

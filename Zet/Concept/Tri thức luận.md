@@ -12,6 +12,6 @@ publish: False
 ---
 ## Notes:
 
-
+https://www.youtube.com/watch?v=nEQesUZemkw&t=25s
 
 

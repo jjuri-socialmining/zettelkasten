@@ -651,6 +651,20 @@
           "category": "ID_8bd96a6b1808",
           "description": "",
           "auto": true
+        },
+        {
+          "id": "ID_188828c83a2a",
+          "name": "Birthday of Khánh An",
+          "note": "Zet/People/Khánh An.md",
+          "date": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "end": null,
+          "category": "ID_8bd96a6b1808",
+          "description": "",
+          "auto": true
         }
       ],
       "id": "ID_1b9ab90b1b99",
